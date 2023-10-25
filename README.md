@@ -1,7 +1,7 @@
 # DocTrack Dataset
 ![EMNLP 2023](https://img.shields.io/badge/EMNLP-2023-red.svg?style=plastic)
 ![python 3.8](https://img.shields.io/badge/python-3.8-royalblue.svg?style=plastic)
-![license Apache-2.0](https://img.shields.io/badge/license-Apache%202.0-inactive.svg?style=plastic)
+![license Apache-2.0](https://img.shields.io/badge/license-Apache%202.0-active.svg?style=plastic)
 
 
 This dataset was created by the Natural Language Understanding and Human-Computer Interaction Laboratory of Shanghai University with the purpose of research on human-like visually-rich document understanding.
