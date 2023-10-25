@@ -12,7 +12,7 @@ The file directory structure is as follows:
 ###########                       
 ├── funsd                     
 │   ├── training_data
-│   ├── testing_data  
+│   ├── testing_data
 ├── SeaBill            
 │   ├── training_data                
 │   ├── testing_data  
