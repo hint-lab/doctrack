@@ -1,0 +1,4225 @@
+{
+    "form": [
+        {
+            "box": [
+                142,
+                85,
+                189,
+                99
+            ],
+            "text": "S.P. Zolot",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        142,
+                        85,
+                        189,
+                        99
+                    ],
+                    "text": "S.P. Zolot"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    2
+                ]
+            ],
+            "id": 2,
+            "gaze_during": 70,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 1,
+            "box_id": 6,
+            "xycut_id": 28
+        },
+        {
+            "box": [
+                22,
+                87,
+                40,
+                98
+            ],
+            "text": "TO:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        22,
+                        87,
+                        40,
+                        98
+                    ],
+                    "text": "TO:"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    2
+                ]
+            ],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 1,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 1,
+            "v1_id": 1,
+            "bert_id": 0,
+            "box_id": 7,
+            "xycut_id": 0
+        },
+        {
+            "text": "SUBMISSION DATE",
+            "box": [
+                458,
+                87,
+                554,
+                100
+            ],
+            "linking": [
+                [
+                    31,
+                    32
+                ],
+                [
+                    31,
+                    35
+                ],
+                [
+                    31,
+                    33
+                ],
+                [
+                    31,
+                    34
+                ]
+            ],
+            "label": "header",
+            "words": [
+                {
+                    "text": "SUBMISSION",
+                    "box": [
+                        458,
+                        87,
+                        524,
+                        100
+                    ]
+                },
+                {
+                    "text": "DATE",
+                    "box": [
+                        525,
+                        88,
+                        554,
+                        99
+                    ]
+                }
+            ],
+            "id": 31,
+            "gaze_during": 0,
+            "fix_id": 2,
+            "tb_id": 2,
+            "s_id": 2,
+            "v3_id": 2,
+            "v1_id": 3,
+            "bert_id": 3,
+            "box_id": 8,
+            "xycut_id": 66
+        },
+        {
+            "box": [
+                22,
+                112,
+                57,
+                125
+            ],
+            "text": "FROM:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        22,
+                        112,
+                        57,
+                        125
+                    ],
+                    "text": "FROM:"
+                }
+            ],
+            "linking": [
+                [
+                    1,
+                    3
+                ]
+            ],
+            "id": 1,
+            "gaze_during": 0,
+            "fix_id": 3,
+            "tb_id": 3,
+            "s_id": 3,
+            "v3_id": 3,
+            "v1_id": 2,
+            "bert_id": 2,
+            "box_id": 10,
+            "xycut_id": 1
+        },
+        {
+            "box": [
+                142,
+                112,
+                192,
+                125
+            ],
+            "text": "C.J. Leiker",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        142,
+                        112,
+                        192,
+                        125
+                    ],
+                    "text": "C.J. Leiker"
+                }
+            ],
+            "linking": [
+                [
+                    1,
+                    3
+                ]
+            ],
+            "id": 3,
+            "gaze_during": 157,
+            "fix_id": 4,
+            "tb_id": 4,
+            "s_id": 4,
+            "v3_id": 4,
+            "v1_id": 4,
+            "bert_id": 6,
+            "box_id": 4,
+            "xycut_id": 29
+        },
+        {
+            "text": "MAY 19",
+            "box": [
+                381,
+                113,
+                421,
+                124
+            ],
+            "linking": [
+                [
+                    31,
+                    32
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "MAY",
+                    "box": [
+                        381,
+                        113,
+                        406,
+                        124
+                    ]
+                },
+                {
+                    "text": "19",
+                    "box": [
+                        408,
+                        113,
+                        421,
+                        124
+                    ]
+                }
+            ],
+            "id": 32,
+            "gaze_during": 0,
+            "fix_id": 5,
+            "tb_id": 5,
+            "s_id": 7,
+            "v3_id": 5,
+            "v1_id": 5,
+            "bert_id": 5,
+            "box_id": 2,
+            "xycut_id": 61
+        },
+        {
+            "text": "AUG 11",
+            "box": [
+                508,
+                113,
+                547,
+                126
+            ],
+            "linking": [
+                [
+                    31,
+                    33
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "AUG",
+                    "box": [
+                        508,
+                        113,
+                        532,
+                        126
+                    ]
+                },
+                {
+                    "text": "11",
+                    "box": [
+                        534,
+                        113,
+                        547,
+                        124
+                    ]
+                }
+            ],
+            "id": 33,
+            "gaze_during": 0,
+            "fix_id": 6,
+            "tb_id": 6,
+            "s_id": 6,
+            "v3_id": 6,
+            "v1_id": 8,
+            "bert_id": 4,
+            "box_id": 0,
+            "xycut_id": 67
+        },
+        {
+            "text": "JUN 30",
+            "box": [
+                385,
+                138,
+                419,
+                149
+            ],
+            "linking": [
+                [
+                    31,
+                    35
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "JUN",
+                    "box": [
+                        385,
+                        138,
+                        406,
+                        149
+                    ]
+                },
+                {
+                    "text": "30",
+                    "box": [
+                        408,
+                        138,
+                        419,
+                        149
+                    ]
+                }
+            ],
+            "id": 35,
+            "gaze_during": 213,
+            "fix_id": 7,
+            "tb_id": 7,
+            "s_id": 5,
+            "v3_id": 7,
+            "v1_id": 7,
+            "bert_id": 8,
+            "box_id": 3,
+            "xycut_id": 62
+        },
+        {
+            "text": "SEP 22",
+            "box": [
+                511,
+                140,
+                547,
+                151
+            ],
+            "linking": [
+                [
+                    31,
+                    34
+                ],
+                [
+                    34,
+                    4
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "SEP",
+                    "box": [
+                        511,
+                        140,
+                        532,
+                        150
+                    ]
+                },
+                {
+                    "text": "22",
+                    "box": [
+                        534,
+                        140,
+                        547,
+                        151
+                    ]
+                }
+            ],
+            "id": 34,
+            "gaze_during": 0,
+            "fix_id": 8,
+            "tb_id": 8,
+            "s_id": 8,
+            "v3_id": 8,
+            "v1_id": 6,
+            "bert_id": 7,
+            "box_id": 5,
+            "xycut_id": 68
+        },
+        {
+            "box": [
+                550,
+                142,
+                561,
+                155
+            ],
+            "text": "☑",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        550,
+                        142,
+                        561,
+                        155
+                    ],
+                    "text": "☑"
+                }
+            ],
+            "linking": [
+                [
+                    34,
+                    4
+                ]
+            ],
+            "id": 4,
+            "gaze_during": 0,
+            "fix_id": 10,
+            "tb_id": 9,
+            "s_id": 10,
+            "v3_id": 9,
+            "v1_id": 9,
+            "bert_id": 9,
+            "box_id": 1,
+            "xycut_id": 79
+        },
+        {
+            "box": [
+                22,
+                165,
+                72,
+                178
+            ],
+            "text": "SUBJECT:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        22,
+                        165,
+                        72,
+                        178
+                    ],
+                    "text": "SUBJECT:"
+                }
+            ],
+            "linking": [
+                [
+                    5,
+                    36
+                ]
+            ],
+            "id": 5,
+            "gaze_during": 0,
+            "fix_id": 12,
+            "tb_id": 10,
+            "s_id": 11,
+            "v3_id": 10,
+            "v1_id": 10,
+            "bert_id": 10,
+            "box_id": 12,
+            "xycut_id": 2
+        },
+        {
+            "text": "MAVERICK SPECIALS MENTHOL- PROGRESS REPORT",
+            "box": [
+                144,
+                165,
+                421,
+                178
+            ],
+            "linking": [
+                [
+                    5,
+                    36
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "MAVERICK",
+                    "box": [
+                        144,
+                        165,
+                        198,
+                        178
+                    ]
+                },
+                {
+                    "text": "SPECIALS",
+                    "box": [
+                        198,
+                        165,
+                        250,
+                        178
+                    ]
+                },
+                {
+                    "text": "MENTHOL-",
+                    "box": [
+                        250,
+                        165,
+                        313,
+                        178
+                    ]
+                },
+                {
+                    "text": "PROGRESS",
+                    "box": [
+                        317,
+                        165,
+                        374,
+                        178
+                    ]
+                },
+                {
+                    "text": "REPORT",
+                    "box": [
+                        376,
+                        165,
+                        421,
+                        178
+                    ]
+                }
+            ],
+            "id": 36,
+            "gaze_during": 323,
+            "fix_id": 9,
+            "tb_id": 11,
+            "s_id": 12,
+            "v3_id": 11,
+            "v1_id": 11,
+            "bert_id": 11,
+            "box_id": 11,
+            "xycut_id": 30
+        },
+        {
+            "box": [
+                122,
+                191,
+                189,
+                204
+            ],
+            "text": "GEOGRAPHY",
+            "label": "header",
+            "words": [
+                {
+                    "box": [
+                        122,
+                        191,
+                        189,
+                        204
+                    ],
+                    "text": "GEOGRAPHY"
+                }
+            ],
+            "linking": [],
+            "id": 6,
+            "gaze_during": 237,
+            "fix_id": 11,
+            "tb_id": 12,
+            "s_id": 13,
+            "v3_id": 12,
+            "v1_id": 12,
+            "bert_id": 13,
+            "box_id": 9,
+            "xycut_id": 31
+        },
+        {
+            "box": [
+                21,
+                216,
+                67,
+                229
+            ],
+            "text": "REGION:",
+            "label": "header",
+            "words": [
+                {
+                    "box": [
+                        21,
+                        216,
+                        67,
+                        229
+                    ],
+                    "text": "REGION:"
+                }
+            ],
+            "linking": [
+                [
+                    7,
+                    9
+                ],
+                [
+                    7,
+                    11
+                ]
+            ],
+            "id": 7,
+            "gaze_during": 0,
+            "fix_id": 13,
+            "tb_id": 13,
+            "s_id": 14,
+            "v3_id": 13,
+            "v1_id": 13,
+            "bert_id": 12,
+            "box_id": 13,
+            "xycut_id": 3
+        },
+        {
+            "box": [
+                215,
+                216,
+                242,
+                229
+            ],
+            "text": "FULL",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        215,
+                        216,
+                        242,
+                        229
+                    ],
+                    "text": "FULL"
+                }
+            ],
+            "linking": [
+                [
+                    9,
+                    10
+                ],
+                [
+                    7,
+                    9
+                ]
+            ],
+            "id": 9,
+            "gaze_during": 200,
+            "fix_id": 14,
+            "tb_id": 14,
+            "s_id": 15,
+            "v3_id": 14,
+            "v1_id": 15,
+            "bert_id": 15,
+            "box_id": 15,
+            "xycut_id": 39
+        },
+        {
+            "box": [
+                264,
+                216,
+                274,
+                227
+            ],
+            "text": "x",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        264,
+                        216,
+                        274,
+                        227
+                    ],
+                    "text": "x"
+                }
+            ],
+            "linking": [
+                [
+                    9,
+                    10
+                ]
+            ],
+            "id": 10,
+            "gaze_during": 0,
+            "fix_id": 15,
+            "tb_id": 15,
+            "s_id": 16,
+            "v3_id": 15,
+            "v1_id": 14,
+            "bert_id": 14,
+            "box_id": 14,
+            "xycut_id": 60
+        },
+        {
+            "box": [
+                422,
+                216,
+                467,
+                230
+            ],
+            "text": "PARTIAL",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        422,
+                        216,
+                        467,
+                        230
+                    ],
+                    "text": "PARTIAL"
+                }
+            ],
+            "linking": [
+                [
+                    7,
+                    11
+                ]
+            ],
+            "id": 11,
+            "gaze_during": 267,
+            "fix_id": 16,
+            "tb_id": 16,
+            "s_id": 18,
+            "v3_id": 16,
+            "v1_id": 16,
+            "bert_id": 18,
+            "box_id": 17,
+            "xycut_id": 69
+        },
+        {
+            "text": "(ONLY PARTIAL REGION CONTINUE WITH DIVISION(S) SCOPE)",
+            "box": [
+                22,
+                242,
+                341,
+                256
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "(ONLY",
+                    "box": [
+                        22,
+                        243,
+                        54,
+                        254
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        56,
+                        243,
+                        67,
+                        253
+                    ]
+                },
+                {
+                    "text": "PARTIAL",
+                    "box": [
+                        67,
+                        243,
+                        110,
+                        254
+                    ]
+                },
+                {
+                    "text": "REGION",
+                    "box": [
+                        112,
+                        243,
+                        154,
+                        256
+                    ]
+                },
+                {
+                    "text": "CONTINUE",
+                    "box": [
+                        155,
+                        243,
+                        208,
+                        254
+                    ]
+                },
+                {
+                    "text": "WITH",
+                    "box": [
+                        209,
+                        243,
+                        237,
+                        254
+                    ]
+                },
+                {
+                    "text": "DIVISION(S)",
+                    "box": [
+                        239,
+                        242,
+                        298,
+                        256
+                    ]
+                },
+                {
+                    "text": "SCOPE)",
+                    "box": [
+                        299,
+                        243,
+                        341,
+                        256
+                    ]
+                }
+            ],
+            "id": 37,
+            "gaze_during": 0,
+            "fix_id": 17,
+            "tb_id": 17,
+            "s_id": 17,
+            "v3_id": 17,
+            "v1_id": 17,
+            "bert_id": 17,
+            "box_id": 16,
+            "xycut_id": 4
+        },
+        {
+            "box": [
+                22,
+                268,
+                71,
+                281
+            ],
+            "text": "DIVISION:",
+            "label": "header",
+            "words": [
+                {
+                    "box": [
+                        22,
+                        268,
+                        71,
+                        281
+                    ],
+                    "text": "DIVISION:"
+                }
+            ],
+            "linking": [
+                [
+                    8,
+                    12
+                ],
+                [
+                    8,
+                    13
+                ]
+            ],
+            "id": 8,
+            "gaze_during": 0,
+            "fix_id": 18,
+            "tb_id": 18,
+            "s_id": 19,
+            "v3_id": 18,
+            "v1_id": 18,
+            "bert_id": 16,
+            "box_id": 18,
+            "xycut_id": 5
+        },
+        {
+            "box": [
+                215,
+                268,
+                242,
+                281
+            ],
+            "text": "FULL",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        215,
+                        268,
+                        242,
+                        281
+                    ],
+                    "text": "FULL"
+                }
+            ],
+            "linking": [
+                [
+                    8,
+                    12
+                ]
+            ],
+            "id": 12,
+            "gaze_during": 0,
+            "fix_id": 19,
+            "tb_id": 19,
+            "s_id": 20,
+            "v3_id": 19,
+            "v1_id": 19,
+            "bert_id": 21,
+            "box_id": 19,
+            "xycut_id": 40
+        },
+        {
+            "box": [
+                422,
+                270,
+                467,
+                280
+            ],
+            "text": "PARTIAL",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        422,
+                        270,
+                        467,
+                        280
+                    ],
+                    "text": "PARTIAL"
+                }
+            ],
+            "linking": [
+                [
+                    8,
+                    13
+                ]
+            ],
+            "id": 13,
+            "gaze_during": 220,
+            "fix_id": 24,
+            "tb_id": 20,
+            "s_id": 21,
+            "v3_id": 20,
+            "v1_id": 21,
+            "bert_id": 20,
+            "box_id": 20,
+            "xycut_id": 70
+        },
+        {
+            "text": "DIVISION NAME:",
+            "box": [
+                36,
+                293,
+                118,
+                308
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "box": [
+                        36,
+                        293,
+                        82,
+                        306
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "box": [
+                        84,
+                        295,
+                        118,
+                        308
+                    ]
+                }
+            ],
+            "id": 38,
+            "gaze_during": 420,
+            "fix_id": 20,
+            "tb_id": 21,
+            "s_id": 22,
+            "v3_id": 21,
+            "v1_id": 20,
+            "bert_id": 19,
+            "box_id": 22,
+            "xycut_id": 6
+        },
+        {
+            "text": "DIVISION NAME:",
+            "box": [
+                215,
+                295,
+                295,
+                308
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "box": [
+                        215,
+                        295,
+                        261,
+                        306
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "box": [
+                        263,
+                        295,
+                        295,
+                        308
+                    ]
+                }
+            ],
+            "id": 41,
+            "gaze_during": 293,
+            "fix_id": 21,
+            "tb_id": 22,
+            "s_id": 23,
+            "v3_id": 22,
+            "v1_id": 22,
+            "bert_id": 22,
+            "box_id": 23,
+            "xycut_id": 41
+        },
+        {
+            "text": "# REPS",
+            "box": [
+                423,
+                295,
+                461,
+                308
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "#",
+                    "box": [
+                        423,
+                        295,
+                        430,
+                        308
+                    ]
+                },
+                {
+                    "text": "REPS",
+                    "box": [
+                        432,
+                        295,
+                        461,
+                        308
+                    ]
+                }
+            ],
+            "id": 44,
+            "gaze_during": 0,
+            "fix_id": 22,
+            "tb_id": 23,
+            "s_id": 24,
+            "v3_id": 23,
+            "v1_id": 23,
+            "bert_id": 23,
+            "box_id": 21,
+            "xycut_id": 71
+        },
+        {
+            "text": "DIVISION NAME:",
+            "box": [
+                38,
+                321,
+                118,
+                332
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "box": [
+                        38,
+                        321,
+                        83,
+                        332
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "box": [
+                        84,
+                        321,
+                        118,
+                        332
+                    ]
+                }
+            ],
+            "id": 39,
+            "gaze_during": 0,
+            "fix_id": 23,
+            "tb_id": 24,
+            "s_id": 25,
+            "v3_id": 24,
+            "v1_id": 24,
+            "bert_id": 24,
+            "box_id": 24,
+            "xycut_id": 7
+        },
+        {
+            "text": "DIVISION NAME:",
+            "box": [
+                214,
+                321,
+                296,
+                332
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "box": [
+                        214,
+                        321,
+                        263,
+                        332
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "box": [
+                        261,
+                        321,
+                        296,
+                        332
+                    ]
+                }
+            ],
+            "id": 42,
+            "gaze_during": 0,
+            "fix_id": 25,
+            "tb_id": 25,
+            "s_id": 26,
+            "v3_id": 25,
+            "v1_id": 25,
+            "bert_id": 25,
+            "box_id": 26,
+            "xycut_id": 42
+        },
+        {
+            "text": "# REPS",
+            "box": [
+                422,
+                320,
+                460,
+                334
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "#",
+                    "box": [
+                        422,
+                        320,
+                        430,
+                        333
+                    ]
+                },
+                {
+                    "text": "REPS",
+                    "box": [
+                        432,
+                        320,
+                        460,
+                        334
+                    ]
+                }
+            ],
+            "id": 45,
+            "gaze_during": 0,
+            "fix_id": 26,
+            "tb_id": 26,
+            "s_id": 27,
+            "v3_id": 26,
+            "v1_id": 27,
+            "bert_id": 27,
+            "box_id": 25,
+            "xycut_id": 72
+        },
+        {
+            "text": "DIVISION NAME:",
+            "box": [
+                38,
+                348,
+                117,
+                358
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "box": [
+                        38,
+                        348,
+                        84,
+                        358
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "box": [
+                        85,
+                        348,
+                        117,
+                        358
+                    ]
+                }
+            ],
+            "id": 40,
+            "gaze_during": 0,
+            "fix_id": 27,
+            "tb_id": 27,
+            "s_id": 28,
+            "v3_id": 27,
+            "v1_id": 26,
+            "bert_id": 26,
+            "box_id": 27,
+            "xycut_id": 8
+        },
+        {
+            "text": "DIVISION NAME:",
+            "box": [
+                215,
+                346,
+                297,
+                359
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "DIVISION",
+                    "box": [
+                        215,
+                        348,
+                        261,
+                        359
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "box": [
+                        263,
+                        346,
+                        297,
+                        359
+                    ]
+                }
+            ],
+            "id": 43,
+            "gaze_during": 0,
+            "fix_id": 28,
+            "tb_id": 28,
+            "s_id": 29,
+            "v3_id": 28,
+            "v1_id": 29,
+            "bert_id": 28,
+            "box_id": 29,
+            "xycut_id": 43
+        },
+        {
+            "text": "# REPS",
+            "box": [
+                423,
+                346,
+                460,
+                361
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "#",
+                    "box": [
+                        423,
+                        346,
+                        430,
+                        359
+                    ]
+                },
+                {
+                    "text": "REPS",
+                    "box": [
+                        432,
+                        346,
+                        460,
+                        361
+                    ]
+                }
+            ],
+            "id": 46,
+            "gaze_during": 0,
+            "fix_id": 29,
+            "tb_id": 29,
+            "s_id": 30,
+            "v3_id": 29,
+            "v1_id": 28,
+            "bert_id": 29,
+            "box_id": 28,
+            "xycut_id": 73
+        },
+        {
+            "text": "DISTRIBUTION DIRECT ACCOUNTS AND CHAINS HEADQUARTERED WITHIN THE REGION (15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL",
+            "box": [
+                22,
+                374,
+                388,
+                422
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "DISTRIBUTION",
+                    "box": [
+                        119,
+                        374,
+                        192,
+                        385
+                    ]
+                },
+                {
+                    "text": "DIRECT",
+                    "box": [
+                        25,
+                        395,
+                        64,
+                        405
+                    ]
+                },
+                {
+                    "text": "ACCOUNTS",
+                    "box": [
+                        66,
+                        395,
+                        125,
+                        406
+                    ]
+                },
+                {
+                    "text": "AND",
+                    "box": [
+                        124,
+                        395,
+                        146,
+                        408
+                    ]
+                },
+                {
+                    "text": "CHAINS",
+                    "box": [
+                        148,
+                        394,
+                        187,
+                        408
+                    ]
+                },
+                {
+                    "text": "HEADQUARTERED",
+                    "box": [
+                        190,
+                        394,
+                        282,
+                        408
+                    ]
+                },
+                {
+                    "text": "WITHIN",
+                    "box": [
+                        282,
+                        394,
+                        321,
+                        408
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "box": [
+                        323,
+                        394,
+                        344,
+                        408
+                    ]
+                },
+                {
+                    "text": "REGION",
+                    "box": [
+                        346,
+                        394,
+                        388,
+                        408
+                    ]
+                },
+                {
+                    "text": "(15+",
+                    "box": [
+                        22,
+                        409,
+                        44,
+                        422
+                    ]
+                },
+                {
+                    "text": "STORES)",
+                    "box": [
+                        46,
+                        408,
+                        92,
+                        422
+                    ]
+                },
+                {
+                    "text": "STOCKING",
+                    "box": [
+                        94,
+                        408,
+                        148,
+                        421
+                    ]
+                },
+                {
+                    "text": "NO",
+                    "box": [
+                        148,
+                        409,
+                        165,
+                        419
+                    ]
+                },
+                {
+                    "text": "MAVERICK",
+                    "box": [
+                        165,
+                        408,
+                        221,
+                        421
+                    ]
+                },
+                {
+                    "text": "SPECIALS",
+                    "box": [
+                        221,
+                        408,
+                        273,
+                        418
+                    ]
+                },
+                {
+                    "text": "MENTHOL",
+                    "box": [
+                        272,
+                        408,
+                        324,
+                        422
+                    ]
+                }
+            ],
+            "id": 47,
+            "gaze_during": 1209,
+            "fix_id": 35,
+            "tb_id": 30,
+            "s_id": 31,
+            "v3_id": 30,
+            "v1_id": 33,
+            "bert_id": 31,
+            "box_id": 30,
+            "xycut_id": 9
+        },
+        {
+            "text": "NAME OF ACCOUNT",
+            "box": [
+                31,
+                433,
+                134,
+                447
+            ],
+            "linking": [
+                [
+                    48,
+                    59
+                ],
+                [
+                    48,
+                    60
+                ],
+                [
+                    48,
+                    61
+                ],
+                [
+                    48,
+                    62
+                ],
+                [
+                    48,
+                    63
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "NAME",
+                    "box": [
+                        31,
+                        434,
+                        63,
+                        447
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        64,
+                        433,
+                        81,
+                        446
+                    ]
+                },
+                {
+                    "text": "ACCOUNT",
+                    "box": [
+                        82,
+                        433,
+                        134,
+                        447
+                    ]
+                }
+            ],
+            "id": 48,
+            "gaze_during": 0,
+            "fix_id": 38,
+            "tb_id": 31,
+            "s_id": 32,
+            "v3_id": 31,
+            "v1_id": 32,
+            "bert_id": 30,
+            "box_id": 32,
+            "xycut_id": 10
+        },
+        {
+            "text": "IND. LOR VOLUME",
+            "box": [
+                156,
+                419,
+                203,
+                447
+            ],
+            "linking": [
+                [
+                    49,
+                    54
+                ],
+                [
+                    49,
+                    55
+                ],
+                [
+                    49,
+                    56
+                ],
+                [
+                    49,
+                    57
+                ],
+                [
+                    49,
+                    58
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "IND.",
+                    "box": [
+                        156,
+                        422,
+                        178,
+                        433
+                    ]
+                },
+                {
+                    "text": "LOR",
+                    "box": [
+                        177,
+                        419,
+                        199,
+                        433
+                    ]
+                },
+                {
+                    "text": "VOLUME",
+                    "box": [
+                        158,
+                        434,
+                        203,
+                        447
+                    ]
+                }
+            ],
+            "id": 49,
+            "gaze_during": 190,
+            "fix_id": 39,
+            "tb_id": 32,
+            "s_id": 33,
+            "v3_id": 32,
+            "v1_id": 31,
+            "bert_id": 33,
+            "box_id": 31,
+            "xycut_id": 32
+        },
+        {
+            "text": "NO. OF STORES",
+            "box": [
+                222,
+                422,
+                267,
+                447
+            ],
+            "linking": [
+                [
+                    50,
+                    14
+                ],
+                [
+                    50,
+                    15
+                ],
+                [
+                    50,
+                    16
+                ],
+                [
+                    50,
+                    17
+                ],
+                [
+                    50,
+                    18
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "NO.",
+                    "box": [
+                        222,
+                        422,
+                        243,
+                        432
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        247,
+                        422,
+                        264,
+                        432
+                    ]
+                },
+                {
+                    "text": "STORES",
+                    "box": [
+                        225,
+                        434,
+                        267,
+                        447
+                    ]
+                }
+            ],
+            "id": 50,
+            "gaze_during": 433,
+            "fix_id": 30,
+            "tb_id": 33,
+            "s_id": 34,
+            "v3_id": 33,
+            "v1_id": 30,
+            "bert_id": 32,
+            "box_id": 33,
+            "xycut_id": 44
+        },
+        {
+            "text": "NAME OF ACCOUNT",
+            "box": [
+                304,
+                433,
+                408,
+                448
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "NAME",
+                    "box": [
+                        304,
+                        433,
+                        336,
+                        448
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        337,
+                        433,
+                        352,
+                        446
+                    ]
+                },
+                {
+                    "text": "ACCOUNT",
+                    "box": [
+                        355,
+                        434,
+                        408,
+                        448
+                    ]
+                }
+            ],
+            "id": 51,
+            "gaze_during": 0,
+            "fix_id": 31,
+            "tb_id": 34,
+            "s_id": 35,
+            "v3_id": 34,
+            "v1_id": 36,
+            "bert_id": 35,
+            "box_id": 34,
+            "xycut_id": 63
+        },
+        {
+            "text": "IND VOLUME",
+            "box": [
+                432,
+                420,
+                478,
+                447
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "IND",
+                    "box": [
+                        434,
+                        422,
+                        455,
+                        432
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        453,
+                        420,
+                        478,
+                        433
+                    ]
+                },
+                {
+                    "text": "VOLUME",
+                    "box": [
+                        432,
+                        434,
+                        478,
+                        447
+                    ]
+                }
+            ],
+            "id": 52,
+            "gaze_during": 0,
+            "fix_id": 33,
+            "tb_id": 35,
+            "s_id": 36,
+            "v3_id": 35,
+            "v1_id": 35,
+            "bert_id": 34,
+            "box_id": 35,
+            "xycut_id": 74
+        },
+        {
+            "text": "NO. OF STORES",
+            "box": [
+                497,
+                422,
+                542,
+                447
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "NO.",
+                    "box": [
+                        497,
+                        422,
+                        517,
+                        433
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        521,
+                        422,
+                        539,
+                        432
+                    ]
+                },
+                {
+                    "text": "STORES",
+                    "box": [
+                        497,
+                        434,
+                        542,
+                        447
+                    ]
+                }
+            ],
+            "id": 53,
+            "gaze_during": 0,
+            "fix_id": 36,
+            "tb_id": 36,
+            "s_id": 37,
+            "v3_id": 36,
+            "v1_id": 34,
+            "bert_id": 36,
+            "box_id": 36,
+            "xycut_id": 75
+        },
+        {
+            "text": "Chatham Oil (311- 01)",
+            "box": [
+                22,
+                453,
+                121,
+                467
+            ],
+            "linking": [
+                [
+                    48,
+                    59
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Chatham",
+                    "box": [
+                        22,
+                        454,
+                        65,
+                        465
+                    ]
+                },
+                {
+                    "text": "Oil",
+                    "box": [
+                        67,
+                        453,
+                        81,
+                        467
+                    ]
+                },
+                {
+                    "text": "(311-",
+                    "box": [
+                        82,
+                        454,
+                        106,
+                        465
+                    ]
+                },
+                {
+                    "text": "01)",
+                    "box": [
+                        106,
+                        454,
+                        121,
+                        465
+                    ]
+                }
+            ],
+            "id": 59,
+            "gaze_during": 420,
+            "fix_id": 41,
+            "tb_id": 37,
+            "s_id": 38,
+            "v3_id": 37,
+            "v1_id": 37,
+            "bert_id": 39,
+            "box_id": 37,
+            "xycut_id": 11
+        },
+        {
+            "text": "Express Stop (309- 30)",
+            "box": [
+                22,
+                472,
+                126,
+                487
+            ],
+            "linking": [
+                [
+                    48,
+                    60
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Express",
+                    "box": [
+                        22,
+                        472,
+                        61,
+                        486
+                    ]
+                },
+                {
+                    "text": "Stop",
+                    "box": [
+                        63,
+                        472,
+                        84,
+                        486
+                    ]
+                },
+                {
+                    "text": "(309-",
+                    "box": [
+                        87,
+                        472,
+                        111,
+                        487
+                    ]
+                },
+                {
+                    "text": "30)",
+                    "box": [
+                        109,
+                        472,
+                        126,
+                        485
+                    ]
+                }
+            ],
+            "id": 60,
+            "gaze_during": 420,
+            "fix_id": 42,
+            "tb_id": 38,
+            "s_id": 40,
+            "v3_id": 38,
+            "v1_id": 41,
+            "bert_id": 38,
+            "box_id": 38,
+            "xycut_id": 12
+        },
+        {
+            "text": "139/ 27",
+            "box": [
+                161,
+                453,
+                198,
+                466
+            ],
+            "linking": [
+                [
+                    49,
+                    54
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "139/",
+                    "box": [
+                        161,
+                        453,
+                        183,
+                        466
+                    ]
+                },
+                {
+                    "text": "27",
+                    "box": [
+                        184,
+                        453,
+                        198,
+                        466
+                    ]
+                }
+            ],
+            "id": 54,
+            "gaze_during": 377,
+            "fix_id": 32,
+            "tb_id": 39,
+            "s_id": 39,
+            "v3_id": 39,
+            "v1_id": 40,
+            "bert_id": 37,
+            "box_id": 39,
+            "xycut_id": 33
+        },
+        {
+            "text": "202/ 22",
+            "box": [
+                163,
+                472,
+                196,
+                485
+            ],
+            "linking": [
+                [
+                    49,
+                    55
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "202/",
+                    "box": [
+                        163,
+                        472,
+                        183,
+                        485
+                    ]
+                },
+                {
+                    "text": "22",
+                    "box": [
+                        182,
+                        473,
+                        196,
+                        483
+                    ]
+                }
+            ],
+            "id": 55,
+            "gaze_during": 0,
+            "fix_id": 34,
+            "tb_id": 40,
+            "s_id": 41,
+            "v3_id": 40,
+            "v1_id": 39,
+            "bert_id": 40,
+            "box_id": 40,
+            "xycut_id": 34
+        },
+        {
+            "box": [
+                243,
+                453,
+                260,
+                464
+            ],
+            "text": "23",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        243,
+                        453,
+                        260,
+                        464
+                    ],
+                    "text": "23"
+                }
+            ],
+            "linking": [
+                [
+                    50,
+                    14
+                ]
+            ],
+            "id": 14,
+            "gaze_during": 0,
+            "fix_id": 37,
+            "tb_id": 41,
+            "s_id": 42,
+            "v3_id": 41,
+            "v1_id": 38,
+            "bert_id": 41,
+            "box_id": 41,
+            "xycut_id": 45
+        },
+        {
+            "text": "Fowlers Oil (308 -21)",
+            "box": [
+                22,
+                490,
+                117,
+                506
+            ],
+            "linking": [
+                [
+                    48,
+                    61
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Fowlers",
+                    "box": [
+                        22,
+                        490,
+                        60,
+                        505
+                    ]
+                },
+                {
+                    "text": "Oil",
+                    "box": [
+                        61,
+                        492,
+                        76,
+                        505
+                    ]
+                },
+                {
+                    "text": "(308",
+                    "box": [
+                        77,
+                        492,
+                        102,
+                        506
+                    ]
+                },
+                {
+                    "text": "-21)",
+                    "box": [
+                        99,
+                        492,
+                        117,
+                        503
+                    ]
+                }
+            ],
+            "id": 61,
+            "gaze_during": 0,
+            "fix_id": 40,
+            "tb_id": 42,
+            "s_id": 43,
+            "v3_id": 42,
+            "v1_id": 42,
+            "bert_id": 42,
+            "box_id": 42,
+            "xycut_id": 13
+        },
+        {
+            "box": [
+                244,
+                472,
+                257,
+                483
+            ],
+            "text": "21",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        244,
+                        472,
+                        257,
+                        483
+                    ],
+                    "text": "21"
+                }
+            ],
+            "linking": [
+                [
+                    50,
+                    15
+                ]
+            ],
+            "id": 15,
+            "gaze_during": 0,
+            "fix_id": 43,
+            "tb_id": 43,
+            "s_id": 44,
+            "v3_id": 43,
+            "v1_id": 43,
+            "bert_id": 43,
+            "box_id": 43,
+            "xycut_id": 46
+        },
+        {
+            "text": "Petro Express (313- 07)",
+            "box": [
+                24,
+                508,
+                130,
+                525
+            ],
+            "linking": [
+                [
+                    48,
+                    62
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Petro",
+                    "box": [
+                        24,
+                        508,
+                        48,
+                        525
+                    ]
+                },
+                {
+                    "text": "Express",
+                    "box": [
+                        50,
+                        510,
+                        88,
+                        525
+                    ]
+                },
+                {
+                    "text": "(313-",
+                    "box": [
+                        89,
+                        510,
+                        114,
+                        523
+                    ]
+                },
+                {
+                    "text": "07)",
+                    "box": [
+                        112,
+                        508,
+                        130,
+                        522
+                    ]
+                }
+            ],
+            "id": 62,
+            "gaze_during": 0,
+            "fix_id": 44,
+            "tb_id": 44,
+            "s_id": 46,
+            "v3_id": 44,
+            "v1_id": 44,
+            "bert_id": 44,
+            "box_id": 44,
+            "xycut_id": 14
+        },
+        {
+            "text": "126/ 26",
+            "box": [
+                161,
+                492,
+                198,
+                505
+            ],
+            "linking": [
+                [
+                    49,
+                    56
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "126/",
+                    "box": [
+                        161,
+                        492,
+                        185,
+                        505
+                    ]
+                },
+                {
+                    "text": "26",
+                    "box": [
+                        184,
+                        492,
+                        198,
+                        505
+                    ]
+                }
+            ],
+            "id": 56,
+            "gaze_during": 770,
+            "fix_id": 48,
+            "tb_id": 45,
+            "s_id": 45,
+            "v3_id": 45,
+            "v1_id": 45,
+            "bert_id": 45,
+            "box_id": 45,
+            "xycut_id": 35
+        },
+        {
+            "text": "176/ 13",
+            "box": [
+                161,
+                508,
+                199,
+                522
+            ],
+            "linking": [
+                [
+                    49,
+                    57
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "176/",
+                    "box": [
+                        161,
+                        508,
+                        185,
+                        522
+                    ]
+                },
+                {
+                    "text": "13",
+                    "box": [
+                        186,
+                        510,
+                        199,
+                        521
+                    ]
+                }
+            ],
+            "id": 57,
+            "gaze_during": 203,
+            "fix_id": 46,
+            "tb_id": 46,
+            "s_id": 47,
+            "v3_id": 46,
+            "v1_id": 47,
+            "bert_id": 46,
+            "box_id": 46,
+            "xycut_id": 36
+        },
+        {
+            "box": [
+                246,
+                492,
+                261,
+                503
+            ],
+            "text": "15",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        246,
+                        492,
+                        261,
+                        503
+                    ],
+                    "text": "15"
+                }
+            ],
+            "linking": [
+                [
+                    50,
+                    16
+                ]
+            ],
+            "id": 16,
+            "gaze_during": 513,
+            "fix_id": 45,
+            "tb_id": 47,
+            "s_id": 48,
+            "v3_id": 47,
+            "v1_id": 46,
+            "bert_id": 47,
+            "box_id": 47,
+            "xycut_id": 47
+        },
+        {
+            "text": "Service Dist. (313- 12)",
+            "box": [
+                24,
+                528,
+                123,
+                542
+            ],
+            "linking": [
+                [
+                    48,
+                    63
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Service",
+                    "box": [
+                        24,
+                        528,
+                        59,
+                        539
+                    ]
+                },
+                {
+                    "text": "Dist.",
+                    "box": [
+                        60,
+                        529,
+                        81,
+                        539
+                    ]
+                },
+                {
+                    "text": "(313-",
+                    "box": [
+                        82,
+                        528,
+                        107,
+                        542
+                    ]
+                },
+                {
+                    "text": "12)",
+                    "box": [
+                        108,
+                        529,
+                        123,
+                        542
+                    ]
+                }
+            ],
+            "id": 63,
+            "gaze_during": 0,
+            "fix_id": 47,
+            "tb_id": 48,
+            "s_id": 49,
+            "v3_id": 48,
+            "v1_id": 48,
+            "bert_id": 48,
+            "box_id": 48,
+            "xycut_id": 15
+        },
+        {
+            "text": "98/ 17",
+            "box": [
+                163,
+                528,
+                197,
+                542
+            ],
+            "linking": [
+                [
+                    49,
+                    58
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "98/",
+                    "box": [
+                        163,
+                        528,
+                        181,
+                        542
+                    ]
+                },
+                {
+                    "text": "17",
+                    "box": [
+                        183,
+                        528,
+                        197,
+                        541
+                    ]
+                }
+            ],
+            "id": 58,
+            "gaze_during": 437,
+            "fix_id": 50,
+            "tb_id": 49,
+            "s_id": 50,
+            "v3_id": 49,
+            "v1_id": 49,
+            "bert_id": 49,
+            "box_id": 49,
+            "xycut_id": 37
+        },
+        {
+            "box": [
+                246,
+                510,
+                260,
+                520
+            ],
+            "text": "17",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        246,
+                        510,
+                        260,
+                        520
+                    ],
+                    "text": "17"
+                }
+            ],
+            "linking": [
+                [
+                    50,
+                    17
+                ]
+            ],
+            "id": 17,
+            "gaze_during": 1143,
+            "fix_id": 49,
+            "tb_id": 50,
+            "s_id": 51,
+            "v3_id": 50,
+            "v1_id": 50,
+            "bert_id": 52,
+            "box_id": 50,
+            "xycut_id": 48
+        },
+        {
+            "box": [
+                246,
+                528,
+                261,
+                541
+            ],
+            "text": "82",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        246,
+                        528,
+                        261,
+                        541
+                    ],
+                    "text": "82"
+                }
+            ],
+            "linking": [
+                [
+                    50,
+                    18
+                ]
+            ],
+            "id": 18,
+            "gaze_during": 0,
+            "fix_id": 51,
+            "tb_id": 51,
+            "s_id": 52,
+            "v3_id": 51,
+            "v1_id": 51,
+            "bert_id": 51,
+            "box_id": 51,
+            "xycut_id": 49
+        },
+        {
+            "text": "DIRECT ACCOUNTS AND CHAINS HEADQUARTERED OUTSIDE THE REGION (15+ STORES) STOCKING NO MAVERICK SPECIALS MENTHOL",
+            "box": [
+                22,
+                623,
+                401,
+                653
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "DIRECT",
+                    "box": [
+                        25,
+                        624,
+                        66,
+                        639
+                    ]
+                },
+                {
+                    "text": "ACCOUNTS",
+                    "box": [
+                        66,
+                        626,
+                        125,
+                        637
+                    ]
+                },
+                {
+                    "text": "AND",
+                    "box": [
+                        124,
+                        626,
+                        149,
+                        641
+                    ]
+                },
+                {
+                    "text": "CHAINS",
+                    "box": [
+                        149,
+                        623,
+                        188,
+                        638
+                    ]
+                },
+                {
+                    "text": "HEADQUARTERED",
+                    "box": [
+                        190,
+                        624,
+                        282,
+                        639
+                    ]
+                },
+                {
+                    "text": "OUTSIDE",
+                    "box": [
+                        284,
+                        623,
+                        331,
+                        638
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "box": [
+                        330,
+                        626,
+                        355,
+                        640
+                    ]
+                },
+                {
+                    "text": "REGION",
+                    "box": [
+                        359,
+                        623,
+                        401,
+                        640
+                    ]
+                },
+                {
+                    "text": "(15+",
+                    "box": [
+                        22,
+                        641,
+                        47,
+                        652
+                    ]
+                },
+                {
+                    "text": "STORES)",
+                    "box": [
+                        45,
+                        640,
+                        94,
+                        653
+                    ]
+                },
+                {
+                    "text": "STOCKING",
+                    "box": [
+                        95,
+                        640,
+                        151,
+                        651
+                    ]
+                },
+                {
+                    "text": "NO",
+                    "box": [
+                        149,
+                        641,
+                        166,
+                        651
+                    ]
+                },
+                {
+                    "text": "MAVERICK",
+                    "box": [
+                        168,
+                        640,
+                        222,
+                        651
+                    ]
+                },
+                {
+                    "text": "SPECIALS",
+                    "box": [
+                        219,
+                        638,
+                        272,
+                        652
+                    ]
+                },
+                {
+                    "text": "MENTHOL",
+                    "box": [
+                        274,
+                        638,
+                        326,
+                        651
+                    ]
+                }
+            ],
+            "id": 64,
+            "gaze_during": 0,
+            "fix_id": 52,
+            "tb_id": 52,
+            "s_id": 53,
+            "v3_id": 52,
+            "v1_id": 52,
+            "bert_id": 50,
+            "box_id": 52,
+            "xycut_id": 16
+        },
+        {
+            "text": "NAME OF ACCOUNT",
+            "box": [
+                32,
+                663,
+                136,
+                680
+            ],
+            "linking": [
+                [
+                    65,
+                    72
+                ],
+                [
+                    65,
+                    73
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    65,
+                    75
+                ],
+                [
+                    65,
+                    76
+                ],
+                [
+                    65,
+                    77
+                ],
+                [
+                    65,
+                    78
+                ],
+                [
+                    65,
+                    79
+                ],
+                [
+                    65,
+                    80
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "NAME",
+                    "box": [
+                        32,
+                        663,
+                        66,
+                        677
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        66,
+                        663,
+                        83,
+                        678
+                    ]
+                },
+                {
+                    "text": "ACCOUNT",
+                    "box": [
+                        82,
+                        665,
+                        136,
+                        680
+                    ]
+                }
+            ],
+            "id": 65,
+            "gaze_during": 260,
+            "fix_id": 53,
+            "tb_id": 53,
+            "s_id": 54,
+            "v3_id": 53,
+            "v1_id": 53,
+            "bert_id": 53,
+            "box_id": 53,
+            "xycut_id": 17
+        },
+        {
+            "text": "IND LOR VOLUME",
+            "box": [
+                156,
+                652,
+                201,
+                679
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "IND",
+                    "box": [
+                        158,
+                        652,
+                        179,
+                        666
+                    ]
+                },
+                {
+                    "text": "LOR",
+                    "box": [
+                        179,
+                        652,
+                        201,
+                        666
+                    ]
+                },
+                {
+                    "text": "VOLUME",
+                    "box": [
+                        156,
+                        666,
+                        201,
+                        679
+                    ]
+                }
+            ],
+            "id": 66,
+            "gaze_during": 0,
+            "fix_id": 54,
+            "tb_id": 54,
+            "s_id": 55,
+            "v3_id": 54,
+            "v1_id": 54,
+            "bert_id": 54,
+            "box_id": 54,
+            "xycut_id": 38
+        },
+        {
+            "text": "NO. OF STORES",
+            "box": [
+                225,
+                652,
+                269,
+                679
+            ],
+            "linking": [
+                [
+                    67,
+                    20
+                ],
+                [
+                    67,
+                    21
+                ],
+                [
+                    67,
+                    22
+                ],
+                [
+                    67,
+                    23
+                ],
+                [
+                    67,
+                    24
+                ],
+                [
+                    67,
+                    25
+                ],
+                [
+                    67,
+                    26
+                ],
+                [
+                    67,
+                    27
+                ],
+                [
+                    67,
+                    28
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "NO.",
+                    "box": [
+                        225,
+                        652,
+                        245,
+                        665
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        250,
+                        652,
+                        267,
+                        665
+                    ]
+                },
+                {
+                    "text": "STORES",
+                    "box": [
+                        226,
+                        666,
+                        269,
+                        679
+                    ]
+                }
+            ],
+            "id": 67,
+            "gaze_during": 0,
+            "fix_id": 55,
+            "tb_id": 55,
+            "s_id": 56,
+            "v3_id": 55,
+            "v1_id": 55,
+            "bert_id": 55,
+            "box_id": 55,
+            "xycut_id": 50
+        },
+        {
+            "text": "NAME OF ACCOUNT",
+            "box": [
+                304,
+                665,
+                408,
+                680
+            ],
+            "linking": [
+                [
+                    68,
+                    71
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "NAME",
+                    "box": [
+                        304,
+                        666,
+                        339,
+                        679
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        338,
+                        666,
+                        353,
+                        677
+                    ]
+                },
+                {
+                    "text": "ACCOUNT",
+                    "box": [
+                        355,
+                        665,
+                        408,
+                        680
+                    ]
+                }
+            ],
+            "id": 68,
+            "gaze_during": 0,
+            "fix_id": 57,
+            "tb_id": 56,
+            "s_id": 57,
+            "v3_id": 56,
+            "v1_id": 57,
+            "bert_id": 56,
+            "box_id": 57,
+            "xycut_id": 64
+        },
+        {
+            "text": "IND LOR VOLUME",
+            "box": [
+                432,
+                652,
+                481,
+                679
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "IND",
+                    "box": [
+                        434,
+                        652,
+                        456,
+                        666
+                    ]
+                },
+                {
+                    "text": "LOR",
+                    "box": [
+                        454,
+                        654,
+                        481,
+                        665
+                    ]
+                },
+                {
+                    "text": "VOLUME",
+                    "box": [
+                        432,
+                        665,
+                        481,
+                        679
+                    ]
+                }
+            ],
+            "id": 69,
+            "gaze_during": 0,
+            "fix_id": 59,
+            "tb_id": 57,
+            "s_id": 58,
+            "v3_id": 57,
+            "v1_id": 56,
+            "bert_id": 57,
+            "box_id": 56,
+            "xycut_id": 76
+        },
+        {
+            "text": "NO. OF STORES",
+            "box": [
+                499,
+                652,
+                543,
+                679
+            ],
+            "linking": [
+                [
+                    70,
+                    19
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "NO.",
+                    "box": [
+                        499,
+                        652,
+                        517,
+                        666
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        522,
+                        652,
+                        537,
+                        666
+                    ]
+                },
+                {
+                    "text": "STORES",
+                    "box": [
+                        500,
+                        666,
+                        543,
+                        679
+                    ]
+                }
+            ],
+            "id": 70,
+            "gaze_during": 0,
+            "fix_id": 60,
+            "tb_id": 58,
+            "s_id": 59,
+            "v3_id": 58,
+            "v1_id": 58,
+            "bert_id": 59,
+            "box_id": 58,
+            "xycut_id": 77
+        },
+        {
+            "text": "Coastal Mart (210- 06)",
+            "box": [
+                25,
+                683,
+                124,
+                697
+            ],
+            "linking": [
+                [
+                    65,
+                    72
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Coastal",
+                    "box": [
+                        25,
+                        684,
+                        61,
+                        695
+                    ]
+                },
+                {
+                    "text": "Mart",
+                    "box": [
+                        60,
+                        684,
+                        85,
+                        697
+                    ]
+                },
+                {
+                    "text": "(210-",
+                    "box": [
+                        84,
+                        683,
+                        109,
+                        697
+                    ]
+                },
+                {
+                    "text": "06)",
+                    "box": [
+                        106,
+                        683,
+                        124,
+                        697
+                    ]
+                }
+            ],
+            "id": 72,
+            "gaze_during": 0,
+            "fix_id": 61,
+            "tb_id": 59,
+            "s_id": 60,
+            "v3_id": 59,
+            "v1_id": 59,
+            "bert_id": 58,
+            "box_id": 59,
+            "xycut_id": 18
+        },
+        {
+            "text": "Conoco (524- 10)",
+            "box": [
+                25,
+                701,
+                102,
+                718
+            ],
+            "linking": [
+                [
+                    65,
+                    73
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Conoco",
+                    "box": [
+                        25,
+                        703,
+                        60,
+                        717
+                    ]
+                },
+                {
+                    "text": "(524-",
+                    "box": [
+                        61,
+                        703,
+                        88,
+                        718
+                    ]
+                },
+                {
+                    "text": "10)",
+                    "box": [
+                        87,
+                        701,
+                        102,
+                        716
+                    ]
+                }
+            ],
+            "id": 73,
+            "gaze_during": 0,
+            "fix_id": 62,
+            "tb_id": 60,
+            "s_id": 61,
+            "v3_id": 60,
+            "v1_id": 60,
+            "bert_id": 60,
+            "box_id": 60,
+            "xycut_id": 19
+        },
+        {
+            "box": [
+                244,
+                686,
+                261,
+                696
+            ],
+            "text": "31",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        244,
+                        686,
+                        261,
+                        696
+                    ],
+                    "text": "31"
+                }
+            ],
+            "linking": [
+                [
+                    67,
+                    20
+                ]
+            ],
+            "id": 20,
+            "gaze_during": 0,
+            "fix_id": 63,
+            "tb_id": 61,
+            "s_id": 62,
+            "v3_id": 61,
+            "v1_id": 61,
+            "bert_id": 61,
+            "box_id": 61,
+            "xycut_id": 51
+        },
+        {
+            "text": "_7-Eleven ",
+            "box": [
+                291,
+                683,
+                373,
+                700
+            ],
+            "linking": [
+                [
+                    68,
+                    71
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "",
+                    "box": [
+                        291,
+                        684,
+                        297,
+                        697
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        296,
+                        684,
+                        304,
+                        697
+                    ]
+                },
+                {
+                    "text": "_7-Eleven",
+                    "box": [
+                        300,
+                        684,
+                        331,
+                        698
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        332,
+                        683,
+                        356,
+                        700
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        356,
+                        684,
+                        373,
+                        697
+                    ]
+                }
+            ],
+            "id": 71,
+            "gaze_during": 373,
+            "fix_id": 56,
+            "tb_id": 62,
+            "s_id": 63,
+            "v3_id": 62,
+            "v1_id": 62,
+            "bert_id": 62,
+            "box_id": 62,
+            "xycut_id": 65
+        },
+        {
+            "box": [
+                514,
+                684,
+                528,
+                695
+            ],
+            "text": "25",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        514,
+                        684,
+                        528,
+                        695
+                    ],
+                    "text": "25"
+                }
+            ],
+            "linking": [
+                [
+                    70,
+                    19
+                ]
+            ],
+            "id": 19,
+            "gaze_during": 0,
+            "fix_id": 58,
+            "tb_id": 63,
+            "s_id": 64,
+            "v3_id": 63,
+            "v1_id": 63,
+            "bert_id": 63,
+            "box_id": 63,
+            "xycut_id": 78
+        },
+        {
+            "text": "Dairy Mart (417- 47)",
+            "box": [
+                25,
+                719,
+                116,
+                739
+            ],
+            "linking": [
+                [
+                    65,
+                    74
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Dairy",
+                    "box": [
+                        25,
+                        722,
+                        49,
+                        736
+                    ]
+                },
+                {
+                    "text": "Mart",
+                    "box": [
+                        49,
+                        722,
+                        74,
+                        739
+                    ]
+                },
+                {
+                    "text": "(417-",
+                    "box": [
+                        74,
+                        721,
+                        99,
+                        736
+                    ]
+                },
+                {
+                    "text": "47)",
+                    "box": [
+                        96,
+                        719,
+                        116,
+                        733
+                    ]
+                }
+            ],
+            "id": 74,
+            "gaze_during": 1023,
+            "fix_id": 64,
+            "tb_id": 64,
+            "s_id": 65,
+            "v3_id": 64,
+            "v1_id": 64,
+            "bert_id": 65,
+            "box_id": 64,
+            "xycut_id": 20
+        },
+        {
+            "box": [
+                246,
+                704,
+                261,
+                715
+            ],
+            "text": "17",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        246,
+                        704,
+                        261,
+                        715
+                    ],
+                    "text": "17"
+                }
+            ],
+            "linking": [
+                [
+                    67,
+                    21
+                ]
+            ],
+            "id": 21,
+            "gaze_during": 0,
+            "fix_id": 65,
+            "tb_id": 65,
+            "s_id": 66,
+            "v3_id": 65,
+            "v1_id": 65,
+            "bert_id": 64,
+            "box_id": 65,
+            "xycut_id": 52
+        },
+        {
+            "text": "Emro (411- 07)",
+            "box": [
+                25,
+                739,
+                92,
+                757
+            ],
+            "linking": [
+                [
+                    65,
+                    75
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Emro",
+                    "box": [
+                        25,
+                        742,
+                        52,
+                        756
+                    ]
+                },
+                {
+                    "text": "(411-",
+                    "box": [
+                        50,
+                        740,
+                        72,
+                        757
+                    ]
+                },
+                {
+                    "text": "07)",
+                    "box": [
+                        71,
+                        739,
+                        92,
+                        757
+                    ]
+                }
+            ],
+            "id": 75,
+            "gaze_during": 300,
+            "fix_id": 68,
+            "tb_id": 66,
+            "s_id": 67,
+            "v3_id": 66,
+            "v1_id": 66,
+            "bert_id": 69,
+            "box_id": 66,
+            "xycut_id": 21
+        },
+        {
+            "box": [
+                246,
+                722,
+                261,
+                735
+            ],
+            "text": "15",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        246,
+                        722,
+                        261,
+                        735
+                    ],
+                    "text": "15"
+                }
+            ],
+            "linking": [
+                [
+                    67,
+                    22
+                ]
+            ],
+            "id": 22,
+            "gaze_during": 0,
+            "fix_id": 70,
+            "tb_id": 67,
+            "s_id": 68,
+            "v3_id": 67,
+            "v1_id": 67,
+            "bert_id": 68,
+            "box_id": 67,
+            "xycut_id": 53
+        },
+        {
+            "text": "EZ Serve (810 76B)",
+            "box": [
+                25,
+                758,
+                116,
+                775
+            ],
+            "linking": [
+                [
+                    65,
+                    76
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "EZ",
+                    "box": [
+                        25,
+                        760,
+                        39,
+                        773
+                    ]
+                },
+                {
+                    "text": "Serve",
+                    "box": [
+                        39,
+                        758,
+                        70,
+                        775
+                    ]
+                },
+                {
+                    "text": "(810",
+                    "box": [
+                        71,
+                        760,
+                        93,
+                        775
+                    ]
+                },
+                {
+                    "text": "76B)",
+                    "box": [
+                        91,
+                        760,
+                        116,
+                        775
+                    ]
+                }
+            ],
+            "id": 76,
+            "gaze_during": 306,
+            "fix_id": 71,
+            "tb_id": 68,
+            "s_id": 69,
+            "v3_id": 68,
+            "v1_id": 69,
+            "bert_id": 67,
+            "box_id": 68,
+            "xycut_id": 22
+        },
+        {
+            "box": [
+                244,
+                742,
+                262,
+                753
+            ],
+            "text": "39",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        244,
+                        742,
+                        262,
+                        753
+                    ],
+                    "text": "39"
+                }
+            ],
+            "linking": [
+                [
+                    67,
+                    23
+                ]
+            ],
+            "id": 23,
+            "gaze_during": 273,
+            "fix_id": 66,
+            "tb_id": 69,
+            "s_id": 70,
+            "v3_id": 69,
+            "v1_id": 68,
+            "bert_id": 66,
+            "box_id": 69,
+            "xycut_id": 54
+        },
+        {
+            "text": "CVS- Revco (014- 20)",
+            "box": [
+                25,
+                778,
+                124,
+                793
+            ],
+            "linking": [
+                [
+                    65,
+                    77
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "CVS-",
+                    "box": [
+                        25,
+                        778,
+                        53,
+                        793
+                    ]
+                },
+                {
+                    "text": "Revco",
+                    "box": [
+                        52,
+                        781,
+                        83,
+                        792
+                    ]
+                },
+                {
+                    "text": "(014-",
+                    "box": [
+                        84,
+                        778,
+                        106,
+                        792
+                    ]
+                },
+                {
+                    "text": "20)",
+                    "box": [
+                        106,
+                        778,
+                        124,
+                        792
+                    ]
+                }
+            ],
+            "id": 77,
+            "gaze_during": 403,
+            "fix_id": 73,
+            "tb_id": 70,
+            "s_id": 71,
+            "v3_id": 70,
+            "v1_id": 71,
+            "bert_id": 70,
+            "box_id": 70,
+            "xycut_id": 23
+        },
+        {
+            "box": [
+                244,
+                779,
+                264,
+                790
+            ],
+            "text": "460",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        244,
+                        779,
+                        264,
+                        790
+                    ],
+                    "text": "460"
+                }
+            ],
+            "linking": [
+                [
+                    67,
+                    25
+                ]
+            ],
+            "id": 25,
+            "gaze_during": 230,
+            "fix_id": 67,
+            "tb_id": 71,
+            "s_id": 72,
+            "v3_id": 71,
+            "v1_id": 70,
+            "bert_id": 71,
+            "box_id": 71,
+            "xycut_id": 56
+        },
+        {
+            "box": [
+                246,
+                761,
+                261,
+                772
+            ],
+            "text": "25",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        246,
+                        761,
+                        261,
+                        772
+                    ],
+                    "text": "25"
+                }
+            ],
+            "linking": [
+                [
+                    67,
+                    24
+                ]
+            ],
+            "id": 24,
+            "gaze_during": 0,
+            "fix_id": 69,
+            "tb_id": 72,
+            "s_id": 73,
+            "v3_id": 72,
+            "v1_id": 72,
+            "bert_id": 72,
+            "box_id": 72,
+            "xycut_id": 55
+        },
+        {
+            "text": "Rite Aid (209- 07)",
+            "box": [
+                27,
+                796,
+                104,
+                813
+            ],
+            "linking": [
+                [
+                    65,
+                    78
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Rite",
+                    "box": [
+                        27,
+                        799,
+                        45,
+                        812
+                    ]
+                },
+                {
+                    "text": "Aid",
+                    "box": [
+                        43,
+                        796,
+                        63,
+                        813
+                    ]
+                },
+                {
+                    "text": "(209-",
+                    "box": [
+                        63,
+                        797,
+                        88,
+                        811
+                    ]
+                },
+                {
+                    "text": "07)",
+                    "box": [
+                        87,
+                        797,
+                        104,
+                        812
+                    ]
+                }
+            ],
+            "id": 78,
+            "gaze_during": 0,
+            "fix_id": 72,
+            "tb_id": 73,
+            "s_id": 74,
+            "v3_id": 73,
+            "v1_id": 73,
+            "bert_id": 73,
+            "box_id": 73,
+            "xycut_id": 24
+        },
+        {
+            "box": [
+                247,
+                797,
+                262,
+                808
+            ],
+            "text": "79",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        247,
+                        797,
+                        262,
+                        808
+                    ],
+                    "text": "79"
+                }
+            ],
+            "linking": [
+                [
+                    67,
+                    26
+                ]
+            ],
+            "id": 26,
+            "gaze_during": 640,
+            "fix_id": 74,
+            "tb_id": 74,
+            "s_id": 76,
+            "v3_id": 74,
+            "v1_id": 74,
+            "bert_id": 74,
+            "box_id": 75,
+            "xycut_id": 57
+        },
+        {
+            "box": [
+                677,
+                781,
+                697,
+                889
+            ],
+            "text": "81619511",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        677,
+                        781,
+                        697,
+                        889
+                    ],
+                    "text": "81619511"
+                }
+            ],
+            "linking": [],
+            "id": 30,
+            "gaze_during": 0,
+            "fix_id": 76,
+            "tb_id": 75,
+            "s_id": 75,
+            "v3_id": 75,
+            "v1_id": 75,
+            "bert_id": 75,
+            "box_id": 74,
+            "xycut_id": 81
+        },
+        {
+            "text": "Walgreen (625- 60)",
+            "box": [
+                24,
+                816,
+                112,
+                831
+            ],
+            "linking": [
+                [
+                    65,
+                    79
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Walgreen",
+                    "box": [
+                        24,
+                        816,
+                        71,
+                        831
+                    ]
+                },
+                {
+                    "text": "(625-",
+                    "box": [
+                        70,
+                        816,
+                        95,
+                        831
+                    ]
+                },
+                {
+                    "text": "60)",
+                    "box": [
+                        92,
+                        816,
+                        112,
+                        830
+                    ]
+                }
+            ],
+            "id": 79,
+            "gaze_during": 313,
+            "fix_id": 77,
+            "tb_id": 76,
+            "s_id": 77,
+            "v3_id": 76,
+            "v1_id": 76,
+            "bert_id": 78,
+            "box_id": 76,
+            "xycut_id": 25
+        },
+        {
+            "text": "Walmart (527- 35)",
+            "box": [
+                24,
+                835,
+                108,
+                850
+            ],
+            "linking": [
+                [
+                    65,
+                    80
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Walmart",
+                    "box": [
+                        24,
+                        835,
+                        67,
+                        850
+                    ]
+                },
+                {
+                    "text": "(527-",
+                    "box": [
+                        64,
+                        835,
+                        92,
+                        850
+                    ]
+                },
+                {
+                    "text": "35)",
+                    "box": [
+                        88,
+                        835,
+                        108,
+                        846
+                    ]
+                }
+            ],
+            "id": 80,
+            "gaze_during": 313,
+            "fix_id": 78,
+            "tb_id": 77,
+            "s_id": 78,
+            "v3_id": 77,
+            "v1_id": 77,
+            "bert_id": 77,
+            "box_id": 77,
+            "xycut_id": 26
+        },
+        {
+            "box": [
+                246,
+                835,
+                267,
+                849
+            ],
+            "text": "112",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        246,
+                        835,
+                        267,
+                        849
+                    ],
+                    "text": "112"
+                }
+            ],
+            "linking": [
+                [
+                    67,
+                    28
+                ]
+            ],
+            "id": 28,
+            "gaze_during": 0,
+            "fix_id": 80,
+            "tb_id": 78,
+            "s_id": 79,
+            "v3_id": 78,
+            "v1_id": 79,
+            "bert_id": 76,
+            "box_id": 78,
+            "xycut_id": 59
+        },
+        {
+            "box": [
+                247,
+                817,
+                261,
+                828
+            ],
+            "text": "17",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        247,
+                        817,
+                        261,
+                        828
+                    ],
+                    "text": "17"
+                }
+            ],
+            "linking": [
+                [
+                    67,
+                    27
+                ]
+            ],
+            "id": 27,
+            "gaze_during": 640,
+            "fix_id": 75,
+            "tb_id": 79,
+            "s_id": 80,
+            "v3_id": 79,
+            "v1_id": 78,
+            "bert_id": 79,
+            "box_id": 79,
+            "xycut_id": 58
+        },
+        {
+            "box": [
+                45,
+                930,
+                108,
+                943
+            ],
+            "text": "MAVPROG.XLS",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        45,
+                        930,
+                        108,
+                        943
+                    ],
+                    "text": "MAVPROG.XLS"
+                }
+            ],
+            "linking": [],
+            "id": 29,
+            "gaze_during": 0,
+            "fix_id": 79,
+            "tb_id": 80,
+            "s_id": 82,
+            "v3_id": 80,
+            "v1_id": 80,
+            "bert_id": 81,
+            "box_id": 80,
+            "xycut_id": 27
+        },
+        {
+            "text": "Page1 of 3 Pages",
+            "box": [
+                539,
+                925,
+                641,
+                943
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Page1",
+                    "box": [
+                        539,
+                        926,
+                        578,
+                        941
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        582,
+                        925,
+                        595,
+                        942
+                    ]
+                },
+                {
+                    "text": "3",
+                    "box": [
+                        596,
+                        925,
+                        604,
+                        939
+                    ]
+                },
+                {
+                    "text": "Pages",
+                    "box": [
+                        606,
+                        925,
+                        641,
+                        943
+                    ]
+                }
+            ],
+            "id": 81,
+            "gaze_during": 0,
+            "fix_id": 81,
+            "tb_id": 81,
+            "s_id": 81,
+            "v3_id": 81,
+            "v1_id": 81,
+            "bert_id": 80,
+            "box_id": 81,
+            "xycut_id": 80
+        }
+    ]
+}

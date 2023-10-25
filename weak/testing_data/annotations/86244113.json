@@ -1,0 +1,1351 @@
+{
+    "form": [
+        {
+            "box": [
+                39,
+                141,
+                92,
+                156
+            ],
+            "text": "DIVISION:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        39,
+                        141,
+                        92,
+                        156
+                    ],
+                    "text": "DIVISION:"
+                }
+            ],
+            "linking": [],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 1,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 0,
+            "box_id": 0,
+            "xycut_id": 0
+        },
+        {
+            "box": [
+                492,
+                142,
+                535,
+                155
+            ],
+            "text": "DATES:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        492,
+                        142,
+                        535,
+                        155
+                    ],
+                    "text": "DATES:"
+                }
+            ],
+            "linking": [],
+            "id": 3,
+            "gaze_during": 0,
+            "fix_id": 10,
+            "tb_id": 1,
+            "s_id": 0,
+            "v3_id": 1,
+            "v1_id": 1,
+            "bert_id": 3,
+            "box_id": 4,
+            "xycut_id": 20
+        },
+        {
+            "box": [
+                39,
+                168,
+                100,
+                186
+            ],
+            "text": "ACCOUNT:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        39,
+                        168,
+                        100,
+                        186
+                    ],
+                    "text": "ACCOUNT:"
+                }
+            ],
+            "linking": [],
+            "id": 1,
+            "gaze_during": 270,
+            "fix_id": 1,
+            "tb_id": 2,
+            "s_id": 2,
+            "v3_id": 2,
+            "v1_id": 2,
+            "bert_id": 2,
+            "box_id": 1,
+            "xycut_id": 1
+        },
+        {
+            "text": "INVENTORY FOR:",
+            "box": [
+                39,
+                196,
+                137,
+                211
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "INVENTORY",
+                    "box": [
+                        39,
+                        196,
+                        105,
+                        211
+                    ]
+                },
+                {
+                    "text": "FOR:",
+                    "box": [
+                        106,
+                        198,
+                        137,
+                        209
+                    ]
+                }
+            ],
+            "id": 11,
+            "gaze_during": 157,
+            "fix_id": 2,
+            "tb_id": 3,
+            "s_id": 3,
+            "v3_id": 3,
+            "v1_id": 3,
+            "bert_id": 1,
+            "box_id": 2,
+            "xycut_id": 2
+        },
+        {
+            "box": [
+                169,
+                211,
+                216,
+                226
+            ],
+            "text": "(STATE)",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        169,
+                        211,
+                        216,
+                        226
+                    ],
+                    "text": "(STATE)"
+                }
+            ],
+            "linking": [],
+            "id": 2,
+            "gaze_during": 190,
+            "fix_id": 3,
+            "tb_id": 4,
+            "s_id": 4,
+            "v3_id": 4,
+            "v1_id": 5,
+            "bert_id": 4,
+            "box_id": 3,
+            "xycut_id": 12
+        },
+        {
+            "text": "DIRECT ACCOUNT STATUS REPORT",
+            "box": [
+                170,
+                271,
+                524,
+                292
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "DIRECT",
+                    "box": [
+                        170,
+                        271,
+                        241,
+                        289
+                    ]
+                },
+                {
+                    "text": "ACCOUNT",
+                    "box": [
+                        250,
+                        272,
+                        348,
+                        290
+                    ]
+                },
+                {
+                    "text": "STATUS",
+                    "box": [
+                        356,
+                        271,
+                        433,
+                        292
+                    ]
+                },
+                {
+                    "text": "REPORT",
+                    "box": [
+                        444,
+                        272,
+                        524,
+                        290
+                    ]
+                }
+            ],
+            "id": 12,
+            "gaze_during": 207,
+            "fix_id": 4,
+            "tb_id": 5,
+            "s_id": 5,
+            "v3_id": 5,
+            "v1_id": 4,
+            "bert_id": 5,
+            "box_id": 5,
+            "xycut_id": 13
+        },
+        {
+            "box": [
+                39,
+                342,
+                80,
+                355
+            ],
+            "text": "BRAND",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        39,
+                        342,
+                        80,
+                        355
+                    ],
+                    "text": "BRAND"
+                }
+            ],
+            "linking": [
+                [
+                    4,
+                    16
+                ],
+                [
+                    4,
+                    17
+                ],
+                [
+                    4,
+                    18
+                ],
+                [
+                    4,
+                    19
+                ],
+                [
+                    4,
+                    20
+                ],
+                [
+                    4,
+                    21
+                ]
+            ],
+            "id": 4,
+            "gaze_during": 0,
+            "fix_id": 11,
+            "tb_id": 6,
+            "s_id": 6,
+            "v3_id": 6,
+            "v1_id": 6,
+            "bert_id": 6,
+            "box_id": 6,
+            "xycut_id": 3
+        },
+        {
+            "text": "# OF CARTONS ON HAND",
+            "box": [
+                235,
+                325,
+                324,
+                357
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "#",
+                    "box": [
+                        235,
+                        325,
+                        246,
+                        339
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        250,
+                        327,
+                        267,
+                        338
+                    ]
+                },
+                {
+                    "text": "CARTONS",
+                    "box": [
+                        268,
+                        327,
+                        324,
+                        341
+                    ]
+                },
+                {
+                    "text": "ON",
+                    "box": [
+                        250,
+                        342,
+                        271,
+                        353
+                    ]
+                },
+                {
+                    "text": "HAND",
+                    "box": [
+                        271,
+                        344,
+                        307,
+                        357
+                    ]
+                }
+            ],
+            "id": 13,
+            "gaze_during": 0,
+            "fix_id": 12,
+            "tb_id": 7,
+            "s_id": 7,
+            "v3_id": 7,
+            "v1_id": 7,
+            "bert_id": 7,
+            "box_id": 8,
+            "xycut_id": 14
+        },
+        {
+            "text": "AVERAGE WEEKLY MOVEMENT",
+            "box": [
+                355,
+                327,
+                460,
+                356
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "AVERAGE",
+                    "box": [
+                        355,
+                        327,
+                        409,
+                        340
+                    ]
+                },
+                {
+                    "text": "WEEKLY",
+                    "box": [
+                        411,
+                        327,
+                        460,
+                        342
+                    ]
+                },
+                {
+                    "text": "MOVEMENT",
+                    "box": [
+                        373,
+                        342,
+                        441,
+                        356
+                    ]
+                }
+            ],
+            "id": 14,
+            "gaze_during": 237,
+            "fix_id": 5,
+            "tb_id": 8,
+            "s_id": 9,
+            "v3_id": 8,
+            "v1_id": 8,
+            "bert_id": 8,
+            "box_id": 7,
+            "xycut_id": 19
+        },
+        {
+            "text": "# OF WEEKS ON HAND",
+            "box": [
+                492,
+                327,
+                563,
+                354
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "#",
+                    "box": [
+                        492,
+                        327,
+                        503,
+                        340
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        503,
+                        327,
+                        521,
+                        340
+                    ]
+                },
+                {
+                    "text": "WEEKS",
+                    "box": [
+                        521,
+                        327,
+                        563,
+                        338
+                    ]
+                },
+                {
+                    "text": "ON",
+                    "box": [
+                        507,
+                        342,
+                        527,
+                        352
+                    ]
+                },
+                {
+                    "text": "HAND",
+                    "box": [
+                        528,
+                        341,
+                        563,
+                        354
+                    ]
+                }
+            ],
+            "id": 15,
+            "gaze_during": 0,
+            "fix_id": 13,
+            "tb_id": 9,
+            "s_id": 8,
+            "v3_id": 9,
+            "v1_id": 12,
+            "bert_id": 9,
+            "box_id": 9,
+            "xycut_id": 21
+        },
+        {
+            "text": "STYLE LIGHT 100'S",
+            "box": [
+                39,
+                369,
+                148,
+                383
+            ],
+            "linking": [
+                [
+                    4,
+                    16
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "STYLE",
+                    "box": [
+                        39,
+                        369,
+                        74,
+                        382
+                    ]
+                },
+                {
+                    "text": "LIGHT",
+                    "box": [
+                        81,
+                        369,
+                        115,
+                        382
+                    ]
+                },
+                {
+                    "text": "100'S",
+                    "box": [
+                        117,
+                        370,
+                        148,
+                        383
+                    ]
+                }
+            ],
+            "id": 16,
+            "gaze_during": 0,
+            "fix_id": 14,
+            "tb_id": 10,
+            "s_id": 10,
+            "v3_id": 10,
+            "v1_id": 11,
+            "bert_id": 10,
+            "box_id": 10,
+            "xycut_id": 4
+        },
+        {
+            "text": "STYLE LIGHT MENTHOL 100'S",
+            "box": [
+                39,
+                397,
+                205,
+                410
+            ],
+            "linking": [
+                [
+                    4,
+                    17
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "STYLE",
+                    "box": [
+                        39,
+                        397,
+                        75,
+                        410
+                    ]
+                },
+                {
+                    "text": "LIGHT",
+                    "box": [
+                        78,
+                        397,
+                        113,
+                        408
+                    ]
+                },
+                {
+                    "text": "MENTHOL",
+                    "box": [
+                        117,
+                        397,
+                        171,
+                        410
+                    ]
+                },
+                {
+                    "text": "100'S",
+                    "box": [
+                        177,
+                        397,
+                        205,
+                        410
+                    ]
+                }
+            ],
+            "id": 17,
+            "gaze_during": 303,
+            "fix_id": 6,
+            "tb_id": 11,
+            "s_id": 11,
+            "v3_id": 11,
+            "v1_id": 10,
+            "bert_id": 11,
+            "box_id": 11,
+            "xycut_id": 5
+        },
+        {
+            "text": "STYLE LIGHT BOX 100'S",
+            "box": [
+                39,
+                422,
+                176,
+                437
+            ],
+            "linking": [
+                [
+                    4,
+                    18
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "STYLE",
+                    "box": [
+                        39,
+                        422,
+                        77,
+                        437
+                    ]
+                },
+                {
+                    "text": "LIGHT",
+                    "box": [
+                        81,
+                        423,
+                        115,
+                        436
+                    ]
+                },
+                {
+                    "text": "BOX",
+                    "box": [
+                        116,
+                        422,
+                        141,
+                        436
+                    ]
+                },
+                {
+                    "text": "100'S",
+                    "box": [
+                        145,
+                        422,
+                        176,
+                        437
+                    ]
+                }
+            ],
+            "id": 18,
+            "gaze_during": 0,
+            "fix_id": 15,
+            "tb_id": 12,
+            "s_id": 12,
+            "v3_id": 12,
+            "v1_id": 9,
+            "bert_id": 12,
+            "box_id": 12,
+            "xycut_id": 6
+        },
+        {
+            "text": "STYLE MEN. LIGHT BOX 100'S",
+            "box": [
+                38,
+                450,
+                207,
+                465
+            ],
+            "linking": [
+                [
+                    4,
+                    19
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "STYLE",
+                    "box": [
+                        38,
+                        451,
+                        76,
+                        464
+                    ]
+                },
+                {
+                    "text": "MEN.",
+                    "box": [
+                        81,
+                        453,
+                        110,
+                        464
+                    ]
+                },
+                {
+                    "text": "LIGHT",
+                    "box": [
+                        110,
+                        451,
+                        145,
+                        462
+                    ]
+                },
+                {
+                    "text": "BOX",
+                    "box": [
+                        147,
+                        450,
+                        174,
+                        465
+                    ]
+                },
+                {
+                    "text": "100'S",
+                    "box": [
+                        175,
+                        450,
+                        207,
+                        464
+                    ]
+                }
+            ],
+            "id": 19,
+            "gaze_during": 900,
+            "fix_id": 7,
+            "tb_id": 13,
+            "s_id": 13,
+            "v3_id": 13,
+            "v1_id": 15,
+            "bert_id": 13,
+            "box_id": 13,
+            "xycut_id": 7
+        },
+        {
+            "text": "STYLE SLIM LIGHT 100's",
+            "box": [
+                41,
+                476,
+                185,
+                493
+            ],
+            "linking": [
+                [
+                    4,
+                    20
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "STYLE",
+                    "box": [
+                        41,
+                        478,
+                        75,
+                        489
+                    ]
+                },
+                {
+                    "text": "SLIM",
+                    "box": [
+                        81,
+                        479,
+                        106,
+                        490
+                    ]
+                },
+                {
+                    "text": "LIGHT",
+                    "box": [
+                        112,
+                        478,
+                        147,
+                        493
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "box": [
+                        154,
+                        476,
+                        185,
+                        491
+                    ]
+                }
+            ],
+            "id": 20,
+            "gaze_during": 430,
+            "fix_id": 8,
+            "tb_id": 14,
+            "s_id": 14,
+            "v3_id": 14,
+            "v1_id": 14,
+            "bert_id": 14,
+            "box_id": 14,
+            "xycut_id": 8
+        },
+        {
+            "text": "STYLE SLIM MEN. LT. 100's",
+            "box": [
+                41,
+                506,
+                194,
+                520
+            ],
+            "linking": [
+                [
+                    4,
+                    21
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "STYLE",
+                    "box": [
+                        41,
+                        506,
+                        75,
+                        520
+                    ]
+                },
+                {
+                    "text": "SLIM",
+                    "box": [
+                        78,
+                        507,
+                        105,
+                        518
+                    ]
+                },
+                {
+                    "text": "MEN.",
+                    "box": [
+                        109,
+                        506,
+                        137,
+                        519
+                    ]
+                },
+                {
+                    "text": "LT.",
+                    "box": [
+                        140,
+                        506,
+                        158,
+                        520
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "box": [
+                        162,
+                        507,
+                        194,
+                        518
+                    ]
+                }
+            ],
+            "id": 21,
+            "gaze_during": 0,
+            "fix_id": 16,
+            "tb_id": 15,
+            "s_id": 15,
+            "v3_id": 15,
+            "v1_id": 13,
+            "bert_id": 15,
+            "box_id": 15,
+            "xycut_id": 9
+        },
+        {
+            "box": [
+                39,
+                588,
+                80,
+                599
+            ],
+            "text": "NOTE:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        39,
+                        588,
+                        80,
+                        599
+                    ],
+                    "text": "NOTE:"
+                }
+            ],
+            "linking": [
+                [
+                    5,
+                    22
+                ]
+            ],
+            "id": 5,
+            "gaze_during": 0,
+            "fix_id": 17,
+            "tb_id": 16,
+            "s_id": 16,
+            "v3_id": 16,
+            "v1_id": 16,
+            "bert_id": 16,
+            "box_id": 16,
+            "xycut_id": 10
+        },
+        {
+            "text": "REPORT STYLE INVENTORY ONLY. SUBMIT REPORT ONLY IF STYLE IS STILL ON HAND IN THIS ACCOUNT.",
+            "box": [
+                85,
+                588,
+                504,
+                630
+            ],
+            "linking": [
+                [
+                    5,
+                    22
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "REPORT",
+                    "box": [
+                        85,
+                        589,
+                        135,
+                        602
+                    ]
+                },
+                {
+                    "text": "STYLE",
+                    "box": [
+                        137,
+                        588,
+                        176,
+                        602
+                    ]
+                },
+                {
+                    "text": "INVENTORY",
+                    "box": [
+                        179,
+                        588,
+                        250,
+                        601
+                    ]
+                },
+                {
+                    "text": "ONLY.",
+                    "box": [
+                        253,
+                        588,
+                        288,
+                        602
+                    ]
+                },
+                {
+                    "text": "SUBMIT",
+                    "box": [
+                        85,
+                        615,
+                        132,
+                        630
+                    ]
+                },
+                {
+                    "text": "REPORT",
+                    "box": [
+                        137,
+                        615,
+                        189,
+                        629
+                    ]
+                },
+                {
+                    "text": "ONLY",
+                    "box": [
+                        190,
+                        615,
+                        224,
+                        629
+                    ]
+                },
+                {
+                    "text": "IF",
+                    "box": [
+                        223,
+                        615,
+                        238,
+                        628
+                    ]
+                },
+                {
+                    "text": "STYLE",
+                    "box": [
+                        240,
+                        616,
+                        279,
+                        627
+                    ]
+                },
+                {
+                    "text": "IS",
+                    "box": [
+                        281,
+                        617,
+                        295,
+                        628
+                    ]
+                },
+                {
+                    "text": "STILL",
+                    "box": [
+                        297,
+                        617,
+                        331,
+                        628
+                    ]
+                },
+                {
+                    "text": "ON",
+                    "box": [
+                        332,
+                        617,
+                        352,
+                        628
+                    ]
+                },
+                {
+                    "text": "HAND",
+                    "box": [
+                        356,
+                        616,
+                        391,
+                        627
+                    ]
+                },
+                {
+                    "text": "IN",
+                    "box": [
+                        392,
+                        617,
+                        407,
+                        627
+                    ]
+                },
+                {
+                    "text": "THIS",
+                    "box": [
+                        408,
+                        616,
+                        440,
+                        629
+                    ]
+                },
+                {
+                    "text": "ACCOUNT.",
+                    "box": [
+                        440,
+                        616,
+                        504,
+                        629
+                    ]
+                }
+            ],
+            "id": 22,
+            "gaze_during": 0,
+            "fix_id": 18,
+            "tb_id": 17,
+            "s_id": 17,
+            "v3_id": 17,
+            "v1_id": 17,
+            "bert_id": 17,
+            "box_id": 17,
+            "xycut_id": 15
+        },
+        {
+            "box": [
+                85,
+                642,
+                110,
+                653
+            ],
+            "text": "CC:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        85,
+                        642,
+                        110,
+                        653
+                    ],
+                    "text": "CC:"
+                }
+            ],
+            "linking": [
+                [
+                    8,
+                    23
+                ]
+            ],
+            "id": 8,
+            "gaze_during": 0,
+            "fix_id": 19,
+            "tb_id": 18,
+            "s_id": 18,
+            "v3_id": 18,
+            "v1_id": 18,
+            "bert_id": 18,
+            "box_id": 18,
+            "xycut_id": 16
+        },
+        {
+            "text": "REGIONAL SALES MANAGER, ALL DIVISIONS SERVICED BY THIS ACCOUNT.",
+            "box": [
+                115,
+                642,
+                563,
+                657
+            ],
+            "linking": [
+                [
+                    8,
+                    23
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "REGIONAL",
+                    "box": [
+                        115,
+                        644,
+                        181,
+                        655
+                    ]
+                },
+                {
+                    "text": "SALES",
+                    "box": [
+                        182,
+                        642,
+                        224,
+                        656
+                    ]
+                },
+                {
+                    "text": "MANAGER,",
+                    "box": [
+                        222,
+                        644,
+                        289,
+                        657
+                    ]
+                },
+                {
+                    "text": "ALL",
+                    "box": [
+                        293,
+                        644,
+                        313,
+                        657
+                    ]
+                },
+                {
+                    "text": "DIVISIONS",
+                    "box": [
+                        317,
+                        644,
+                        381,
+                        657
+                    ]
+                },
+                {
+                    "text": "SERVICED",
+                    "box": [
+                        383,
+                        644,
+                        444,
+                        657
+                    ]
+                },
+                {
+                    "text": "BY",
+                    "box": [
+                        447,
+                        644,
+                        465,
+                        657
+                    ]
+                },
+                {
+                    "text": "THIS",
+                    "box": [
+                        466,
+                        642,
+                        495,
+                        656
+                    ]
+                },
+                {
+                    "text": "ACCOUNT.",
+                    "box": [
+                        497,
+                        642,
+                        563,
+                        656
+                    ]
+                }
+            ],
+            "id": 23,
+            "gaze_during": 307,
+            "fix_id": 9,
+            "tb_id": 19,
+            "s_id": 19,
+            "v3_id": 19,
+            "v1_id": 19,
+            "bert_id": 19,
+            "box_id": 19,
+            "xycut_id": 17
+        },
+        {
+            "box": [
+                41,
+                711,
+                84,
+                724
+            ],
+            "text": "ACTION",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        41,
+                        711,
+                        84,
+                        724
+                    ],
+                    "text": "ACTION"
+                }
+            ],
+            "linking": [],
+            "id": 6,
+            "gaze_during": 0,
+            "fix_id": 20,
+            "tb_id": 20,
+            "s_id": 20,
+            "v3_id": 20,
+            "v1_id": 20,
+            "bert_id": 20,
+            "box_id": 20,
+            "xycut_id": 11
+        },
+        {
+            "box": [
+                85,
+                711,
+                120,
+                725
+            ],
+            "text": "PLAN:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        85,
+                        711,
+                        120,
+                        725
+                    ],
+                    "text": "PLAN:"
+                }
+            ],
+            "linking": [],
+            "id": 7,
+            "gaze_during": 0,
+            "fix_id": 21,
+            "tb_id": 21,
+            "s_id": 21,
+            "v3_id": 21,
+            "v1_id": 21,
+            "bert_id": 21,
+            "box_id": 22,
+            "xycut_id": 18
+        },
+        {
+            "box": [
+                666,
+                703,
+                687,
+                804
+            ],
+            "text": "8624113",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        666,
+                        703,
+                        687,
+                        804
+                    ],
+                    "text": "8624113"
+                }
+            ],
+            "linking": [],
+            "id": 9,
+            "gaze_during": 0,
+            "fix_id": 22,
+            "tb_id": 22,
+            "s_id": 22,
+            "v3_id": 22,
+            "v1_id": 22,
+            "bert_id": 23,
+            "box_id": 23,
+            "xycut_id": 23
+        },
+        {
+            "box": [
+                620,
+                915,
+                670,
+                926
+            ],
+            "text": "STYLEREP",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        620,
+                        915,
+                        670,
+                        926
+                    ],
+                    "text": "STYLEREP"
+                }
+            ],
+            "linking": [],
+            "id": 10,
+            "gaze_during": 0,
+            "fix_id": 23,
+            "tb_id": 23,
+            "s_id": 23,
+            "v3_id": 23,
+            "v1_id": 23,
+            "bert_id": 22,
+            "box_id": 21,
+            "xycut_id": 22
+        }
+    ]
+}

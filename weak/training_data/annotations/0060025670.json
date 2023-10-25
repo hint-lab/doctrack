@@ -1,0 +1,740 @@
+{
+    "form": [
+        {
+            "text": "TEST ADHESIVE EVALUATION",
+            "box": [
+                288,
+                92,
+                479,
+                105
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "TEST",
+                    "box": [
+                        288,
+                        95,
+                        320,
+                        105
+                    ]
+                },
+                {
+                    "text": "ADHESIVE",
+                    "box": [
+                        325,
+                        92,
+                        392,
+                        103
+                    ]
+                },
+                {
+                    "text": "EVALUATION",
+                    "box": [
+                        394,
+                        94,
+                        479,
+                        105
+                    ]
+                }
+            ],
+            "id": 4,
+            "gaze_during": 0,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 1,
+            "box_id": 0,
+            "xycut_id": 11
+        },
+        {
+            "box": [
+                149,
+                170,
+                217,
+                181
+            ],
+            "text": "Supplier:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        149,
+                        170,
+                        217,
+                        181
+                    ],
+                    "text": "Supplier:"
+                }
+            ],
+            "linking": [],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 1,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 1,
+            "v1_id": 1,
+            "bert_id": 0,
+            "box_id": 1,
+            "xycut_id": 0
+        },
+        {
+            "text": "Adhesive Code:",
+            "box": [
+                149,
+                208,
+                260,
+                222
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Adhesive",
+                    "box": [
+                        149,
+                        208,
+                        212,
+                        222
+                    ]
+                },
+                {
+                    "text": "Code:",
+                    "box": [
+                        219,
+                        209,
+                        260,
+                        220
+                    ]
+                }
+            ],
+            "id": 5,
+            "gaze_during": 0,
+            "fix_id": 2,
+            "tb_id": 2,
+            "s_id": 2,
+            "v3_id": 2,
+            "v1_id": 2,
+            "bert_id": 2,
+            "box_id": 3,
+            "xycut_id": 1
+        },
+        {
+            "text": "Application: tipping, carton end flaps, etc.)",
+            "box": [
+                148,
+                249,
+                404,
+                276
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Application:",
+                    "box": [
+                        148,
+                        249,
+                        244,
+                        260
+                    ]
+                },
+                {
+                    "text": "tipping,",
+                    "box": [
+                        154,
+                        260,
+                        220,
+                        274
+                    ]
+                },
+                {
+                    "text": "carton",
+                    "box": [
+                        225,
+                        261,
+                        272,
+                        272
+                    ]
+                },
+                {
+                    "text": "end",
+                    "box": [
+                        279,
+                        263,
+                        307,
+                        274
+                    ]
+                },
+                {
+                    "text": "flaps,",
+                    "box": [
+                        311,
+                        263,
+                        357,
+                        276
+                    ]
+                },
+                {
+                    "text": "etc.)",
+                    "box": [
+                        365,
+                        264,
+                        404,
+                        275
+                    ]
+                }
+            ],
+            "id": 6,
+            "gaze_during": 237,
+            "fix_id": 3,
+            "tb_id": 3,
+            "s_id": 3,
+            "v3_id": 3,
+            "v1_id": 3,
+            "bert_id": 3,
+            "box_id": 2,
+            "xycut_id": 2
+        },
+        {
+            "text": "Test Period:",
+            "box": [
+                148,
+                299,
+                243,
+                312
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Test",
+                    "box": [
+                        148,
+                        299,
+                        184,
+                        312
+                    ]
+                },
+                {
+                    "text": "Period:",
+                    "box": [
+                        187,
+                        299,
+                        243,
+                        312
+                    ]
+                }
+            ],
+            "id": 7,
+            "gaze_during": 0,
+            "fix_id": 4,
+            "tb_id": 4,
+            "s_id": 4,
+            "v3_id": 4,
+            "v1_id": 4,
+            "bert_id": 4,
+            "box_id": 4,
+            "xycut_id": 3
+        },
+        {
+            "box": [
+                196,
+                352,
+                259,
+                363
+            ],
+            "text": "APPROVED",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        196,
+                        352,
+                        259,
+                        363
+                    ],
+                    "text": "APPROVED"
+                }
+            ],
+            "linking": [],
+            "id": 1,
+            "gaze_during": 363,
+            "fix_id": 5,
+            "tb_id": 5,
+            "s_id": 5,
+            "v3_id": 5,
+            "v1_id": 5,
+            "bert_id": 5,
+            "box_id": 5,
+            "xycut_id": 4
+        },
+        {
+            "text": "NOT APPROVED",
+            "box": [
+                405,
+                353,
+                500,
+                366
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "NOT",
+                    "box": [
+                        405,
+                        353,
+                        427,
+                        366
+                    ]
+                },
+                {
+                    "text": "APPROVED",
+                    "box": [
+                        436,
+                        353,
+                        500,
+                        366
+                    ]
+                }
+            ],
+            "id": 8,
+            "gaze_during": 0,
+            "fix_id": 6,
+            "tb_id": 6,
+            "s_id": 7,
+            "v3_id": 6,
+            "v1_id": 6,
+            "bert_id": 6,
+            "box_id": 6,
+            "xycut_id": 12
+        },
+        {
+            "text": "If not approved state reasons.",
+            "box": [
+                149,
+                402,
+                381,
+                418
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "If",
+                    "box": [
+                        149,
+                        404,
+                        164,
+                        417
+                    ]
+                },
+                {
+                    "text": "not",
+                    "box": [
+                        173,
+                        402,
+                        197,
+                        416
+                    ]
+                },
+                {
+                    "text": "approved",
+                    "box": [
+                        201,
+                        402,
+                        268,
+                        416
+                    ]
+                },
+                {
+                    "text": "state",
+                    "box": [
+                        274,
+                        405,
+                        312,
+                        418
+                    ]
+                },
+                {
+                    "text": "reasons.",
+                    "box": [
+                        320,
+                        405,
+                        381,
+                        418
+                    ]
+                }
+            ],
+            "id": 9,
+            "gaze_during": 0,
+            "fix_id": 7,
+            "tb_id": 7,
+            "s_id": 6,
+            "v3_id": 7,
+            "v1_id": 7,
+            "bert_id": 7,
+            "box_id": 7,
+            "xycut_id": 5
+        },
+        {
+            "box": [
+                149,
+                596,
+                196,
+                610
+            ],
+            "text": "Tester",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        149,
+                        596,
+                        196,
+                        610
+                    ],
+                    "text": "Tester"
+                }
+            ],
+            "linking": [],
+            "id": 2,
+            "gaze_during": 0,
+            "fix_id": 8,
+            "tb_id": 8,
+            "s_id": 8,
+            "v3_id": 8,
+            "v1_id": 8,
+            "bert_id": 9,
+            "box_id": 8,
+            "xycut_id": 6
+        },
+        {
+            "text": "Local Purchasing",
+            "box": [
+                147,
+                634,
+                275,
+                651
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Local",
+                    "box": [
+                        147,
+                        634,
+                        189,
+                        648
+                    ]
+                },
+                {
+                    "text": "Purchasing",
+                    "box": [
+                        193,
+                        637,
+                        275,
+                        651
+                    ]
+                }
+            ],
+            "id": 11,
+            "gaze_during": 0,
+            "fix_id": 9,
+            "tb_id": 9,
+            "s_id": 9,
+            "v3_id": 9,
+            "v1_id": 9,
+            "bert_id": 8,
+            "box_id": 9,
+            "xycut_id": 8
+        },
+        {
+            "text": "Quality Control",
+            "box": [
+                148,
+                616,
+                268,
+                631
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Quality",
+                    "box": [
+                        148,
+                        616,
+                        205,
+                        629
+                    ]
+                },
+                {
+                    "text": "Control",
+                    "box": [
+                        211,
+                        616,
+                        268,
+                        631
+                    ]
+                }
+            ],
+            "id": 10,
+            "gaze_during": 0,
+            "fix_id": 10,
+            "tb_id": 10,
+            "s_id": 10,
+            "v3_id": 10,
+            "v1_id": 10,
+            "bert_id": 10,
+            "box_id": 10,
+            "xycut_id": 7
+        },
+        {
+            "box": [
+                149,
+                655,
+                206,
+                670
+            ],
+            "text": "Manager",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        149,
+                        655,
+                        206,
+                        670
+                    ],
+                    "text": "Manager"
+                }
+            ],
+            "linking": [],
+            "id": 3,
+            "gaze_during": 0,
+            "fix_id": 11,
+            "tb_id": 11,
+            "s_id": 11,
+            "v3_id": 11,
+            "v1_id": 11,
+            "bert_id": 13,
+            "box_id": 11,
+            "xycut_id": 9
+        },
+        {
+            "text": "Complete and return to D. R. Brickey, Department of Research and Development, as soon as possible.",
+            "box": [
+                147,
+                689,
+                617,
+                720
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Complete",
+                    "box": [
+                        148,
+                        691,
+                        215,
+                        704
+                    ]
+                },
+                {
+                    "text": "and",
+                    "box": [
+                        221,
+                        691,
+                        246,
+                        704
+                    ]
+                },
+                {
+                    "text": "return",
+                    "box": [
+                        249,
+                        690,
+                        299,
+                        703
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        303,
+                        691,
+                        321,
+                        704
+                    ]
+                },
+                {
+                    "text": "D.",
+                    "box": [
+                        325,
+                        690,
+                        345,
+                        704
+                    ]
+                },
+                {
+                    "text": "R.",
+                    "box": [
+                        348,
+                        691,
+                        366,
+                        702
+                    ]
+                },
+                {
+                    "text": "Brickey,",
+                    "box": [
+                        373,
+                        691,
+                        437,
+                        704
+                    ]
+                },
+                {
+                    "text": "Department",
+                    "box": [
+                        443,
+                        693,
+                        520,
+                        706
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        528,
+                        693,
+                        546,
+                        704
+                    ]
+                },
+                {
+                    "text": "Research",
+                    "box": [
+                        550,
+                        689,
+                        617,
+                        704
+                    ]
+                },
+                {
+                    "text": "and",
+                    "box": [
+                        147,
+                        703,
+                        176,
+                        717
+                    ]
+                },
+                {
+                    "text": "Development,",
+                    "box": [
+                        180,
+                        707,
+                        271,
+                        715
+                    ]
+                },
+                {
+                    "text": "as",
+                    "box": [
+                        271,
+                        705,
+                        292,
+                        716
+                    ]
+                },
+                {
+                    "text": "soon",
+                    "box": [
+                        297,
+                        704,
+                        328,
+                        718
+                    ]
+                },
+                {
+                    "text": "as",
+                    "box": [
+                        334,
+                        707,
+                        352,
+                        720
+                    ]
+                },
+                {
+                    "text": "possible.",
+                    "box": [
+                        356,
+                        704,
+                        429,
+                        718
+                    ]
+                }
+            ],
+            "id": 12,
+            "gaze_during": 0,
+            "fix_id": 12,
+            "tb_id": 12,
+            "s_id": 12,
+            "v3_id": 12,
+            "v1_id": 12,
+            "bert_id": 12,
+            "box_id": 12,
+            "xycut_id": 10
+        },
+        {
+            "text": "ATXO2 0083035",
+            "box": [
+                520,
+                883,
+                634,
+                897
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "ATXO2",
+                    "box": [
+                        520,
+                        883,
+                        563,
+                        896
+                    ]
+                },
+                {
+                    "text": "0083035",
+                    "box": [
+                        573,
+                        883,
+                        634,
+                        897
+                    ]
+                }
+            ],
+            "id": 13,
+            "gaze_during": 0,
+            "fix_id": 13,
+            "tb_id": 13,
+            "s_id": 13,
+            "v3_id": 13,
+            "v1_id": 13,
+            "bert_id": 11,
+            "box_id": 13,
+            "xycut_id": 13
+        }
+    ]
+}

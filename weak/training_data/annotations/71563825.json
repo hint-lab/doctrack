@@ -1,0 +1,3742 @@
+{
+    "form": [
+        {
+            "box": [
+                117,
+                92,
+                177,
+                141
+            ],
+            "text": "",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        117,
+                        92,
+                        177,
+                        141
+                    ],
+                    "text": ""
+                }
+            ],
+            "linking": [],
+            "id": 0,
+            "gaze_during": 117,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 53,
+            "v1_id": 2,
+            "bert_id": 2,
+            "box_id": 5,
+            "xycut_id": 0
+        },
+        {
+            "box": [
+                575,
+                99,
+                632,
+                144
+            ],
+            "text": "",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        575,
+                        99,
+                        632,
+                        144
+                    ],
+                    "text": ""
+                }
+            ],
+            "linking": [],
+            "id": 1,
+            "gaze_during": 0,
+            "fix_id": 1,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 53,
+            "v1_id": 3,
+            "bert_id": 5,
+            "box_id": 0,
+            "xycut_id": 53
+        },
+        {
+            "text": "Market Research - Initiating Project Brief",
+            "box": [
+                233,
+                155,
+                539,
+                177
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "Market",
+                    "box": [
+                        233,
+                        155,
+                        287,
+                        173
+                    ]
+                },
+                {
+                    "text": "Research",
+                    "box": [
+                        292,
+                        156,
+                        358,
+                        174
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        360,
+                        159,
+                        368,
+                        172
+                    ]
+                },
+                {
+                    "text": "Initiating",
+                    "box": [
+                        370,
+                        156,
+                        440,
+                        177
+                    ]
+                },
+                {
+                    "text": "Project",
+                    "box": [
+                        444,
+                        155,
+                        496,
+                        176
+                    ]
+                },
+                {
+                    "text": "Brief",
+                    "box": [
+                        500,
+                        156,
+                        539,
+                        176
+                    ]
+                }
+            ],
+            "id": 19,
+            "gaze_during": 177,
+            "fix_id": 3,
+            "tb_id": 2,
+            "s_id": 0,
+            "v3_id": 2,
+            "v1_id": 4,
+            "bert_id": 4,
+            "box_id": 16,
+            "xycut_id": 1
+        },
+        {
+            "text": "Brief Number",
+            "box": [
+                124,
+                204,
+                208,
+                218
+            ],
+            "linking": [
+                [
+                    20,
+                    9
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Brief",
+                    "box": [
+                        124,
+                        204,
+                        155,
+                        218
+                    ]
+                },
+                {
+                    "text": "Number",
+                    "box": [
+                        156,
+                        205,
+                        208,
+                        218
+                    ]
+                }
+            ],
+            "id": 20,
+            "gaze_during": 143,
+            "fix_id": 2,
+            "tb_id": 3,
+            "s_id": 1,
+            "v3_id": 3,
+            "v1_id": 5,
+            "bert_id": 3,
+            "box_id": 1,
+            "xycut_id": 2
+        },
+        {
+            "box": [
+                218,
+                205,
+                229,
+                219
+            ],
+            "text": "#",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        218,
+                        205,
+                        229,
+                        219
+                    ],
+                    "text": "#"
+                }
+            ],
+            "linking": [
+                [
+                    20,
+                    9
+                ]
+            ],
+            "id": 9,
+            "gaze_during": 373,
+            "fix_id": 11,
+            "tb_id": 4,
+            "s_id": 2,
+            "v3_id": 4,
+            "v1_id": 6,
+            "bert_id": 8,
+            "box_id": 2,
+            "xycut_id": 3
+        },
+        {
+            "box": [
+                524,
+                205,
+                556,
+                219
+            ],
+            "text": "Date:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        524,
+                        205,
+                        556,
+                        219
+                    ],
+                    "text": "Date:"
+                }
+            ],
+            "linking": [
+                [
+                    2,
+                    22
+                ]
+            ],
+            "id": 2,
+            "gaze_during": 0,
+            "fix_id": 12,
+            "tb_id": 5,
+            "s_id": 3,
+            "v3_id": 5,
+            "v1_id": 7,
+            "bert_id": 7,
+            "box_id": 14,
+            "xycut_id": 50
+        },
+        {
+            "text": "02/ 12/ 98",
+            "box": [
+                573,
+                205,
+                624,
+                218
+            ],
+            "linking": [
+                [
+                    2,
+                    22
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "02/",
+                    "box": [
+                        573,
+                        205,
+                        588,
+                        218
+                    ]
+                },
+                {
+                    "text": "12/",
+                    "box": [
+                        588,
+                        205,
+                        605,
+                        218
+                    ]
+                },
+                {
+                    "text": "98",
+                    "box": [
+                        606,
+                        205,
+                        624,
+                        218
+                    ]
+                }
+            ],
+            "id": 22,
+            "gaze_during": 243,
+            "fix_id": 8,
+            "tb_id": 6,
+            "s_id": 4,
+            "v3_id": 6,
+            "v1_id": 8,
+            "bert_id": 6,
+            "box_id": 8,
+            "xycut_id": 52
+        },
+        {
+            "text": "Client Group:",
+            "box": [
+                120,
+                239,
+                201,
+                253
+            ],
+            "linking": [
+                [
+                    21,
+                    23
+                ],
+                [
+                    21,
+                    11
+                ],
+                [
+                    21,
+                    24
+                ],
+                [
+                    21,
+                    10
+                ],
+                [
+                    21,
+                    12
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Client",
+                    "box": [
+                        120,
+                        239,
+                        156,
+                        253
+                    ]
+                },
+                {
+                    "text": "Group:",
+                    "box": [
+                        159,
+                        239,
+                        201,
+                        253
+                    ]
+                }
+            ],
+            "id": 21,
+            "gaze_during": 0,
+            "fix_id": 9,
+            "tb_id": 7,
+            "s_id": 5,
+            "v3_id": 7,
+            "v1_id": 11,
+            "bert_id": 9,
+            "box_id": 4,
+            "xycut_id": 4
+        },
+        {
+            "text": "R. B. U.",
+            "box": [
+                216,
+                237,
+                256,
+                250
+            ],
+            "linking": [
+                [
+                    21,
+                    23
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "R.",
+                    "box": [
+                        216,
+                        237,
+                        231,
+                        250
+                    ]
+                },
+                {
+                    "text": "B.",
+                    "box": [
+                        232,
+                        237,
+                        243,
+                        250
+                    ]
+                },
+                {
+                    "text": "U.",
+                    "box": [
+                        243,
+                        237,
+                        256,
+                        250
+                    ]
+                }
+            ],
+            "id": 23,
+            "gaze_during": 597,
+            "fix_id": 5,
+            "tb_id": 8,
+            "s_id": 6,
+            "v3_id": 8,
+            "v1_id": 10,
+            "bert_id": 11,
+            "box_id": 6,
+            "xycut_id": 5
+        },
+        {
+            "text": "Brand Group",
+            "box": [
+                221,
+                254,
+                293,
+                267
+            ],
+            "linking": [
+                [
+                    21,
+                    24
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Brand",
+                    "box": [
+                        221,
+                        254,
+                        255,
+                        267
+                    ]
+                },
+                {
+                    "text": "Group",
+                    "box": [
+                        257,
+                        254,
+                        293,
+                        267
+                    ]
+                }
+            ],
+            "id": 24,
+            "gaze_during": 0,
+            "fix_id": 6,
+            "tb_id": 9,
+            "s_id": 7,
+            "v3_id": 9,
+            "v1_id": 9,
+            "bert_id": 10,
+            "box_id": 7,
+            "xycut_id": 7
+        },
+        {
+            "box": [
+                311,
+                254,
+                352,
+                267
+            ],
+            "text": "KOOL",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        311,
+                        254,
+                        352,
+                        267
+                    ],
+                    "text": "KOOL"
+                }
+            ],
+            "linking": [
+                [
+                    21,
+                    12
+                ]
+            ],
+            "id": 12,
+            "gaze_during": 257,
+            "fix_id": 10,
+            "tb_id": 10,
+            "s_id": 10,
+            "v3_id": 10,
+            "v1_id": 12,
+            "bert_id": 14,
+            "box_id": 9,
+            "xycut_id": 8
+        },
+        {
+            "box": [
+                313,
+                239,
+                383,
+                250
+            ],
+            "text": "COLOMBIA",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        313,
+                        239,
+                        383,
+                        250
+                    ],
+                    "text": "COLOMBIA"
+                }
+            ],
+            "linking": [
+                [
+                    21,
+                    11
+                ]
+            ],
+            "id": 11,
+            "gaze_during": 330,
+            "fix_id": 4,
+            "tb_id": 11,
+            "s_id": 9,
+            "v3_id": 11,
+            "v1_id": 13,
+            "bert_id": 13,
+            "box_id": 3,
+            "xycut_id": 6
+        },
+        {
+            "box": [
+                219,
+                270,
+                251,
+                284
+            ],
+            "text": "Other",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        219,
+                        270,
+                        251,
+                        284
+                    ],
+                    "text": "Other"
+                }
+            ],
+            "linking": [
+                [
+                    21,
+                    10
+                ]
+            ],
+            "id": 10,
+            "gaze_during": 273,
+            "fix_id": 7,
+            "tb_id": 12,
+            "s_id": 8,
+            "v3_id": 12,
+            "v1_id": 14,
+            "bert_id": 12,
+            "box_id": 10,
+            "xycut_id": 9
+        },
+        {
+            "text": "Client Contact:",
+            "box": [
+                117,
+                303,
+                205,
+                318
+            ],
+            "linking": [
+                [
+                    25,
+                    26
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Client",
+                    "box": [
+                        117,
+                        303,
+                        152,
+                        318
+                    ]
+                },
+                {
+                    "text": "Contact:",
+                    "box": [
+                        156,
+                        303,
+                        205,
+                        317
+                    ]
+                }
+            ],
+            "id": 25,
+            "gaze_during": 147,
+            "fix_id": 13,
+            "tb_id": 13,
+            "s_id": 11,
+            "v3_id": 13,
+            "v1_id": 15,
+            "bert_id": 15,
+            "box_id": 11,
+            "xycut_id": 10
+        },
+        {
+            "text": "Maria Helena Argüelles/ Edwin Garcia",
+            "box": [
+                219,
+                303,
+                354,
+                334
+            ],
+            "linking": [
+                [
+                    25,
+                    26
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Maria",
+                    "box": [
+                        219,
+                        303,
+                        253,
+                        318
+                    ]
+                },
+                {
+                    "text": "Helena",
+                    "box": [
+                        256,
+                        303,
+                        295,
+                        317
+                    ]
+                },
+                {
+                    "text": "Argüelles/",
+                    "box": [
+                        297,
+                        303,
+                        354,
+                        316
+                    ]
+                },
+                {
+                    "text": "Edwin",
+                    "box": [
+                        219,
+                        320,
+                        255,
+                        333
+                    ]
+                },
+                {
+                    "text": "Garcia",
+                    "box": [
+                        258,
+                        320,
+                        296,
+                        334
+                    ]
+                }
+            ],
+            "id": 26,
+            "gaze_during": 360,
+            "fix_id": 14,
+            "tb_id": 14,
+            "s_id": 12,
+            "v3_id": 14,
+            "v1_id": 16,
+            "bert_id": 16,
+            "box_id": 12,
+            "xycut_id": 11
+        },
+        {
+            "text": "Research Liaison:",
+            "box": [
+                394,
+                303,
+                499,
+                318
+            ],
+            "linking": [
+                [
+                    27,
+                    28
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Research",
+                    "box": [
+                        394,
+                        304,
+                        447,
+                        318
+                    ]
+                },
+                {
+                    "text": "Liaison:",
+                    "box": [
+                        450,
+                        303,
+                        499,
+                        317
+                    ]
+                }
+            ],
+            "id": 27,
+            "gaze_during": 0,
+            "fix_id": 15,
+            "tb_id": 15,
+            "s_id": 13,
+            "v3_id": 15,
+            "v1_id": 17,
+            "bert_id": 17,
+            "box_id": 13,
+            "xycut_id": 49
+        },
+        {
+            "text": "Camilo Concha/ Andrea Suarez",
+            "box": [
+                504,
+                302,
+                634,
+                334
+            ],
+            "linking": [
+                [
+                    27,
+                    28
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Camilo",
+                    "box": [
+                        504,
+                        302,
+                        546,
+                        316
+                    ]
+                },
+                {
+                    "text": "Concha/",
+                    "box": [
+                        547,
+                        303,
+                        594,
+                        316
+                    ]
+                },
+                {
+                    "text": "Andrea",
+                    "box": [
+                        595,
+                        304,
+                        634,
+                        317
+                    ]
+                },
+                {
+                    "text": "Suarez",
+                    "box": [
+                        504,
+                        320,
+                        543,
+                        334
+                    ]
+                }
+            ],
+            "id": 28,
+            "gaze_during": 0,
+            "fix_id": 16,
+            "tb_id": 16,
+            "s_id": 14,
+            "v3_id": 16,
+            "v1_id": 19,
+            "bert_id": 20,
+            "box_id": 15,
+            "xycut_id": 51
+        },
+        {
+            "text": "Project Name/ Description",
+            "box": [
+                120,
+                353,
+                271,
+                369
+            ],
+            "linking": [
+                [
+                    29,
+                    30
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Project",
+                    "box": [
+                        120,
+                        355,
+                        161,
+                        369
+                    ]
+                },
+                {
+                    "text": "Name/",
+                    "box": [
+                        163,
+                        353,
+                        201,
+                        368
+                    ]
+                },
+                {
+                    "text": "Description",
+                    "box": [
+                        201,
+                        355,
+                        271,
+                        369
+                    ]
+                }
+            ],
+            "id": 29,
+            "gaze_during": 567,
+            "fix_id": 19,
+            "tb_id": 17,
+            "s_id": 15,
+            "v3_id": 17,
+            "v1_id": 18,
+            "bert_id": 19,
+            "box_id": 18,
+            "xycut_id": 12
+        },
+        {
+            "text": "K001 vs. Marlboro Menthol Lights",
+            "box": [
+                274,
+                352,
+                472,
+                369
+            ],
+            "linking": [
+                [
+                    29,
+                    30
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "K001",
+                    "box": [
+                        274,
+                        353,
+                        312,
+                        367
+                    ]
+                },
+                {
+                    "text": "vs.",
+                    "box": [
+                        316,
+                        353,
+                        330,
+                        367
+                    ]
+                },
+                {
+                    "text": "Marlboro",
+                    "box": [
+                        334,
+                        353,
+                        386,
+                        366
+                    ]
+                },
+                {
+                    "text": "Menthol",
+                    "box": [
+                        388,
+                        352,
+                        433,
+                        369
+                    ]
+                },
+                {
+                    "text": "Lights",
+                    "box": [
+                        436,
+                        353,
+                        472,
+                        368
+                    ]
+                }
+            ],
+            "id": 30,
+            "gaze_during": 0,
+            "fix_id": 21,
+            "tb_id": 18,
+            "s_id": 16,
+            "v3_id": 18,
+            "v1_id": 20,
+            "bert_id": 18,
+            "box_id": 17,
+            "xycut_id": 13
+        },
+        {
+            "box": [
+                119,
+                388,
+                180,
+                403
+            ],
+            "text": "Market(s):",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        119,
+                        388,
+                        180,
+                        403
+                    ],
+                    "text": "Market(s):"
+                }
+            ],
+            "linking": [
+                [
+                    3,
+                    31
+                ]
+            ],
+            "id": 3,
+            "gaze_during": 167,
+            "fix_id": 17,
+            "tb_id": 19,
+            "s_id": 17,
+            "v3_id": 19,
+            "v1_id": 21,
+            "bert_id": 23,
+            "box_id": 19,
+            "xycut_id": 14
+        },
+        {
+            "text": "Bogotá, Medellin and Barranquilla",
+            "box": [
+                183,
+                388,
+                373,
+                403
+            ],
+            "linking": [
+                [
+                    3,
+                    31
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Bogotá,",
+                    "box": [
+                        183,
+                        388,
+                        226,
+                        403
+                    ]
+                },
+                {
+                    "text": "Medellin",
+                    "box": [
+                        230,
+                        388,
+                        276,
+                        401
+                    ]
+                },
+                {
+                    "text": "and",
+                    "box": [
+                        281,
+                        390,
+                        301,
+                        403
+                    ]
+                },
+                {
+                    "text": "Barranquilla",
+                    "box": [
+                        303,
+                        388,
+                        373,
+                        403
+                    ]
+                }
+            ],
+            "id": 31,
+            "gaze_during": 167,
+            "fix_id": 18,
+            "tb_id": 20,
+            "s_id": 18,
+            "v3_id": 20,
+            "v1_id": 22,
+            "bert_id": 22,
+            "box_id": 20,
+            "xycut_id": 15
+        },
+        {
+            "text": "Referent Brand(s):",
+            "box": [
+                120,
+                426,
+                226,
+                441
+            ],
+            "linking": [
+                [
+                    32,
+                    33
+                ],
+                [
+                    32,
+                    34
+                ],
+                [
+                    32,
+                    35
+                ],
+                [
+                    32,
+                    36
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Referent",
+                    "box": [
+                        120,
+                        426,
+                        169,
+                        440
+                    ]
+                },
+                {
+                    "text": "Brand(s):",
+                    "box": [
+                        172,
+                        426,
+                        226,
+                        441
+                    ]
+                }
+            ],
+            "id": 32,
+            "gaze_during": 0,
+            "fix_id": 20,
+            "tb_id": 21,
+            "s_id": 19,
+            "v3_id": 21,
+            "v1_id": 23,
+            "bert_id": 21,
+            "box_id": 21,
+            "xycut_id": 16
+        },
+        {
+            "box": [
+                120,
+                444,
+                131,
+                455
+            ],
+            "text": "1)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        120,
+                        444,
+                        131,
+                        455
+                    ],
+                    "text": "1)"
+                }
+            ],
+            "linking": [],
+            "id": 15,
+            "gaze_during": 0,
+            "fix_id": 22,
+            "tb_id": 22,
+            "s_id": 20,
+            "v3_id": 22,
+            "v1_id": 24,
+            "bert_id": 25,
+            "box_id": 22,
+            "xycut_id": 17
+        },
+        {
+            "box": [
+                120,
+                459,
+                131,
+                472
+            ],
+            "text": "2)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        120,
+                        459,
+                        131,
+                        472
+                    ],
+                    "text": "2)"
+                }
+            ],
+            "linking": [],
+            "id": 16,
+            "gaze_during": 0,
+            "fix_id": 23,
+            "tb_id": 23,
+            "s_id": 21,
+            "v3_id": 23,
+            "v1_id": 25,
+            "bert_id": 24,
+            "box_id": 24,
+            "xycut_id": 19
+        },
+        {
+            "text": "Current Kool Filter King Colombia 1 1 mg tar @ 0. 51% menthol white tipping.",
+            "box": [
+                134,
+                441,
+                570,
+                458
+            ],
+            "linking": [
+                [
+                    32,
+                    33
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Current",
+                    "box": [
+                        134,
+                        444,
+                        175,
+                        455
+                    ]
+                },
+                {
+                    "text": "Kool",
+                    "box": [
+                        179,
+                        444,
+                        204,
+                        455
+                    ]
+                },
+                {
+                    "text": "Filter",
+                    "box": [
+                        207,
+                        443,
+                        238,
+                        454
+                    ]
+                },
+                {
+                    "text": "King",
+                    "box": [
+                        240,
+                        443,
+                        267,
+                        456
+                    ]
+                },
+                {
+                    "text": "Colombia",
+                    "box": [
+                        271,
+                        441,
+                        327,
+                        455
+                    ]
+                },
+                {
+                    "text": "1",
+                    "box": [
+                        331,
+                        443,
+                        337,
+                        454
+                    ]
+                },
+                {
+                    "text": "1",
+                    "box": [
+                        338,
+                        443,
+                        342,
+                        454
+                    ]
+                },
+                {
+                    "text": "mg",
+                    "box": [
+                        346,
+                        446,
+                        364,
+                        457
+                    ]
+                },
+                {
+                    "text": "tar",
+                    "box": [
+                        367,
+                        444,
+                        385,
+                        455
+                    ]
+                },
+                {
+                    "text": "@",
+                    "box": [
+                        388,
+                        441,
+                        402,
+                        456
+                    ]
+                },
+                {
+                    "text": "0.",
+                    "box": [
+                        404,
+                        441,
+                        415,
+                        454
+                    ]
+                },
+                {
+                    "text": "51%",
+                    "box": [
+                        415,
+                        441,
+                        440,
+                        455
+                    ]
+                },
+                {
+                    "text": "menthol",
+                    "box": [
+                        443,
+                        443,
+                        490,
+                        456
+                    ]
+                },
+                {
+                    "text": "white",
+                    "box": [
+                        493,
+                        443,
+                        524,
+                        456
+                    ]
+                },
+                {
+                    "text": "tipping.",
+                    "box": [
+                        527,
+                        441,
+                        570,
+                        458
+                    ]
+                }
+            ],
+            "id": 33,
+            "gaze_during": 0,
+            "fix_id": 24,
+            "tb_id": 24,
+            "s_id": 22,
+            "v3_id": 24,
+            "v1_id": 26,
+            "bert_id": 26,
+            "box_id": 23,
+            "xycut_id": 18
+        },
+        {
+            "box": [
+                122,
+                475,
+                132,
+                488
+            ],
+            "text": "3)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        122,
+                        475,
+                        132,
+                        488
+                    ],
+                    "text": "3)"
+                }
+            ],
+            "linking": [],
+            "id": 17,
+            "gaze_during": 0,
+            "fix_id": 25,
+            "tb_id": 25,
+            "s_id": 23,
+            "v3_id": 25,
+            "v1_id": 27,
+            "bert_id": 28,
+            "box_id": 25,
+            "xycut_id": 21
+        },
+        {
+            "text": "Kool Milds KS Japan 9mg tar @ 0. 56% menthol white tipping",
+            "box": [
+                135,
+                458,
+                483,
+                472
+            ],
+            "linking": [
+                [
+                    32,
+                    34
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Kool",
+                    "box": [
+                        135,
+                        458,
+                        160,
+                        471
+                    ]
+                },
+                {
+                    "text": "Milds",
+                    "box": [
+                        165,
+                        458,
+                        196,
+                        471
+                    ]
+                },
+                {
+                    "text": "KS",
+                    "box": [
+                        200,
+                        458,
+                        217,
+                        471
+                    ]
+                },
+                {
+                    "text": "Japan",
+                    "box": [
+                        219,
+                        458,
+                        253,
+                        472
+                    ]
+                },
+                {
+                    "text": "9mg",
+                    "box": [
+                        257,
+                        458,
+                        279,
+                        472
+                    ]
+                },
+                {
+                    "text": "tar",
+                    "box": [
+                        282,
+                        461,
+                        300,
+                        471
+                    ]
+                },
+                {
+                    "text": "@",
+                    "box": [
+                        304,
+                        458,
+                        317,
+                        472
+                    ]
+                },
+                {
+                    "text": "0.",
+                    "box": [
+                        320,
+                        459,
+                        330,
+                        470
+                    ]
+                },
+                {
+                    "text": "56%",
+                    "box": [
+                        331,
+                        459,
+                        355,
+                        470
+                    ]
+                },
+                {
+                    "text": "menthol",
+                    "box": [
+                        358,
+                        459,
+                        405,
+                        470
+                    ]
+                },
+                {
+                    "text": "white",
+                    "box": [
+                        409,
+                        458,
+                        437,
+                        471
+                    ]
+                },
+                {
+                    "text": "tipping",
+                    "box": [
+                        441,
+                        458,
+                        483,
+                        472
+                    ]
+                }
+            ],
+            "id": 34,
+            "gaze_during": 127,
+            "fix_id": 27,
+            "tb_id": 26,
+            "s_id": 24,
+            "v3_id": 26,
+            "v1_id": 29,
+            "bert_id": 27,
+            "box_id": 26,
+            "xycut_id": 20
+        },
+        {
+            "box": [
+                122,
+                492,
+                133,
+                505
+            ],
+            "text": "4)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        122,
+                        492,
+                        133,
+                        505
+                    ],
+                    "text": "4)"
+                }
+            ],
+            "linking": [],
+            "id": 18,
+            "gaze_during": 0,
+            "fix_id": 29,
+            "tb_id": 27,
+            "s_id": 25,
+            "v3_id": 27,
+            "v1_id": 28,
+            "bert_id": 29,
+            "box_id": 27,
+            "xycut_id": 23
+        },
+        {
+            "text": "Kool KS. 9 mg tar, @ 0. 51% menthol white tipping",
+            "box": [
+                135,
+                473,
+                418,
+                488
+            ],
+            "linking": [
+                [
+                    32,
+                    35
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Kool",
+                    "box": [
+                        135,
+                        473,
+                        160,
+                        486
+                    ]
+                },
+                {
+                    "text": "KS.",
+                    "box": [
+                        165,
+                        473,
+                        183,
+                        487
+                    ]
+                },
+                {
+                    "text": "9",
+                    "box": [
+                        187,
+                        473,
+                        194,
+                        484
+                    ]
+                },
+                {
+                    "text": "mg",
+                    "box": [
+                        197,
+                        475,
+                        214,
+                        488
+                    ]
+                },
+                {
+                    "text": "tar,",
+                    "box": [
+                        218,
+                        475,
+                        236,
+                        488
+                    ]
+                },
+                {
+                    "text": "@",
+                    "box": [
+                        239,
+                        473,
+                        252,
+                        488
+                    ]
+                },
+                {
+                    "text": "0.",
+                    "box": [
+                        254,
+                        473,
+                        264,
+                        486
+                    ]
+                },
+                {
+                    "text": "51%",
+                    "box": [
+                        265,
+                        473,
+                        289,
+                        487
+                    ]
+                },
+                {
+                    "text": "menthol",
+                    "box": [
+                        293,
+                        475,
+                        339,
+                        486
+                    ]
+                },
+                {
+                    "text": "white",
+                    "box": [
+                        344,
+                        475,
+                        372,
+                        486
+                    ]
+                },
+                {
+                    "text": "tipping",
+                    "box": [
+                        376,
+                        475,
+                        418,
+                        488
+                    ]
+                }
+            ],
+            "id": 35,
+            "gaze_during": 277,
+            "fix_id": 28,
+            "tb_id": 28,
+            "s_id": 26,
+            "v3_id": 28,
+            "v1_id": 30,
+            "bert_id": 32,
+            "box_id": 28,
+            "xycut_id": 22
+        },
+        {
+            "text": "Current Marlboro Lights Menthol King US 9mg tar @ 0. 66% menthol, white tipping.",
+            "box": [
+                135,
+                490,
+                602,
+                507
+            ],
+            "linking": [
+                [
+                    32,
+                    36
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Current",
+                    "box": [
+                        135,
+                        490,
+                        176,
+                        504
+                    ]
+                },
+                {
+                    "text": "Marlboro",
+                    "box": [
+                        179,
+                        490,
+                        231,
+                        503
+                    ]
+                },
+                {
+                    "text": "Lights",
+                    "box": [
+                        233,
+                        490,
+                        267,
+                        504
+                    ]
+                },
+                {
+                    "text": "Menthol",
+                    "box": [
+                        270,
+                        490,
+                        316,
+                        504
+                    ]
+                },
+                {
+                    "text": "King",
+                    "box": [
+                        320,
+                        490,
+                        345,
+                        504
+                    ]
+                },
+                {
+                    "text": "US",
+                    "box": [
+                        349,
+                        492,
+                        370,
+                        505
+                    ]
+                },
+                {
+                    "text": "9mg",
+                    "box": [
+                        373,
+                        492,
+                        397,
+                        506
+                    ]
+                },
+                {
+                    "text": "tar",
+                    "box": [
+                        401,
+                        493,
+                        419,
+                        504
+                    ]
+                },
+                {
+                    "text": "@",
+                    "box": [
+                        422,
+                        490,
+                        435,
+                        505
+                    ]
+                },
+                {
+                    "text": "0.",
+                    "box": [
+                        439,
+                        490,
+                        450,
+                        503
+                    ]
+                },
+                {
+                    "text": "66%",
+                    "box": [
+                        448,
+                        490,
+                        473,
+                        504
+                    ]
+                },
+                {
+                    "text": "menthol,",
+                    "box": [
+                        475,
+                        492,
+                        524,
+                        505
+                    ]
+                },
+                {
+                    "text": "white",
+                    "box": [
+                        528,
+                        492,
+                        557,
+                        505
+                    ]
+                },
+                {
+                    "text": "tipping.",
+                    "box": [
+                        560,
+                        492,
+                        602,
+                        507
+                    ]
+                }
+            ],
+            "id": 36,
+            "gaze_during": 190,
+            "fix_id": 26,
+            "tb_id": 29,
+            "s_id": 27,
+            "v3_id": 29,
+            "v1_id": 31,
+            "bert_id": 31,
+            "box_id": 29,
+            "xycut_id": 24
+        },
+        {
+            "text": "Consumer Segment(s):",
+            "box": [
+                120,
+                524,
+                249,
+                539
+            ],
+            "linking": [
+                [
+                    37,
+                    4
+                ],
+                [
+                    37,
+                    5
+                ],
+                [
+                    37,
+                    39
+                ],
+                [
+                    37,
+                    40
+                ],
+                [
+                    37,
+                    42
+                ]
+            ],
+            "label": "header",
+            "words": [
+                {
+                    "text": "Consumer",
+                    "box": [
+                        120,
+                        524,
+                        180,
+                        539
+                    ]
+                },
+                {
+                    "text": "Segment(s):",
+                    "box": [
+                        183,
+                        524,
+                        249,
+                        539
+                    ]
+                }
+            ],
+            "id": 37,
+            "gaze_during": 140,
+            "fix_id": 32,
+            "tb_id": 30,
+            "s_id": 28,
+            "v3_id": 30,
+            "v1_id": 33,
+            "bert_id": 30,
+            "box_id": 30,
+            "xycut_id": 25
+        },
+        {
+            "box": [
+                119,
+                560,
+                164,
+                573
+            ],
+            "text": "Female:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        119,
+                        560,
+                        164,
+                        573
+                    ],
+                    "text": "Female:"
+                }
+            ],
+            "linking": [
+                [
+                    5,
+                    14
+                ],
+                [
+                    37,
+                    5
+                ]
+            ],
+            "id": 5,
+            "gaze_during": 0,
+            "fix_id": 34,
+            "tb_id": 31,
+            "s_id": 29,
+            "v3_id": 31,
+            "v1_id": 32,
+            "bert_id": 33,
+            "box_id": 31,
+            "xycut_id": 28
+        },
+        {
+            "box": [
+                120,
+                543,
+                151,
+                557
+            ],
+            "text": "Male:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        120,
+                        543,
+                        151,
+                        557
+                    ],
+                    "text": "Male:"
+                }
+            ],
+            "linking": [
+                [
+                    4,
+                    13
+                ],
+                [
+                    37,
+                    4
+                ]
+            ],
+            "id": 4,
+            "gaze_during": 0,
+            "fix_id": 36,
+            "tb_id": 32,
+            "s_id": 30,
+            "v3_id": 32,
+            "v1_id": 34,
+            "bert_id": 34,
+            "box_id": 32,
+            "xycut_id": 26
+        },
+        {
+            "box": [
+                190,
+                541,
+                215,
+                559
+            ],
+            "text": "60%",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        190,
+                        541,
+                        215,
+                        559
+                    ],
+                    "text": "60%"
+                }
+            ],
+            "linking": [
+                [
+                    4,
+                    13
+                ]
+            ],
+            "id": 13,
+            "gaze_during": 213,
+            "fix_id": 30,
+            "tb_id": 33,
+            "s_id": 31,
+            "v3_id": 33,
+            "v1_id": 35,
+            "bert_id": 35,
+            "box_id": 33,
+            "xycut_id": 27
+        },
+        {
+            "text": "By age:",
+            "box": [
+                122,
+                575,
+                162,
+                589
+            ],
+            "linking": [
+                [
+                    39,
+                    38
+                ],
+                [
+                    37,
+                    39
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "By",
+                    "box": [
+                        122,
+                        575,
+                        136,
+                        589
+                    ]
+                },
+                {
+                    "text": "age:",
+                    "box": [
+                        138,
+                        577,
+                        162,
+                        588
+                    ]
+                }
+            ],
+            "id": 39,
+            "gaze_during": 0,
+            "fix_id": 31,
+            "tb_id": 34,
+            "s_id": 33,
+            "v3_id": 34,
+            "v1_id": 36,
+            "bert_id": 36,
+            "box_id": 35,
+            "xycut_id": 30
+        },
+        {
+            "box": [
+                190,
+                559,
+                215,
+                570
+            ],
+            "text": "40%",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        190,
+                        559,
+                        215,
+                        570
+                    ],
+                    "text": "40%"
+                }
+            ],
+            "linking": [
+                [
+                    5,
+                    14
+                ]
+            ],
+            "id": 14,
+            "gaze_during": 0,
+            "fix_id": 33,
+            "tb_id": 35,
+            "s_id": 32,
+            "v3_id": 35,
+            "v1_id": 37,
+            "bert_id": 38,
+            "box_id": 34,
+            "xycut_id": 29
+        },
+        {
+            "text": "BY SEL:",
+            "box": [
+                122,
+                591,
+                167,
+                605
+            ],
+            "linking": [
+                [
+                    40,
+                    41
+                ],
+                [
+                    37,
+                    40
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "BY",
+                    "box": [
+                        122,
+                        591,
+                        136,
+                        605
+                    ]
+                },
+                {
+                    "text": "SEL:",
+                    "box": [
+                        140,
+                        591,
+                        167,
+                        604
+                    ]
+                }
+            ],
+            "id": 40,
+            "gaze_during": 0,
+            "fix_id": 35,
+            "tb_id": 36,
+            "s_id": 34,
+            "v3_id": 36,
+            "v1_id": 38,
+            "bert_id": 37,
+            "box_id": 36,
+            "xycut_id": 32
+        },
+        {
+            "text": "18 -29 (100%)",
+            "box": [
+                190,
+                574,
+                265,
+                589
+            ],
+            "linking": [
+                [
+                    39,
+                    38
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "18",
+                    "box": [
+                        190,
+                        574,
+                        203,
+                        587
+                    ]
+                },
+                {
+                    "text": "-29",
+                    "box": [
+                        204,
+                        574,
+                        222,
+                        589
+                    ]
+                },
+                {
+                    "text": "(100%)",
+                    "box": [
+                        223,
+                        575,
+                        265,
+                        589
+                    ]
+                }
+            ],
+            "id": 38,
+            "gaze_during": 573,
+            "fix_id": 37,
+            "tb_id": 37,
+            "s_id": 35,
+            "v3_id": 37,
+            "v1_id": 39,
+            "bert_id": 39,
+            "box_id": 37,
+            "xycut_id": 31
+        },
+        {
+            "text": "By City:",
+            "box": [
+                122,
+                606,
+                168,
+                621
+            ],
+            "linking": [
+                [
+                    37,
+                    42
+                ],
+                [
+                    42,
+                    6
+                ],
+                [
+                    42,
+                    53
+                ],
+                [
+                    42,
+                    7
+                ]
+            ],
+            "label": "header",
+            "words": [
+                {
+                    "text": "By",
+                    "box": [
+                        122,
+                        608,
+                        137,
+                        621
+                    ]
+                },
+                {
+                    "text": "City:",
+                    "box": [
+                        140,
+                        606,
+                        168,
+                        620
+                    ]
+                }
+            ],
+            "id": 42,
+            "gaze_during": 0,
+            "fix_id": 39,
+            "tb_id": 38,
+            "s_id": 36,
+            "v3_id": 38,
+            "v1_id": 40,
+            "bert_id": 41,
+            "box_id": 38,
+            "xycut_id": 34
+        },
+        {
+            "box": [
+                187,
+                606,
+                232,
+                620
+            ],
+            "text": "Bogotá:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        187,
+                        606,
+                        232,
+                        620
+                    ],
+                    "text": "Bogotá:"
+                }
+            ],
+            "linking": [
+                [
+                    6,
+                    43
+                ],
+                [
+                    42,
+                    6
+                ]
+            ],
+            "id": 6,
+            "gaze_during": 273,
+            "fix_id": 40,
+            "tb_id": 39,
+            "s_id": 37,
+            "v3_id": 39,
+            "v1_id": 41,
+            "bert_id": 40,
+            "box_id": 39,
+            "xycut_id": 35
+        },
+        {
+            "text": "AB1 (100%)",
+            "box": [
+                190,
+                591,
+                259,
+                604
+            ],
+            "linking": [
+                [
+                    40,
+                    41
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "AB1",
+                    "box": [
+                        190,
+                        591,
+                        215,
+                        602
+                    ]
+                },
+                {
+                    "text": "(100%)",
+                    "box": [
+                        218,
+                        591,
+                        259,
+                        604
+                    ]
+                }
+            ],
+            "id": 41,
+            "gaze_during": 80,
+            "fix_id": 38,
+            "tb_id": 40,
+            "s_id": 38,
+            "v3_id": 40,
+            "v1_id": 43,
+            "bert_id": 43,
+            "box_id": 40,
+            "xycut_id": 33
+        },
+        {
+            "text": "B/ quilla:",
+            "box": [
+                190,
+                622,
+                238,
+                636
+            ],
+            "linking": [
+                [
+                    53,
+                    44
+                ],
+                [
+                    42,
+                    53
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "B/",
+                    "box": [
+                        190,
+                        623,
+                        203,
+                        634
+                    ]
+                },
+                {
+                    "text": "quilla:",
+                    "box": [
+                        204,
+                        622,
+                        238,
+                        636
+                    ]
+                }
+            ],
+            "id": 53,
+            "gaze_during": 273,
+            "fix_id": 41,
+            "tb_id": 41,
+            "s_id": 39,
+            "v3_id": 41,
+            "v1_id": 42,
+            "bert_id": 42,
+            "box_id": 41,
+            "xycut_id": 37
+        },
+        {
+            "text": "KOOL Parent regular smokers 50% -alternate smokers 50%",
+            "box": [
+                249,
+                605,
+                572,
+                622
+            ],
+            "linking": [
+                [
+                    6,
+                    43
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "KOOL",
+                    "box": [
+                        249,
+                        608,
+                        287,
+                        619
+                    ]
+                },
+                {
+                    "text": "Parent",
+                    "box": [
+                        291,
+                        605,
+                        325,
+                        620
+                    ]
+                },
+                {
+                    "text": "regular",
+                    "box": [
+                        328,
+                        608,
+                        366,
+                        619
+                    ]
+                },
+                {
+                    "text": "smokers",
+                    "box": [
+                        369,
+                        608,
+                        416,
+                        619
+                    ]
+                },
+                {
+                    "text": "50%",
+                    "box": [
+                        418,
+                        608,
+                        442,
+                        619
+                    ]
+                },
+                {
+                    "text": "-alternate",
+                    "box": [
+                        444,
+                        608,
+                        497,
+                        622
+                    ]
+                },
+                {
+                    "text": "smokers",
+                    "box": [
+                        500,
+                        609,
+                        546,
+                        619
+                    ]
+                },
+                {
+                    "text": "50%",
+                    "box": [
+                        547,
+                        606,
+                        572,
+                        619
+                    ]
+                }
+            ],
+            "id": 43,
+            "gaze_during": 127,
+            "fix_id": 46,
+            "tb_id": 42,
+            "s_id": 40,
+            "v3_id": 42,
+            "v1_id": 45,
+            "bert_id": 44,
+            "box_id": 42,
+            "xycut_id": 36
+        },
+        {
+            "box": [
+                189,
+                635,
+                242,
+                650
+            ],
+            "text": "Medellin:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        189,
+                        635,
+                        242,
+                        650
+                    ],
+                    "text": "Medellin:"
+                }
+            ],
+            "linking": [
+                [
+                    7,
+                    45
+                ],
+                [
+                    42,
+                    7
+                ]
+            ],
+            "id": 7,
+            "gaze_during": 227,
+            "fix_id": 42,
+            "tb_id": 43,
+            "s_id": 41,
+            "v3_id": 43,
+            "v1_id": 44,
+            "bert_id": 46,
+            "box_id": 43,
+            "xycut_id": 38
+        },
+        {
+            "text": "KOOL Parent regular smokers 50% -alternate smokers 50%",
+            "box": [
+                249,
+                622,
+                572,
+                636
+            ],
+            "linking": [
+                [
+                    53,
+                    44
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "KOOL",
+                    "box": [
+                        249,
+                        622,
+                        287,
+                        635
+                    ]
+                },
+                {
+                    "text": "Parent",
+                    "box": [
+                        289,
+                        622,
+                        324,
+                        635
+                    ]
+                },
+                {
+                    "text": "regular",
+                    "box": [
+                        327,
+                        623,
+                        366,
+                        636
+                    ]
+                },
+                {
+                    "text": "smokers",
+                    "box": [
+                        369,
+                        624,
+                        415,
+                        634
+                    ]
+                },
+                {
+                    "text": "50%",
+                    "box": [
+                        416,
+                        622,
+                        444,
+                        636
+                    ]
+                },
+                {
+                    "text": "-alternate",
+                    "box": [
+                        446,
+                        623,
+                        498,
+                        634
+                    ]
+                },
+                {
+                    "text": "smokers",
+                    "box": [
+                        499,
+                        623,
+                        546,
+                        634
+                    ]
+                },
+                {
+                    "text": "50%",
+                    "box": [
+                        547,
+                        622,
+                        572,
+                        635
+                    ]
+                }
+            ],
+            "id": 44,
+            "gaze_during": 0,
+            "fix_id": 43,
+            "tb_id": 44,
+            "s_id": 42,
+            "v3_id": 44,
+            "v1_id": 47,
+            "bert_id": 45,
+            "box_id": 44,
+            "xycut_id": 39
+        },
+        {
+            "text": "KOOL Parent regular smokers 50% -alternate smokers 50%",
+            "box": [
+                250,
+                638,
+                574,
+                652
+            ],
+            "linking": [
+                [
+                    7,
+                    45
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "KOOL",
+                    "box": [
+                        250,
+                        638,
+                        286,
+                        651
+                    ]
+                },
+                {
+                    "text": "Parent",
+                    "box": [
+                        291,
+                        638,
+                        325,
+                        651
+                    ]
+                },
+                {
+                    "text": "regular",
+                    "box": [
+                        327,
+                        638,
+                        366,
+                        651
+                    ]
+                },
+                {
+                    "text": "smokers",
+                    "box": [
+                        369,
+                        640,
+                        415,
+                        650
+                    ]
+                },
+                {
+                    "text": "50%",
+                    "box": [
+                        416,
+                        638,
+                        443,
+                        651
+                    ]
+                },
+                {
+                    "text": "-alternate",
+                    "box": [
+                        444,
+                        638,
+                        497,
+                        649
+                    ]
+                },
+                {
+                    "text": "smokers",
+                    "box": [
+                        499,
+                        640,
+                        545,
+                        650
+                    ]
+                },
+                {
+                    "text": "50%",
+                    "box": [
+                        549,
+                        638,
+                        574,
+                        652
+                    ]
+                }
+            ],
+            "id": 45,
+            "gaze_during": 187,
+            "fix_id": 45,
+            "tb_id": 45,
+            "s_id": 43,
+            "v3_id": 45,
+            "v1_id": 46,
+            "bert_id": 47,
+            "box_id": 45,
+            "xycut_id": 40
+        },
+        {
+            "box": [
+                120,
+                670,
+                151,
+                683
+            ],
+            "text": "Note:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        120,
+                        670,
+                        151,
+                        683
+                    ],
+                    "text": "Note:"
+                }
+            ],
+            "linking": [
+                [
+                    8,
+                    46
+                ]
+            ],
+            "id": 8,
+            "gaze_during": 0,
+            "fix_id": 47,
+            "tb_id": 46,
+            "s_id": 44,
+            "v3_id": 46,
+            "v1_id": 48,
+            "bert_id": 50,
+            "box_id": 46,
+            "xycut_id": 41
+        },
+        {
+            "text": "weighted as follows:",
+            "box": [
+                120,
+                686,
+                230,
+                700
+            ],
+            "linking": [
+                [
+                    52,
+                    47
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "weighted",
+                    "box": [
+                        120,
+                        687,
+                        169,
+                        700
+                    ]
+                },
+                {
+                    "text": "as",
+                    "box": [
+                        172,
+                        689,
+                        185,
+                        700
+                    ]
+                },
+                {
+                    "text": "follows:",
+                    "box": [
+                        187,
+                        686,
+                        230,
+                        700
+                    ]
+                }
+            ],
+            "id": 52,
+            "gaze_during": 264,
+            "fix_id": 48,
+            "tb_id": 47,
+            "s_id": 45,
+            "v3_id": 47,
+            "v1_id": 49,
+            "bert_id": 49,
+            "box_id": 47,
+            "xycut_id": 43
+        },
+        {
+            "text": "In order to establish a quantitative basis for determining the winning product, results will be",
+            "box": [
+                154,
+                668,
+                651,
+                686
+            ],
+            "linking": [
+                [
+                    8,
+                    46
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "In",
+                    "box": [
+                        154,
+                        670,
+                        167,
+                        683
+                    ]
+                },
+                {
+                    "text": "order",
+                    "box": [
+                        169,
+                        670,
+                        197,
+                        683
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        200,
+                        670,
+                        211,
+                        683
+                    ]
+                },
+                {
+                    "text": "establish",
+                    "box": [
+                        214,
+                        669,
+                        260,
+                        683
+                    ]
+                },
+                {
+                    "text": "a",
+                    "box": [
+                        263,
+                        672,
+                        271,
+                        682
+                    ]
+                },
+                {
+                    "text": "quantitative",
+                    "box": [
+                        272,
+                        669,
+                        336,
+                        684
+                    ]
+                },
+                {
+                    "text": "basis",
+                    "box": [
+                        341,
+                        669,
+                        368,
+                        683
+                    ]
+                },
+                {
+                    "text": "for",
+                    "box": [
+                        372,
+                        669,
+                        387,
+                        683
+                    ]
+                },
+                {
+                    "text": "determining",
+                    "box": [
+                        388,
+                        668,
+                        454,
+                        686
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        458,
+                        672,
+                        476,
+                        683
+                    ]
+                },
+                {
+                    "text": "winning",
+                    "box": [
+                        480,
+                        669,
+                        522,
+                        684
+                    ]
+                },
+                {
+                    "text": "product,",
+                    "box": [
+                        527,
+                        670,
+                        572,
+                        685
+                    ]
+                },
+                {
+                    "text": "results",
+                    "box": [
+                        575,
+                        672,
+                        611,
+                        686
+                    ]
+                },
+                {
+                    "text": "will",
+                    "box": [
+                        613,
+                        670,
+                        635,
+                        683
+                    ]
+                },
+                {
+                    "text": "be",
+                    "box": [
+                        638,
+                        672,
+                        651,
+                        683
+                    ]
+                }
+            ],
+            "id": 46,
+            "gaze_during": 324,
+            "fix_id": 44,
+            "tb_id": 48,
+            "s_id": 46,
+            "v3_id": 48,
+            "v1_id": 50,
+            "bert_id": 48,
+            "box_id": 48,
+            "xycut_id": 42
+        },
+        {
+            "text": "Alternate 60%, Regular 40%.",
+            "box": [
+                233,
+                686,
+                391,
+                700
+            ],
+            "linking": [
+                [
+                    52,
+                    47
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Alternate",
+                    "box": [
+                        233,
+                        686,
+                        283,
+                        700
+                    ]
+                },
+                {
+                    "text": "60%,",
+                    "box": [
+                        286,
+                        686,
+                        315,
+                        700
+                    ]
+                },
+                {
+                    "text": "Regular",
+                    "box": [
+                        318,
+                        687,
+                        360,
+                        700
+                    ]
+                },
+                {
+                    "text": "40%.",
+                    "box": [
+                        363,
+                        686,
+                        391,
+                        700
+                    ]
+                }
+            ],
+            "id": 47,
+            "gaze_during": 187,
+            "fix_id": 49,
+            "tb_id": 49,
+            "s_id": 47,
+            "v3_id": 49,
+            "v1_id": 51,
+            "bert_id": 51,
+            "box_id": 49,
+            "xycut_id": 44
+        },
+        {
+            "text": "Background Problem Definition:",
+            "box": [
+                119,
+                722,
+                310,
+                736
+            ],
+            "linking": [
+                [
+                    48,
+                    49
+                ],
+                [
+                    48,
+                    50
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Background",
+                    "box": [
+                        119,
+                        722,
+                        192,
+                        736
+                    ]
+                },
+                {
+                    "text": "Problem",
+                    "box": [
+                        191,
+                        722,
+                        245,
+                        735
+                    ]
+                },
+                {
+                    "text": "Definition:",
+                    "box": [
+                        247,
+                        722,
+                        310,
+                        735
+                    ]
+                }
+            ],
+            "id": 48,
+            "gaze_during": 1353,
+            "fix_id": 50,
+            "tb_id": 50,
+            "s_id": 48,
+            "v3_id": 50,
+            "v1_id": 52,
+            "bert_id": 53,
+            "box_id": 50,
+            "xycut_id": 45
+        },
+        {
+            "text": "On September 1 97, PMI simultaneously launched Marlboro Menthol KS Box (16mg tar and Menthol Lights KS Box (9mg tar) in Colombia. These two products became KOOL's direct competitors (Premium Menthol Brands).",
+            "box": [
+                122,
+                736,
+                653,
+                784
+            ],
+            "linking": [
+                [
+                    48,
+                    49
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "On",
+                    "box": [
+                        122,
+                        737,
+                        137,
+                        748
+                    ]
+                },
+                {
+                    "text": "September",
+                    "box": [
+                        142,
+                        739,
+                        196,
+                        750
+                    ]
+                },
+                {
+                    "text": "1",
+                    "box": [
+                        204,
+                        739,
+                        217,
+                        750
+                    ]
+                },
+                {
+                    "text": "97,",
+                    "box": [
+                        221,
+                        739,
+                        236,
+                        750
+                    ]
+                },
+                {
+                    "text": "PMI",
+                    "box": [
+                        242,
+                        737,
+                        267,
+                        750
+                    ]
+                },
+                {
+                    "text": "simultaneously",
+                    "box": [
+                        271,
+                        737,
+                        353,
+                        751
+                    ]
+                },
+                {
+                    "text": "launched",
+                    "box": [
+                        358,
+                        737,
+                        407,
+                        750
+                    ]
+                },
+                {
+                    "text": "Marlboro",
+                    "box": [
+                        411,
+                        736,
+                        465,
+                        751
+                    ]
+                },
+                {
+                    "text": "Menthol",
+                    "box": [
+                        468,
+                        737,
+                        514,
+                        751
+                    ]
+                },
+                {
+                    "text": "KS",
+                    "box": [
+                        518,
+                        737,
+                        536,
+                        750
+                    ]
+                },
+                {
+                    "text": "Box",
+                    "box": [
+                        542,
+                        737,
+                        563,
+                        750
+                    ]
+                },
+                {
+                    "text": "(16mg",
+                    "box": [
+                        567,
+                        737,
+                        603,
+                        751
+                    ]
+                },
+                {
+                    "text": "tar",
+                    "box": [
+                        609,
+                        740,
+                        627,
+                        750
+                    ]
+                },
+                {
+                    "text": "and",
+                    "box": [
+                        634,
+                        739,
+                        652,
+                        749
+                    ]
+                },
+                {
+                    "text": "Menthol",
+                    "box": [
+                        122,
+                        753,
+                        168,
+                        767
+                    ]
+                },
+                {
+                    "text": "Lights",
+                    "box": [
+                        172,
+                        753,
+                        206,
+                        766
+                    ]
+                },
+                {
+                    "text": "KS",
+                    "box": [
+                        211,
+                        753,
+                        229,
+                        766
+                    ]
+                },
+                {
+                    "text": "Box",
+                    "box": [
+                        233,
+                        753,
+                        255,
+                        766
+                    ]
+                },
+                {
+                    "text": "(9mg",
+                    "box": [
+                        260,
+                        753,
+                        291,
+                        767
+                    ]
+                },
+                {
+                    "text": "tar)",
+                    "box": [
+                        296,
+                        753,
+                        314,
+                        766
+                    ]
+                },
+                {
+                    "text": "in",
+                    "box": [
+                        320,
+                        753,
+                        333,
+                        764
+                    ]
+                },
+                {
+                    "text": "Colombia.",
+                    "box": [
+                        338,
+                        753,
+                        394,
+                        766
+                    ]
+                },
+                {
+                    "text": "These",
+                    "box": [
+                        404,
+                        753,
+                        438,
+                        766
+                    ]
+                },
+                {
+                    "text": "two",
+                    "box": [
+                        441,
+                        754,
+                        463,
+                        764
+                    ]
+                },
+                {
+                    "text": "products",
+                    "box": [
+                        469,
+                        754,
+                        515,
+                        767
+                    ]
+                },
+                {
+                    "text": "became",
+                    "box": [
+                        521,
+                        753,
+                        564,
+                        766
+                    ]
+                },
+                {
+                    "text": "KOOL's",
+                    "box": [
+                        568,
+                        754,
+                        615,
+                        767
+                    ]
+                },
+                {
+                    "text": "direct",
+                    "box": [
+                        622,
+                        754,
+                        653,
+                        767
+                    ]
+                },
+                {
+                    "text": "competitors",
+                    "box": [
+                        122,
+                        770,
+                        183,
+                        783
+                    ]
+                },
+                {
+                    "text": "(Premium",
+                    "box": [
+                        186,
+                        770,
+                        240,
+                        783
+                    ]
+                },
+                {
+                    "text": "Menthol",
+                    "box": [
+                        242,
+                        768,
+                        288,
+                        781
+                    ]
+                },
+                {
+                    "text": "Brands).",
+                    "box": [
+                        292,
+                        767,
+                        337,
+                        784
+                    ]
+                }
+            ],
+            "id": 49,
+            "gaze_during": 1386,
+            "fix_id": 51,
+            "tb_id": 51,
+            "s_id": 49,
+            "v3_id": 51,
+            "v1_id": 53,
+            "bert_id": 52,
+            "box_id": 51,
+            "xycut_id": 46
+        },
+        {
+            "text": "At the same time KOOL replaced its product with a milder 11mg cigarette (the same KOOL Milds but with a 27mm cork tipping).",
+            "box": [
+                122,
+                785,
+                649,
+                817
+            ],
+            "linking": [
+                [
+                    48,
+                    50
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "At",
+                    "box": [
+                        122,
+                        785,
+                        136,
+                        798
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        140,
+                        786,
+                        157,
+                        797
+                    ]
+                },
+                {
+                    "text": "same",
+                    "box": [
+                        161,
+                        786,
+                        190,
+                        797
+                    ]
+                },
+                {
+                    "text": "time",
+                    "box": [
+                        191,
+                        785,
+                        222,
+                        798
+                    ]
+                },
+                {
+                    "text": "KOOL",
+                    "box": [
+                        225,
+                        785,
+                        264,
+                        798
+                    ]
+                },
+                {
+                    "text": "replaced",
+                    "box": [
+                        270,
+                        786,
+                        315,
+                        799
+                    ]
+                },
+                {
+                    "text": "its",
+                    "box": [
+                        318,
+                        785,
+                        332,
+                        796
+                    ]
+                },
+                {
+                    "text": "product",
+                    "box": [
+                        337,
+                        785,
+                        379,
+                        800
+                    ]
+                },
+                {
+                    "text": "with",
+                    "box": [
+                        384,
+                        785,
+                        409,
+                        798
+                    ]
+                },
+                {
+                    "text": "a",
+                    "box": [
+                        415,
+                        788,
+                        422,
+                        796
+                    ]
+                },
+                {
+                    "text": "milder",
+                    "box": [
+                        426,
+                        785,
+                        462,
+                        799
+                    ]
+                },
+                {
+                    "text": "11mg",
+                    "box": [
+                        466,
+                        785,
+                        497,
+                        799
+                    ]
+                },
+                {
+                    "text": "cigarette",
+                    "box": [
+                        500,
+                        786,
+                        549,
+                        800
+                    ]
+                },
+                {
+                    "text": "(the",
+                    "box": [
+                        554,
+                        785,
+                        576,
+                        799
+                    ]
+                },
+                {
+                    "text": "same",
+                    "box": [
+                        582,
+                        786,
+                        609,
+                        797
+                    ]
+                },
+                {
+                    "text": "KOOL",
+                    "box": [
+                        615,
+                        785,
+                        649,
+                        799
+                    ]
+                },
+                {
+                    "text": "Milds",
+                    "box": [
+                        122,
+                        802,
+                        153,
+                        816
+                    ]
+                },
+                {
+                    "text": "but",
+                    "box": [
+                        155,
+                        802,
+                        172,
+                        816
+                    ]
+                },
+                {
+                    "text": "with",
+                    "box": [
+                        176,
+                        802,
+                        198,
+                        815
+                    ]
+                },
+                {
+                    "text": "a",
+                    "box": [
+                        201,
+                        803,
+                        208,
+                        814
+                    ]
+                },
+                {
+                    "text": "27mm",
+                    "box": [
+                        211,
+                        802,
+                        246,
+                        816
+                    ]
+                },
+                {
+                    "text": "cork",
+                    "box": [
+                        249,
+                        802,
+                        271,
+                        816
+                    ]
+                },
+                {
+                    "text": "tipping).",
+                    "box": [
+                        275,
+                        800,
+                        321,
+                        817
+                    ]
+                }
+            ],
+            "id": 50,
+            "gaze_during": 0,
+            "fix_id": 52,
+            "tb_id": 52,
+            "s_id": 50,
+            "v3_id": 53,
+            "v1_id": 53,
+            "bert_id": 53,
+            "box_id": 52,
+            "xycut_id": 47
+        },
+        {
+            "text": "440026083 PRODUCED FROM B &W WEB SITE",
+            "box": [
+                0,
+                953,
+                231,
+                983
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "440026083",
+                    "box": [
+                        0,
+                        953,
+                        78,
+                        966
+                    ]
+                },
+                {
+                    "text": "PRODUCED",
+                    "box": [
+                        0,
+                        968,
+                        70,
+                        983
+                    ]
+                },
+                {
+                    "text": "FROM",
+                    "box": [
+                        77,
+                        968,
+                        118,
+                        982
+                    ]
+                },
+                {
+                    "text": "B",
+                    "box": [
+                        122,
+                        969,
+                        135,
+                        982
+                    ]
+                },
+                {
+                    "text": "&W",
+                    "box": [
+                        135,
+                        968,
+                        153,
+                        981
+                    ]
+                },
+                {
+                    "text": "WEB",
+                    "box": [
+                        158,
+                        969,
+                        187,
+                        982
+                    ]
+                },
+                {
+                    "text": "SITE",
+                    "box": [
+                        193,
+                        968,
+                        231,
+                        982
+                    ]
+                }
+            ],
+            "id": 51,
+            "gaze_during": 0,
+            "fix_id": 53,
+            "tb_id": 53,
+            "s_id": 51,
+            "v3_id": 53,
+            "v1_id": 53,
+            "bert_id": 53,
+            "box_id": 53,
+            "xycut_id": 48
+        }
+    ]
+}

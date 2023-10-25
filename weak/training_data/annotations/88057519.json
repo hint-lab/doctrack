@@ -1,0 +1,747 @@
+{
+    "form": [
+        {
+            "text": "New SATIN 100's",
+            "box": [
+                552,
+                270,
+                730,
+                351
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "New",
+                    "box": [
+                        594,
+                        270,
+                        683,
+                        304
+                    ]
+                },
+                {
+                    "text": "SATIN",
+                    "box": [
+                        552,
+                        306,
+                        675,
+                        351
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "box": [
+                        677,
+                        313,
+                        730,
+                        348
+                    ]
+                }
+            ],
+            "id": 7,
+            "gaze_during": 0,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 0,
+            "box_id": 1,
+            "xycut_id": 0
+        },
+        {
+            "box": [
+                708,
+                409,
+                732,
+                422
+            ],
+            "text": "1982",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        708,
+                        409,
+                        732,
+                        422
+                    ],
+                    "text": "1982"
+                }
+            ],
+            "linking": [],
+            "id": 5,
+            "gaze_during": 0,
+            "fix_id": 1,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 1,
+            "v1_id": 1,
+            "bert_id": 2,
+            "box_id": 6,
+            "xycut_id": 16
+        },
+        {
+            "text": "Direct Account",
+            "box": [
+                397,
+                434,
+                476,
+                447
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Direct",
+                    "box": [
+                        397,
+                        436,
+                        429,
+                        447
+                    ]
+                },
+                {
+                    "text": "Account",
+                    "box": [
+                        429,
+                        434,
+                        476,
+                        447
+                    ]
+                }
+            ],
+            "id": 8,
+            "gaze_during": 0,
+            "fix_id": 2,
+            "tb_id": 2,
+            "s_id": 2,
+            "v3_id": 2,
+            "v1_id": 2,
+            "bert_id": 1,
+            "box_id": 0,
+            "xycut_id": 1
+        },
+        {
+            "text": "Please Ship To",
+            "box": [
+                395,
+                455,
+                477,
+                472
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Please",
+                    "box": [
+                        395,
+                        458,
+                        436,
+                        472
+                    ]
+                },
+                {
+                    "text": "Ship",
+                    "box": [
+                        437,
+                        455,
+                        459,
+                        472
+                    ]
+                },
+                {
+                    "text": "To",
+                    "box": [
+                        462,
+                        459,
+                        477,
+                        470
+                    ]
+                }
+            ],
+            "id": 9,
+            "gaze_during": 0,
+            "fix_id": 3,
+            "tb_id": 3,
+            "s_id": 3,
+            "v3_id": 3,
+            "v1_id": 3,
+            "bert_id": 4,
+            "box_id": 2,
+            "xycut_id": 2
+        },
+        {
+            "box": [
+                395,
+                483,
+                442,
+                496
+            ],
+            "text": "Address",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        395,
+                        483,
+                        442,
+                        496
+                    ],
+                    "text": "Address"
+                }
+            ],
+            "linking": [],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 4,
+            "tb_id": 4,
+            "s_id": 4,
+            "v3_id": 4,
+            "v1_id": 4,
+            "bert_id": 3,
+            "box_id": 3,
+            "xycut_id": 3
+        },
+        {
+            "box": [
+                397,
+                507,
+                419,
+                518
+            ],
+            "text": "City",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        397,
+                        507,
+                        419,
+                        518
+                    ],
+                    "text": "City"
+                }
+            ],
+            "linking": [],
+            "id": 1,
+            "gaze_during": 0,
+            "fix_id": 5,
+            "tb_id": 5,
+            "s_id": 5,
+            "v3_id": 5,
+            "v1_id": 5,
+            "bert_id": 5,
+            "box_id": 4,
+            "xycut_id": 4
+        },
+        {
+            "box": [
+                395,
+                529,
+                426,
+                540
+            ],
+            "text": "State",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        395,
+                        529,
+                        426,
+                        540
+                    ],
+                    "text": "State"
+                }
+            ],
+            "linking": [],
+            "id": 2,
+            "gaze_during": 0,
+            "fix_id": 7,
+            "tb_id": 6,
+            "s_id": 6,
+            "v3_id": 6,
+            "v1_id": 6,
+            "bert_id": 6,
+            "box_id": 5,
+            "xycut_id": 5
+        },
+        {
+            "box": [
+                658,
+                528,
+                676,
+                542
+            ],
+            "text": "Zip",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        658,
+                        528,
+                        676,
+                        542
+                    ],
+                    "text": "Zip"
+                }
+            ],
+            "linking": [],
+            "id": 3,
+            "gaze_during": 0,
+            "fix_id": 9,
+            "tb_id": 7,
+            "s_id": 7,
+            "v3_id": 7,
+            "v1_id": 7,
+            "bert_id": 8,
+            "box_id": 7,
+            "xycut_id": 6
+        },
+        {
+            "text": "Delivery Date",
+            "box": [
+                394,
+                554,
+                469,
+                568
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Delivery",
+                    "box": [
+                        394,
+                        554,
+                        441,
+                        568
+                    ]
+                },
+                {
+                    "text": "Date",
+                    "box": [
+                        441,
+                        556,
+                        469,
+                        567
+                    ]
+                }
+            ],
+            "id": 10,
+            "gaze_during": 0,
+            "fix_id": 10,
+            "tb_id": 8,
+            "s_id": 8,
+            "v3_id": 8,
+            "v1_id": 8,
+            "bert_id": 7,
+            "box_id": 8,
+            "xycut_id": 7
+        },
+        {
+            "text": "No. OF CARTONS",
+            "box": [
+                411,
+                582,
+                555,
+                599
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "No.",
+                    "box": [
+                        411,
+                        584,
+                        439,
+                        599
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        441,
+                        582,
+                        468,
+                        599
+                    ]
+                },
+                {
+                    "text": "CARTONS",
+                    "box": [
+                        468,
+                        584,
+                        555,
+                        599
+                    ]
+                }
+            ],
+            "id": 11,
+            "gaze_during": 0,
+            "fix_id": 11,
+            "tb_id": 9,
+            "s_id": 9,
+            "v3_id": 9,
+            "v1_id": 9,
+            "bert_id": 10,
+            "box_id": 9,
+            "xycut_id": 8
+        },
+        {
+            "box": [
+                619,
+                584,
+                682,
+                598
+            ],
+            "text": "BRAND",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        619,
+                        584,
+                        682,
+                        598
+                    ],
+                    "text": "BRAND"
+                }
+            ],
+            "linking": [
+                [
+                    4,
+                    12
+                ],
+                [
+                    4,
+                    13
+                ]
+            ],
+            "id": 4,
+            "gaze_during": 0,
+            "fix_id": 13,
+            "tb_id": 10,
+            "s_id": 10,
+            "v3_id": 10,
+            "v1_id": 10,
+            "bert_id": 9,
+            "box_id": 12,
+            "xycut_id": 9
+        },
+        {
+            "text": "Satin Filter 100's",
+            "box": [
+                574,
+                617,
+                682,
+                634
+            ],
+            "linking": [
+                [
+                    4,
+                    12
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Satin",
+                    "box": [
+                        574,
+                        619,
+                        612,
+                        634
+                    ]
+                },
+                {
+                    "text": "Filter",
+                    "box": [
+                        613,
+                        619,
+                        645,
+                        634
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "box": [
+                        647,
+                        617,
+                        682,
+                        632
+                    ]
+                }
+            ],
+            "id": 12,
+            "gaze_during": 223,
+            "fix_id": 6,
+            "tb_id": 11,
+            "s_id": 11,
+            "v3_id": 11,
+            "v1_id": 11,
+            "bert_id": 11,
+            "box_id": 11,
+            "xycut_id": 10
+        },
+        {
+            "text": "Satin Menthol 100's",
+            "box": [
+                574,
+                652,
+                703,
+                670
+            ],
+            "linking": [
+                [
+                    4,
+                    13
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Satin",
+                    "box": [
+                        574,
+                        652,
+                        612,
+                        669
+                    ]
+                },
+                {
+                    "text": "Menthol",
+                    "box": [
+                        610,
+                        652,
+                        666,
+                        669
+                    ]
+                },
+                {
+                    "text": "100's",
+                    "box": [
+                        669,
+                        652,
+                        703,
+                        670
+                    ]
+                }
+            ],
+            "id": 13,
+            "gaze_during": 0,
+            "fix_id": 8,
+            "tb_id": 12,
+            "s_id": 12,
+            "v3_id": 12,
+            "v1_id": 12,
+            "bert_id": 12,
+            "box_id": 13,
+            "xycut_id": 11
+        },
+        {
+            "box": [
+                701,
+                747,
+                719,
+                832
+            ],
+            "text": "88057519",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        701,
+                        747,
+                        719,
+                        832
+                    ],
+                    "text": "88057519"
+                }
+            ],
+            "linking": [],
+            "id": 6,
+            "gaze_during": 310,
+            "fix_id": 12,
+            "tb_id": 13,
+            "s_id": 13,
+            "v3_id": 13,
+            "v1_id": 13,
+            "bert_id": 14,
+            "box_id": 10,
+            "xycut_id": 15
+        },
+        {
+            "text": "Signature of Hetail Purchaser",
+            "box": [
+                395,
+                796,
+                474,
+                816
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Signature",
+                    "box": [
+                        397,
+                        796,
+                        442,
+                        807
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        441,
+                        796,
+                        455,
+                        806
+                    ]
+                },
+                {
+                    "text": "Hetail",
+                    "box": [
+                        395,
+                        809,
+                        424,
+                        816
+                    ]
+                },
+                {
+                    "text": "Purchaser",
+                    "box": [
+                        427,
+                        806,
+                        474,
+                        816
+                    ]
+                }
+            ],
+            "id": 14,
+            "gaze_during": 0,
+            "fix_id": 14,
+            "tb_id": 14,
+            "s_id": 14,
+            "v3_id": 14,
+            "v1_id": 14,
+            "bert_id": 13,
+            "box_id": 14,
+            "xycut_id": 12
+        },
+        {
+            "text": "Order Taken By Sales Representative",
+            "box": [
+                398,
+                830,
+                493,
+                852
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Order",
+                    "box": [
+                        398,
+                        830,
+                        423,
+                        843
+                    ]
+                },
+                {
+                    "text": "Taken",
+                    "box": [
+                        427,
+                        830,
+                        455,
+                        841
+                    ]
+                },
+                {
+                    "text": "By",
+                    "box": [
+                        457,
+                        834,
+                        470,
+                        842
+                    ]
+                },
+                {
+                    "text": "Sales",
+                    "box": [
+                        398,
+                        842,
+                        425,
+                        852
+                    ]
+                },
+                {
+                    "text": "Representative",
+                    "box": [
+                        425,
+                        842,
+                        493,
+                        852
+                    ]
+                }
+            ],
+            "id": 15,
+            "gaze_during": 823,
+            "fix_id": 15,
+            "tb_id": 15,
+            "s_id": 15,
+            "v3_id": 15,
+            "v1_id": 15,
+            "bert_id": 15,
+            "box_id": 15,
+            "xycut_id": 13
+        },
+        {
+            "text": "DIRECT ACCOUNT",
+            "box": [
+                518,
+                858,
+                631,
+                867
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "DIRECT",
+                    "box": [
+                        518,
+                        859,
+                        565,
+                        867
+                    ]
+                },
+                {
+                    "text": "ACCOUNT",
+                    "box": [
+                        568,
+                        858,
+                        631,
+                        866
+                    ]
+                }
+            ],
+            "id": 16,
+            "gaze_during": 443,
+            "fix_id": 16,
+            "tb_id": 16,
+            "s_id": 16,
+            "v3_id": 16,
+            "v1_id": 16,
+            "bert_id": 16,
+            "box_id": 16,
+            "xycut_id": 14
+        }
+    ]
+}

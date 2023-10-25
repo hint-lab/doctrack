@@ -1,0 +1,3161 @@
+{
+    "form": [
+        {
+            "text": "CREATIVE INPUT DOCUMENT",
+            "box": [
+                68,
+                99,
+                391,
+                133
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "CREATIVE",
+                    "box": [
+                        68,
+                        101,
+                        183,
+                        133
+                    ]
+                },
+                {
+                    "text": "INPUT",
+                    "box": [
+                        183,
+                        99,
+                        258,
+                        133
+                    ]
+                },
+                {
+                    "text": "DOCUMENT",
+                    "box": [
+                        257,
+                        101,
+                        391,
+                        132
+                    ]
+                }
+            ],
+            "id": 8,
+            "gaze_during": 237,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 0,
+            "box_id": 2,
+            "xycut_id": 0
+        },
+        {
+            "box": [
+                95,
+                154,
+                183,
+                171
+            ],
+            "text": "SPECIFICS",
+            "label": "header",
+            "words": [
+                {
+                    "box": [
+                        95,
+                        154,
+                        183,
+                        171
+                    ],
+                    "text": "SPECIFICS"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    9
+                ],
+                [
+                    0,
+                    10
+                ],
+                [
+                    0,
+                    12
+                ],
+                [
+                    0,
+                    13
+                ],
+                [
+                    0,
+                    14
+                ],
+                [
+                    0,
+                    1
+                ],
+                [
+                    0,
+                    2
+                ],
+                [
+                    0,
+                    18
+                ],
+                [
+                    0,
+                    17
+                ],
+                [
+                    0,
+                    16
+                ],
+                [
+                    0,
+                    15
+                ]
+            ],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 25,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 1,
+            "v1_id": 1,
+            "bert_id": 1,
+            "box_id": 0,
+            "xycut_id": 1
+        },
+        {
+            "text": "Date/ Time:",
+            "box": [
+                68,
+                180,
+                153,
+                201
+            ],
+            "linking": [
+                [
+                    9,
+                    11
+                ],
+                [
+                    0,
+                    9
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Date/",
+                    "box": [
+                        68,
+                        180,
+                        113,
+                        200
+                    ]
+                },
+                {
+                    "text": "Time:",
+                    "box": [
+                        112,
+                        180,
+                        153,
+                        201
+                    ]
+                }
+            ],
+            "id": 9,
+            "gaze_during": 243,
+            "fix_id": 1,
+            "tb_id": 2,
+            "s_id": 2,
+            "v3_id": 2,
+            "v1_id": 2,
+            "bert_id": 2,
+            "box_id": 1,
+            "xycut_id": 2
+        },
+        {
+            "text": "10/30/98 1:46 PM",
+            "box": [
+                180,
+                183,
+                285,
+                198
+            ],
+            "linking": [
+                [
+                    9,
+                    11
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "10/30/98",
+                    "box": [
+                        180,
+                        183,
+                        230,
+                        198
+                    ]
+                },
+                {
+                    "text": "1:46",
+                    "box": [
+                        235,
+                        183,
+                        262,
+                        198
+                    ]
+                },
+                {
+                    "text": "PM",
+                    "box": [
+                        260,
+                        183,
+                        285,
+                        198
+                    ]
+                }
+            ],
+            "id": 11,
+            "gaze_during": 343,
+            "fix_id": 2,
+            "tb_id": 3,
+            "s_id": 3,
+            "v3_id": 3,
+            "v1_id": 5,
+            "bert_id": 3,
+            "box_id": 3,
+            "xycut_id": 3
+        },
+        {
+            "text": "Client Name:",
+            "box": [
+                388,
+                177,
+                484,
+                197
+            ],
+            "linking": [
+                [
+                    0,
+                    15
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Client",
+                    "box": [
+                        388,
+                        179,
+                        437,
+                        197
+                    ]
+                },
+                {
+                    "text": "Name:",
+                    "box": [
+                        437,
+                        177,
+                        484,
+                        197
+                    ]
+                }
+            ],
+            "id": 15,
+            "gaze_during": 313,
+            "fix_id": 6,
+            "tb_id": 4,
+            "s_id": 5,
+            "v3_id": 4,
+            "v1_id": 4,
+            "bert_id": 4,
+            "box_id": 7,
+            "xycut_id": 28
+        },
+        {
+            "text": "Prepared By:",
+            "box": [
+                68,
+                201,
+                165,
+                222
+            ],
+            "linking": [
+                [
+                    0,
+                    10
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Prepared",
+                    "box": [
+                        68,
+                        201,
+                        141,
+                        219
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "box": [
+                        141,
+                        201,
+                        165,
+                        222
+                    ]
+                }
+            ],
+            "id": 10,
+            "gaze_during": 0,
+            "fix_id": 26,
+            "tb_id": 5,
+            "s_id": 4,
+            "v3_id": 5,
+            "v1_id": 3,
+            "bert_id": 5,
+            "box_id": 5,
+            "xycut_id": 4
+        },
+        {
+            "text": "Matter Number:",
+            "box": [
+                388,
+                198,
+                504,
+                218
+            ],
+            "linking": [
+                [
+                    0,
+                    16
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Matter",
+                    "box": [
+                        388,
+                        200,
+                        441,
+                        217
+                    ]
+                },
+                {
+                    "text": "Number:",
+                    "box": [
+                        441,
+                        198,
+                        504,
+                        218
+                    ]
+                }
+            ],
+            "id": 16,
+            "gaze_during": 496,
+            "fix_id": 7,
+            "tb_id": 6,
+            "s_id": 7,
+            "v3_id": 6,
+            "v1_id": 6,
+            "bert_id": 6,
+            "box_id": 15,
+            "xycut_id": 30
+        },
+        {
+            "text": "Milestone Presentation Date:",
+            "box": [
+                70,
+                219,
+                285,
+                242
+            ],
+            "linking": [
+                [
+                    0,
+                    12
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Milestone",
+                    "box": [
+                        70,
+                        222,
+                        144,
+                        242
+                    ]
+                },
+                {
+                    "text": "Presentation",
+                    "box": [
+                        147,
+                        221,
+                        245,
+                        241
+                    ]
+                },
+                {
+                    "text": "Date:",
+                    "box": [
+                        246,
+                        219,
+                        285,
+                        239
+                    ]
+                }
+            ],
+            "id": 12,
+            "gaze_during": 353,
+            "fix_id": 3,
+            "tb_id": 7,
+            "s_id": 6,
+            "v3_id": 7,
+            "v1_id": 7,
+            "bert_id": 9,
+            "box_id": 4,
+            "xycut_id": 6
+        },
+        {
+            "text": "Project Title:",
+            "box": [
+                387,
+                218,
+                485,
+                239
+            ],
+            "linking": [
+                [
+                    0,
+                    17
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Project",
+                    "box": [
+                        387,
+                        219,
+                        446,
+                        239
+                    ]
+                },
+                {
+                    "text": "Title:",
+                    "box": [
+                        446,
+                        218,
+                        485,
+                        236
+                    ]
+                }
+            ],
+            "id": 17,
+            "gaze_during": 0,
+            "fix_id": 27,
+            "tb_id": 8,
+            "s_id": 10,
+            "v3_id": 8,
+            "v1_id": 8,
+            "bert_id": 8,
+            "box_id": 11,
+            "xycut_id": 29
+        },
+        {
+            "text": "Estimated Creative Budget:",
+            "box": [
+                68,
+                242,
+                271,
+                262
+            ],
+            "linking": [
+                [
+                    0,
+                    13
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Estimated",
+                    "box": [
+                        68,
+                        243,
+                        146,
+                        261
+                    ]
+                },
+                {
+                    "text": "Creative",
+                    "box": [
+                        147,
+                        242,
+                        211,
+                        262
+                    ]
+                },
+                {
+                    "text": "Budget:",
+                    "box": [
+                        212,
+                        242,
+                        271,
+                        260
+                    ]
+                }
+            ],
+            "id": 13,
+            "gaze_during": 520,
+            "fix_id": 4,
+            "tb_id": 9,
+            "s_id": 9,
+            "v3_id": 9,
+            "v1_id": 11,
+            "bert_id": 7,
+            "box_id": 6,
+            "xycut_id": 5
+        },
+        {
+            "text": "Est. Production Budget:",
+            "box": [
+                388,
+                237,
+                561,
+                257
+            ],
+            "linking": [
+                [
+                    0,
+                    18
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Est.",
+                    "box": [
+                        388,
+                        240,
+                        416,
+                        257
+                    ]
+                },
+                {
+                    "text": "Production",
+                    "box": [
+                        418,
+                        240,
+                        500,
+                        257
+                    ]
+                },
+                {
+                    "text": "Budget:",
+                    "box": [
+                        501,
+                        237,
+                        561,
+                        257
+                    ]
+                }
+            ],
+            "id": 18,
+            "gaze_during": 313,
+            "fix_id": 8,
+            "tb_id": 10,
+            "s_id": 8,
+            "v3_id": 10,
+            "v1_id": 10,
+            "bert_id": 10,
+            "box_id": 8,
+            "xycut_id": 31
+        },
+        {
+            "text": "Concept:",
+            "box": [
+                70,
+                264,
+                129,
+                282
+            ],
+            "linking": [
+                [
+                    0,
+                    14
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Concept:",
+                    "box": [
+                        70,
+                        264,
+                        129,
+                        282
+                    ]
+                }
+            ],
+            "id": 14,
+            "gaze_during": 0,
+            "fix_id": 28,
+            "tb_id": 11,
+            "s_id": 11,
+            "v3_id": 11,
+            "v1_id": 9,
+            "bert_id": 11,
+            "box_id": 12,
+            "xycut_id": 7
+        },
+        {
+            "box": [
+                223,
+                264,
+                291,
+                281
+            ],
+            "text": "Execution:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        223,
+                        264,
+                        291,
+                        281
+                    ],
+                    "text": "Execution:"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    1
+                ]
+            ],
+            "id": 1,
+            "gaze_during": 197,
+            "fix_id": 5,
+            "tb_id": 12,
+            "s_id": 12,
+            "v3_id": 12,
+            "v1_id": 13,
+            "bert_id": 13,
+            "box_id": 10,
+            "xycut_id": 8
+        },
+        {
+            "box": [
+                387,
+                260,
+                441,
+                278
+            ],
+            "text": "Media:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        387,
+                        260,
+                        441,
+                        278
+                    ],
+                    "text": "Media:"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    2
+                ]
+            ],
+            "id": 2,
+            "gaze_during": 0,
+            "fix_id": 29,
+            "tb_id": 13,
+            "s_id": 13,
+            "v3_id": 13,
+            "v1_id": 12,
+            "bert_id": 12,
+            "box_id": 9,
+            "xycut_id": 32
+        },
+        {
+            "box": [
+                89,
+                300,
+                185,
+                314
+            ],
+            "text": "OBJECTIVE",
+            "label": "header",
+            "words": [
+                {
+                    "box": [
+                        89,
+                        300,
+                        185,
+                        314
+                    ],
+                    "text": "OBJECTIVE"
+                }
+            ],
+            "linking": [
+                [
+                    3,
+                    19
+                ],
+                [
+                    3,
+                    41
+                ],
+                [
+                    3,
+                    40
+                ],
+                [
+                    3,
+                    39
+                ],
+                [
+                    3,
+                    38
+                ],
+                [
+                    3,
+                    34
+                ],
+                [
+                    3,
+                    35
+                ],
+                [
+                    3,
+                    36
+                ],
+                [
+                    3,
+                    37
+                ],
+                [
+                    3,
+                    31
+                ],
+                [
+                    3,
+                    32
+                ],
+                [
+                    3,
+                    33
+                ],
+                [
+                    3,
+                    28
+                ],
+                [
+                    3,
+                    29
+                ]
+            ],
+            "id": 3,
+            "gaze_during": 0,
+            "fix_id": 30,
+            "tb_id": 14,
+            "s_id": 15,
+            "v3_id": 14,
+            "v1_id": 15,
+            "bert_id": 14,
+            "box_id": 13,
+            "xycut_id": 9
+        },
+        {
+            "text": "Why are we advertising? What do we plan to achieve?",
+            "box": [
+                68,
+                324,
+                255,
+                357
+            ],
+            "linking": [
+                [
+                    3,
+                    19
+                ],
+                [
+                    19,
+                    30
+                ]
+            ],
+            "label": "header",
+            "words": [
+                {
+                    "text": "Why",
+                    "box": [
+                        68,
+                        325,
+                        103,
+                        345
+                    ]
+                },
+                {
+                    "text": "are",
+                    "box": [
+                        103,
+                        325,
+                        132,
+                        345
+                    ]
+                },
+                {
+                    "text": "we",
+                    "box": [
+                        133,
+                        327,
+                        155,
+                        342
+                    ]
+                },
+                {
+                    "text": "advertising?",
+                    "box": [
+                        156,
+                        324,
+                        255,
+                        342
+                    ]
+                },
+                {
+                    "text": "What",
+                    "box": [
+                        70,
+                        344,
+                        94,
+                        357
+                    ]
+                },
+                {
+                    "text": "do",
+                    "box": [
+                        94,
+                        345,
+                        107,
+                        356
+                    ]
+                },
+                {
+                    "text": "we",
+                    "box": [
+                        109,
+                        345,
+                        120,
+                        356
+                    ]
+                },
+                {
+                    "text": "plan",
+                    "box": [
+                        122,
+                        344,
+                        144,
+                        357
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        141,
+                        345,
+                        151,
+                        356
+                    ]
+                },
+                {
+                    "text": "achieve?",
+                    "box": [
+                        154,
+                        342,
+                        193,
+                        356
+                    ]
+                }
+            ],
+            "id": 19,
+            "gaze_during": 0,
+            "fix_id": 31,
+            "tb_id": 15,
+            "s_id": 14,
+            "v3_id": 15,
+            "v1_id": 14,
+            "bert_id": 17,
+            "box_id": 14,
+            "xycut_id": 10
+        },
+        {
+            "text": "☐ Relationship-Building",
+            "box": [
+                110,
+                362,
+                214,
+                376
+            ],
+            "linking": [
+                [
+                    3,
+                    41
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        110,
+                        362,
+                        120,
+                        375
+                    ]
+                },
+                {
+                    "text": "Relationship-Building",
+                    "box": [
+                        122,
+                        363,
+                        214,
+                        376
+                    ]
+                }
+            ],
+            "id": 41,
+            "gaze_during": 566,
+            "fix_id": 12,
+            "tb_id": 16,
+            "s_id": 17,
+            "v3_id": 16,
+            "v1_id": 16,
+            "bert_id": 16,
+            "box_id": 16,
+            "xycut_id": 11
+        },
+        {
+            "text": "☐ Competitive Blocking",
+            "box": [
+                110,
+                377,
+                214,
+                389
+            ],
+            "linking": [
+                [
+                    3,
+                    40
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        110,
+                        378,
+                        120,
+                        388
+                    ]
+                },
+                {
+                    "text": "Competitive",
+                    "box": [
+                        122,
+                        378,
+                        172,
+                        389
+                    ]
+                },
+                {
+                    "text": "Blocking",
+                    "box": [
+                        173,
+                        377,
+                        214,
+                        388
+                    ]
+                }
+            ],
+            "id": 40,
+            "gaze_during": 343,
+            "fix_id": 11,
+            "tb_id": 17,
+            "s_id": 19,
+            "v3_id": 17,
+            "v1_id": 17,
+            "bert_id": 15,
+            "box_id": 19,
+            "xycut_id": 12
+        },
+        {
+            "text": "☐ Cross-Sell",
+            "box": [
+                291,
+                376,
+                350,
+                387
+            ],
+            "linking": [
+                [
+                    3,
+                    35
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        291,
+                        376,
+                        304,
+                        387
+                    ]
+                },
+                {
+                    "text": "Cross-Sell",
+                    "box": [
+                        303,
+                        376,
+                        350,
+                        387
+                    ]
+                }
+            ],
+            "id": 35,
+            "gaze_during": 223,
+            "fix_id": 13,
+            "tb_id": 18,
+            "s_id": 21,
+            "v3_id": 18,
+            "v1_id": 19,
+            "bert_id": 20,
+            "box_id": 17,
+            "xycut_id": 13
+        },
+        {
+            "text": "☐ Retention",
+            "box": [
+                293,
+                360,
+                345,
+                375
+            ],
+            "linking": [
+                [
+                    3,
+                    34
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        293,
+                        362,
+                        303,
+                        373
+                    ]
+                },
+                {
+                    "text": "Retention",
+                    "box": [
+                        304,
+                        360,
+                        345,
+                        375
+                    ]
+                }
+            ],
+            "id": 34,
+            "gaze_during": 0,
+            "fix_id": 32,
+            "tb_id": 19,
+            "s_id": 23,
+            "v3_id": 19,
+            "v1_id": 18,
+            "bert_id": 19,
+            "box_id": 18,
+            "xycut_id": 14
+        },
+        {
+            "text": "☐ Acquisition",
+            "box": [
+                430,
+                362,
+                488,
+                373
+            ],
+            "linking": [
+                [
+                    3,
+                    31
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        430,
+                        362,
+                        441,
+                        372
+                    ]
+                },
+                {
+                    "text": "Acquisition",
+                    "box": [
+                        441,
+                        362,
+                        488,
+                        373
+                    ]
+                }
+            ],
+            "id": 31,
+            "gaze_during": 0,
+            "fix_id": 33,
+            "tb_id": 20,
+            "s_id": 25,
+            "v3_id": 20,
+            "v1_id": 20,
+            "bert_id": 18,
+            "box_id": 20,
+            "xycut_id": 33
+        },
+        {
+            "text": "☐ Up-Sell",
+            "box": [
+                430,
+                374,
+                477,
+                387
+            ],
+            "linking": [
+                [
+                    3,
+                    32
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        430,
+                        376,
+                        440,
+                        386
+                    ]
+                },
+                {
+                    "text": "Up-Sell",
+                    "box": [
+                        443,
+                        374,
+                        477,
+                        387
+                    ]
+                }
+            ],
+            "id": 32,
+            "gaze_during": 297,
+            "fix_id": 14,
+            "tb_id": 21,
+            "s_id": 27,
+            "v3_id": 21,
+            "v1_id": 21,
+            "bert_id": 21,
+            "box_id": 21,
+            "xycut_id": 34
+        },
+        {
+            "text": "☐ Loyalty",
+            "box": [
+                559,
+                359,
+                603,
+                373
+            ],
+            "linking": [
+                [
+                    3,
+                    28
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        559,
+                        359,
+                        570,
+                        370
+                    ]
+                },
+                {
+                    "text": "Loyalty",
+                    "box": [
+                        568,
+                        359,
+                        603,
+                        373
+                    ]
+                }
+            ],
+            "id": 28,
+            "gaze_during": 0,
+            "fix_id": 34,
+            "tb_id": 22,
+            "s_id": 29,
+            "v3_id": 22,
+            "v1_id": 24,
+            "bert_id": 22,
+            "box_id": 22,
+            "xycut_id": 38
+        },
+        {
+            "text": "☐ New Product/Package Intro.",
+            "box": [
+                109,
+                391,
+                242,
+                405
+            ],
+            "linking": [
+                [
+                    3,
+                    39
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        109,
+                        391,
+                        120,
+                        402
+                    ]
+                },
+                {
+                    "text": "New",
+                    "box": [
+                        122,
+                        391,
+                        143,
+                        405
+                    ]
+                },
+                {
+                    "text": "Product/Package",
+                    "box": [
+                        144,
+                        391,
+                        217,
+                        404
+                    ]
+                },
+                {
+                    "text": "Intro.",
+                    "box": [
+                        218,
+                        391,
+                        242,
+                        404
+                    ]
+                }
+            ],
+            "id": 39,
+            "gaze_during": 467,
+            "fix_id": 9,
+            "tb_id": 23,
+            "s_id": 31,
+            "v3_id": 23,
+            "v1_id": 23,
+            "bert_id": 23,
+            "box_id": 23,
+            "xycut_id": 15
+        },
+        {
+            "text": "☐ Direct Sale",
+            "box": [
+                291,
+                390,
+                352,
+                404
+            ],
+            "linking": [
+                [
+                    3,
+                    36
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        291,
+                        390,
+                        302,
+                        401
+                    ]
+                },
+                {
+                    "text": "Direct",
+                    "box": [
+                        303,
+                        390,
+                        330,
+                        404
+                    ]
+                },
+                {
+                    "text": "Sale",
+                    "box": [
+                        331,
+                        390,
+                        352,
+                        401
+                    ]
+                }
+            ],
+            "id": 36,
+            "gaze_during": 690,
+            "fix_id": 16,
+            "tb_id": 24,
+            "s_id": 33,
+            "v3_id": 24,
+            "v1_id": 22,
+            "bert_id": 25,
+            "box_id": 24,
+            "xycut_id": 17
+        },
+        {
+            "text": "☐ Awareness",
+            "box": [
+                430,
+                390,
+                490,
+                401
+            ],
+            "linking": [
+                [
+                    3,
+                    33
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        430,
+                        390,
+                        441,
+                        400
+                    ]
+                },
+                {
+                    "text": "Awareness",
+                    "box": [
+                        443,
+                        390,
+                        490,
+                        401
+                    ]
+                }
+            ],
+            "id": 33,
+            "gaze_during": 0,
+            "fix_id": 35,
+            "tb_id": 25,
+            "s_id": 35,
+            "v3_id": 25,
+            "v1_id": 25,
+            "bert_id": 24,
+            "box_id": 25,
+            "xycut_id": 35
+        },
+        {
+            "text": "☐ Lead Generation",
+            "box": [
+                559,
+                374,
+                653,
+                387
+            ],
+            "linking": [
+                [
+                    3,
+                    29
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        559,
+                        374,
+                        569,
+                        384
+                    ]
+                },
+                {
+                    "text": "Lead",
+                    "box": [
+                        573,
+                        374,
+                        601,
+                        385
+                    ]
+                },
+                {
+                    "text": "Generation",
+                    "box": [
+                        601,
+                        374,
+                        653,
+                        387
+                    ]
+                }
+            ],
+            "id": 29,
+            "gaze_during": 0,
+            "fix_id": 36,
+            "tb_id": 26,
+            "s_id": 37,
+            "v3_id": 26,
+            "v1_id": 26,
+            "bert_id": 27,
+            "box_id": 26,
+            "xycut_id": 39
+        },
+        {
+            "text": "☐ Change Image Perception",
+            "box": [
+                110,
+                406,
+                236,
+                417
+            ],
+            "linking": [
+                [
+                    3,
+                    38
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        110,
+                        406,
+                        120,
+                        417
+                    ]
+                },
+                {
+                    "text": "Change",
+                    "box": [
+                        122,
+                        406,
+                        157,
+                        417
+                    ]
+                },
+                {
+                    "text": "Image",
+                    "box": [
+                        158,
+                        406,
+                        186,
+                        417
+                    ]
+                },
+                {
+                    "text": "Perception",
+                    "box": [
+                        186,
+                        406,
+                        236,
+                        416
+                    ]
+                }
+            ],
+            "id": 38,
+            "gaze_during": 467,
+            "fix_id": 10,
+            "tb_id": 27,
+            "s_id": 39,
+            "v3_id": 27,
+            "v1_id": 27,
+            "bert_id": 26,
+            "box_id": 27,
+            "xycut_id": 16
+        },
+        {
+            "text": "☐ Other",
+            "box": [
+                293,
+                404,
+                331,
+                415
+            ],
+            "linking": [
+                [
+                    3,
+                    37
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        293,
+                        405,
+                        301,
+                        415
+                    ]
+                },
+                {
+                    "text": "Other",
+                    "box": [
+                        302,
+                        404,
+                        331,
+                        415
+                    ]
+                }
+            ],
+            "id": 37,
+            "gaze_during": 690,
+            "fix_id": 17,
+            "tb_id": 28,
+            "s_id": 41,
+            "v3_id": 28,
+            "v1_id": 28,
+            "bert_id": 28,
+            "box_id": 28,
+            "xycut_id": 18
+        },
+        {
+            "text": "☐ Trial",
+            "box": [
+                559,
+                387,
+                592,
+                400
+            ],
+            "linking": [
+                [
+                    19,
+                    30
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "☐",
+                    "box": [
+                        559,
+                        390,
+                        569,
+                        398
+                    ]
+                },
+                {
+                    "text": "Trial",
+                    "box": [
+                        571,
+                        387,
+                        592,
+                        400
+                    ]
+                }
+            ],
+            "id": 30,
+            "gaze_during": 163,
+            "fix_id": 15,
+            "tb_id": 29,
+            "s_id": 43,
+            "v3_id": 29,
+            "v1_id": 29,
+            "bert_id": 29,
+            "box_id": 29,
+            "xycut_id": 40
+        },
+        {
+            "box": [
+                103,
+                439,
+                171,
+                454
+            ],
+            "text": "TARGET",
+            "label": "header",
+            "words": [
+                {
+                    "box": [
+                        103,
+                        439,
+                        171,
+                        454
+                    ],
+                    "text": "TARGET"
+                }
+            ],
+            "linking": [
+                [
+                    4,
+                    20
+                ]
+            ],
+            "id": 4,
+            "gaze_during": 0,
+            "fix_id": 37,
+            "tb_id": 30,
+            "s_id": 44,
+            "v3_id": 30,
+            "v1_id": 32,
+            "bert_id": 30,
+            "box_id": 30,
+            "xycut_id": 19
+        },
+        {
+            "text": "To whom are we talking? Who is the primary target? Is there a secondary target? What is their relationship to the brand what do they currently think about it?",
+            "box": [
+                73,
+                462,
+                647,
+                496
+            ],
+            "linking": [
+                [
+                    4,
+                    20
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "To",
+                    "box": [
+                        73,
+                        464,
+                        95,
+                        484
+                    ]
+                },
+                {
+                    "text": "whom",
+                    "box": [
+                        96,
+                        465,
+                        142,
+                        483
+                    ]
+                },
+                {
+                    "text": "are",
+                    "box": [
+                        142,
+                        465,
+                        170,
+                        482
+                    ]
+                },
+                {
+                    "text": "we",
+                    "box": [
+                        172,
+                        466,
+                        193,
+                        483
+                    ]
+                },
+                {
+                    "text": "talking?",
+                    "box": [
+                        196,
+                        462,
+                        260,
+                        482
+                    ]
+                },
+                {
+                    "text": "Who",
+                    "box": [
+                        74,
+                        483,
+                        94,
+                        494
+                    ]
+                },
+                {
+                    "text": "is",
+                    "box": [
+                        94,
+                        483,
+                        105,
+                        493
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        105,
+                        485,
+                        120,
+                        495
+                    ]
+                },
+                {
+                    "text": "primary",
+                    "box": [
+                        120,
+                        485,
+                        155,
+                        496
+                    ]
+                },
+                {
+                    "text": "target?",
+                    "box": [
+                        155,
+                        483,
+                        189,
+                        494
+                    ]
+                },
+                {
+                    "text": "Is",
+                    "box": [
+                        189,
+                        483,
+                        197,
+                        493
+                    ]
+                },
+                {
+                    "text": "there",
+                    "box": [
+                        197,
+                        483,
+                        221,
+                        493
+                    ]
+                },
+                {
+                    "text": "a",
+                    "box": [
+                        222,
+                        483,
+                        229,
+                        494
+                    ]
+                },
+                {
+                    "text": "secondary",
+                    "box": [
+                        229,
+                        483,
+                        275,
+                        493
+                    ]
+                },
+                {
+                    "text": "target?",
+                    "box": [
+                        275,
+                        483,
+                        309,
+                        494
+                    ]
+                },
+                {
+                    "text": "What",
+                    "box": [
+                        309,
+                        482,
+                        334,
+                        495
+                    ]
+                },
+                {
+                    "text": "is",
+                    "box": [
+                        334,
+                        482,
+                        342,
+                        493
+                    ]
+                },
+                {
+                    "text": "their",
+                    "box": [
+                        342,
+                        482,
+                        364,
+                        492
+                    ]
+                },
+                {
+                    "text": "relationship",
+                    "box": [
+                        365,
+                        480,
+                        414,
+                        493
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        413,
+                        482,
+                        426,
+                        493
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        425,
+                        480,
+                        443,
+                        490
+                    ]
+                },
+                {
+                    "text": "brand",
+                    "box": [
+                        441,
+                        480,
+                        470,
+                        491
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        471,
+                        482,
+                        491,
+                        490
+                    ]
+                },
+                {
+                    "text": "what",
+                    "box": [
+                        490,
+                        482,
+                        512,
+                        492
+                    ]
+                },
+                {
+                    "text": "do",
+                    "box": [
+                        513,
+                        479,
+                        526,
+                        492
+                    ]
+                },
+                {
+                    "text": "they",
+                    "box": [
+                        525,
+                        480,
+                        546,
+                        493
+                    ]
+                },
+                {
+                    "text": "currently",
+                    "box": [
+                        545,
+                        480,
+                        586,
+                        493
+                    ]
+                },
+                {
+                    "text": "think",
+                    "box": [
+                        585,
+                        479,
+                        607,
+                        492
+                    ]
+                },
+                {
+                    "text": "about",
+                    "box": [
+                        608,
+                        480,
+                        633,
+                        491
+                    ]
+                },
+                {
+                    "text": "it?",
+                    "box": [
+                        634,
+                        478,
+                        647,
+                        492
+                    ]
+                }
+            ],
+            "id": 20,
+            "gaze_during": 0,
+            "fix_id": 38,
+            "tb_id": 31,
+            "s_id": 45,
+            "v3_id": 31,
+            "v1_id": 31,
+            "bert_id": 32,
+            "box_id": 31,
+            "xycut_id": 20
+        },
+        {
+            "box": [
+                95,
+                549,
+                211,
+                564
+            ],
+            "text": "COMMUNICATION",
+            "label": "header",
+            "words": [
+                {
+                    "box": [
+                        95,
+                        549,
+                        211,
+                        564
+                    ],
+                    "text": "COMMUNICATION"
+                }
+            ],
+            "linking": [
+                [
+                    5,
+                    21
+                ],
+                [
+                    5,
+                    22
+                ],
+                [
+                    5,
+                    23
+                ],
+                [
+                    5,
+                    24
+                ]
+            ],
+            "id": 5,
+            "gaze_during": 0,
+            "fix_id": 39,
+            "tb_id": 32,
+            "s_id": 46,
+            "v3_id": 32,
+            "v1_id": 30,
+            "bert_id": 31,
+            "box_id": 32,
+            "xycut_id": 21
+        },
+        {
+            "box": [
+                211,
+                546,
+                278,
+                566
+            ],
+            "text": "PLATFORM",
+            "label": "header",
+            "words": [
+                {
+                    "box": [
+                        211,
+                        546,
+                        278,
+                        566
+                    ],
+                    "text": "PLATFORM"
+                }
+            ],
+            "linking": [],
+            "id": 6,
+            "gaze_during": 130,
+            "fix_id": 18,
+            "tb_id": 33,
+            "s_id": 47,
+            "v3_id": 33,
+            "v1_id": 35,
+            "bert_id": 33,
+            "box_id": 33,
+            "xycut_id": 22
+        },
+        {
+            "text": "What is the single most important message/idea we are trying to communicate? What is the unique selling position that will help us achieve our advertising goal? Are there any secondary messages?",
+            "box": [
+                74,
+                570,
+                669,
+                607
+            ],
+            "linking": [
+                [
+                    5,
+                    21
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "What",
+                    "box": [
+                        74,
+                        575,
+                        116,
+                        593
+                    ]
+                },
+                {
+                    "text": "is",
+                    "box": [
+                        117,
+                        577,
+                        132,
+                        595
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        134,
+                        577,
+                        163,
+                        591
+                    ]
+                },
+                {
+                    "text": "single",
+                    "box": [
+                        162,
+                        574,
+                        208,
+                        592
+                    ]
+                },
+                {
+                    "text": "most",
+                    "box": [
+                        211,
+                        575,
+                        252,
+                        592
+                    ]
+                },
+                {
+                    "text": "important",
+                    "box": [
+                        253,
+                        573,
+                        328,
+                        593
+                    ]
+                },
+                {
+                    "text": "message/idea",
+                    "box": [
+                        328,
+                        574,
+                        437,
+                        591
+                    ]
+                },
+                {
+                    "text": "we",
+                    "box": [
+                        437,
+                        574,
+                        462,
+                        591
+                    ]
+                },
+                {
+                    "text": "are",
+                    "box": [
+                        461,
+                        574,
+                        488,
+                        589
+                    ]
+                },
+                {
+                    "text": "trying",
+                    "box": [
+                        490,
+                        571,
+                        536,
+                        591
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        536,
+                        574,
+                        554,
+                        588
+                    ]
+                },
+                {
+                    "text": "communicate?",
+                    "box": [
+                        556,
+                        570,
+                        669,
+                        590
+                    ]
+                },
+                {
+                    "text": "What",
+                    "box": [
+                        75,
+                        594,
+                        97,
+                        605
+                    ]
+                },
+                {
+                    "text": "is",
+                    "box": [
+                        98,
+                        594,
+                        108,
+                        604
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        109,
+                        594,
+                        123,
+                        604
+                    ]
+                },
+                {
+                    "text": "unique",
+                    "box": [
+                        124,
+                        594,
+                        153,
+                        607
+                    ]
+                },
+                {
+                    "text": "selling",
+                    "box": [
+                        155,
+                        594,
+                        183,
+                        605
+                    ]
+                },
+                {
+                    "text": "position",
+                    "box": [
+                        184,
+                        592,
+                        218,
+                        606
+                    ]
+                },
+                {
+                    "text": "that",
+                    "box": [
+                        221,
+                        591,
+                        241,
+                        605
+                    ]
+                },
+                {
+                    "text": "will",
+                    "box": [
+                        240,
+                        591,
+                        254,
+                        604
+                    ]
+                },
+                {
+                    "text": "help",
+                    "box": [
+                        256,
+                        591,
+                        274,
+                        604
+                    ]
+                },
+                {
+                    "text": "us",
+                    "box": [
+                        275,
+                        594,
+                        288,
+                        605
+                    ]
+                },
+                {
+                    "text": "achieve",
+                    "box": [
+                        288,
+                        594,
+                        323,
+                        605
+                    ]
+                },
+                {
+                    "text": "our",
+                    "box": [
+                        323,
+                        592,
+                        340,
+                        603
+                    ]
+                },
+                {
+                    "text": "advertising",
+                    "box": [
+                        342,
+                        591,
+                        388,
+                        604
+                    ]
+                },
+                {
+                    "text": "goal?",
+                    "box": [
+                        390,
+                        591,
+                        412,
+                        605
+                    ]
+                },
+                {
+                    "text": "Are",
+                    "box": [
+                        415,
+                        591,
+                        432,
+                        604
+                    ]
+                },
+                {
+                    "text": "there",
+                    "box": [
+                        432,
+                        591,
+                        456,
+                        604
+                    ]
+                },
+                {
+                    "text": "any",
+                    "box": [
+                        457,
+                        592,
+                        472,
+                        603
+                    ]
+                },
+                {
+                    "text": "secondary",
+                    "box": [
+                        475,
+                        591,
+                        520,
+                        604
+                    ]
+                },
+                {
+                    "text": "messages?",
+                    "box": [
+                        521,
+                        589,
+                        570,
+                        603
+                    ]
+                }
+            ],
+            "id": 21,
+            "gaze_during": 303,
+            "fix_id": 19,
+            "tb_id": 34,
+            "s_id": 48,
+            "v3_id": 34,
+            "v1_id": 34,
+            "bert_id": 35,
+            "box_id": 34,
+            "xycut_id": 23
+        },
+        {
+            "text": "What is the key benefit to the target? What's in it for the reader?",
+            "box": [
+                74,
+                638,
+                350,
+                671
+            ],
+            "linking": [
+                [
+                    5,
+                    22
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "What",
+                    "box": [
+                        75,
+                        640,
+                        118,
+                        658
+                    ]
+                },
+                {
+                    "text": "is",
+                    "box": [
+                        116,
+                        638,
+                        133,
+                        658
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        133,
+                        641,
+                        162,
+                        658
+                    ]
+                },
+                {
+                    "text": "key",
+                    "box": [
+                        161,
+                        638,
+                        190,
+                        658
+                    ]
+                },
+                {
+                    "text": "benefit",
+                    "box": [
+                        191,
+                        638,
+                        248,
+                        658
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        247,
+                        638,
+                        264,
+                        658
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        267,
+                        640,
+                        291,
+                        658
+                    ]
+                },
+                {
+                    "text": "target?",
+                    "box": [
+                        293,
+                        640,
+                        350,
+                        658
+                    ]
+                },
+                {
+                    "text": "What's",
+                    "box": [
+                        74,
+                        659,
+                        106,
+                        669
+                    ]
+                },
+                {
+                    "text": "in",
+                    "box": [
+                        105,
+                        658,
+                        116,
+                        671
+                    ]
+                },
+                {
+                    "text": "it",
+                    "box": [
+                        115,
+                        658,
+                        123,
+                        671
+                    ]
+                },
+                {
+                    "text": "for",
+                    "box": [
+                        124,
+                        659,
+                        135,
+                        669
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        135,
+                        658,
+                        153,
+                        669
+                    ]
+                },
+                {
+                    "text": "reader?",
+                    "box": [
+                        152,
+                        656,
+                        187,
+                        669
+                    ]
+                }
+            ],
+            "id": 22,
+            "gaze_during": 397,
+            "fix_id": 20,
+            "tb_id": 35,
+            "s_id": 49,
+            "v3_id": 35,
+            "v1_id": 33,
+            "bert_id": 34,
+            "box_id": 35,
+            "xycut_id": 24
+        },
+        {
+            "text": "Is there an offer/call to action? What are we offering the target to persuade him/her to act now? (A premium, sweepstakes, limited-time offer, free information, or something else?",
+            "box": [
+                74,
+                703,
+                674,
+                736
+            ],
+            "linking": [
+                [
+                    5,
+                    23
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Is",
+                    "box": [
+                        75,
+                        703,
+                        92,
+                        723
+                    ]
+                },
+                {
+                    "text": "there",
+                    "box": [
+                        94,
+                        705,
+                        136,
+                        723
+                    ]
+                },
+                {
+                    "text": "an",
+                    "box": [
+                        135,
+                        705,
+                        157,
+                        722
+                    ]
+                },
+                {
+                    "text": "offer/call",
+                    "box": [
+                        158,
+                        704,
+                        232,
+                        724
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        233,
+                        704,
+                        248,
+                        722
+                    ]
+                },
+                {
+                    "text": "action?",
+                    "box": [
+                        251,
+                        704,
+                        310,
+                        722
+                    ]
+                },
+                {
+                    "text": "What",
+                    "box": [
+                        74,
+                        723,
+                        98,
+                        734
+                    ]
+                },
+                {
+                    "text": "are",
+                    "box": [
+                        98,
+                        723,
+                        115,
+                        734
+                    ]
+                },
+                {
+                    "text": "we",
+                    "box": [
+                        115,
+                        722,
+                        128,
+                        733
+                    ]
+                },
+                {
+                    "text": "offering",
+                    "box": [
+                        130,
+                        722,
+                        162,
+                        736
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        162,
+                        722,
+                        176,
+                        733
+                    ]
+                },
+                {
+                    "text": "target",
+                    "box": [
+                        177,
+                        723,
+                        202,
+                        734
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        203,
+                        723,
+                        213,
+                        734
+                    ]
+                },
+                {
+                    "text": "persuade",
+                    "box": [
+                        214,
+                        722,
+                        256,
+                        733
+                    ]
+                },
+                {
+                    "text": "him/her",
+                    "box": [
+                        254,
+                        722,
+                        288,
+                        733
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        288,
+                        723,
+                        298,
+                        731
+                    ]
+                },
+                {
+                    "text": "act",
+                    "box": [
+                        299,
+                        722,
+                        312,
+                        732
+                    ]
+                },
+                {
+                    "text": "now?",
+                    "box": [
+                        314,
+                        721,
+                        338,
+                        734
+                    ]
+                },
+                {
+                    "text": "(A",
+                    "box": [
+                        338,
+                        719,
+                        351,
+                        734
+                    ]
+                },
+                {
+                    "text": "premium,",
+                    "box": [
+                        351,
+                        721,
+                        390,
+                        732
+                    ]
+                },
+                {
+                    "text": "sweepstakes,",
+                    "box": [
+                        391,
+                        721,
+                        448,
+                        734
+                    ]
+                },
+                {
+                    "text": "limited-time",
+                    "box": [
+                        448,
+                        718,
+                        500,
+                        733
+                    ]
+                },
+                {
+                    "text": "offer,",
+                    "box": [
+                        500,
+                        721,
+                        524,
+                        732
+                    ]
+                },
+                {
+                    "text": "free",
+                    "box": [
+                        524,
+                        719,
+                        542,
+                        732
+                    ]
+                },
+                {
+                    "text": "information,",
+                    "box": [
+                        541,
+                        719,
+                        593,
+                        730
+                    ]
+                },
+                {
+                    "text": "or",
+                    "box": [
+                        594,
+                        721,
+                        605,
+                        731
+                    ]
+                },
+                {
+                    "text": "something",
+                    "box": [
+                        603,
+                        719,
+                        649,
+                        730
+                    ]
+                },
+                {
+                    "text": "else?",
+                    "box": [
+                        649,
+                        719,
+                        674,
+                        730
+                    ]
+                }
+            ],
+            "id": 23,
+            "gaze_during": 450,
+            "fix_id": 21,
+            "tb_id": 36,
+            "s_id": 50,
+            "v3_id": 36,
+            "v1_id": 36,
+            "bert_id": 37,
+            "box_id": 36,
+            "xycut_id": 25
+        },
+        {
+            "text": "What would we like our target to think? What would our target say after being exposed to our program?",
+            "box": [
+                75,
+                765,
+                366,
+                799
+            ],
+            "linking": [
+                [
+                    5,
+                    24
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "What",
+                    "box": [
+                        75,
+                        767,
+                        116,
+                        788
+                    ]
+                },
+                {
+                    "text": "would",
+                    "box": [
+                        117,
+                        770,
+                        164,
+                        785
+                    ]
+                },
+                {
+                    "text": "we",
+                    "box": [
+                        165,
+                        770,
+                        189,
+                        787
+                    ]
+                },
+                {
+                    "text": "like",
+                    "box": [
+                        189,
+                        768,
+                        220,
+                        785
+                    ]
+                },
+                {
+                    "text": "our",
+                    "box": [
+                        219,
+                        768,
+                        248,
+                        785
+                    ]
+                },
+                {
+                    "text": "target",
+                    "box": [
+                        250,
+                        767,
+                        296,
+                        787
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        297,
+                        767,
+                        314,
+                        784
+                    ]
+                },
+                {
+                    "text": "think?",
+                    "box": [
+                        314,
+                        765,
+                        366,
+                        786
+                    ]
+                },
+                {
+                    "text": "What",
+                    "box": [
+                        75,
+                        786,
+                        99,
+                        797
+                    ]
+                },
+                {
+                    "text": "would",
+                    "box": [
+                        99,
+                        786,
+                        126,
+                        799
+                    ]
+                },
+                {
+                    "text": "our",
+                    "box": [
+                        126,
+                        789,
+                        143,
+                        799
+                    ]
+                },
+                {
+                    "text": "target",
+                    "box": [
+                        142,
+                        786,
+                        169,
+                        797
+                    ]
+                },
+                {
+                    "text": "say",
+                    "box": [
+                        170,
+                        788,
+                        184,
+                        798
+                    ]
+                },
+                {
+                    "text": "after",
+                    "box": [
+                        187,
+                        786,
+                        207,
+                        797
+                    ]
+                },
+                {
+                    "text": "being",
+                    "box": [
+                        208,
+                        786,
+                        233,
+                        799
+                    ]
+                },
+                {
+                    "text": "exposed",
+                    "box": [
+                        235,
+                        786,
+                        273,
+                        799
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        272,
+                        786,
+                        285,
+                        797
+                    ]
+                },
+                {
+                    "text": "our",
+                    "box": [
+                        284,
+                        786,
+                        299,
+                        797
+                    ]
+                },
+                {
+                    "text": "program?",
+                    "box": [
+                        300,
+                        786,
+                        342,
+                        797
+                    ]
+                }
+            ],
+            "id": 24,
+            "gaze_during": 1350,
+            "fix_id": 22,
+            "tb_id": 37,
+            "s_id": 51,
+            "v3_id": 37,
+            "v1_id": 37,
+            "bert_id": 36,
+            "box_id": 37,
+            "xycut_id": 26
+        },
+        {
+            "box": [
+                524,
+                866,
+                549,
+                968
+            ],
+            "text": "86079776",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        524,
+                        866,
+                        549,
+                        968
+                    ],
+                    "text": "86079776"
+                }
+            ],
+            "linking": [],
+            "id": 7,
+            "gaze_during": 523,
+            "fix_id": 23,
+            "tb_id": 38,
+            "s_id": 52,
+            "v3_id": 38,
+            "v1_id": 38,
+            "bert_id": 38,
+            "box_id": 38,
+            "xycut_id": 37
+        },
+        {
+            "text": "c:\\my documents\\wp\\sample cid. doc",
+            "box": [
+                67,
+                932,
+                243,
+                947
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "c:\\my",
+                    "box": [
+                        67,
+                        934,
+                        96,
+                        947
+                    ]
+                },
+                {
+                    "text": "documents\\wp\\sample",
+                    "box": [
+                        98,
+                        932,
+                        204,
+                        947
+                    ]
+                },
+                {
+                    "text": "cid.",
+                    "box": [
+                        207,
+                        933,
+                        225,
+                        946
+                    ]
+                },
+                {
+                    "text": "doc",
+                    "box": [
+                        225,
+                        933,
+                        243,
+                        944
+                    ]
+                }
+            ],
+            "id": 25,
+            "gaze_during": 0,
+            "fix_id": 40,
+            "tb_id": 39,
+            "s_id": 53,
+            "v3_id": 39,
+            "v1_id": 39,
+            "bert_id": 40,
+            "box_id": 39,
+            "xycut_id": 27
+        },
+        {
+            "text": "1 of 2",
+            "box": [
+                363,
+                930,
+                393,
+                944
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1",
+                    "box": [
+                        363,
+                        933,
+                        371,
+                        944
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        373,
+                        930,
+                        386,
+                        944
+                    ]
+                },
+                {
+                    "text": "2",
+                    "box": [
+                        385,
+                        930,
+                        393,
+                        944
+                    ]
+                }
+            ],
+            "id": 26,
+            "gaze_during": 0,
+            "fix_id": 41,
+            "tb_id": 40,
+            "s_id": 54,
+            "v3_id": 40,
+            "v1_id": 40,
+            "bert_id": 39,
+            "box_id": 40,
+            "xycut_id": 36
+        },
+        {
+            "text": "10/30/98 01:46 PM",
+            "box": [
+                598,
+                930,
+                695,
+                944
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "10/30/98",
+                    "box": [
+                        598,
+                        930,
+                        643,
+                        944
+                    ]
+                },
+                {
+                    "text": "01:46",
+                    "box": [
+                        648,
+                        930,
+                        676,
+                        943
+                    ]
+                },
+                {
+                    "text": "PM",
+                    "box": [
+                        677,
+                        930,
+                        695,
+                        943
+                    ]
+                }
+            ],
+            "id": 27,
+            "gaze_during": 123,
+            "fix_id": 24,
+            "tb_id": 41,
+            "s_id": 55,
+            "v3_id": 41,
+            "v1_id": 41,
+            "bert_id": 41,
+            "box_id": 41,
+            "xycut_id": 41
+        }
+    ]
+}

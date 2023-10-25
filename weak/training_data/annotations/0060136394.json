@@ -1,0 +1,1542 @@
+{
+    "form": [
+        {
+            "box": [
+                36,
+                10,
+                56,
+                18
+            ],
+            "text": "RS",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        36,
+                        10,
+                        56,
+                        18
+                    ],
+                    "text": "RS"
+                }
+            ],
+            "linking": [],
+            "id": 9,
+            "gaze_during": 0,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 0,
+            "box_id": 1,
+            "xycut_id": 0
+        },
+        {
+            "box": [
+                85,
+                20,
+                123,
+                37
+            ],
+            "text": "RS#39",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        85,
+                        20,
+                        123,
+                        37
+                    ],
+                    "text": "RS#39"
+                }
+            ],
+            "linking": [],
+            "id": 8,
+            "gaze_during": 167,
+            "fix_id": 25,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 1,
+            "v1_id": 3,
+            "bert_id": 1,
+            "box_id": 5,
+            "xycut_id": 1
+        },
+        {
+            "text": "WHAS 11/3/56 10/26/57",
+            "box": [
+                654,
+                10,
+                715,
+                74
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "WHAS",
+                    "box": [
+                        658,
+                        10,
+                        714,
+                        27
+                    ]
+                },
+                {
+                    "text": "11/3/56",
+                    "box": [
+                        654,
+                        34,
+                        706,
+                        49
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        659,
+                        50,
+                        709,
+                        58
+                    ]
+                },
+                {
+                    "text": "10/26/57",
+                    "box": [
+                        654,
+                        59,
+                        715,
+                        74
+                    ]
+                }
+            ],
+            "id": 12,
+            "gaze_during": 600,
+            "fix_id": 1,
+            "tb_id": 2,
+            "s_id": 2,
+            "v3_id": 2,
+            "v1_id": 2,
+            "bert_id": 2,
+            "box_id": 0,
+            "xycut_id": 26
+        },
+        {
+            "text": "Batten, Barton, Durstine & Osborn INCORPORATED CHANGE IN RADIO SCHEDULE",
+            "box": [
+                209,
+                57,
+                716,
+                131
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "Batten,",
+                    "box": [
+                        282,
+                        57,
+                        352,
+                        82
+                    ]
+                },
+                {
+                    "text": "Barton,",
+                    "box": [
+                        358,
+                        63,
+                        433,
+                        87
+                    ]
+                },
+                {
+                    "text": "Durstine",
+                    "box": [
+                        443,
+                        60,
+                        525,
+                        85
+                    ]
+                },
+                {
+                    "text": "&",
+                    "box": [
+                        534,
+                        60,
+                        555,
+                        80
+                    ]
+                },
+                {
+                    "text": "Osborn",
+                    "box": [
+                        563,
+                        60,
+                        638,
+                        82
+                    ]
+                },
+                {
+                    "text": "INCORPORATED",
+                    "box": [
+                        425,
+                        84,
+                        505,
+                        98
+                    ]
+                },
+                {
+                    "text": "CHANGE",
+                    "box": [
+                        209,
+                        106,
+                        342,
+                        130
+                    ]
+                },
+                {
+                    "text": "IN",
+                    "box": [
+                        359,
+                        106,
+                        398,
+                        127
+                    ]
+                },
+                {
+                    "text": "RADIO",
+                    "box": [
+                        422,
+                        106,
+                        527,
+                        131
+                    ]
+                },
+                {
+                    "text": "SCHEDULE",
+                    "box": [
+                        550,
+                        108,
+                        716,
+                        128
+                    ]
+                }
+            ],
+            "id": 11,
+            "gaze_during": 1587,
+            "fix_id": 2,
+            "tb_id": 3,
+            "s_id": 3,
+            "v3_id": 3,
+            "v1_id": 1,
+            "bert_id": 3,
+            "box_id": 12,
+            "xycut_id": 7
+        },
+        {
+            "text": "M. BOGGIANO Director) FRANK TOWERS",
+            "box": [
+                36,
+                94,
+                144,
+                139
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "",
+                    "box": [
+                        36,
+                        98,
+                        53,
+                        106
+                    ]
+                },
+                {
+                    "text": "M.",
+                    "box": [
+                        56,
+                        96,
+                        74,
+                        109
+                    ]
+                },
+                {
+                    "text": "BOGGIANO",
+                    "box": [
+                        78,
+                        94,
+                        139,
+                        111
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        38,
+                        112,
+                        49,
+                        125
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        60,
+                        116,
+                        103,
+                        124
+                    ]
+                },
+                {
+                    "text": "Director)",
+                    "box": [
+                        108,
+                        113,
+                        144,
+                        124
+                    ]
+                },
+                {
+                    "text": "FRANK",
+                    "box": [
+                        36,
+                        124,
+                        77,
+                        139
+                    ]
+                },
+                {
+                    "text": "TOWERS",
+                    "box": [
+                        80,
+                        124,
+                        125,
+                        138
+                    ]
+                }
+            ],
+            "id": 26,
+            "gaze_during": 437,
+            "fix_id": 21,
+            "tb_id": 4,
+            "s_id": 4,
+            "v3_id": 4,
+            "v1_id": 4,
+            "bert_id": 6,
+            "box_id": 2,
+            "xycut_id": 3
+        },
+        {
+            "box": [
+                56,
+                77,
+                113,
+                84
+            ],
+            "text": "Accounting",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        56,
+                        77,
+                        113,
+                        84
+                    ],
+                    "text": "Accounting"
+                }
+            ],
+            "linking": [],
+            "id": 10,
+            "gaze_during": 330,
+            "fix_id": 23,
+            "tb_id": 5,
+            "s_id": 5,
+            "v3_id": 5,
+            "v1_id": 5,
+            "bert_id": 5,
+            "box_id": 3,
+            "xycut_id": 2
+        },
+        {
+            "text": "GEN'L ACCT DEPT. APTEKICKSER MURIEL, KAMNIT PRE MALARA (2) HOPE MARTINEZ",
+            "box": [
+                34,
+                152,
+                158,
+                223
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "GEN'L",
+                    "box": [
+                        35,
+                        155,
+                        74,
+                        168
+                    ]
+                },
+                {
+                    "text": "ACCT",
+                    "box": [
+                        78,
+                        155,
+                        113,
+                        168
+                    ]
+                },
+                {
+                    "text": "DEPT.",
+                    "box": [
+                        116,
+                        152,
+                        158,
+                        169
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        34,
+                        168,
+                        61,
+                        179
+                    ]
+                },
+                {
+                    "text": "APTEKICKSER",
+                    "box": [
+                        63,
+                        169,
+                        126,
+                        179
+                    ]
+                },
+                {
+                    "text": "MURIEL,",
+                    "box": [
+                        34,
+                        180,
+                        86,
+                        193
+                    ]
+                },
+                {
+                    "text": "KAMNIT",
+                    "box": [
+                        87,
+                        182,
+                        134,
+                        192
+                    ]
+                },
+                {
+                    "text": "PRE",
+                    "box": [
+                        35,
+                        196,
+                        67,
+                        210
+                    ]
+                },
+                {
+                    "text": "MALARA",
+                    "box": [
+                        73,
+                        198,
+                        116,
+                        206
+                    ]
+                },
+                {
+                    "text": "(2)",
+                    "box": [
+                        120,
+                        194,
+                        147,
+                        209
+                    ]
+                },
+                {
+                    "text": "HOPE",
+                    "box": [
+                        41,
+                        208,
+                        68,
+                        223
+                    ]
+                },
+                {
+                    "text": "MARTINEZ",
+                    "box": [
+                        71,
+                        209,
+                        131,
+                        223
+                    ]
+                }
+            ],
+            "id": 25,
+            "gaze_during": 0,
+            "fix_id": 26,
+            "tb_id": 6,
+            "s_id": 6,
+            "v3_id": 6,
+            "v1_id": 6,
+            "bert_id": 4,
+            "box_id": 8,
+            "xycut_id": 4
+        },
+        {
+            "box": [
+                208,
+                145,
+                250,
+                159
+            ],
+            "text": "CLIENT",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        208,
+                        145,
+                        250,
+                        159
+                    ],
+                    "text": "CLIENT"
+                }
+            ],
+            "linking": [
+                [
+                    4,
+                    13
+                ]
+            ],
+            "id": 4,
+            "gaze_during": 300,
+            "fix_id": 4,
+            "tb_id": 7,
+            "s_id": 7,
+            "v3_id": 7,
+            "v1_id": 8,
+            "bert_id": 8,
+            "box_id": 6,
+            "xycut_id": 8
+        },
+        {
+            "text": "THE AMERICAN TOBACCO COMPANY (LUCKY STRIKE)",
+            "box": [
+                309,
+                134,
+                629,
+                155
+            ],
+            "linking": [
+                [
+                    4,
+                    13
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "THE",
+                    "box": [
+                        309,
+                        135,
+                        338,
+                        155
+                    ]
+                },
+                {
+                    "text": "AMERICAN",
+                    "box": [
+                        337,
+                        137,
+                        401,
+                        152
+                    ]
+                },
+                {
+                    "text": "TOBACCO",
+                    "box": [
+                        399,
+                        137,
+                        453,
+                        154
+                    ]
+                },
+                {
+                    "text": "COMPANY",
+                    "box": [
+                        457,
+                        137,
+                        516,
+                        154
+                    ]
+                },
+                {
+                    "text": "(LUCKY",
+                    "box": [
+                        527,
+                        134,
+                        572,
+                        155
+                    ]
+                },
+                {
+                    "text": "STRIKE)",
+                    "box": [
+                        577,
+                        137,
+                        629,
+                        152
+                    ]
+                }
+            ],
+            "id": 13,
+            "gaze_during": 460,
+            "fix_id": 3,
+            "tb_id": 8,
+            "s_id": 8,
+            "v3_id": 8,
+            "v1_id": 7,
+            "bert_id": 7,
+            "box_id": 4,
+            "xycut_id": 15
+        },
+        {
+            "box": [
+                207,
+                172,
+                266,
+                183
+            ],
+            "text": "PROGRAM",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        207,
+                        172,
+                        266,
+                        183
+                    ],
+                    "text": "PROGRAM"
+                }
+            ],
+            "linking": [
+                [
+                    5,
+                    14
+                ]
+            ],
+            "id": 5,
+            "gaze_during": 0,
+            "fix_id": 5,
+            "tb_id": 9,
+            "s_id": 9,
+            "v1_id": 10,
+            "v3_id": 10,
+            "bert_id": 10,
+            "box_id": 11,
+            "xycut_id": 9
+        },
+        {
+            "text": "1/2 HOUR PROGRAMES",
+            "box": [
+                313,
+                165,
+                434,
+                181
+            ],
+            "linking": [
+                [
+                    5,
+                    14
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "1/2",
+                    "box": [
+                        313,
+                        165,
+                        340,
+                        179
+                    ]
+                },
+                {
+                    "text": "HOUR",
+                    "box": [
+                        341,
+                        166,
+                        369,
+                        180
+                    ]
+                },
+                {
+                    "text": "PROGRAMES",
+                    "box": [
+                        373,
+                        168,
+                        434,
+                        181
+                    ]
+                }
+            ],
+            "id": 14,
+            "gaze_during": 397,
+            "fix_id": 6,
+            "tb_id": 10,
+            "s_id": 10,
+            "v3_id": 11,
+            "v1_id": 9,
+            "bert_id": 9,
+            "box_id": 16,
+            "xycut_id": 16
+        },
+        {
+            "box": [
+                247,
+                196,
+                300,
+                207
+            ],
+            "text": "STATIONS",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        247,
+                        196,
+                        300,
+                        207
+                    ],
+                    "text": "STATIONS"
+                }
+            ],
+            "linking": [
+                [
+                    6,
+                    15
+                ]
+            ],
+            "id": 6,
+            "gaze_during": 277,
+            "fix_id": 8,
+            "tb_id": 11,
+            "s_id": 11,
+            "v3_id": 12,
+            "v1_id": 12,
+            "bert_id": 12,
+            "box_id": 7,
+            "xycut_id": 10
+        },
+        {
+            "text": "WHAS LOUISVILLE, KENTUCKY",
+            "box": [
+                309,
+                191,
+                519,
+                210
+            ],
+            "linking": [
+                [
+                    6,
+                    15
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "WHAS",
+                    "box": [
+                        309,
+                        193,
+                        343,
+                        210
+                    ]
+                },
+                {
+                    "text": "LOUISVILLE,",
+                    "box": [
+                        373,
+                        191,
+                        451,
+                        209
+                    ]
+                },
+                {
+                    "text": "KENTUCKY",
+                    "box": [
+                        458,
+                        196,
+                        519,
+                        207
+                    ]
+                }
+            ],
+            "id": 15,
+            "gaze_during": 250,
+            "fix_id": 7,
+            "tb_id": 12,
+            "s_id": 12,
+            "v3_id": 14,
+            "v1_id": 11,
+            "bert_id": 11,
+            "box_id": 9,
+            "xycut_id": 17
+        },
+        {
+            "box": [
+                246,
+                221,
+                295,
+                235
+            ],
+            "text": "",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        246,
+                        221,
+                        295,
+                        235
+                    ],
+                    "text": ""
+                }
+            ],
+            "linking": [
+                [
+                    7,
+                    16
+                ]
+            ],
+            "id": 7,
+            "gaze_during": 0,
+            "fix_id": 9,
+            "tb_id": 13,
+            "s_id": 14,
+            "v3_id": 26,
+            "v1_id": 14,
+            "bert_id": 15,
+            "box_id": 10,
+            "xycut_id": 11
+        },
+        {
+            "text": "CONTRACT #1032",
+            "box": [
+                310,
+                218,
+                413,
+                233
+            ],
+            "linking": [
+                [
+                    7,
+                    16
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "CONTRACT",
+                    "box": [
+                        310,
+                        218,
+                        370,
+                        233
+                    ]
+                },
+                {
+                    "text": "#1032",
+                    "box": [
+                        374,
+                        218,
+                        413,
+                        231
+                    ]
+                }
+            ],
+            "id": 16,
+            "gaze_during": 0,
+            "fix_id": 10,
+            "tb_id": 14,
+            "s_id": 13,
+            "v3_id": 15,
+            "v1_id": 15,
+            "bert_id": 14,
+            "box_id": 14,
+            "xycut_id": 18
+        },
+        {
+            "text": "ENTIRE SCHEDULE CANCELLED LAST BROADCAST SATURDAY, APRIL 13, 1957",
+            "box": [
+                175,
+                240,
+                633,
+                257
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "ENTIRE",
+                    "box": [
+                        175,
+                        242,
+                        222,
+                        257
+                    ]
+                },
+                {
+                    "text": "SCHEDULE",
+                    "box": [
+                        226,
+                        242,
+                        287,
+                        256
+                    ]
+                },
+                {
+                    "text": "CANCELLED",
+                    "box": [
+                        292,
+                        242,
+                        356,
+                        256
+                    ]
+                },
+                {
+                    "text": "LAST",
+                    "box": [
+                        360,
+                        242,
+                        394,
+                        253
+                    ]
+                },
+                {
+                    "text": "BROADCAST",
+                    "box": [
+                        394,
+                        242,
+                        465,
+                        256
+                    ]
+                },
+                {
+                    "text": "SATURDAY,",
+                    "box": [
+                        466,
+                        243,
+                        525,
+                        254
+                    ]
+                },
+                {
+                    "text": "APRIL",
+                    "box": [
+                        525,
+                        240,
+                        568,
+                        255
+                    ]
+                },
+                {
+                    "text": "13,",
+                    "box": [
+                        568,
+                        243,
+                        595,
+                        254
+                    ]
+                },
+                {
+                    "text": "1957",
+                    "box": [
+                        595,
+                        242,
+                        633,
+                        255
+                    ]
+                }
+            ],
+            "id": 17,
+            "gaze_during": 500,
+            "fix_id": 11,
+            "tb_id": 15,
+            "s_id": 14,
+            "v3_id": 16,
+            "v1_id": 16,
+            "bert_id": 18,
+            "box_id": 15,
+            "xycut_id": 12
+        },
+        {
+            "text": "REVISED CONTRACT TOTALS.",
+            "box": [
+                176,
+                271,
+                348,
+                284
+            ],
+            "linking": [
+                [
+                    18,
+                    19
+                ],
+                [
+                    18,
+                    20
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "REVISED",
+                    "box": [
+                        176,
+                        272,
+                        232,
+                        283
+                    ]
+                },
+                {
+                    "text": "CONTRACT",
+                    "box": [
+                        233,
+                        271,
+                        293,
+                        282
+                    ]
+                },
+                {
+                    "text": "TOTALS.",
+                    "box": [
+                        292,
+                        271,
+                        348,
+                        284
+                    ]
+                }
+            ],
+            "id": 18,
+            "gaze_during": 120,
+            "fix_id": 12,
+            "tb_id": 16,
+            "s_id": 15,
+            "v3_id": 17,
+            "v1_id": 18,
+            "bert_id": 16,
+            "box_id": 13,
+            "xycut_id": 13
+        },
+        {
+            "box": [
+                35,
+                309,
+                144,
+                340
+            ],
+            "text": "",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        35,
+                        309,
+                        144,
+                        340
+                    ],
+                    "text": ""
+                }
+            ],
+            "linking": [],
+            "id": 3,
+            "gaze_during": 0,
+            "fix_id": 13,
+            "tb_id": 17,
+            "s_id": 18,
+            "v3_id": 26,
+            "v1_id": 19,
+            "bert_id": 19,
+            "box_id": 17,
+            "xycut_id": 5
+        },
+        {
+            "text": "24 @ $ 150.00 TIME",
+            "box": [
+                359,
+                296,
+                520,
+                311
+            ],
+            "linking": [
+                [
+                    18,
+                    19
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "24",
+                    "box": [
+                        359,
+                        297,
+                        380,
+                        310
+                    ]
+                },
+                {
+                    "text": "@",
+                    "box": [
+                        380,
+                        296,
+                        391,
+                        310
+                    ]
+                },
+                {
+                    "text": "$",
+                    "box": [
+                        392,
+                        297,
+                        403,
+                        311
+                    ]
+                },
+                {
+                    "text": "150.00",
+                    "box": [
+                        406,
+                        296,
+                        455,
+                        310
+                    ]
+                },
+                {
+                    "text": "TIME",
+                    "box": [
+                        485,
+                        296,
+                        520,
+                        311
+                    ]
+                }
+            ],
+            "id": 19,
+            "gaze_during": 270,
+            "fix_id": 14,
+            "tb_id": 18,
+            "s_id": 16,
+            "v3_id": 18,
+            "v1_id": 20,
+            "bert_id": 20,
+            "box_id": 19,
+            "xycut_id": 19
+        },
+        {
+            "text": "24 @ $ 125.00 NET TALENT",
+            "box": [
+                359,
+                324,
+                531,
+                342
+            ],
+            "linking": [
+                [
+                    18,
+                    20
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "24",
+                    "box": [
+                        359,
+                        324,
+                        374,
+                        339
+                    ]
+                },
+                {
+                    "text": "@",
+                    "box": [
+                        380,
+                        325,
+                        390,
+                        339
+                    ]
+                },
+                {
+                    "text": "$",
+                    "box": [
+                        392,
+                        327,
+                        407,
+                        342
+                    ]
+                },
+                {
+                    "text": "125.00",
+                    "box": [
+                        409,
+                        324,
+                        455,
+                        341
+                    ]
+                },
+                {
+                    "text": "NET",
+                    "box": [
+                        458,
+                        325,
+                        482,
+                        339
+                    ]
+                },
+                {
+                    "text": "TALENT",
+                    "box": [
+                        486,
+                        327,
+                        531,
+                        338
+                    ]
+                }
+            ],
+            "id": 20,
+            "gaze_during": 553,
+            "fix_id": 15,
+            "tb_id": 19,
+            "s_id": 17,
+            "v3_id": 19,
+            "v1_id": 21,
+            "bert_id": 21,
+            "box_id": 20,
+            "xycut_id": 20
+        },
+        {
+            "box": [
+                506,
+                356,
+                549,
+                367
+            ],
+            "text": "TOTAL:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        506,
+                        356,
+                        549,
+                        367
+                    ],
+                    "text": "TOTAL:"
+                }
+            ],
+            "linking": [
+                [
+                    2,
+                    21
+                ]
+            ],
+            "id": 2,
+            "gaze_during": 0,
+            "fix_id": 16,
+            "tb_id": 20,
+            "s_id": 18,
+            "v3_id": 20,
+            "v1_id": 22,
+            "bert_id": 22,
+            "box_id": 18,
+            "xycut_id": 21
+        },
+        {
+            "text": "$ 6.600.00",
+            "box": [
+                561,
+                351,
+                639,
+                368
+            ],
+            "linking": [
+                [
+                    2,
+                    21
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        561,
+                        352,
+                        572,
+                        367
+                    ]
+                },
+                {
+                    "text": "6.600.00",
+                    "box": [
+                        575,
+                        351,
+                        639,
+                        368
+                    ]
+                }
+            ],
+            "id": 21,
+            "gaze_during": 367,
+            "fix_id": 17,
+            "tb_id": 21,
+            "s_id": 19,
+            "v3_id": 21,
+            "v1_id": 23,
+            "bert_id": 23,
+            "box_id": 24,
+            "xycut_id": 24
+        },
+        {
+            "box": [
+                226,
+                412,
+                269,
+                423
+            ],
+            "text": "SIGNED",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        226,
+                        412,
+                        269,
+                        423
+                    ],
+                    "text": "SIGNED"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    23
+                ]
+            ],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 18,
+            "tb_id": 22,
+            "s_id": 20,
+            "v3_id": 22,
+            "v1_id": 24,
+            "bert_id": 24,
+            "box_id": 21,
+            "xycut_id": 14
+        },
+        {
+            "text": "HOPE MARTINEZ",
+            "box": [
+                309,
+                409,
+                404,
+                424
+            ],
+            "linking": [
+                [
+                    0,
+                    23
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "HOPE",
+                    "box": [
+                        309,
+                        411,
+                        340,
+                        424
+                    ]
+                },
+                {
+                    "text": "MARTINEZ",
+                    "box": [
+                        344,
+                        409,
+                        404,
+                        423
+                    ]
+                }
+            ],
+            "id": 23,
+            "gaze_during": 0,
+            "fix_id": 19,
+            "tb_id": 23,
+            "s_id": 21,
+            "v3_id": 23,
+            "v1_id": 25,
+            "bert_id": 25,
+            "box_id": 22,
+            "xycut_id": 22
+        },
+        {
+            "box": [
+                520,
+                411,
+                554,
+                424
+            ],
+            "text": "DATE",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        520,
+                        411,
+                        554,
+                        424
+                    ],
+                    "text": "DATE"
+                }
+            ],
+            "linking": [
+                [
+                    1,
+                    22
+                ]
+            ],
+            "id": 1,
+            "gaze_during": 0,
+            "fix_id": 20,
+            "tb_id": 24,
+            "s_id": 22,
+            "v3_id": 24,
+            "v1_id": 26,
+            "bert_id": 26,
+            "box_id": 25,
+            "xycut_id": 23
+        },
+        {
+            "text": "APRIL 1,1957",
+            "box": [
+                584,
+                408,
+                680,
+                424
+            ],
+            "linking": [
+                [
+                    1,
+                    22
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "APRIL",
+                    "box": [
+                        584,
+                        411,
+                        623,
+                        424
+                    ]
+                },
+                {
+                    "text": "1,1957",
+                    "box": [
+                        624,
+                        408,
+                        680,
+                        423
+                    ]
+                }
+            ],
+            "id": 22,
+            "gaze_during": 0,
+            "fix_id": 22,
+            "tb_id": 25,
+            "s_id": 23,
+            "v3_id": 26,
+            "v1_id": 26,
+            "bert_id": 26,
+            "box_id": 23,
+            "xycut_id": 25
+        },
+        {
+            "text": "Form No. RA 905",
+            "box": [
+                54,
+                439,
+                131,
+                453
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Form",
+                    "box": [
+                        54,
+                        441,
+                        79,
+                        452
+                    ]
+                },
+                {
+                    "text": "No.",
+                    "box": [
+                        78,
+                        441,
+                        93,
+                        452
+                    ]
+                },
+                {
+                    "text": "RA",
+                    "box": [
+                        96,
+                        443,
+                        110,
+                        453
+                    ]
+                },
+                {
+                    "text": "905",
+                    "box": [
+                        110,
+                        439,
+                        131,
+                        453
+                    ]
+                }
+            ],
+            "id": 24,
+            "gaze_during": 0,
+            "fix_id": 24,
+            "tb_id": 26,
+            "s_id": 24,
+            "v3_id": 26,
+            "v1_id": 26,
+            "bert_id": 26,
+            "box_id": 26,
+            "xycut_id": 6
+        }
+    ]
+}

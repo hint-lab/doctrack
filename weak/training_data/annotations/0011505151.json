@@ -1,0 +1,2013 @@
+{
+    "form": [
+        {
+            "text": "1987- 115- CA",
+            "box": [
+                581,
+                17,
+                680,
+                33
+            ],
+            "linking": [
+                [
+                    16,
+                    17
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "1987-",
+                    "box": [
+                        581,
+                        18,
+                        624,
+                        33
+                    ]
+                },
+                {
+                    "text": "115-",
+                    "box": [
+                        624,
+                        18,
+                        659,
+                        29
+                    ]
+                },
+                {
+                    "text": "CA",
+                    "box": [
+                        659,
+                        17,
+                        680,
+                        30
+                    ]
+                }
+            ],
+            "id": 17,
+            "gaze_during": 0,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 1,
+            "box_id": 0,
+            "xycut_id": 38
+        },
+        {
+            "box": [
+                53,
+                31,
+                100,
+                46
+            ],
+            "text": "CAPRI",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        53,
+                        31,
+                        100,
+                        46
+                    ],
+                    "text": "CAPRI"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    15
+                ]
+            ],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 1,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 1,
+            "v1_id": 1,
+            "bert_id": 0,
+            "box_id": 1,
+            "xycut_id": 0
+        },
+        {
+            "text": "PROJECT NO.",
+            "box": [
+                447,
+                21,
+                540,
+                38
+            ],
+            "linking": [
+                [
+                    16,
+                    17
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "PROJECT",
+                    "box": [
+                        447,
+                        21,
+                        510,
+                        38
+                    ]
+                },
+                {
+                    "text": "NO.",
+                    "box": [
+                        515,
+                        21,
+                        540,
+                        36
+                    ]
+                }
+            ],
+            "id": 16,
+            "gaze_during": 230,
+            "fix_id": 4,
+            "tb_id": 2,
+            "s_id": 2,
+            "v3_id": 2,
+            "v1_id": 2,
+            "bert_id": 4,
+            "box_id": 8,
+            "xycut_id": 31
+        },
+        {
+            "text": "",
+            "box": [
+                54,
+                43,
+                190,
+                60
+            ],
+            "linking": [
+                [
+                    0,
+                    15
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "",
+                    "box": [
+                        54,
+                        46,
+                        99,
+                        60
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        98,
+                        45,
+                        133,
+                        60
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        131,
+                        45,
+                        176,
+                        58
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        176,
+                        43,
+                        190,
+                        58
+                    ]
+                }
+            ],
+            "id": 15,
+            "gaze_during": 490,
+            "fix_id": 3,
+            "tb_id": 3,
+            "s_id": 1,
+            "v3_id": 39,
+            "v1_id": 4,
+            "bert_id": 2,
+            "box_id": 2,
+            "xycut_id": 1
+        },
+        {
+            "box": [
+                50,
+                102,
+                158,
+                120
+            ],
+            "text": "DESCRIPTION:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        50,
+                        102,
+                        158,
+                        120
+                    ],
+                    "text": "DESCRIPTION:"
+                }
+            ],
+            "linking": [
+                [
+                    1,
+                    18
+                ]
+            ],
+            "id": 1,
+            "gaze_during": 280,
+            "fix_id": 5,
+            "tb_id": 4,
+            "s_id": 3,
+            "v3_id": 4,
+            "v1_id": 5,
+            "bert_id": 5,
+            "box_id": 3,
+            "xycut_id": 2
+        },
+        {
+            "text": "CAPRI EXPANSION A&U - CALIFORNIA - WAVE 4.",
+            "box": [
+                254,
+                91,
+                614,
+                112
+            ],
+            "linking": [
+                [
+                    1,
+                    18
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "CAPRI",
+                    "box": [
+                        254,
+                        98,
+                        299,
+                        112
+                    ]
+                },
+                {
+                    "text": "EXPANSION",
+                    "box": [
+                        306,
+                        96,
+                        386,
+                        111
+                    ]
+                },
+                {
+                    "text": "A&U",
+                    "box": [
+                        391,
+                        95,
+                        419,
+                        110
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        426,
+                        96,
+                        439,
+                        107
+                    ]
+                },
+                {
+                    "text": "CALIFORNIA",
+                    "box": [
+                        443,
+                        92,
+                        531,
+                        109
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        539,
+                        96,
+                        547,
+                        104
+                    ]
+                },
+                {
+                    "text": "WAVE",
+                    "box": [
+                        554,
+                        92,
+                        592,
+                        106
+                    ]
+                },
+                {
+                    "text": "4.",
+                    "box": [
+                        601,
+                        91,
+                        614,
+                        105
+                    ]
+                }
+            ],
+            "id": 18,
+            "gaze_during": 697,
+            "fix_id": 6,
+            "tb_id": 5,
+            "s_id": 4,
+            "v3_id": 5,
+            "v1_id": 6,
+            "bert_id": 7,
+            "box_id": 7,
+            "xycut_id": 12
+        },
+        {
+            "box": [
+                54,
+                145,
+                131,
+                163
+            ],
+            "text": "SUPPLIER:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        54,
+                        145,
+                        131,
+                        163
+                    ],
+                    "text": "SUPPLIER:"
+                }
+            ],
+            "linking": [
+                [
+                    2,
+                    19
+                ]
+            ],
+            "id": 2,
+            "gaze_during": 223,
+            "fix_id": 7,
+            "tb_id": 6,
+            "s_id": 5,
+            "v3_id": 6,
+            "v1_id": 8,
+            "bert_id": 6,
+            "box_id": 4,
+            "xycut_id": 3
+        },
+        {
+            "text": "Kapuler Marketing Research",
+            "box": [
+                257,
+                140,
+                479,
+                156
+            ],
+            "linking": [
+                [
+                    2,
+                    19
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Kapuler",
+                    "box": [
+                        257,
+                        141,
+                        317,
+                        156
+                    ]
+                },
+                {
+                    "text": "Marketing",
+                    "box": [
+                        323,
+                        140,
+                        403,
+                        155
+                    ]
+                },
+                {
+                    "text": "Research",
+                    "box": [
+                        409,
+                        140,
+                        479,
+                        153
+                    ]
+                }
+            ],
+            "id": 19,
+            "gaze_during": 233,
+            "fix_id": 8,
+            "tb_id": 7,
+            "s_id": 6,
+            "v3_id": 7,
+            "v1_id": 7,
+            "bert_id": 8,
+            "box_id": 5,
+            "xycut_id": 13
+        },
+        {
+            "text": "MR PERSONNEL:",
+            "box": [
+                54,
+                175,
+                169,
+                193
+            ],
+            "linking": [
+                [
+                    20,
+                    21
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "MR",
+                    "box": [
+                        54,
+                        176,
+                        75,
+                        193
+                    ]
+                },
+                {
+                    "text": "PERSONNEL:",
+                    "box": [
+                        82,
+                        175,
+                        169,
+                        189
+                    ]
+                }
+            ],
+            "id": 20,
+            "gaze_during": 403,
+            "fix_id": 2,
+            "tb_id": 8,
+            "s_id": 7,
+            "v3_id": 8,
+            "v1_id": 9,
+            "bert_id": 10,
+            "box_id": 6,
+            "xycut_id": 4
+        },
+        {
+            "text": "B. R. Pellett",
+            "box": [
+                257,
+                169,
+                357,
+                185
+            ],
+            "linking": [
+                [
+                    20,
+                    21
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "B.",
+                    "box": [
+                        257,
+                        172,
+                        272,
+                        185
+                    ]
+                },
+                {
+                    "text": "R.",
+                    "box": [
+                        272,
+                        172,
+                        290,
+                        185
+                    ]
+                },
+                {
+                    "text": "Pellett",
+                    "box": [
+                        300,
+                        169,
+                        357,
+                        183
+                    ]
+                }
+            ],
+            "id": 21,
+            "gaze_during": 550,
+            "fix_id": 9,
+            "tb_id": 9,
+            "s_id": 8,
+            "v3_id": 9,
+            "v1_id": 10,
+            "bert_id": 9,
+            "box_id": 11,
+            "xycut_id": 14
+        },
+        {
+            "text": "AUTHORIZED COST:",
+            "box": [
+                54,
+                216,
+                195,
+                234
+            ],
+            "linking": [
+                [
+                    22,
+                    23
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "AUTHORIZED",
+                    "box": [
+                        54,
+                        219,
+                        143,
+                        234
+                    ]
+                },
+                {
+                    "text": "COST:",
+                    "box": [
+                        148,
+                        216,
+                        195,
+                        230
+                    ]
+                }
+            ],
+            "id": 22,
+            "gaze_during": 0,
+            "fix_id": 10,
+            "tb_id": 10,
+            "s_id": 9,
+            "v3_id": 10,
+            "v1_id": 11,
+            "bert_id": 11,
+            "box_id": 9,
+            "xycut_id": 5
+        },
+        {
+            "text": "70,825 + +10 % (TOTAL 1987) +7.075 (2 -23 -88 77,900 TOTAL",
+            "box": [
+                256,
+                211,
+                461,
+                258
+            ],
+            "linking": [
+                [
+                    22,
+                    23
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "70,825",
+                    "box": [
+                        258,
+                        214,
+                        308,
+                        229
+                    ]
+                },
+                {
+                    "text": "+",
+                    "box": [
+                        314,
+                        211,
+                        325,
+                        226
+                    ]
+                },
+                {
+                    "text": "+10",
+                    "box": [
+                        325,
+                        212,
+                        342,
+                        226
+                    ]
+                },
+                {
+                    "text": "%",
+                    "box": [
+                        341,
+                        212,
+                        354,
+                        225
+                    ]
+                },
+                {
+                    "text": "(TOTAL",
+                    "box": [
+                        363,
+                        212,
+                        412,
+                        225
+                    ]
+                },
+                {
+                    "text": "1987)",
+                    "box": [
+                        419,
+                        211,
+                        461,
+                        224
+                    ]
+                },
+                {
+                    "text": "+7.075",
+                    "box": [
+                        256,
+                        230,
+                        309,
+                        243
+                    ]
+                },
+                {
+                    "text": "(2",
+                    "box": [
+                        359,
+                        226,
+                        377,
+                        241
+                    ]
+                },
+                {
+                    "text": "-23",
+                    "box": [
+                        378,
+                        228,
+                        400,
+                        241
+                    ]
+                },
+                {
+                    "text": "-88",
+                    "box": [
+                        399,
+                        225,
+                        431,
+                        240
+                    ]
+                },
+                {
+                    "text": "77,900",
+                    "box": [
+                        256,
+                        243,
+                        312,
+                        258
+                    ]
+                },
+                {
+                    "text": "TOTAL",
+                    "box": [
+                        365,
+                        240,
+                        411,
+                        255
+                    ]
+                }
+            ],
+            "id": 23,
+            "gaze_during": 213,
+            "fix_id": 11,
+            "tb_id": 11,
+            "s_id": 10,
+            "v3_id": 11,
+            "v1_id": 12,
+            "bert_id": 14,
+            "box_id": 10,
+            "xycut_id": 15
+        },
+        {
+            "text": "Ext. Autho. Date",
+            "box": [
+                56,
+                324,
+                159,
+                338
+            ],
+            "linking": [
+                [
+                    25,
+                    29
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Ext.",
+                    "box": [
+                        56,
+                        327,
+                        84,
+                        338
+                    ]
+                },
+                {
+                    "text": "Autho.",
+                    "box": [
+                        85,
+                        325,
+                        128,
+                        338
+                    ]
+                },
+                {
+                    "text": "Date",
+                    "box": [
+                        128,
+                        324,
+                        159,
+                        337
+                    ]
+                }
+            ],
+            "id": 25,
+            "gaze_during": 0,
+            "fix_id": 12,
+            "tb_id": 12,
+            "s_id": 11,
+            "v3_id": 12,
+            "v1_id": 13,
+            "bert_id": 13,
+            "box_id": 12,
+            "xycut_id": 6
+        },
+        {
+            "text": "Int. Init. Date",
+            "box": [
+                57,
+                311,
+                151,
+                326
+            ],
+            "linking": [
+                [
+                    24,
+                    28
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Int.",
+                    "box": [
+                        57,
+                        313,
+                        85,
+                        326
+                    ]
+                },
+                {
+                    "text": "Init.",
+                    "box": [
+                        87,
+                        311,
+                        122,
+                        322
+                    ]
+                },
+                {
+                    "text": "Date",
+                    "box": [
+                        122,
+                        311,
+                        151,
+                        321
+                    ]
+                }
+            ],
+            "id": 24,
+            "gaze_during": 0,
+            "fix_id": 13,
+            "tb_id": 13,
+            "s_id": 12,
+            "v3_id": 13,
+            "v1_id": 14,
+            "bert_id": 12,
+            "box_id": 13,
+            "xycut_id": 7
+        },
+        {
+            "text": "11- 16- 87",
+            "box": [
+                166,
+                323,
+                235,
+                336
+            ],
+            "linking": [
+                [
+                    25,
+                    29
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "11-",
+                    "box": [
+                        166,
+                        323,
+                        191,
+                        334
+                    ]
+                },
+                {
+                    "text": "16-",
+                    "box": [
+                        191,
+                        323,
+                        218,
+                        334
+                    ]
+                },
+                {
+                    "text": "87",
+                    "box": [
+                        218,
+                        323,
+                        235,
+                        336
+                    ]
+                }
+            ],
+            "id": 29,
+            "gaze_during": 0,
+            "fix_id": 14,
+            "tb_id": 14,
+            "s_id": 13,
+            "v3_id": 14,
+            "v1_id": 16,
+            "bert_id": 17,
+            "box_id": 15,
+            "xycut_id": 17
+        },
+        {
+            "text": "",
+            "box": [
+                173,
+                307,
+                236,
+                322
+            ],
+            "linking": [
+                [
+                    24,
+                    28
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "",
+                    "box": [
+                        173,
+                        307,
+                        191,
+                        322
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        190,
+                        307,
+                        211,
+                        321
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        209,
+                        307,
+                        236,
+                        321
+                    ]
+                }
+            ],
+            "id": 28,
+            "gaze_during": 0,
+            "fix_id": 15,
+            "tb_id": 15,
+            "s_id": 12,
+            "v3_id": 39,
+            "v1_id": 17,
+            "bert_id": 16,
+            "box_id": 14,
+            "xycut_id": 16
+        },
+        {
+            "text": "Field Complete",
+            "box": [
+                57,
+                338,
+                160,
+                353
+            ],
+            "linking": [
+                [
+                    26,
+                    30
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Field",
+                    "box": [
+                        57,
+                        339,
+                        93,
+                        352
+                    ]
+                },
+                {
+                    "text": "Complete",
+                    "box": [
+                        101,
+                        338,
+                        160,
+                        353
+                    ]
+                }
+            ],
+            "id": 26,
+            "gaze_during": 0,
+            "fix_id": 16,
+            "tb_id": 16,
+            "s_id": 14,
+            "v3_id": 16,
+            "v1_id": 18,
+            "bert_id": 18,
+            "box_id": 16,
+            "xycut_id": 8
+        },
+        {
+            "text": "Final Rpt. Due",
+            "box": [
+                57,
+                353,
+                150,
+                367
+            ],
+            "linking": [
+                [
+                    27,
+                    31
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Final",
+                    "box": [
+                        57,
+                        353,
+                        92,
+                        367
+                    ]
+                },
+                {
+                    "text": "Rpt.",
+                    "box": [
+                        99,
+                        353,
+                        128,
+                        366
+                    ]
+                },
+                {
+                    "text": "Due",
+                    "box": [
+                        128,
+                        355,
+                        150,
+                        365
+                    ]
+                }
+            ],
+            "id": 27,
+            "gaze_during": 0,
+            "fix_id": 17,
+            "tb_id": 17,
+            "s_id": 15,
+            "v3_id": 17,
+            "v1_id": 19,
+            "bert_id": 19,
+            "box_id": 17,
+            "xycut_id": 9
+        },
+        {
+            "text": "12- -7 -87",
+            "box": [
+                165,
+                337,
+                237,
+                352
+            ],
+            "linking": [
+                [
+                    26,
+                    30
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "12-",
+                    "box": [
+                        165,
+                        337,
+                        190,
+                        352
+                    ]
+                },
+                {
+                    "text": "-7",
+                    "box": [
+                        191,
+                        337,
+                        208,
+                        352
+                    ]
+                },
+                {
+                    "text": "-87",
+                    "box": [
+                        209,
+                        337,
+                        237,
+                        351
+                    ]
+                }
+            ],
+            "id": 30,
+            "gaze_during": 220,
+            "fix_id": 18,
+            "tb_id": 18,
+            "s_id": 16,
+            "v3_id": 18,
+            "v1_id": 20,
+            "bert_id": 20,
+            "box_id": 18,
+            "xycut_id": 18
+        },
+        {
+            "text": "1- 11- 88",
+            "box": [
+                173,
+                351,
+                236,
+                367
+            ],
+            "linking": [
+                [
+                    27,
+                    31
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "1-",
+                    "box": [
+                        173,
+                        351,
+                        191,
+                        365
+                    ]
+                },
+                {
+                    "text": "11-",
+                    "box": [
+                        193,
+                        352,
+                        218,
+                        367
+                    ]
+                },
+                {
+                    "text": "88",
+                    "box": [
+                        218,
+                        352,
+                        236,
+                        365
+                    ]
+                }
+            ],
+            "id": 31,
+            "gaze_during": 220,
+            "fix_id": 19,
+            "tb_id": 19,
+            "s_id": 17,
+            "v3_id": 19,
+            "v1_id": 21,
+            "bert_id": 21,
+            "box_id": 20,
+            "xycut_id": 19
+        },
+        {
+            "text": "DEC 1987 ACCRUAL",
+            "box": [
+                207,
+                398,
+                345,
+                412
+            ],
+            "linking": [
+                [
+                    35,
+                    5
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "DEC",
+                    "box": [
+                        207,
+                        399,
+                        236,
+                        412
+                    ]
+                },
+                {
+                    "text": "1987",
+                    "box": [
+                        242,
+                        401,
+                        276,
+                        412
+                    ]
+                },
+                {
+                    "text": "ACCRUAL",
+                    "box": [
+                        285,
+                        398,
+                        345,
+                        411
+                    ]
+                }
+            ],
+            "id": 35,
+            "gaze_during": 0,
+            "fix_id": 20,
+            "tb_id": 20,
+            "s_id": 19,
+            "v3_id": 20,
+            "v1_id": 23,
+            "bert_id": 22,
+            "box_id": 21,
+            "xycut_id": 20
+        },
+        {
+            "text": "PAID 1987",
+            "box": [
+                208,
+                385,
+                285,
+                398
+            ],
+            "linking": [
+                [
+                    34,
+                    4
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "PAID",
+                    "box": [
+                        208,
+                        385,
+                        243,
+                        398
+                    ]
+                },
+                {
+                    "text": "1987",
+                    "box": [
+                        251,
+                        385,
+                        285,
+                        396
+                    ]
+                }
+            ],
+            "id": 34,
+            "gaze_during": 0,
+            "fix_id": 21,
+            "tb_id": 21,
+            "s_id": 18,
+            "v3_id": 21,
+            "v1_id": 22,
+            "bert_id": 23,
+            "box_id": 22,
+            "xycut_id": 21
+        },
+        {
+            "box": [
+                448,
+                381,
+                497,
+                396
+            ],
+            "text": "47,218",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        448,
+                        381,
+                        497,
+                        396
+                    ],
+                    "text": "47,218"
+                }
+            ],
+            "linking": [
+                [
+                    34,
+                    4
+                ]
+            ],
+            "id": 4,
+            "gaze_during": 220,
+            "fix_id": 38,
+            "tb_id": 22,
+            "s_id": 20,
+            "v3_id": 22,
+            "v1_id": 24,
+            "bert_id": 24,
+            "box_id": 19,
+            "xycut_id": 32
+        },
+        {
+            "text": "CARRYOVER TO 1988",
+            "box": [
+                208,
+                412,
+                356,
+                426
+            ],
+            "linking": [
+                [
+                    36,
+                    6
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CARRYOVER",
+                    "box": [
+                        208,
+                        413,
+                        288,
+                        426
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "box": [
+                        292,
+                        413,
+                        312,
+                        424
+                    ]
+                },
+                {
+                    "text": "1988",
+                    "box": [
+                        320,
+                        412,
+                        356,
+                        425
+                    ]
+                }
+            ],
+            "id": 36,
+            "gaze_during": 93,
+            "fix_id": 25,
+            "tb_id": 23,
+            "s_id": 21,
+            "v3_id": 23,
+            "v1_id": 25,
+            "bert_id": 25,
+            "box_id": 24,
+            "xycut_id": 22
+        },
+        {
+            "box": [
+                447,
+                409,
+                499,
+                424
+            ],
+            "text": "14,165",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        447,
+                        409,
+                        499,
+                        424
+                    ],
+                    "text": "14,165"
+                }
+            ],
+            "linking": [
+                [
+                    36,
+                    6
+                ]
+            ],
+            "id": 6,
+            "gaze_during": 0,
+            "fix_id": 26,
+            "tb_id": 24,
+            "s_id": 22,
+            "v3_id": 24,
+            "v1_id": 27,
+            "bert_id": 26,
+            "box_id": 23,
+            "xycut_id": 34
+        },
+        {
+            "box": [
+                454,
+                397,
+                499,
+                410
+            ],
+            "text": "9,442",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        454,
+                        397,
+                        499,
+                        410
+                    ],
+                    "text": "9,442"
+                }
+            ],
+            "linking": [
+                [
+                    35,
+                    5
+                ]
+            ],
+            "id": 5,
+            "gaze_during": 0,
+            "fix_id": 28,
+            "tb_id": 25,
+            "s_id": 23,
+            "v3_id": 25,
+            "v1_id": 26,
+            "bert_id": 27,
+            "box_id": 25,
+            "xycut_id": 33
+        },
+        {
+            "box": [
+                503,
+                398,
+                528,
+                412
+            ],
+            "text": "-Pd.",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        503,
+                        398,
+                        528,
+                        412
+                    ],
+                    "text": "-Pd."
+                }
+            ],
+            "linking": [],
+            "id": 7,
+            "gaze_during": 0,
+            "fix_id": 31,
+            "tb_id": 26,
+            "s_id": 24,
+            "v3_id": 26,
+            "v1_id": 28,
+            "bert_id": 28,
+            "box_id": 26,
+            "xycut_id": 35
+        },
+        {
+            "text": "RELEASED TO ACCTG",
+            "box": [
+                84,
+                492,
+                157,
+                520
+            ],
+            "linking": [
+                [
+                    32,
+                    37
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "RELEASED",
+                    "box": [
+                        84,
+                        492,
+                        157,
+                        505
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "box": [
+                        84,
+                        507,
+                        105,
+                        520
+                    ]
+                },
+                {
+                    "text": "ACCTG",
+                    "box": [
+                        112,
+                        507,
+                        157,
+                        520
+                    ]
+                }
+            ],
+            "id": 32,
+            "gaze_during": 367,
+            "fix_id": 22,
+            "tb_id": 27,
+            "s_id": 25,
+            "v3_id": 27,
+            "v1_id": 29,
+            "bert_id": 29,
+            "box_id": 27,
+            "xycut_id": 10
+        },
+        {
+            "text": "PAID OUT OF 1989 BUDGET",
+            "box": [
+                299,
+                487,
+                398,
+                517
+            ],
+            "linking": [
+                [
+                    33,
+                    9
+                ],
+                [
+                    33,
+                    10
+                ]
+            ],
+            "label": "header",
+            "words": [
+                {
+                    "text": "PAID",
+                    "box": [
+                        299,
+                        489,
+                        337,
+                        503
+                    ]
+                },
+                {
+                    "text": "OUT",
+                    "box": [
+                        342,
+                        487,
+                        370,
+                        501
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        377,
+                        487,
+                        397,
+                        500
+                    ]
+                },
+                {
+                    "text": "1989",
+                    "box": [
+                        302,
+                        503,
+                        338,
+                        517
+                    ]
+                },
+                {
+                    "text": "BUDGET",
+                    "box": [
+                        345,
+                        503,
+                        398,
+                        517
+                    ]
+                }
+            ],
+            "id": 33,
+            "gaze_during": 0,
+            "fix_id": 23,
+            "tb_id": 28,
+            "s_id": 26,
+            "v3_id": 28,
+            "v1_id": 31,
+            "bert_id": 30,
+            "box_id": 28,
+            "xycut_id": 23
+        },
+        {
+            "box": [
+                567,
+                497,
+                659,
+                512
+            ],
+            "text": "CUMULATIVE",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        567,
+                        497,
+                        659,
+                        512
+                    ],
+                    "text": "CUMULATIVE"
+                }
+            ],
+            "linking": [
+                [
+                    8,
+                    14
+                ]
+            ],
+            "id": 8,
+            "gaze_during": 0,
+            "fix_id": 24,
+            "tb_id": 29,
+            "s_id": 27,
+            "v3_id": 29,
+            "v1_id": 30,
+            "bert_id": 32,
+            "box_id": 29,
+            "xycut_id": 37
+        },
+        {
+            "box": [
+                205,
+                556,
+                234,
+                569
+            ],
+            "text": "DEC",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        205,
+                        556,
+                        234,
+                        569
+                    ],
+                    "text": "DEC"
+                }
+            ],
+            "linking": [
+                [
+                    33,
+                    9
+                ]
+            ],
+            "id": 9,
+            "gaze_during": 267,
+            "fix_id": 29,
+            "tb_id": 30,
+            "s_id": 28,
+            "v3_id": 30,
+            "v1_id": 32,
+            "bert_id": 31,
+            "box_id": 30,
+            "xycut_id": 24
+        },
+        {
+            "text": "YEA -",
+            "box": [
+                297,
+                547,
+                341,
+                560
+            ],
+            "linking": [
+                [
+                    38,
+                    11
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "YEA",
+                    "box": [
+                        297,
+                        547,
+                        319,
+                        560
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        330,
+                        550,
+                        341,
+                        558
+                    ]
+                }
+            ],
+            "id": 38,
+            "gaze_during": 383,
+            "fix_id": 27,
+            "tb_id": 31,
+            "s_id": 29,
+            "v3_id": 31,
+            "v1_id": 33,
+            "bert_id": 33,
+            "box_id": 31,
+            "xycut_id": 25
+        },
+        {
+            "text": "CAPRI -",
+            "box": [
+                299,
+                559,
+                340,
+                570
+            ],
+            "linking": [
+                [
+                    39,
+                    12
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAPRI",
+                    "box": [
+                        299,
+                        559,
+                        327,
+                        570
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        332,
+                        559,
+                        340,
+                        566
+                    ]
+                }
+            ],
+            "id": 39,
+            "gaze_during": 160,
+            "fix_id": 32,
+            "tb_id": 32,
+            "s_id": 30,
+            "v3_id": 32,
+            "v1_id": 34,
+            "bert_id": 34,
+            "box_id": 32,
+            "xycut_id": 26
+        },
+        {
+            "box": [
+                342,
+                559,
+                389,
+                570
+            ],
+            "text": "21.240",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        342,
+                        559,
+                        389,
+                        570
+                    ],
+                    "text": "21.240"
+                }
+            ],
+            "linking": [
+                [
+                    39,
+                    12
+                ]
+            ],
+            "id": 12,
+            "gaze_during": 0,
+            "fix_id": 34,
+            "tb_id": 33,
+            "s_id": 31,
+            "v3_id": 33,
+            "v1_id": 35,
+            "bert_id": 35,
+            "box_id": 33,
+            "xycut_id": 29
+        },
+        {
+            "box": [
+                349,
+                547,
+                384,
+                560
+            ],
+            "text": "9.442",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        349,
+                        547,
+                        384,
+                        560
+                    ],
+                    "text": "9.442"
+                }
+            ],
+            "linking": [
+                [
+                    38,
+                    11
+                ]
+            ],
+            "id": 11,
+            "gaze_during": 0,
+            "fix_id": 36,
+            "tb_id": 34,
+            "s_id": 32,
+            "v3_id": 34,
+            "v1_id": 36,
+            "bert_id": 36,
+            "box_id": 34,
+            "xycut_id": 28
+        },
+        {
+            "text": "2- 25- 88",
+            "box": [
+                88,
+                568,
+                160,
+                586
+            ],
+            "linking": [
+                [
+                    32,
+                    37
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "2-",
+                    "box": [
+                        88,
+                        570,
+                        110,
+                        585
+                    ]
+                },
+                {
+                    "text": "25-",
+                    "box": [
+                        112,
+                        568,
+                        140,
+                        586
+                    ]
+                },
+                {
+                    "text": "88",
+                    "box": [
+                        140,
+                        570,
+                        160,
+                        584
+                    ]
+                }
+            ],
+            "id": 37,
+            "gaze_during": 0,
+            "fix_id": 37,
+            "tb_id": 35,
+            "s_id": 33,
+            "v3_id": 35,
+            "v1_id": 37,
+            "bert_id": 37,
+            "box_id": 35,
+            "xycut_id": 11
+        },
+        {
+            "box": [
+                207,
+                573,
+                235,
+                584
+            ],
+            "text": "FEB",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        207,
+                        573,
+                        235,
+                        584
+                    ],
+                    "text": "FEB"
+                }
+            ],
+            "linking": [
+                [
+                    33,
+                    10
+                ]
+            ],
+            "id": 10,
+            "gaze_during": 267,
+            "fix_id": 30,
+            "tb_id": 36,
+            "s_id": 34,
+            "v3_id": 36,
+            "v1_id": 38,
+            "bert_id": 38,
+            "box_id": 36,
+            "xycut_id": 27
+        },
+        {
+            "box": [
+                342,
+                570,
+                389,
+                581
+            ],
+            "text": "3068230.682",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        342,
+                        570,
+                        389,
+                        581
+                    ],
+                    "text": "3068230.682"
+                }
+            ],
+            "linking": [],
+            "id": 13,
+            "gaze_during": 0,
+            "fix_id": 33,
+            "tb_id": 37,
+            "s_id": 35,
+            "v3_id": 37,
+            "v1_id": 39,
+            "bert_id": 39,
+            "box_id": 37,
+            "xycut_id": 30
+        },
+        {
+            "box": [
+                587,
+                560,
+                646,
+                581
+            ],
+            "text": "77.900",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        587,
+                        560,
+                        646,
+                        581
+                    ],
+                    "text": "77.900"
+                }
+            ],
+            "linking": [
+                [
+                    8,
+                    14
+                ]
+            ],
+            "id": 14,
+            "gaze_during": 0,
+            "fix_id": 35,
+            "tb_id": 38,
+            "s_id": 36,
+            "v3_id": 39,
+            "v1_id": 39,
+            "bert_id": 39,
+            "box_id": 38,
+            "xycut_id": 39
+        },
+        {
+            "box": [
+                545,
+                901,
+                675,
+                932
+            ],
+            "text": "466009457",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        545,
+                        901,
+                        675,
+                        932
+                    ],
+                    "text": "466009457"
+                }
+            ],
+            "linking": [],
+            "id": 3,
+            "gaze_during": 413,
+            "fix_id": 39,
+            "tb_id": 39,
+            "s_id": 37,
+            "v3_id": 39,
+            "v1_id": 39,
+            "bert_id": 39,
+            "box_id": 39,
+            "xycut_id": 36
+        }
+    ]
+}

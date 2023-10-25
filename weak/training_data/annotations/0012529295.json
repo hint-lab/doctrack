@@ -1,0 +1,4831 @@
+{
+    "form": [
+        {
+            "text": "6DR IV per II Revised MRA request one on LS to be",
+            "box": [
+                505,
+                17,
+                710,
+                122
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "6DR",
+                    "box": [
+                        619,
+                        17,
+                        663,
+                        43
+                    ]
+                },
+                {
+                    "text": "IV",
+                    "box": [
+                        684,
+                        17,
+                        710,
+                        45
+                    ]
+                },
+                {
+                    "text": "per",
+                    "box": [
+                        578,
+                        34,
+                        613,
+                        60
+                    ]
+                },
+                {
+                    "text": "II",
+                    "box": [
+                        657,
+                        28,
+                        683,
+                        55
+                    ]
+                },
+                {
+                    "text": "Revised",
+                    "box": [
+                        505,
+                        48,
+                        578,
+                        87
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        607,
+                        42,
+                        653,
+                        68
+                    ]
+                },
+                {
+                    "text": "MRA",
+                    "box": [
+                        667,
+                        48,
+                        705,
+                        72
+                    ]
+                },
+                {
+                    "text": "request",
+                    "box": [
+                        522,
+                        65,
+                        595,
+                        100
+                    ]
+                },
+                {
+                    "text": "one",
+                    "box": [
+                        621,
+                        67,
+                        652,
+                        88
+                    ]
+                },
+                {
+                    "text": "on",
+                    "box": [
+                        591,
+                        79,
+                        612,
+                        105
+                    ]
+                },
+                {
+                    "text": "LS",
+                    "box": [
+                        670,
+                        77,
+                        692,
+                        94
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        542,
+                        98,
+                        562,
+                        122
+                    ]
+                },
+                {
+                    "text": "be",
+                    "box": [
+                        572,
+                        91,
+                        586,
+                        113
+                    ]
+                }
+            ],
+            "id": 23,
+            "gaze_during": 243,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 1,
+            "box_id": 2,
+            "xycut_id": 2
+        },
+        {
+            "text": "(Recommended Proposal Attached)",
+            "box": [
+                261,
+                103,
+                483,
+                121
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "(Recommended",
+                    "box": [
+                        261,
+                        103,
+                        348,
+                        121
+                    ]
+                },
+                {
+                    "text": "Proposal",
+                    "box": [
+                        353,
+                        105,
+                        412,
+                        119
+                    ]
+                },
+                {
+                    "text": "Attached)",
+                    "box": [
+                        415,
+                        105,
+                        483,
+                        119
+                    ]
+                }
+            ],
+            "id": 22,
+            "gaze_during": 280,
+            "fix_id": 1,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 1,
+            "v1_id": 1,
+            "bert_id": 0,
+            "box_id": 17,
+            "xycut_id": 1
+        },
+        {
+            "text": "MARKET RESEARCH AUTHORIZATION",
+            "box": [
+                263,
+                86,
+                477,
+                105
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "MARKET",
+                    "box": [
+                        263,
+                        86,
+                        311,
+                        104
+                    ]
+                },
+                {
+                    "text": "RESEARCH",
+                    "box": [
+                        317,
+                        87,
+                        376,
+                        105
+                    ]
+                },
+                {
+                    "text": "AUTHORIZATION",
+                    "box": [
+                        379,
+                        88,
+                        477,
+                        105
+                    ]
+                }
+            ],
+            "id": 21,
+            "gaze_during": 0,
+            "fix_id": 2,
+            "tb_id": 2,
+            "s_id": 3,
+            "v3_id": 2,
+            "v1_id": 2,
+            "bert_id": 2,
+            "box_id": 20,
+            "xycut_id": 0
+        },
+        {
+            "box": [
+                54,
+                132,
+                92,
+                150
+            ],
+            "text": "Date:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        54,
+                        132,
+                        92,
+                        150
+                    ],
+                    "text": "Date:"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    25
+                ]
+            ],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 3,
+            "tb_id": 3,
+            "s_id": 2,
+            "v3_id": 3,
+            "v1_id": 3,
+            "bert_id": 3,
+            "box_id": 0,
+            "xycut_id": 3
+        },
+        {
+            "text": "10/ /9 87",
+            "box": [
+                103,
+                131,
+                169,
+                150
+            ],
+            "linking": [
+                [
+                    0,
+                    25
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "10/",
+                    "box": [
+                        103,
+                        131,
+                        123,
+                        150
+                    ]
+                },
+                {
+                    "text": "/9",
+                    "box": [
+                        123,
+                        132,
+                        142,
+                        149
+                    ]
+                },
+                {
+                    "text": "87",
+                    "box": [
+                        145,
+                        134,
+                        169,
+                        147
+                    ]
+                }
+            ],
+            "id": 25,
+            "gaze_during": 0,
+            "fix_id": 4,
+            "tb_id": 4,
+            "s_id": 4,
+            "v3_id": 4,
+            "v1_id": 5,
+            "bert_id": 5,
+            "box_id": 3,
+            "xycut_id": 4
+        },
+        {
+            "box": [
+                496,
+                133,
+                517,
+                151
+            ],
+            "text": "No.",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        496,
+                        133,
+                        517,
+                        151
+                    ],
+                    "text": "No."
+                }
+            ],
+            "linking": [
+                [
+                    13,
+                    24
+                ]
+            ],
+            "id": 13,
+            "gaze_during": 0,
+            "fix_id": 6,
+            "tb_id": 5,
+            "s_id": 5,
+            "v3_id": 5,
+            "v1_id": 4,
+            "bert_id": 4,
+            "box_id": 23,
+            "xycut_id": 5
+        },
+        {
+            "text": "C- 40",
+            "box": [
+                567,
+                131,
+                610,
+                148
+            ],
+            "linking": [
+                [
+                    13,
+                    24
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "C-",
+                    "box": [
+                        567,
+                        134,
+                        588,
+                        147
+                    ]
+                },
+                {
+                    "text": "40",
+                    "box": [
+                        590,
+                        131,
+                        610,
+                        148
+                    ]
+                }
+            ],
+            "id": 24,
+            "gaze_during": 0,
+            "fix_id": 7,
+            "tb_id": 6,
+            "s_id": 6,
+            "v3_id": 6,
+            "v1_id": 7,
+            "bert_id": 6,
+            "box_id": 14,
+            "xycut_id": 6
+        },
+        {
+            "text": "Description: CAPRI Expansion:",
+            "box": [
+                53,
+                159,
+                266,
+                179
+            ],
+            "linking": [
+                [
+                    26,
+                    27
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Description:",
+                    "box": [
+                        53,
+                        159,
+                        143,
+                        177
+                    ]
+                },
+                {
+                    "text": "CAPRI",
+                    "box": [
+                        149,
+                        164,
+                        189,
+                        179
+                    ]
+                },
+                {
+                    "text": "Expansion:",
+                    "box": [
+                        193,
+                        159,
+                        266,
+                        178
+                    ]
+                }
+            ],
+            "id": 26,
+            "gaze_during": 0,
+            "fix_id": 9,
+            "tb_id": 7,
+            "s_id": 7,
+            "v3_id": 7,
+            "v1_id": 6,
+            "bert_id": 7,
+            "box_id": 4,
+            "xycut_id": 7
+        },
+        {
+            "text": "California- A&U Wave II",
+            "box": [
+                277,
+                160,
+                457,
+                179
+            ],
+            "linking": [
+                [
+                    26,
+                    27
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "California-",
+                    "box": [
+                        277,
+                        162,
+                        367,
+                        179
+                    ]
+                },
+                {
+                    "text": "A&U",
+                    "box": [
+                        375,
+                        160,
+                        397,
+                        175
+                    ]
+                },
+                {
+                    "text": "Wave",
+                    "box": [
+                        403,
+                        160,
+                        431,
+                        177
+                    ]
+                },
+                {
+                    "text": "II",
+                    "box": [
+                        440,
+                        160,
+                        457,
+                        177
+                    ]
+                }
+            ],
+            "id": 27,
+            "gaze_during": 0,
+            "fix_id": 11,
+            "tb_id": 8,
+            "s_id": 8,
+            "v3_id": 8,
+            "v1_id": 8,
+            "bert_id": 8,
+            "box_id": 16,
+            "xycut_id": 8
+        },
+        {
+            "text": "Requested By:",
+            "box": [
+                54,
+                205,
+                150,
+                222
+            ],
+            "linking": [
+                [
+                    28,
+                    29
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Requested",
+                    "box": [
+                        54,
+                        206,
+                        121,
+                        221
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "box": [
+                        129,
+                        205,
+                        150,
+                        222
+                    ]
+                }
+            ],
+            "id": 28,
+            "gaze_during": 0,
+            "fix_id": 13,
+            "tb_id": 9,
+            "s_id": 9,
+            "v3_id": 9,
+            "v1_id": 9,
+            "bert_id": 9,
+            "box_id": 6,
+            "xycut_id": 9
+        },
+        {
+            "text": "S. H. Trebilcock",
+            "box": [
+                162,
+                203,
+                285,
+                221
+            ],
+            "linking": [
+                [
+                    28,
+                    29
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "S.",
+                    "box": [
+                        162,
+                        205,
+                        180,
+                        220
+                    ]
+                },
+                {
+                    "text": "H.",
+                    "box": [
+                        183,
+                        204,
+                        198,
+                        219
+                    ]
+                },
+                {
+                    "text": "Trebilcock",
+                    "box": [
+                        208,
+                        203,
+                        285,
+                        221
+                    ]
+                }
+            ],
+            "id": 29,
+            "gaze_during": 436,
+            "fix_id": 5,
+            "tb_id": 10,
+            "s_id": 10,
+            "v3_id": 10,
+            "v1_id": 10,
+            "bert_id": 11,
+            "box_id": 5,
+            "xycut_id": 10
+        },
+        {
+            "text": "Research Request Attached:",
+            "box": [
+                344,
+                206,
+                534,
+                223
+            ],
+            "linking": [
+                [
+                    30,
+                    14
+                ],
+                [
+                    30,
+                    15
+                ]
+            ],
+            "label": "header",
+            "words": [
+                {
+                    "text": "Research",
+                    "box": [
+                        344,
+                        208,
+                        407,
+                        221
+                    ]
+                },
+                {
+                    "text": "Request",
+                    "box": [
+                        409,
+                        206,
+                        461,
+                        220
+                    ]
+                },
+                {
+                    "text": "Attached:",
+                    "box": [
+                        468,
+                        206,
+                        534,
+                        223
+                    ]
+                }
+            ],
+            "id": 30,
+            "gaze_during": 367,
+            "fix_id": 8,
+            "tb_id": 11,
+            "s_id": 11,
+            "v3_id": 11,
+            "v1_id": 11,
+            "bert_id": 10,
+            "box_id": 11,
+            "xycut_id": 11
+        },
+        {
+            "box": [
+                545,
+                204,
+                570,
+                223
+            ],
+            "text": "Yes",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        545,
+                        204,
+                        570,
+                        223
+                    ],
+                    "text": "Yes"
+                }
+            ],
+            "linking": [
+                [
+                    30,
+                    14
+                ],
+                [
+                    14,
+                    3
+                ]
+            ],
+            "id": 14,
+            "gaze_during": 0,
+            "fix_id": 10,
+            "tb_id": 12,
+            "s_id": 12,
+            "v3_id": 12,
+            "v1_id": 12,
+            "bert_id": 12,
+            "box_id": 9,
+            "xycut_id": 12
+        },
+        {
+            "box": [
+                574,
+                204,
+                588,
+                218
+            ],
+            "text": "x",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        574,
+                        204,
+                        588,
+                        218
+                    ],
+                    "text": "x"
+                }
+            ],
+            "linking": [
+                [
+                    14,
+                    3
+                ]
+            ],
+            "id": 3,
+            "gaze_during": 0,
+            "fix_id": 12,
+            "tb_id": 13,
+            "s_id": 13,
+            "v3_id": 13,
+            "v1_id": 13,
+            "bert_id": 15,
+            "box_id": 28,
+            "xycut_id": 13
+        },
+        {
+            "box": [
+                593,
+                206,
+                611,
+                223
+            ],
+            "text": "No",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        593,
+                        206,
+                        611,
+                        223
+                    ],
+                    "text": "No"
+                }
+            ],
+            "linking": [
+                [
+                    30,
+                    15
+                ]
+            ],
+            "id": 15,
+            "gaze_during": 0,
+            "fix_id": 14,
+            "tb_id": 14,
+            "s_id": 14,
+            "v3_id": 14,
+            "v1_id": 14,
+            "bert_id": 14,
+            "box_id": 1,
+            "xycut_id": 84
+        },
+        {
+            "text": "Competitive Proposals Obtained:",
+            "box": [
+                54,
+                233,
+                280,
+                252
+            ],
+            "linking": [
+                [
+                    31,
+                    1
+                ],
+                [
+                    31,
+                    32
+                ],
+                [
+                    31,
+                    33
+                ],
+                [
+                    31,
+                    34
+                ],
+                [
+                    31,
+                    35
+                ]
+            ],
+            "label": "header",
+            "words": [
+                {
+                    "text": "Competitive",
+                    "box": [
+                        54,
+                        233,
+                        135,
+                        252
+                    ]
+                },
+                {
+                    "text": "Proposals",
+                    "box": [
+                        143,
+                        233,
+                        208,
+                        251
+                    ]
+                },
+                {
+                    "text": "Obtained:",
+                    "box": [
+                        212,
+                        237,
+                        280,
+                        251
+                    ]
+                }
+            ],
+            "id": 31,
+            "gaze_during": 487,
+            "fix_id": 15,
+            "tb_id": 15,
+            "s_id": 15,
+            "v3_id": 15,
+            "v1_id": 15,
+            "bert_id": 13,
+            "box_id": 7,
+            "xycut_id": 14
+        },
+        {
+            "box": [
+                104,
+                265,
+                168,
+                279
+            ],
+            "text": "Supplier",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        104,
+                        265,
+                        168,
+                        279
+                    ],
+                    "text": "Supplier"
+                }
+            ],
+            "linking": [
+                [
+                    31,
+                    1
+                ],
+                [
+                    1,
+                    42
+                ],
+                [
+                    1,
+                    43
+                ]
+            ],
+            "id": 1,
+            "gaze_during": 110,
+            "fix_id": 18,
+            "tb_id": 16,
+            "s_id": 16,
+            "v3_id": 16,
+            "v1_id": 16,
+            "bert_id": 17,
+            "box_id": 8,
+            "xycut_id": 15
+        },
+        {
+            "text": "Cost ($)",
+            "box": [
+                284,
+                263,
+                346,
+                279
+            ],
+            "linking": [
+                [
+                    31,
+                    32
+                ],
+                [
+                    32,
+                    40
+                ],
+                [
+                    32,
+                    41
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Cost",
+                    "box": [
+                        284,
+                        265,
+                        318,
+                        279
+                    ]
+                },
+                {
+                    "text": "($)",
+                    "box": [
+                        324,
+                        263,
+                        346,
+                        278
+                    ]
+                }
+            ],
+            "id": 32,
+            "gaze_during": 0,
+            "fix_id": 20,
+            "tb_id": 17,
+            "s_id": 17,
+            "v3_id": 17,
+            "v1_id": 17,
+            "bert_id": 16,
+            "box_id": 10,
+            "xycut_id": 16
+        },
+        {
+            "text": "Est. Travel",
+            "box": [
+                394,
+                250,
+                442,
+                281
+            ],
+            "linking": [
+                [
+                    31,
+                    33
+                ],
+                [
+                    33,
+                    4
+                ],
+                [
+                    33,
+                    5
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Est.",
+                    "box": [
+                        403,
+                        250,
+                        435,
+                        264
+                    ]
+                },
+                {
+                    "text": "Travel",
+                    "box": [
+                        394,
+                        268,
+                        442,
+                        281
+                    ]
+                }
+            ],
+            "id": 33,
+            "gaze_during": 110,
+            "fix_id": 16,
+            "tb_id": 18,
+            "s_id": 18,
+            "v3_id": 18,
+            "v1_id": 18,
+            "bert_id": 19,
+            "box_id": 12,
+            "xycut_id": 17
+        },
+        {
+            "text": "Total Cost",
+            "box": [
+                488,
+                265,
+                565,
+                279
+            ],
+            "linking": [
+                [
+                    31,
+                    34
+                ],
+                [
+                    34,
+                    39
+                ],
+                [
+                    34,
+                    38
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Total",
+                    "box": [
+                        488,
+                        265,
+                        529,
+                        279
+                    ]
+                },
+                {
+                    "text": "Cost",
+                    "box": [
+                        534,
+                        265,
+                        565,
+                        279
+                    ]
+                }
+            ],
+            "id": 34,
+            "gaze_during": 0,
+            "fix_id": 17,
+            "tb_id": 19,
+            "s_id": 19,
+            "v3_id": 19,
+            "v1_id": 19,
+            "bert_id": 18,
+            "box_id": 13,
+            "xycut_id": 18
+        },
+        {
+            "text": "Cost Per Interview",
+            "box": [
+                605,
+                251,
+                677,
+                281
+            ],
+            "linking": [
+                [
+                    31,
+                    35
+                ],
+                [
+                    35,
+                    36
+                ],
+                [
+                    35,
+                    37
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Cost",
+                    "box": [
+                        605,
+                        254,
+                        638,
+                        265
+                    ]
+                },
+                {
+                    "text": "Per",
+                    "box": [
+                        643,
+                        251,
+                        669,
+                        264
+                    ]
+                },
+                {
+                    "text": "Interview",
+                    "box": [
+                        607,
+                        268,
+                        677,
+                        281
+                    ]
+                }
+            ],
+            "id": 35,
+            "gaze_during": 0,
+            "fix_id": 19,
+            "tb_id": 20,
+            "s_id": 20,
+            "v3_id": 20,
+            "v1_id": 20,
+            "bert_id": 21,
+            "box_id": 19,
+            "xycut_id": 85
+        },
+        {
+            "text": "Kapuler Market Research",
+            "box": [
+                59,
+                292,
+                228,
+                313
+            ],
+            "linking": [
+                [
+                    1,
+                    42
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Kapuler",
+                    "box": [
+                        59,
+                        292,
+                        116,
+                        310
+                    ]
+                },
+                {
+                    "text": "Market",
+                    "box": [
+                        121,
+                        294,
+                        162,
+                        311
+                    ]
+                },
+                {
+                    "text": "Research",
+                    "box": [
+                        171,
+                        295,
+                        228,
+                        313
+                    ]
+                }
+            ],
+            "id": 42,
+            "gaze_during": 390,
+            "fix_id": 21,
+            "tb_id": 21,
+            "s_id": 21,
+            "v3_id": 21,
+            "v1_id": 21,
+            "bert_id": 20,
+            "box_id": 15,
+            "xycut_id": 19
+        },
+        {
+            "text": "$70 70,825 +/ - 10%",
+            "box": [
+                252,
+                291,
+                375,
+                313
+            ],
+            "linking": [
+                [
+                    32,
+                    40
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "$70",
+                    "box": [
+                        252,
+                        291,
+                        284,
+                        308
+                    ]
+                },
+                {
+                    "text": "70,825",
+                    "box": [
+                        289,
+                        294,
+                        316,
+                        313
+                    ]
+                },
+                {
+                    "text": "+/",
+                    "box": [
+                        323,
+                        292,
+                        336,
+                        309
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        334,
+                        291,
+                        345,
+                        309
+                    ]
+                },
+                {
+                    "text": "10%",
+                    "box": [
+                        350,
+                        294,
+                        375,
+                        308
+                    ]
+                }
+            ],
+            "id": 40,
+            "gaze_during": 530,
+            "fix_id": 24,
+            "tb_id": 22,
+            "s_id": 22,
+            "v3_id": 22,
+            "v1_id": 24,
+            "bert_id": 22,
+            "box_id": 18,
+            "xycut_id": 20
+        },
+        {
+            "box": [
+                410,
+                296,
+                431,
+                309
+            ],
+            "text": "-0-",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        410,
+                        296,
+                        431,
+                        309
+                    ],
+                    "text": "-0-"
+                }
+            ],
+            "linking": [
+                [
+                    33,
+                    4
+                ]
+            ],
+            "id": 4,
+            "gaze_during": 0,
+            "fix_id": 25,
+            "tb_id": 23,
+            "s_id": 23,
+            "v3_id": 23,
+            "v1_id": 23,
+            "bert_id": 24,
+            "box_id": 21,
+            "xycut_id": 21
+        },
+        {
+            "text": "$70 ,825 + - 10%",
+            "box": [
+                465,
+                291,
+                570,
+                310
+            ],
+            "linking": [
+                [
+                    34,
+                    39
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "$70",
+                    "box": [
+                        465,
+                        291,
+                        490,
+                        310
+                    ]
+                },
+                {
+                    "text": ",825",
+                    "box": [
+                        491,
+                        292,
+                        519,
+                        310
+                    ]
+                },
+                {
+                    "text": "+",
+                    "box": [
+                        519,
+                        291,
+                        539,
+                        309
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        537,
+                        296,
+                        551,
+                        308
+                    ]
+                },
+                {
+                    "text": "10%",
+                    "box": [
+                        551,
+                        294,
+                        570,
+                        309
+                    ]
+                }
+            ],
+            "id": 39,
+            "gaze_during": 0,
+            "fix_id": 27,
+            "tb_id": 24,
+            "s_id": 24,
+            "v3_id": 24,
+            "v1_id": 22,
+            "bert_id": 23,
+            "box_id": 29,
+            "xycut_id": 22
+        },
+        {
+            "text": "$47 .22",
+            "box": [
+                605,
+                294,
+                656,
+                312
+            ],
+            "linking": [
+                [
+                    35,
+                    36
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "$47",
+                    "box": [
+                        605,
+                        294,
+                        627,
+                        311
+                    ]
+                },
+                {
+                    "text": ".22",
+                    "box": [
+                        630,
+                        295,
+                        656,
+                        312
+                    ]
+                }
+            ],
+            "id": 36,
+            "gaze_during": 0,
+            "fix_id": 29,
+            "tb_id": 25,
+            "s_id": 25,
+            "v3_id": 25,
+            "v1_id": 25,
+            "bert_id": 25,
+            "box_id": 24,
+            "xycut_id": 86
+        },
+        {
+            "text": "Market Facts, Inc.",
+            "box": [
+                60,
+                322,
+                194,
+                341
+            ],
+            "linking": [
+                [
+                    1,
+                    43
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Market",
+                    "box": [
+                        60,
+                        322,
+                        106,
+                        337
+                    ]
+                },
+                {
+                    "text": "Facts,",
+                    "box": [
+                        111,
+                        322,
+                        157,
+                        341
+                    ]
+                },
+                {
+                    "text": "Inc.",
+                    "box": [
+                        162,
+                        324,
+                        194,
+                        341
+                    ]
+                }
+            ],
+            "id": 43,
+            "gaze_during": 137,
+            "fix_id": 22,
+            "tb_id": 26,
+            "s_id": 26,
+            "v3_id": 26,
+            "v1_id": 26,
+            "bert_id": 26,
+            "box_id": 22,
+            "xycut_id": 23
+        },
+        {
+            "text": "$112, 000 +/ - 10%",
+            "box": [
+                256,
+                321,
+                377,
+                341
+            ],
+            "linking": [
+                [
+                    32,
+                    41
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "$112,",
+                    "box": [
+                        256,
+                        321,
+                        294,
+                        339
+                    ]
+                },
+                {
+                    "text": "000",
+                    "box": [
+                        294,
+                        321,
+                        318,
+                        341
+                    ]
+                },
+                {
+                    "text": "+/",
+                    "box": [
+                        320,
+                        325,
+                        335,
+                        334
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        331,
+                        327,
+                        345,
+                        340
+                    ]
+                },
+                {
+                    "text": "10%",
+                    "box": [
+                        353,
+                        323,
+                        377,
+                        340
+                    ]
+                }
+            ],
+            "id": 41,
+            "gaze_during": 257,
+            "fix_id": 23,
+            "tb_id": 27,
+            "s_id": 27,
+            "v3_id": 27,
+            "v1_id": 27,
+            "bert_id": 27,
+            "box_id": 26,
+            "xycut_id": 24
+        },
+        {
+            "box": [
+                410,
+                322,
+                431,
+                339
+            ],
+            "text": "-O-",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        410,
+                        322,
+                        431,
+                        339
+                    ],
+                    "text": "-O-"
+                }
+            ],
+            "linking": [
+                [
+                    33,
+                    5
+                ]
+            ],
+            "id": 5,
+            "gaze_during": 293,
+            "fix_id": 28,
+            "tb_id": 28,
+            "s_id": 28,
+            "v3_id": 28,
+            "v1_id": 29,
+            "bert_id": 30,
+            "box_id": 25,
+            "xycut_id": 25
+        },
+        {
+            "text": "$112 000 +/ - 10%",
+            "box": [
+                459,
+                322,
+                579,
+                341
+            ],
+            "linking": [
+                [
+                    34,
+                    38
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "$112",
+                    "box": [
+                        459,
+                        322,
+                        491,
+                        339
+                    ]
+                },
+                {
+                    "text": "000",
+                    "box": [
+                        494,
+                        322,
+                        520,
+                        340
+                    ]
+                },
+                {
+                    "text": "+/",
+                    "box": [
+                        525,
+                        322,
+                        542,
+                        341
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        539,
+                        327,
+                        551,
+                        340
+                    ]
+                },
+                {
+                    "text": "10%",
+                    "box": [
+                        557,
+                        322,
+                        579,
+                        340
+                    ]
+                }
+            ],
+            "id": 38,
+            "gaze_during": 0,
+            "fix_id": 30,
+            "tb_id": 29,
+            "s_id": 29,
+            "v3_id": 29,
+            "v1_id": 28,
+            "bert_id": 29,
+            "box_id": 27,
+            "xycut_id": 26
+        },
+        {
+            "text": "$74 .67",
+            "box": [
+                605,
+                318,
+                658,
+                340
+            ],
+            "linking": [
+                [
+                    35,
+                    37
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "$74",
+                    "box": [
+                        605,
+                        318,
+                        629,
+                        339
+                    ]
+                },
+                {
+                    "text": ".67",
+                    "box": [
+                        629,
+                        320,
+                        658,
+                        340
+                    ]
+                }
+            ],
+            "id": 37,
+            "gaze_during": 267,
+            "fix_id": 32,
+            "tb_id": 30,
+            "s_id": 30,
+            "v3_id": 30,
+            "v1_id": 30,
+            "bert_id": 28,
+            "box_id": 36,
+            "xycut_id": 87
+        },
+        {
+            "text": "Initiation Date",
+            "box": [
+                48,
+                381,
+                166,
+                398
+            ],
+            "linking": [
+                [
+                    44,
+                    48
+                ],
+                [
+                    2,
+                    44
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Initiation",
+                    "box": [
+                        48,
+                        382,
+                        128,
+                        397
+                    ]
+                },
+                {
+                    "text": "Date",
+                    "box": [
+                        133,
+                        381,
+                        166,
+                        398
+                    ]
+                }
+            ],
+            "id": 44,
+            "gaze_during": 0,
+            "fix_id": 34,
+            "tb_id": 31,
+            "s_id": 31,
+            "v3_id": 31,
+            "v1_id": 31,
+            "bert_id": 31,
+            "box_id": 30,
+            "xycut_id": 28
+        },
+        {
+            "box": [
+                52,
+                364,
+                131,
+                381
+            ],
+            "text": "Projected:",
+            "label": "header",
+            "words": [
+                {
+                    "box": [
+                        52,
+                        364,
+                        131,
+                        381
+                    ],
+                    "text": "Projected:"
+                }
+            ],
+            "linking": [
+                [
+                    2,
+                    44
+                ],
+                [
+                    2,
+                    45
+                ],
+                [
+                    2,
+                    46
+                ],
+                [
+                    2,
+                    47
+                ]
+            ],
+            "id": 2,
+            "gaze_during": 0,
+            "fix_id": 36,
+            "tb_id": 32,
+            "s_id": 32,
+            "v3_id": 32,
+            "v1_id": 32,
+            "bert_id": 33,
+            "box_id": 31,
+            "xycut_id": 27
+        },
+        {
+            "text": "8/ 3/ 87",
+            "box": [
+                171,
+                380,
+                222,
+                400
+            ],
+            "linking": [
+                [
+                    44,
+                    48
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "8/",
+                    "box": [
+                        171,
+                        380,
+                        192,
+                        397
+                    ]
+                },
+                {
+                    "text": "3/",
+                    "box": [
+                        188,
+                        380,
+                        206,
+                        400
+                    ]
+                },
+                {
+                    "text": "87",
+                    "box": [
+                        204,
+                        381,
+                        222,
+                        395
+                    ]
+                }
+            ],
+            "id": 48,
+            "gaze_during": 0,
+            "fix_id": 38,
+            "tb_id": 33,
+            "s_id": 33,
+            "v3_id": 33,
+            "v1_id": 33,
+            "bert_id": 32,
+            "box_id": 33,
+            "xycut_id": 29
+        },
+        {
+            "text": "Total Area Budget:",
+            "box": [
+                296,
+                382,
+                434,
+                401
+            ],
+            "linking": [
+                [
+                    53,
+                    56
+                ],
+                [
+                    52,
+                    53
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Total",
+                    "box": [
+                        296,
+                        382,
+                        340,
+                        397
+                    ]
+                },
+                {
+                    "text": "Area",
+                    "box": [
+                        344,
+                        386,
+                        375,
+                        401
+                    ]
+                },
+                {
+                    "text": "Budget:",
+                    "box": [
+                        381,
+                        383,
+                        434,
+                        398
+                    ]
+                }
+            ],
+            "id": 53,
+            "gaze_during": 0,
+            "fix_id": 39,
+            "tb_id": 34,
+            "s_id": 34,
+            "v3_id": 34,
+            "v1_id": 35,
+            "bert_id": 34,
+            "box_id": 34,
+            "xycut_id": 31
+        },
+        {
+            "text": "Summary of Research Budget",
+            "box": [
+                301,
+                364,
+                493,
+                383
+            ],
+            "linking": [
+                [
+                    52,
+                    53
+                ],
+                [
+                    52,
+                    54
+                ],
+                [
+                    52,
+                    55
+                ]
+            ],
+            "label": "header",
+            "words": [
+                {
+                    "text": "Summary",
+                    "box": [
+                        301,
+                        369,
+                        358,
+                        383
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        360,
+                        364,
+                        377,
+                        383
+                    ]
+                },
+                {
+                    "text": "Research",
+                    "box": [
+                        382,
+                        369,
+                        440,
+                        383
+                    ]
+                },
+                {
+                    "text": "Budget",
+                    "box": [
+                        445,
+                        369,
+                        493,
+                        383
+                    ]
+                }
+            ],
+            "id": 52,
+            "gaze_during": 363,
+            "fix_id": 26,
+            "tb_id": 35,
+            "s_id": 35,
+            "v3_id": 35,
+            "v1_id": 34,
+            "bert_id": 35,
+            "box_id": 32,
+            "xycut_id": 30
+        },
+        {
+            "text": "780, 900. 00",
+            "box": [
+                534,
+                379,
+                625,
+                400
+            ],
+            "linking": [
+                [
+                    53,
+                    56
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "780,",
+                    "box": [
+                        534,
+                        381,
+                        566,
+                        399
+                    ]
+                },
+                {
+                    "text": "900.",
+                    "box": [
+                        571,
+                        379,
+                        603,
+                        399
+                    ]
+                },
+                {
+                    "text": "00",
+                    "box": [
+                        603,
+                        381,
+                        625,
+                        400
+                    ]
+                }
+            ],
+            "id": 56,
+            "gaze_during": 330,
+            "fix_id": 31,
+            "tb_id": 36,
+            "s_id": 36,
+            "v3_id": 36,
+            "v1_id": 36,
+            "bert_id": 37,
+            "box_id": 35,
+            "xycut_id": 32
+        },
+        {
+            "text": "Field Start",
+            "box": [
+                52,
+                409,
+                137,
+                424
+            ],
+            "linking": [
+                [
+                    45,
+                    49
+                ],
+                [
+                    2,
+                    45
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Field",
+                    "box": [
+                        52,
+                        409,
+                        92,
+                        424
+                    ]
+                },
+                {
+                    "text": "Start",
+                    "box": [
+                        99,
+                        409,
+                        137,
+                        424
+                    ]
+                }
+            ],
+            "id": 45,
+            "gaze_during": 0,
+            "fix_id": 33,
+            "tb_id": 37,
+            "s_id": 37,
+            "v3_id": 37,
+            "v1_id": 37,
+            "bert_id": 36,
+            "box_id": 37,
+            "xycut_id": 33
+        },
+        {
+            "text": "9/ 23/ 87*",
+            "box": [
+                177,
+                407,
+                244,
+                428
+            ],
+            "linking": [
+                [
+                    45,
+                    49
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "9/",
+                    "box": [
+                        177,
+                        412,
+                        192,
+                        427
+                    ]
+                },
+                {
+                    "text": "23/",
+                    "box": [
+                        192,
+                        410,
+                        217,
+                        428
+                    ]
+                },
+                {
+                    "text": "87*",
+                    "box": [
+                        213,
+                        407,
+                        244,
+                        424
+                    ]
+                }
+            ],
+            "id": 49,
+            "gaze_during": 0,
+            "fix_id": 35,
+            "tb_id": 38,
+            "s_id": 38,
+            "v3_id": 38,
+            "v1_id": 38,
+            "bert_id": 38,
+            "box_id": 38,
+            "xycut_id": 34
+        },
+        {
+            "text": "Current Bal. Available:",
+            "box": [
+                300,
+                409,
+                468,
+                429
+            ],
+            "linking": [
+                [
+                    54,
+                    57
+                ],
+                [
+                    52,
+                    54
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Current",
+                    "box": [
+                        300,
+                        413,
+                        353,
+                        426
+                    ]
+                },
+                {
+                    "text": "Bal.",
+                    "box": [
+                        357,
+                        412,
+                        388,
+                        426
+                    ]
+                },
+                {
+                    "text": "Available:",
+                    "box": [
+                        396,
+                        409,
+                        468,
+                        429
+                    ]
+                }
+            ],
+            "id": 54,
+            "gaze_during": 227,
+            "fix_id": 41,
+            "tb_id": 39,
+            "s_id": 39,
+            "v3_id": 39,
+            "v1_id": 39,
+            "bert_id": 39,
+            "box_id": 39,
+            "xycut_id": 35
+        },
+        {
+            "text": "(381, 583. 08)",
+            "box": [
+                525,
+                408,
+                628,
+                430
+            ],
+            "linking": [
+                [
+                    54,
+                    57
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "(381,",
+                    "box": [
+                        525,
+                        409,
+                        565,
+                        430
+                    ]
+                },
+                {
+                    "text": "583.",
+                    "box": [
+                        570,
+                        410,
+                        602,
+                        428
+                    ]
+                },
+                {
+                    "text": "08)",
+                    "box": [
+                        607,
+                        408,
+                        628,
+                        428
+                    ]
+                }
+            ],
+            "id": 57,
+            "gaze_during": 0,
+            "fix_id": 42,
+            "tb_id": 40,
+            "s_id": 40,
+            "v3_id": 40,
+            "v1_id": 40,
+            "bert_id": 41,
+            "box_id": 40,
+            "xycut_id": 36
+        },
+        {
+            "text": "Field Complete",
+            "box": [
+                52,
+                436,
+                157,
+                455
+            ],
+            "linking": [
+                [
+                    46,
+                    50
+                ],
+                [
+                    2,
+                    46
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Field",
+                    "box": [
+                        52,
+                        438,
+                        94,
+                        455
+                    ]
+                },
+                {
+                    "text": "Complete",
+                    "box": [
+                        97,
+                        436,
+                        157,
+                        454
+                    ]
+                }
+            ],
+            "id": 46,
+            "gaze_during": 0,
+            "fix_id": 43,
+            "tb_id": 41,
+            "s_id": 41,
+            "v3_id": 41,
+            "v1_id": 41,
+            "bert_id": 40,
+            "box_id": 41,
+            "xycut_id": 37
+        },
+        {
+            "text": "10/ 11/ 87",
+            "box": [
+                169,
+                438,
+                230,
+                457
+            ],
+            "linking": [
+                [
+                    46,
+                    50
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "10/",
+                    "box": [
+                        169,
+                        438,
+                        193,
+                        455
+                    ]
+                },
+                {
+                    "text": "11/",
+                    "box": [
+                        190,
+                        439,
+                        215,
+                        457
+                    ]
+                },
+                {
+                    "text": "87",
+                    "box": [
+                        213,
+                        440,
+                        230,
+                        455
+                    ]
+                }
+            ],
+            "id": 50,
+            "gaze_during": 0,
+            "fix_id": 44,
+            "tb_id": 42,
+            "s_id": 42,
+            "v3_id": 42,
+            "v1_id": 43,
+            "bert_id": 43,
+            "box_id": 43,
+            "xycut_id": 38
+        },
+        {
+            "text": "This Change (From Current Budget)",
+            "box": [
+                297,
+                440,
+                454,
+                470
+            ],
+            "linking": [
+                [
+                    55,
+                    58
+                ],
+                [
+                    52,
+                    55
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "This",
+                    "box": [
+                        297,
+                        440,
+                        331,
+                        454
+                    ]
+                },
+                {
+                    "text": "Change",
+                    "box": [
+                        336,
+                        440,
+                        384,
+                        455
+                    ]
+                },
+                {
+                    "text": "(From",
+                    "box": [
+                        302,
+                        456,
+                        340,
+                        469
+                    ]
+                },
+                {
+                    "text": "Current",
+                    "box": [
+                        346,
+                        456,
+                        396,
+                        470
+                    ]
+                },
+                {
+                    "text": "Budget)",
+                    "box": [
+                        401,
+                        455,
+                        454,
+                        470
+                    ]
+                }
+            ],
+            "id": 55,
+            "gaze_during": 167,
+            "fix_id": 37,
+            "tb_id": 43,
+            "s_id": 43,
+            "v3_id": 43,
+            "v1_id": 42,
+            "bert_id": 42,
+            "box_id": 44,
+            "xycut_id": 39
+        },
+        {
+            "text": "-70, 825. 00",
+            "box": [
+                535,
+                440,
+                624,
+                459
+            ],
+            "linking": [
+                [
+                    55,
+                    58
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "-70,",
+                    "box": [
+                        535,
+                        440,
+                        566,
+                        459
+                    ]
+                },
+                {
+                    "text": "825.",
+                    "box": [
+                        567,
+                        441,
+                        604,
+                        459
+                    ]
+                },
+                {
+                    "text": "00",
+                    "box": [
+                        604,
+                        441,
+                        624,
+                        456
+                    ]
+                }
+            ],
+            "id": 58,
+            "gaze_during": 250,
+            "fix_id": 45,
+            "tb_id": 44,
+            "s_id": 44,
+            "v3_id": 44,
+            "v1_id": 44,
+            "bert_id": 45,
+            "box_id": 42,
+            "xycut_id": 40
+        },
+        {
+            "text": "Final Report Due",
+            "box": [
+                52,
+                466,
+                171,
+                485
+            ],
+            "linking": [
+                [
+                    47,
+                    51
+                ],
+                [
+                    2,
+                    47
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Final",
+                    "box": [
+                        52,
+                        468,
+                        91,
+                        485
+                    ]
+                },
+                {
+                    "text": "Report",
+                    "box": [
+                        98,
+                        466,
+                        143,
+                        485
+                    ]
+                },
+                {
+                    "text": "Due",
+                    "box": [
+                        146,
+                        472,
+                        171,
+                        485
+                    ]
+                }
+            ],
+            "id": 47,
+            "gaze_during": 0,
+            "fix_id": 46,
+            "tb_id": 45,
+            "s_id": 45,
+            "v3_id": 45,
+            "v1_id": 45,
+            "bert_id": 44,
+            "box_id": 45,
+            "xycut_id": 41
+        },
+        {
+            "text": "11/ 16/ 87",
+            "box": [
+                180,
+                466,
+                243,
+                487
+            ],
+            "linking": [
+                [
+                    47,
+                    51
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "11/",
+                    "box": [
+                        180,
+                        466,
+                        206,
+                        484
+                    ]
+                },
+                {
+                    "text": "16/",
+                    "box": [
+                        206,
+                        468,
+                        219,
+                        485
+                    ]
+                },
+                {
+                    "text": "87",
+                    "box": [
+                        221,
+                        468,
+                        243,
+                        487
+                    ]
+                }
+            ],
+            "id": 51,
+            "gaze_during": 237,
+            "fix_id": 40,
+            "tb_id": 46,
+            "s_id": 46,
+            "v3_id": 46,
+            "v1_id": 46,
+            "bert_id": 46,
+            "box_id": 46,
+            "xycut_id": 43
+        },
+        {
+            "text": "*Actual start date on the part of supplier Technically was due to start 9/ 7 (the) 10 week post intro period) See Project File Note) LJS 10/ 13/ 87",
+            "box": [
+                34,
+                496,
+                298,
+                619
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "*Actual",
+                    "box": [
+                        34,
+                        501,
+                        101,
+                        519
+                    ]
+                },
+                {
+                    "text": "start",
+                    "box": [
+                        106,
+                        496,
+                        158,
+                        516
+                    ]
+                },
+                {
+                    "text": "date",
+                    "box": [
+                        166,
+                        499,
+                        201,
+                        518
+                    ]
+                },
+                {
+                    "text": "on",
+                    "box": [
+                        213,
+                        505,
+                        233,
+                        517
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        239,
+                        499,
+                        277,
+                        516
+                    ]
+                },
+                {
+                    "text": "part",
+                    "box": [
+                        44,
+                        518,
+                        86,
+                        535
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        92,
+                        522,
+                        116,
+                        541
+                    ]
+                },
+                {
+                    "text": "supplier",
+                    "box": [
+                        123,
+                        521,
+                        211,
+                        538
+                    ]
+                },
+                {
+                    "text": "Technically",
+                    "box": [
+                        211,
+                        518,
+                        298,
+                        538
+                    ]
+                },
+                {
+                    "text": "was",
+                    "box": [
+                        42,
+                        538,
+                        83,
+                        558
+                    ]
+                },
+                {
+                    "text": "due",
+                    "box": [
+                        85,
+                        541,
+                        127,
+                        558
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        137,
+                        539,
+                        157,
+                        552
+                    ]
+                },
+                {
+                    "text": "start",
+                    "box": [
+                        165,
+                        534,
+                        210,
+                        555
+                    ]
+                },
+                {
+                    "text": "9/",
+                    "box": [
+                        218,
+                        540,
+                        237,
+                        555
+                    ]
+                },
+                {
+                    "text": "7",
+                    "box": [
+                        238,
+                        541,
+                        253,
+                        553
+                    ]
+                },
+                {
+                    "text": "(the)",
+                    "box": [
+                        258,
+                        537,
+                        296,
+                        557
+                    ]
+                },
+                {
+                    "text": "10",
+                    "box": [
+                        45,
+                        558,
+                        60,
+                        576
+                    ]
+                },
+                {
+                    "text": "week",
+                    "box": [
+                        67,
+                        558,
+                        109,
+                        578
+                    ]
+                },
+                {
+                    "text": "post",
+                    "box": [
+                        116,
+                        555,
+                        154,
+                        573
+                    ]
+                },
+                {
+                    "text": "intro",
+                    "box": [
+                        162,
+                        558,
+                        201,
+                        575
+                    ]
+                },
+                {
+                    "text": "period)",
+                    "box": [
+                        211,
+                        555,
+                        274,
+                        576
+                    ]
+                },
+                {
+                    "text": "See",
+                    "box": [
+                        48,
+                        577,
+                        76,
+                        597
+                    ]
+                },
+                {
+                    "text": "Project",
+                    "box": [
+                        91,
+                        578,
+                        148,
+                        602
+                    ]
+                },
+                {
+                    "text": "File",
+                    "box": [
+                        158,
+                        575,
+                        187,
+                        600
+                    ]
+                },
+                {
+                    "text": "Note)",
+                    "box": [
+                        196,
+                        578,
+                        238,
+                        597
+                    ]
+                },
+                {
+                    "text": "LJS",
+                    "box": [
+                        202,
+                        597,
+                        237,
+                        612
+                    ]
+                },
+                {
+                    "text": "10/",
+                    "box": [
+                        244,
+                        593,
+                        263,
+                        614
+                    ]
+                },
+                {
+                    "text": "13/",
+                    "box": [
+                        263,
+                        593,
+                        282,
+                        619
+                    ]
+                },
+                {
+                    "text": "87",
+                    "box": [
+                        279,
+                        593,
+                        296,
+                        617
+                    ]
+                }
+            ],
+            "id": 70,
+            "gaze_during": 1878,
+            "fix_id": 56,
+            "tb_id": 47,
+            "s_id": 47,
+            "v3_id": 47,
+            "v1_id": 47,
+            "bert_id": 47,
+            "box_id": 47,
+            "xycut_id": 42
+        },
+        {
+            "text": "This Amount (From Next Year's Budget)",
+            "box": [
+                298,
+                483,
+                482,
+                516
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "This",
+                    "box": [
+                        298,
+                        483,
+                        333,
+                        498
+                    ]
+                },
+                {
+                    "text": "Amount",
+                    "box": [
+                        338,
+                        485,
+                        378,
+                        499
+                    ]
+                },
+                {
+                    "text": "(From",
+                    "box": [
+                        302,
+                        501,
+                        340,
+                        515
+                    ]
+                },
+                {
+                    "text": "Next",
+                    "box": [
+                        344,
+                        501,
+                        373,
+                        515
+                    ]
+                },
+                {
+                    "text": "Year's",
+                    "box": [
+                        381,
+                        502,
+                        426,
+                        516
+                    ]
+                },
+                {
+                    "text": "Budget)",
+                    "box": [
+                        430,
+                        502,
+                        482,
+                        514
+                    ]
+                }
+            ],
+            "id": 87,
+            "gaze_during": 163,
+            "fix_id": 47,
+            "tb_id": 48,
+            "s_id": 48,
+            "v3_id": 48,
+            "v1_id": 48,
+            "bert_id": 48,
+            "box_id": 52,
+            "xycut_id": 44
+        },
+        {
+            "box": [
+                440,
+                483,
+                473,
+                498
+            ],
+            "text": "-0-",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        440,
+                        483,
+                        473,
+                        498
+                    ],
+                    "text": "-0-"
+                }
+            ],
+            "linking": [],
+            "id": 16,
+            "gaze_during": 163,
+            "fix_id": 48,
+            "tb_id": 49,
+            "s_id": 49,
+            "v3_id": 49,
+            "v1_id": 49,
+            "bert_id": 49,
+            "box_id": 52,
+            "xycut_id": 45
+        },
+        {
+            "text": "New Balance",
+            "box": [
+                297,
+                525,
+                389,
+                544
+            ],
+            "linking": [
+                [
+                    59,
+                    60
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "New",
+                    "box": [
+                        297,
+                        529,
+                        324,
+                        543
+                    ]
+                },
+                {
+                    "text": "Balance",
+                    "box": [
+                        331,
+                        525,
+                        389,
+                        544
+                    ]
+                }
+            ],
+            "id": 59,
+            "gaze_during": 0,
+            "fix_id": 49,
+            "tb_id": 50,
+            "s_id": 50,
+            "v3_id": 50,
+            "v1_id": 50,
+            "bert_id": 50,
+            "box_id": 50,
+            "xycut_id": 46
+        },
+        {
+            "text": "(452 ,408, 08)",
+            "box": [
+                525,
+                525,
+                630,
+                546
+            ],
+            "linking": [
+                [
+                    59,
+                    60
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "(452",
+                    "box": [
+                        525,
+                        526,
+                        560,
+                        546
+                    ]
+                },
+                {
+                    "text": ",408,",
+                    "box": [
+                        561,
+                        525,
+                        602,
+                        546
+                    ]
+                },
+                {
+                    "text": "08)",
+                    "box": [
+                        605,
+                        527,
+                        630,
+                        544
+                    ]
+                }
+            ],
+            "id": 60,
+            "gaze_during": 0,
+            "fix_id": 50,
+            "tb_id": 51,
+            "s_id": 51,
+            "v3_id": 51,
+            "v1_id": 51,
+            "bert_id": 51,
+            "box_id": 51,
+            "xycut_id": 47
+        },
+        {
+            "text": "Committed to Date: (Current Year)",
+            "box": [
+                295,
+                571,
+                430,
+                606
+            ],
+            "linking": [
+                [
+                    62,
+                    61
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Committed",
+                    "box": [
+                        301,
+                        572,
+                        366,
+                        587
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        370,
+                        571,
+                        390,
+                        590
+                    ]
+                },
+                {
+                    "text": "Date:",
+                    "box": [
+                        395,
+                        574,
+                        430,
+                        589
+                    ]
+                },
+                {
+                    "text": "(Current",
+                    "box": [
+                        295,
+                        588,
+                        358,
+                        606
+                    ]
+                },
+                {
+                    "text": "Year)",
+                    "box": [
+                        363,
+                        586,
+                        404,
+                        604
+                    ]
+                }
+            ],
+            "id": 62,
+            "gaze_during": 0,
+            "fix_id": 51,
+            "tb_id": 52,
+            "s_id": 52,
+            "v3_id": 52,
+            "v1_id": 52,
+            "bert_id": 54,
+            "box_id": 53,
+            "xycut_id": 48
+        },
+        {
+            "text": "1, 233, 308. 08",
+            "box": [
+                513,
+                570,
+                626,
+                592
+            ],
+            "linking": [
+                [
+                    62,
+                    61
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "1,",
+                    "box": [
+                        513,
+                        570,
+                        532,
+                        589
+                    ]
+                },
+                {
+                    "text": "233,",
+                    "box": [
+                        535,
+                        571,
+                        566,
+                        589
+                    ]
+                },
+                {
+                    "text": "308.",
+                    "box": [
+                        570,
+                        570,
+                        601,
+                        592
+                    ]
+                },
+                {
+                    "text": "08",
+                    "box": [
+                        598,
+                        572,
+                        626,
+                        587
+                    ]
+                }
+            ],
+            "id": 61,
+            "gaze_during": 0,
+            "fix_id": 52,
+            "tb_id": 53,
+            "s_id": 53,
+            "v3_id": 53,
+            "v1_id": 53,
+            "bert_id": 53,
+            "box_id": 49,
+            "xycut_id": 49
+        },
+        {
+            "text": "Recommemded Supplier:",
+            "box": [
+                47,
+                629,
+                206,
+                647
+            ],
+            "linking": [
+                [
+                    65,
+                    66
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Recommemded",
+                    "box": [
+                        47,
+                        629,
+                        133,
+                        644
+                    ]
+                },
+                {
+                    "text": "Supplier:",
+                    "box": [
+                        139,
+                        632,
+                        206,
+                        647
+                    ]
+                }
+            ],
+            "id": 65,
+            "gaze_during": 573,
+            "fix_id": 58,
+            "tb_id": 54,
+            "s_id": 54,
+            "v3_id": 54,
+            "v1_id": 54,
+            "bert_id": 52,
+            "box_id": 54,
+            "xycut_id": 52
+        },
+        {
+            "text": "Sample Size",
+            "box": [
+                50,
+                613,
+                139,
+                631
+            ],
+            "linking": [
+                [
+                    63,
+                    64
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Sample",
+                    "box": [
+                        50,
+                        613,
+                        97,
+                        631
+                    ]
+                },
+                {
+                    "text": "Size",
+                    "box": [
+                        104,
+                        616,
+                        139,
+                        629
+                    ]
+                }
+            ],
+            "id": 63,
+            "gaze_during": 0,
+            "fix_id": 59,
+            "tb_id": 55,
+            "s_id": 55,
+            "v3_id": 55,
+            "v1_id": 55,
+            "bert_id": 55,
+            "box_id": 55,
+            "xycut_id": 50
+        },
+        {
+            "text": "1. 500",
+            "box": [
+                152,
+                614,
+                194,
+                632
+            ],
+            "linking": [
+                [
+                    63,
+                    64
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "1.",
+                    "box": [
+                        152,
+                        614,
+                        169,
+                        629
+                    ]
+                },
+                {
+                    "text": "500",
+                    "box": [
+                        167,
+                        614,
+                        194,
+                        632
+                    ]
+                }
+            ],
+            "id": 64,
+            "gaze_during": 500,
+            "fix_id": 57,
+            "tb_id": 56,
+            "s_id": 56,
+            "v3_id": 56,
+            "v1_id": 56,
+            "bert_id": 56,
+            "box_id": 56,
+            "xycut_id": 51
+        },
+        {
+            "text": "Reason(s) for Recommendation",
+            "box": [
+                52,
+                645,
+                263,
+                663
+            ],
+            "linking": [
+                [
+                    67,
+                    68
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Reason(s)",
+                    "box": [
+                        52,
+                        645,
+                        118,
+                        660
+                    ]
+                },
+                {
+                    "text": "for",
+                    "box": [
+                        127,
+                        645,
+                        146,
+                        663
+                    ]
+                },
+                {
+                    "text": "Recommendation",
+                    "box": [
+                        152,
+                        647,
+                        263,
+                        662
+                    ]
+                }
+            ],
+            "id": 67,
+            "gaze_during": 580,
+            "fix_id": 60,
+            "tb_id": 57,
+            "s_id": 57,
+            "v3_id": 57,
+            "v1_id": 57,
+            "bert_id": 57,
+            "box_id": 57,
+            "xycut_id": 53
+        },
+        {
+            "text": "Kapuler Marketing Research",
+            "box": [
+                224,
+                630,
+                419,
+                651
+            ],
+            "linking": [
+                [
+                    65,
+                    66
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Kapuler",
+                    "box": [
+                        224,
+                        633,
+                        277,
+                        648
+                    ]
+                },
+                {
+                    "text": "Marketing",
+                    "box": [
+                        285,
+                        630,
+                        349,
+                        651
+                    ]
+                },
+                {
+                    "text": "Research",
+                    "box": [
+                        356,
+                        631,
+                        419,
+                        648
+                    ]
+                }
+            ],
+            "id": 66,
+            "gaze_during": 374,
+            "fix_id": 53,
+            "tb_id": 58,
+            "s_id": 58,
+            "v3_id": 58,
+            "v1_id": 59,
+            "bert_id": 58,
+            "box_id": 58,
+            "xycut_id": 54
+        },
+        {
+            "text": "Low bidder.",
+            "box": [
+                274,
+                643,
+                356,
+                659
+            ],
+            "linking": [
+                [
+                    67,
+                    68
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Low",
+                    "box": [
+                        274,
+                        645,
+                        301,
+                        659
+                    ]
+                },
+                {
+                    "text": "bidder.",
+                    "box": [
+                        308,
+                        643,
+                        356,
+                        658
+                    ]
+                }
+            ],
+            "id": 68,
+            "gaze_during": 374,
+            "fix_id": 54,
+            "tb_id": 59,
+            "s_id": 59,
+            "v3_id": 59,
+            "v1_id": 58,
+            "bert_id": 59,
+            "box_id": 59,
+            "xycut_id": 55
+        },
+        {
+            "text": "Submitted By:",
+            "box": [
+                52,
+                702,
+                145,
+                720
+            ],
+            "linking": [
+                [
+                    69,
+                    75
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Submitted",
+                    "box": [
+                        52,
+                        702,
+                        117,
+                        720
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "box": [
+                        125,
+                        702,
+                        145,
+                        719
+                    ]
+                }
+            ],
+            "id": 69,
+            "gaze_during": 0,
+            "fix_id": 55,
+            "tb_id": 60,
+            "s_id": 60,
+            "v3_id": 60,
+            "v1_id": 60,
+            "bert_id": 60,
+            "box_id": 60,
+            "xycut_id": 56
+        },
+        {
+            "text": "L J L. J. Spurtier",
+            "box": [
+                150,
+                697,
+                316,
+                737
+            ],
+            "linking": [
+                [
+                    69,
+                    75
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "L",
+                    "box": [
+                        153,
+                        699,
+                        180,
+                        719
+                    ]
+                },
+                {
+                    "text": "J",
+                    "box": [
+                        183,
+                        697,
+                        204,
+                        721
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        211,
+                        699,
+                        316,
+                        721
+                    ]
+                },
+                {
+                    "text": "L.",
+                    "box": [
+                        150,
+                        722,
+                        167,
+                        735
+                    ]
+                },
+                {
+                    "text": "J.",
+                    "box": [
+                        176,
+                        718,
+                        190,
+                        737
+                    ]
+                },
+                {
+                    "text": "Spurtier",
+                    "box": [
+                        196,
+                        717,
+                        257,
+                        732
+                    ]
+                }
+            ],
+            "id": 75,
+            "gaze_during": 456,
+            "fix_id": 61,
+            "tb_id": 61,
+            "s_id": 61,
+            "v3_id": 61,
+            "v1_id": 61,
+            "bert_id": 61,
+            "box_id": 62,
+            "xycut_id": 58
+        },
+        {
+            "box": [
+                413,
+                706,
+                447,
+                720
+            ],
+            "text": "Date",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        413,
+                        706,
+                        447,
+                        720
+                    ],
+                    "text": "Date"
+                }
+            ],
+            "linking": [
+                [
+                    6,
+                    85
+                ]
+            ],
+            "id": 6,
+            "gaze_during": 0,
+            "fix_id": 62,
+            "tb_id": 62,
+            "s_id": 62,
+            "v3_id": 62,
+            "v1_id": 62,
+            "bert_id": 63,
+            "box_id": 61,
+            "xycut_id": 60
+        },
+        {
+            "text": "10/ 9/ 87",
+            "box": [
+                461,
+                699,
+                544,
+                728
+            ],
+            "linking": [
+                [
+                    6,
+                    85
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "10/",
+                    "box": [
+                        461,
+                        702,
+                        496,
+                        727
+                    ]
+                },
+                {
+                    "text": "9/",
+                    "box": [
+                        499,
+                        699,
+                        525,
+                        728
+                    ]
+                },
+                {
+                    "text": "87",
+                    "box": [
+                        524,
+                        700,
+                        544,
+                        727
+                    ]
+                }
+            ],
+            "id": 85,
+            "gaze_during": 0,
+            "fix_id": 64,
+            "tb_id": 63,
+            "s_id": 63,
+            "v3_id": 63,
+            "v1_id": 63,
+            "bert_id": 62,
+            "box_id": 63,
+            "xycut_id": 63
+        },
+        {
+            "text": "Approved By:",
+            "box": [
+                51,
+                730,
+                143,
+                747
+            ],
+            "linking": [
+                [
+                    71,
+                    76
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Approved",
+                    "box": [
+                        51,
+                        730,
+                        112,
+                        747
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "box": [
+                        118,
+                        732,
+                        143,
+                        747
+                    ]
+                }
+            ],
+            "id": 71,
+            "gaze_during": 0,
+            "fix_id": 65,
+            "tb_id": 64,
+            "s_id": 64,
+            "v3_id": 64,
+            "v1_id": 65,
+            "bert_id": 65,
+            "box_id": 64,
+            "xycut_id": 57
+        },
+        {
+            "text": "L. E. Gravely ",
+            "box": [
+                147,
+                719,
+                383,
+                767
+            ],
+            "linking": [
+                [
+                    71,
+                    76
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "L.",
+                    "box": [
+                        147,
+                        746,
+                        168,
+                        763
+                    ]
+                },
+                {
+                    "text": "E.",
+                    "box": [
+                        172,
+                        745,
+                        190,
+                        764
+                    ]
+                },
+                {
+                    "text": "Gravely",
+                    "box": [
+                        196,
+                        743,
+                        255,
+                        767
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        267,
+                        719,
+                        383,
+                        766
+                    ]
+                }
+            ],
+            "id": 76,
+            "gaze_during": 483,
+            "fix_id": 63,
+            "tb_id": 65,
+            "s_id": 65,
+            "v3_id": 65,
+            "v1_id": 64,
+            "bert_id": 64,
+            "box_id": 65,
+            "xycut_id": 59
+        },
+        {
+            "box": [
+                414,
+                732,
+                446,
+                749
+            ],
+            "text": "Date",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        414,
+                        732,
+                        446,
+                        749
+                    ],
+                    "text": "Date"
+                }
+            ],
+            "linking": [
+                [
+                    7,
+                    86
+                ]
+            ],
+            "id": 7,
+            "gaze_during": 217,
+            "fix_id": 66,
+            "tb_id": 66,
+            "s_id": 66,
+            "v3_id": 66,
+            "v1_id": 66,
+            "bert_id": 67,
+            "box_id": 66,
+            "xycut_id": 61
+        },
+        {
+            "text": "10/ 13/ 87",
+            "box": [
+                456,
+                725,
+                542,
+                750
+            ],
+            "linking": [
+                [
+                    7,
+                    86
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "10/",
+                    "box": [
+                        456,
+                        725,
+                        491,
+                        749
+                    ]
+                },
+                {
+                    "text": "13/",
+                    "box": [
+                        482,
+                        725,
+                        520,
+                        750
+                    ]
+                },
+                {
+                    "text": "87",
+                    "box": [
+                        517,
+                        726,
+                        542,
+                        750
+                    ]
+                }
+            ],
+            "id": 86,
+            "gaze_during": 0,
+            "fix_id": 67,
+            "tb_id": 67,
+            "s_id": 67,
+            "v3_id": 67,
+            "v1_id": 67,
+            "bert_id": 66,
+            "box_id": 67,
+            "xycut_id": 62
+        },
+        {
+            "text": "Approved By:",
+            "box": [
+                52,
+                763,
+                139,
+                777
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Approved",
+                    "box": [
+                        52,
+                        763,
+                        110,
+                        777
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "box": [
+                        114,
+                        763,
+                        139,
+                        777
+                    ]
+                }
+            ],
+            "id": 72,
+            "gaze_during": 0,
+            "fix_id": 68,
+            "tb_id": 68,
+            "s_id": 68,
+            "v3_id": 68,
+            "v1_id": 68,
+            "bert_id": 69,
+            "box_id": 68,
+            "xycut_id": 64
+        },
+        {
+            "box": [
+                412,
+                761,
+                447,
+                779
+            ],
+            "text": "Date",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        412,
+                        761,
+                        447,
+                        779
+                    ],
+                    "text": "Date"
+                }
+            ],
+            "linking": [],
+            "id": 8,
+            "gaze_during": 0,
+            "fix_id": 69,
+            "tb_id": 69,
+            "s_id": 69,
+            "v3_id": 69,
+            "v1_id": 69,
+            "bert_id": 68,
+            "box_id": 69,
+            "xycut_id": 65
+        },
+        {
+            "text": "Approved By:",
+            "box": [
+                47,
+                791,
+                141,
+                807
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Approved",
+                    "box": [
+                        47,
+                        791,
+                        112,
+                        804
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "box": [
+                        117,
+                        794,
+                        141,
+                        807
+                    ]
+                }
+            ],
+            "id": 73,
+            "gaze_during": 0,
+            "fix_id": 70,
+            "tb_id": 70,
+            "s_id": 70,
+            "v3_id": 70,
+            "v1_id": 70,
+            "bert_id": 72,
+            "box_id": 71,
+            "xycut_id": 66
+        },
+        {
+            "box": [
+                412,
+                787,
+                446,
+                809
+            ],
+            "text": "Date",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        412,
+                        787,
+                        446,
+                        809
+                    ],
+                    "text": "Date"
+                }
+            ],
+            "linking": [],
+            "id": 9,
+            "gaze_during": 0,
+            "fix_id": 71,
+            "tb_id": 71,
+            "s_id": 71,
+            "v3_id": 71,
+            "v1_id": 71,
+            "bert_id": 71,
+            "box_id": 70,
+            "xycut_id": 67
+        },
+        {
+            "text": "Budget Check:",
+            "box": [
+                47,
+                817,
+                145,
+                835
+            ],
+            "linking": [
+                [
+                    74,
+                    77
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Budget",
+                    "box": [
+                        47,
+                        817,
+                        97,
+                        835
+                    ]
+                },
+                {
+                    "text": "Check:",
+                    "box": [
+                        100,
+                        818,
+                        145,
+                        833
+                    ]
+                }
+            ],
+            "id": 74,
+            "gaze_during": 0,
+            "fix_id": 72,
+            "tb_id": 72,
+            "s_id": 72,
+            "v3_id": 72,
+            "v1_id": 72,
+            "bert_id": 70,
+            "box_id": 72,
+            "xycut_id": 68
+        },
+        {
+            "text": "K. F. Lyle",
+            "box": [
+                147,
+                836,
+                231,
+                851
+            ],
+            "linking": [
+                [
+                    74,
+                    77
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "K.",
+                    "box": [
+                        147,
+                        836,
+                        167,
+                        850
+                    ]
+                },
+                {
+                    "text": "F.",
+                    "box": [
+                        172,
+                        837,
+                        190,
+                        851
+                    ]
+                },
+                {
+                    "text": "Lyle",
+                    "box": [
+                        196,
+                        837,
+                        231,
+                        850
+                    ]
+                }
+            ],
+            "id": 77,
+            "gaze_during": 683,
+            "fix_id": 73,
+            "tb_id": 73,
+            "s_id": 73,
+            "v3_id": 73,
+            "v1_id": 73,
+            "bert_id": 73,
+            "box_id": 73,
+            "xycut_id": 73
+        },
+        {
+            "box": [
+                410,
+                818,
+                444,
+                836
+            ],
+            "text": "Date",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        410,
+                        818,
+                        444,
+                        836
+                    ],
+                    "text": "Date"
+                }
+            ],
+            "linking": [],
+            "id": 10,
+            "gaze_during": 0,
+            "fix_id": 74,
+            "tb_id": 74,
+            "s_id": 74,
+            "v3_id": 74,
+            "v1_id": 74,
+            "bert_id": 75,
+            "box_id": 74,
+            "xycut_id": 75
+        },
+        {
+            "box": [
+                42,
+                867,
+                75,
+                876
+            ],
+            "text": "cc:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        42,
+                        867,
+                        75,
+                        876
+                    ],
+                    "text": "cc:"
+                }
+            ],
+            "linking": [
+                [
+                    12,
+                    79
+                ],
+                [
+                    12,
+                    80
+                ],
+                [
+                    12,
+                    81
+                ]
+            ],
+            "id": 12,
+            "gaze_during": 0,
+            "fix_id": 76,
+            "tb_id": 75,
+            "s_id": 75,
+            "v3_id": 75,
+            "v1_id": 75,
+            "bert_id": 74,
+            "box_id": 75,
+            "xycut_id": 70
+        },
+        {
+            "box": [
+                50,
+                848,
+                111,
+                866
+            ],
+            "text": "Original",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        50,
+                        848,
+                        111,
+                        866
+                    ],
+                    "text": "Original"
+                }
+            ],
+            "linking": [
+                [
+                    11,
+                    78
+                ]
+            ],
+            "id": 11,
+            "gaze_during": 0,
+            "fix_id": 78,
+            "tb_id": 76,
+            "s_id": 76,
+            "v3_id": 76,
+            "v1_id": 76,
+            "bert_id": 76,
+            "box_id": 76,
+            "xycut_id": 69
+        },
+        {
+            "box": [
+                114,
+                850,
+                125,
+                862
+            ],
+            "text": "-",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        114,
+                        850,
+                        125,
+                        862
+                    ],
+                    "text": "-"
+                }
+            ],
+            "linking": [],
+            "id": 20,
+            "gaze_during": 0,
+            "fix_id": 80,
+            "tb_id": 77,
+            "s_id": 77,
+            "v3_id": 77,
+            "v1_id": 77,
+            "bert_id": 77,
+            "box_id": 77,
+            "xycut_id": 71
+        },
+        {
+            "text": "S. Willinger (3)",
+            "box": [
+                125,
+                864,
+                248,
+                879
+            ],
+            "linking": [
+                [
+                    12,
+                    79
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "S.",
+                    "box": [
+                        125,
+                        866,
+                        149,
+                        877
+                    ]
+                },
+                {
+                    "text": "Willinger",
+                    "box": [
+                        151,
+                        866,
+                        219,
+                        879
+                    ]
+                },
+                {
+                    "text": "(3)",
+                    "box": [
+                        224,
+                        864,
+                        248,
+                        878
+                    ]
+                }
+            ],
+            "id": 79,
+            "gaze_during": 0,
+            "fix_id": 81,
+            "tb_id": 78,
+            "s_id": 78,
+            "v3_id": 78,
+            "v1_id": 78,
+            "bert_id": 78,
+            "box_id": 79,
+            "xycut_id": 74
+        },
+        {
+            "text": "Project File",
+            "box": [
+                131,
+                849,
+                222,
+                866
+            ],
+            "linking": [
+                [
+                    11,
+                    78
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Project",
+                    "box": [
+                        131,
+                        849,
+                        183,
+                        866
+                    ]
+                },
+                {
+                    "text": "File",
+                    "box": [
+                        190,
+                        850,
+                        222,
+                        862
+                    ]
+                }
+            ],
+            "id": 78,
+            "gaze_during": 0,
+            "fix_id": 82,
+            "tb_id": 79,
+            "s_id": 79,
+            "v3_id": 79,
+            "v1_id": 79,
+            "bert_id": 81,
+            "box_id": 78,
+            "xycut_id": 72
+        },
+        {
+            "text": "G. D. Raphael",
+            "box": [
+                130,
+                880,
+                235,
+                894
+            ],
+            "linking": [
+                [
+                    12,
+                    80
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "G.",
+                    "box": [
+                        130,
+                        880,
+                        144,
+                        893
+                    ]
+                },
+                {
+                    "text": "D.",
+                    "box": [
+                        151,
+                        880,
+                        168,
+                        893
+                    ]
+                },
+                {
+                    "text": "Raphael",
+                    "box": [
+                        170,
+                        880,
+                        235,
+                        894
+                    ]
+                }
+            ],
+            "id": 80,
+            "gaze_during": 0,
+            "fix_id": 83,
+            "tb_id": 80,
+            "s_id": 80,
+            "v3_id": 80,
+            "v1_id": 81,
+            "bert_id": 80,
+            "box_id": 80,
+            "xycut_id": 78
+        },
+        {
+            "text": "Project No.",
+            "box": [
+                367,
+                864,
+                451,
+                883
+            ],
+            "linking": [
+                [
+                    82,
+                    84
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Project",
+                    "box": [
+                        367,
+                        864,
+                        421,
+                        883
+                    ]
+                },
+                {
+                    "text": "No.",
+                    "box": [
+                        427,
+                        867,
+                        451,
+                        882
+                    ]
+                }
+            ],
+            "id": 82,
+            "gaze_during": 183,
+            "fix_id": 79,
+            "tb_id": 81,
+            "s_id": 81,
+            "v3_id": 81,
+            "v1_id": 80,
+            "bert_id": 79,
+            "box_id": 81,
+            "xycut_id": 76
+        },
+        {
+            "text": "1987- 113CA",
+            "box": [
+                462,
+                861,
+                536,
+                880
+            ],
+            "linking": [
+                [
+                    82,
+                    84
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "1987-",
+                    "box": [
+                        462,
+                        863,
+                        501,
+                        880
+                    ]
+                },
+                {
+                    "text": "113CA",
+                    "box": [
+                        501,
+                        861,
+                        536,
+                        878
+                    ]
+                }
+            ],
+            "id": 84,
+            "gaze_during": 183,
+            "fix_id": 75,
+            "tb_id": 82,
+            "s_id": 82,
+            "v3_id": 82,
+            "v1_id": 82,
+            "bert_id": 83,
+            "box_id": 82,
+            "xycut_id": 77
+        },
+        {
+            "text": "V. Hansberry (If Int.)",
+            "box": [
+                130,
+                892,
+                291,
+                912
+            ],
+            "linking": [
+                [
+                    12,
+                    81
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "V.",
+                    "box": [
+                        130,
+                        892,
+                        145,
+                        910
+                    ]
+                },
+                {
+                    "text": "Hansberry",
+                    "box": [
+                        149,
+                        893,
+                        220,
+                        912
+                    ]
+                },
+                {
+                    "text": "(If",
+                    "box": [
+                        224,
+                        894,
+                        248,
+                        912
+                    ]
+                },
+                {
+                    "text": "Int.)",
+                    "box": [
+                        256,
+                        895,
+                        291,
+                        910
+                    ]
+                }
+            ],
+            "id": 81,
+            "gaze_during": 1790,
+            "fix_id": 86,
+            "tb_id": 83,
+            "s_id": 83,
+            "v3_id": 83,
+            "v1_id": 83,
+            "bert_id": 82,
+            "box_id": 83,
+            "xycut_id": 79
+        },
+        {
+            "text": "Account Name",
+            "box": [
+                355,
+                894,
+                449,
+                909
+            ],
+            "linking": [
+                [
+                    83,
+                    17
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Account",
+                    "box": [
+                        355,
+                        897,
+                        412,
+                        909
+                    ]
+                },
+                {
+                    "text": "Name",
+                    "box": [
+                        412,
+                        894,
+                        449,
+                        906
+                    ]
+                }
+            ],
+            "id": 83,
+            "gaze_during": 63,
+            "fix_id": 77,
+            "tb_id": 84,
+            "s_id": 84,
+            "v3_id": 84,
+            "v1_id": 84,
+            "bert_id": 85,
+            "box_id": 84,
+            "xycut_id": 80
+        },
+        {
+            "box": [
+                461,
+                893,
+                503,
+                910
+            ],
+            "text": "CAPRI",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        461,
+                        893,
+                        503,
+                        910
+                    ],
+                    "text": "CAPRI"
+                }
+            ],
+            "linking": [
+                [
+                    83,
+                    17
+                ]
+            ],
+            "id": 17,
+            "gaze_during": 473,
+            "fix_id": 84,
+            "tb_id": 85,
+            "s_id": 85,
+            "v3_id": 85,
+            "v1_id": 85,
+            "bert_id": 84,
+            "box_id": 85,
+            "xycut_id": 81
+        },
+        {
+            "box": [
+                45,
+                921,
+                116,
+                938
+            ],
+            "text": "/lsbg1006",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        45,
+                        921,
+                        116,
+                        938
+                    ],
+                    "text": "/lsbg1006"
+                }
+            ],
+            "linking": [],
+            "id": 18,
+            "gaze_during": 0,
+            "fix_id": 85,
+            "tb_id": 86,
+            "s_id": 86,
+            "v3_id": 86,
+            "v1_id": 86,
+            "bert_id": 86,
+            "box_id": 86,
+            "xycut_id": 83
+        },
+        {
+            "box": [
+                560,
+                919,
+                689,
+                943
+            ],
+            "text": "465915288",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        560,
+                        919,
+                        689,
+                        943
+                    ],
+                    "text": "465915288"
+                }
+            ],
+            "linking": [],
+            "id": 19,
+            "gaze_during": 0,
+            "fix_id": 87,
+            "tb_id": 87,
+            "s_id": 87,
+            "v3_id": 87,
+            "v1_id": 87,
+            "bert_id": 87,
+            "box_id": 87,
+            "xycut_id": 82
+        }
+    ]
+}

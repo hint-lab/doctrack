@@ -1,0 +1,2346 @@
+{
+    "form": [
+        {
+            "text": "BROWN & WILLIAMSON TOBACCO CORPORATION BID REQUEST FORM (QUALITATIVE RESEARCH)",
+            "box": [
+                166,
+                60,
+                519,
+                106
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "BROWN",
+                    "box": [
+                        166,
+                        61,
+                        222,
+                        76
+                    ]
+                },
+                {
+                    "text": "&",
+                    "box": [
+                        226,
+                        61,
+                        241,
+                        76
+                    ]
+                },
+                {
+                    "text": "WILLIAMSON",
+                    "box": [
+                        243,
+                        61,
+                        341,
+                        76
+                    ]
+                },
+                {
+                    "text": "TOBACCO",
+                    "box": [
+                        341,
+                        63,
+                        411,
+                        73
+                    ]
+                },
+                {
+                    "text": "CORPORATION",
+                    "box": [
+                        409,
+                        60,
+                        519,
+                        70
+                    ]
+                },
+                {
+                    "text": "BID",
+                    "box": [
+                        269,
+                        76,
+                        301,
+                        89
+                    ]
+                },
+                {
+                    "text": "REQUEST",
+                    "box": [
+                        306,
+                        76,
+                        369,
+                        88
+                    ]
+                },
+                {
+                    "text": "FORM",
+                    "box": [
+                        369,
+                        76,
+                        416,
+                        89
+                    ]
+                },
+                {
+                    "text": "(QUALITATIVE",
+                    "box": [
+                        249,
+                        91,
+                        354,
+                        106
+                    ]
+                },
+                {
+                    "text": "RESEARCH)",
+                    "box": [
+                        357,
+                        90,
+                        442,
+                        103
+                    ]
+                }
+            ],
+            "id": 8,
+            "gaze_during": 637,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 0,
+            "box_id": 2,
+            "xycut_id": 16
+        },
+        {
+            "text": "PROJECT NUMBER:",
+            "box": [
+                73,
+                145,
+                203,
+                158
+            ],
+            "linking": [
+                [
+                    12,
+                    9
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "PROJECT",
+                    "box": [
+                        73,
+                        145,
+                        134,
+                        158
+                    ]
+                },
+                {
+                    "text": "NUMBER:",
+                    "box": [
+                        138,
+                        145,
+                        203,
+                        158
+                    ]
+                }
+            ],
+            "id": 12,
+            "gaze_during": 270,
+            "fix_id": 2,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 1,
+            "v1_id": 1,
+            "bert_id": 1,
+            "box_id": 3,
+            "xycut_id": 1
+        },
+        {
+            "text": "H.L. Williams",
+            "box": [
+                221,
+                159,
+                306,
+                172
+            ],
+            "linking": [
+                [
+                    13,
+                    10
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "H.L.",
+                    "box": [
+                        221,
+                        159,
+                        254,
+                        172
+                    ]
+                },
+                {
+                    "text": "Williams",
+                    "box": [
+                        256,
+                        159,
+                        306,
+                        171
+                    ]
+                }
+            ],
+            "id": 10,
+            "gaze_during": 0,
+            "fix_id": 4,
+            "tb_id": 2,
+            "s_id": 2,
+            "v3_id": 2,
+            "v1_id": 2,
+            "bert_id": 2,
+            "box_id": 4,
+            "xycut_id": 17
+        },
+        {
+            "text": "1995- 13D",
+            "box": [
+                223,
+                140,
+                281,
+                157
+            ],
+            "linking": [
+                [
+                    12,
+                    9
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "1995-",
+                    "box": [
+                        223,
+                        140,
+                        255,
+                        157
+                    ]
+                },
+                {
+                    "text": "13D",
+                    "box": [
+                        256,
+                        140,
+                        281,
+                        157
+                    ]
+                }
+            ],
+            "id": 9,
+            "gaze_during": 483,
+            "fix_id": 1,
+            "tb_id": 3,
+            "s_id": 3,
+            "v3_id": 3,
+            "v1_id": 3,
+            "bert_id": 3,
+            "box_id": 0,
+            "xycut_id": 19
+        },
+        {
+            "text": "B&W ORIGINATOR:",
+            "box": [
+                75,
+                161,
+                204,
+                174
+            ],
+            "linking": [
+                [
+                    13,
+                    10
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "B&W",
+                    "box": [
+                        75,
+                        161,
+                        112,
+                        174
+                    ]
+                },
+                {
+                    "text": "ORIGINATOR:",
+                    "box": [
+                        113,
+                        161,
+                        204,
+                        171
+                    ]
+                }
+            ],
+            "id": 13,
+            "gaze_during": 0,
+            "fix_id": 3,
+            "tb_id": 4,
+            "s_id": 4,
+            "v3_id": 4,
+            "v1_id": 4,
+            "bert_id": 4,
+            "box_id": 1,
+            "xycut_id": 2
+        },
+        {
+            "box": [
+                80,
+                176,
+                103,
+                191
+            ],
+            "text": "TO:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        80,
+                        176,
+                        103,
+                        191
+                    ],
+                    "text": "TO:"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    11
+                ]
+            ],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 5,
+            "tb_id": 5,
+            "s_id": 5,
+            "v3_id": 5,
+            "v1_id": 5,
+            "bert_id": 5,
+            "box_id": 6,
+            "xycut_id": 4
+        },
+        {
+            "text": "Goldfarb Consultants",
+            "box": [
+                221,
+                174,
+                342,
+                187
+            ],
+            "linking": [
+                [
+                    0,
+                    11
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Goldfarb",
+                    "box": [
+                        221,
+                        174,
+                        274,
+                        187
+                    ]
+                },
+                {
+                    "text": "Consultants",
+                    "box": [
+                        277,
+                        174,
+                        342,
+                        186
+                    ]
+                }
+            ],
+            "id": 11,
+            "gaze_during": 0,
+            "fix_id": 6,
+            "tb_id": 6,
+            "s_id": 6,
+            "v3_id": 6,
+            "v1_id": 6,
+            "bert_id": 6,
+            "box_id": 5,
+            "xycut_id": 18
+        },
+        {
+            "box": [
+                76,
+                226,
+                189,
+                239
+            ],
+            "text": "INSTRUCTIONS:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        76,
+                        226,
+                        189,
+                        239
+                    ],
+                    "text": "INSTRUCTIONS:"
+                }
+            ],
+            "linking": [],
+            "id": 1,
+            "gaze_during": 666,
+            "fix_id": 7,
+            "tb_id": 7,
+            "s_id": 7,
+            "v3_id": 7,
+            "v1_id": 7,
+            "bert_id": 8,
+            "box_id": 9,
+            "xycut_id": 3
+        },
+        {
+            "text": "1. THE FOLLOWING DOCUMENT IS DIVIDED INTO TWO SECTIONS.",
+            "box": [
+                80,
+                251,
+                533,
+                272
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "1.",
+                    "box": [
+                        80,
+                        257,
+                        93,
+                        272
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "box": [
+                        116,
+                        257,
+                        148,
+                        269
+                    ]
+                },
+                {
+                    "text": "FOLLOWING",
+                    "box": [
+                        148,
+                        256,
+                        234,
+                        269
+                    ]
+                },
+                {
+                    "text": "DOCUMENT",
+                    "box": [
+                        234,
+                        254,
+                        314,
+                        267
+                    ]
+                },
+                {
+                    "text": "IS",
+                    "box": [
+                        316,
+                        254,
+                        329,
+                        269
+                    ]
+                },
+                {
+                    "text": "DIVIDED",
+                    "box": [
+                        332,
+                        252,
+                        393,
+                        265
+                    ]
+                },
+                {
+                    "text": "INTO",
+                    "box": [
+                        394,
+                        252,
+                        427,
+                        265
+                    ]
+                },
+                {
+                    "text": "TWO",
+                    "box": [
+                        432,
+                        252,
+                        460,
+                        265
+                    ]
+                },
+                {
+                    "text": "SECTIONS.",
+                    "box": [
+                        463,
+                        251,
+                        533,
+                        264
+                    ]
+                }
+            ],
+            "id": 14,
+            "gaze_during": 487,
+            "fix_id": 8,
+            "tb_id": 8,
+            "s_id": 8,
+            "v3_id": 8,
+            "v1_id": 8,
+            "bert_id": 7,
+            "box_id": 7,
+            "xycut_id": 5
+        },
+        {
+            "text": "SECTION ONE CONTAINS THE PROJECT DESCRIPTION AND SPECIFICATIONS FROM B&W. ALL BIDS SHOULD BE BASED ON THE SPECIFICATIONS IN THIS DOCUMENT.",
+            "box": [
+                120,
+                284,
+                513,
+                336
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "SECTION",
+                    "box": [
+                        121,
+                        291,
+                        186,
+                        304
+                    ]
+                },
+                {
+                    "text": "ONE",
+                    "box": [
+                        186,
+                        286,
+                        218,
+                        303
+                    ]
+                },
+                {
+                    "text": "CONTAINS",
+                    "box": [
+                        219,
+                        286,
+                        290,
+                        303
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "box": [
+                        292,
+                        286,
+                        320,
+                        299
+                    ]
+                },
+                {
+                    "text": "PROJECT",
+                    "box": [
+                        324,
+                        284,
+                        380,
+                        297
+                    ]
+                },
+                {
+                    "text": "DESCRIPTION",
+                    "box": [
+                        385,
+                        284,
+                        475,
+                        297
+                    ]
+                },
+                {
+                    "text": "AND",
+                    "box": [
+                        477,
+                        284,
+                        505,
+                        297
+                    ]
+                },
+                {
+                    "text": "SPECIFICATIONS",
+                    "box": [
+                        120,
+                        306,
+                        233,
+                        318
+                    ]
+                },
+                {
+                    "text": "FROM",
+                    "box": [
+                        233,
+                        304,
+                        275,
+                        317
+                    ]
+                },
+                {
+                    "text": "B&W.",
+                    "box": [
+                        276,
+                        302,
+                        313,
+                        315
+                    ]
+                },
+                {
+                    "text": "ALL",
+                    "box": [
+                        319,
+                        301,
+                        349,
+                        318
+                    ]
+                },
+                {
+                    "text": "BIDS",
+                    "box": [
+                        347,
+                        302,
+                        382,
+                        317
+                    ]
+                },
+                {
+                    "text": "SHOULD",
+                    "box": [
+                        384,
+                        301,
+                        442,
+                        316
+                    ]
+                },
+                {
+                    "text": "BE",
+                    "box": [
+                        440,
+                        299,
+                        462,
+                        314
+                    ]
+                },
+                {
+                    "text": "BASED",
+                    "box": [
+                        462,
+                        301,
+                        513,
+                        314
+                    ]
+                },
+                {
+                    "text": "ON",
+                    "box": [
+                        120,
+                        319,
+                        147,
+                        336
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "box": [
+                        146,
+                        317,
+                        174,
+                        335
+                    ]
+                },
+                {
+                    "text": "SPECIFICATIONS",
+                    "box": [
+                        174,
+                        317,
+                        285,
+                        332
+                    ]
+                },
+                {
+                    "text": "IN",
+                    "box": [
+                        286,
+                        317,
+                        306,
+                        332
+                    ]
+                },
+                {
+                    "text": "THIS",
+                    "box": [
+                        304,
+                        317,
+                        339,
+                        330
+                    ]
+                },
+                {
+                    "text": "DOCUMENT.",
+                    "box": [
+                        339,
+                        317,
+                        422,
+                        330
+                    ]
+                }
+            ],
+            "id": 15,
+            "gaze_during": 1140,
+            "fix_id": 9,
+            "tb_id": 9,
+            "s_id": 9,
+            "v3_id": 9,
+            "v1_id": 9,
+            "bert_id": 10,
+            "box_id": 8,
+            "xycut_id": 12
+        },
+        {
+            "text": "SECTION TWO SHOULD BE COMPLETED BY THE RESEARCH AGENCY AND RETURNED BY FAX TO THE FOLLOWING PERSON:",
+            "box": [
+                123,
+                347,
+                540,
+                382
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "SECTION",
+                    "box": [
+                        123,
+                        352,
+                        184,
+                        365
+                    ]
+                },
+                {
+                    "text": "TWO",
+                    "box": [
+                        188,
+                        352,
+                        226,
+                        367
+                    ]
+                },
+                {
+                    "text": "SHOULD",
+                    "box": [
+                        226,
+                        352,
+                        281,
+                        364
+                    ]
+                },
+                {
+                    "text": "BE",
+                    "box": [
+                        284,
+                        350,
+                        302,
+                        365
+                    ]
+                },
+                {
+                    "text": "COMPLETED",
+                    "box": [
+                        304,
+                        349,
+                        389,
+                        364
+                    ]
+                },
+                {
+                    "text": "BY",
+                    "box": [
+                        392,
+                        349,
+                        414,
+                        362
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "box": [
+                        412,
+                        350,
+                        444,
+                        363
+                    ]
+                },
+                {
+                    "text": "RESEARCH",
+                    "box": [
+                        440,
+                        347,
+                        515,
+                        360
+                    ]
+                },
+                {
+                    "text": "AGENCY",
+                    "box": [
+                        123,
+                        367,
+                        181,
+                        382
+                    ]
+                },
+                {
+                    "text": "AND",
+                    "box": [
+                        181,
+                        367,
+                        214,
+                        382
+                    ]
+                },
+                {
+                    "text": "RETURNED",
+                    "box": [
+                        218,
+                        369,
+                        291,
+                        381
+                    ]
+                },
+                {
+                    "text": "BY",
+                    "box": [
+                        292,
+                        369,
+                        310,
+                        382
+                    ]
+                },
+                {
+                    "text": "FAX",
+                    "box": [
+                        314,
+                        369,
+                        341,
+                        382
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "box": [
+                        346,
+                        367,
+                        363,
+                        380
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "box": [
+                        365,
+                        365,
+                        395,
+                        380
+                    ]
+                },
+                {
+                    "text": "FOLLOWING",
+                    "box": [
+                        397,
+                        364,
+                        478,
+                        379
+                    ]
+                },
+                {
+                    "text": "PERSON:",
+                    "box": [
+                        480,
+                        364,
+                        540,
+                        377
+                    ]
+                }
+            ],
+            "id": 16,
+            "gaze_during": 474,
+            "fix_id": 10,
+            "tb_id": 10,
+            "s_id": 10,
+            "v3_id": 10,
+            "v1_id": 10,
+            "bert_id": 9,
+            "box_id": 10,
+            "xycut_id": 13
+        },
+        {
+            "text": "HAROLD WILLIAMS BROWN & WILLIAMSON TOBACCO CORPORATION LOUISVILLE, KENTUCKY U.S.A",
+            "box": [
+                244,
+                399,
+                573,
+                460
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "HAROLD",
+                    "box": [
+                        244,
+                        399,
+                        302,
+                        414
+                    ]
+                },
+                {
+                    "text": "WILLIAMS",
+                    "box": [
+                        307,
+                        399,
+                        373,
+                        412
+                    ]
+                },
+                {
+                    "text": "BROWN",
+                    "box": [
+                        248,
+                        415,
+                        301,
+                        430
+                    ]
+                },
+                {
+                    "text": "&",
+                    "box": [
+                        301,
+                        415,
+                        314,
+                        430
+                    ]
+                },
+                {
+                    "text": "WILLIAMSON",
+                    "box": [
+                        314,
+                        414,
+                        402,
+                        427
+                    ]
+                },
+                {
+                    "text": "TOBACCO",
+                    "box": [
+                        404,
+                        412,
+                        474,
+                        424
+                    ]
+                },
+                {
+                    "text": "CORPORATION",
+                    "box": [
+                        473,
+                        414,
+                        573,
+                        426
+                    ]
+                },
+                {
+                    "text": "LOUISVILLE,",
+                    "box": [
+                        244,
+                        430,
+                        330,
+                        443
+                    ]
+                },
+                {
+                    "text": "KENTUCKY",
+                    "box": [
+                        332,
+                        429,
+                        412,
+                        441
+                    ]
+                },
+                {
+                    "text": "U.S.A",
+                    "box": [
+                        248,
+                        445,
+                        286,
+                        460
+                    ]
+                }
+            ],
+            "id": 17,
+            "gaze_during": 227,
+            "fix_id": 11,
+            "tb_id": 11,
+            "s_id": 11,
+            "v3_id": 11,
+            "v1_id": 11,
+            "bert_id": 11,
+            "box_id": 11,
+            "xycut_id": 20
+        },
+        {
+            "box": [
+                248,
+                465,
+                278,
+                477
+            ],
+            "text": "FAX",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        248,
+                        465,
+                        278,
+                        477
+                    ],
+                    "text": "FAX"
+                }
+            ],
+            "linking": [],
+            "id": 2,
+            "gaze_during": 0,
+            "fix_id": 12,
+            "tb_id": 12,
+            "s_id": 12,
+            "v3_id": 12,
+            "v1_id": 12,
+            "bert_id": 12,
+            "box_id": 12,
+            "xycut_id": 21
+        },
+        {
+            "box": [
+                279,
+                463,
+                352,
+                476
+            ],
+            "text": "NUMBERS:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        279,
+                        463,
+                        352,
+                        476
+                    ],
+                    "text": "NUMBERS:"
+                }
+            ],
+            "linking": [],
+            "id": 3,
+            "gaze_during": 0,
+            "fix_id": 13,
+            "tb_id": 13,
+            "s_id": 13,
+            "v3_id": 13,
+            "v1_id": 13,
+            "bert_id": 13,
+            "box_id": 13,
+            "xycut_id": 24
+        },
+        {
+            "text": "(502) 568-7313 or (502) 568-8319",
+            "box": [
+                359,
+                457,
+                553,
+                477
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "(502)",
+                    "box": [
+                        359,
+                        460,
+                        391,
+                        477
+                    ]
+                },
+                {
+                    "text": "568-7313",
+                    "box": [
+                        390,
+                        462,
+                        446,
+                        477
+                    ]
+                },
+                {
+                    "text": "or",
+                    "box": [
+                        445,
+                        463,
+                        462,
+                        476
+                    ]
+                },
+                {
+                    "text": "(502)",
+                    "box": [
+                        462,
+                        457,
+                        495,
+                        477
+                    ]
+                },
+                {
+                    "text": "568-8319",
+                    "box": [
+                        495,
+                        457,
+                        553,
+                        474
+                    ]
+                }
+            ],
+            "id": 18,
+            "gaze_during": 0,
+            "fix_id": 14,
+            "tb_id": 14,
+            "s_id": 14,
+            "v3_id": 14,
+            "v1_id": 14,
+            "bert_id": 14,
+            "box_id": 14,
+            "xycut_id": 27
+        },
+        {
+            "text": "2. IN ORDER TO ALLOW US TO COMPARE BIDS, WE REQUEST THAT YOU SUBMIT A BID FOR THE RESEARCH AS SPECIFIED IN SECTION ONE.",
+            "box": [
+                83,
+                490,
+                558,
+                541
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "2.",
+                    "box": [
+                        83,
+                        497,
+                        95,
+                        510
+                    ]
+                },
+                {
+                    "text": "IN",
+                    "box": [
+                        123,
+                        497,
+                        145,
+                        510
+                    ]
+                },
+                {
+                    "text": "ORDER",
+                    "box": [
+                        146,
+                        497,
+                        193,
+                        510
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "box": [
+                        194,
+                        495,
+                        211,
+                        510
+                    ]
+                },
+                {
+                    "text": "ALLOW",
+                    "box": [
+                        213,
+                        495,
+                        266,
+                        508
+                    ]
+                },
+                {
+                    "text": "US",
+                    "box": [
+                        266,
+                        495,
+                        286,
+                        508
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "box": [
+                        287,
+                        495,
+                        309,
+                        508
+                    ]
+                },
+                {
+                    "text": "COMPARE",
+                    "box": [
+                        311,
+                        493,
+                        376,
+                        508
+                    ]
+                },
+                {
+                    "text": "BIDS,",
+                    "box": [
+                        375,
+                        495,
+                        418,
+                        507
+                    ]
+                },
+                {
+                    "text": "WE",
+                    "box": [
+                        419,
+                        493,
+                        441,
+                        503
+                    ]
+                },
+                {
+                    "text": "REQUEST",
+                    "box": [
+                        442,
+                        492,
+                        507,
+                        505
+                    ]
+                },
+                {
+                    "text": "THAT",
+                    "box": [
+                        507,
+                        490,
+                        545,
+                        505
+                    ]
+                },
+                {
+                    "text": "YOU",
+                    "box": [
+                        123,
+                        512,
+                        155,
+                        527
+                    ]
+                },
+                {
+                    "text": "SUBMIT",
+                    "box": [
+                        156,
+                        508,
+                        211,
+                        523
+                    ]
+                },
+                {
+                    "text": "A",
+                    "box": [
+                        213,
+                        513,
+                        225,
+                        523
+                    ]
+                },
+                {
+                    "text": "BID",
+                    "box": [
+                        226,
+                        510,
+                        253,
+                        523
+                    ]
+                },
+                {
+                    "text": "FOR",
+                    "box": [
+                        251,
+                        508,
+                        281,
+                        525
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "box": [
+                        281,
+                        510,
+                        314,
+                        525
+                    ]
+                },
+                {
+                    "text": "RESEARCH",
+                    "box": [
+                        311,
+                        508,
+                        389,
+                        523
+                    ]
+                },
+                {
+                    "text": "AS",
+                    "box": [
+                        389,
+                        510,
+                        409,
+                        523
+                    ]
+                },
+                {
+                    "text": "SPECIFIED",
+                    "box": [
+                        410,
+                        510,
+                        476,
+                        523
+                    ]
+                },
+                {
+                    "text": "IN",
+                    "box": [
+                        480,
+                        507,
+                        500,
+                        522
+                    ]
+                },
+                {
+                    "text": "SECTION",
+                    "box": [
+                        500,
+                        507,
+                        558,
+                        522
+                    ]
+                },
+                {
+                    "text": "ONE.",
+                    "box": [
+                        123,
+                        528,
+                        158,
+                        541
+                    ]
+                }
+            ],
+            "id": 19,
+            "gaze_during": 260,
+            "fix_id": 15,
+            "tb_id": 15,
+            "s_id": 15,
+            "v3_id": 15,
+            "v1_id": 15,
+            "bert_id": 16,
+            "box_id": 15,
+            "xycut_id": 6
+        },
+        {
+            "text": "SUGGESTIONS ALTERNATIVE DESIGNS FROM THE AGENCY ARE WELCOME. HOWEVER, THESE SHOULD BE SUBMITTED AS SEPARATE DOCUMENTS APPENDED TO THIS BID FORM.",
+            "box": [
+                125,
+                556,
+                543,
+                605
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "SUGGESTIONS",
+                    "box": [
+                        128,
+                        560,
+                        221,
+                        575
+                    ]
+                },
+                {
+                    "text": "ALTERNATIVE",
+                    "box": [
+                        228,
+                        560,
+                        351,
+                        570
+                    ]
+                },
+                {
+                    "text": "DESIGNS",
+                    "box": [
+                        352,
+                        558,
+                        407,
+                        571
+                    ]
+                },
+                {
+                    "text": "FROM",
+                    "box": [
+                        410,
+                        558,
+                        453,
+                        570
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "box": [
+                        457,
+                        556,
+                        482,
+                        569
+                    ]
+                },
+                {
+                    "text": "AGENCY",
+                    "box": [
+                        483,
+                        556,
+                        543,
+                        568
+                    ]
+                },
+                {
+                    "text": "ARE",
+                    "box": [
+                        126,
+                        576,
+                        154,
+                        589
+                    ]
+                },
+                {
+                    "text": "WELCOME.",
+                    "box": [
+                        154,
+                        576,
+                        230,
+                        589
+                    ]
+                },
+                {
+                    "text": "HOWEVER,",
+                    "box": [
+                        233,
+                        576,
+                        311,
+                        589
+                    ]
+                },
+                {
+                    "text": "THESE",
+                    "box": [
+                        309,
+                        575,
+                        356,
+                        588
+                    ]
+                },
+                {
+                    "text": "SHOULD",
+                    "box": [
+                        357,
+                        573,
+                        417,
+                        586
+                    ]
+                },
+                {
+                    "text": "BE",
+                    "box": [
+                        419,
+                        573,
+                        436,
+                        586
+                    ]
+                },
+                {
+                    "text": "SUBMITTED",
+                    "box": [
+                        437,
+                        573,
+                        518,
+                        586
+                    ]
+                },
+                {
+                    "text": "AS",
+                    "box": [
+                        518,
+                        571,
+                        536,
+                        586
+                    ]
+                },
+                {
+                    "text": "SEPARATE",
+                    "box": [
+                        125,
+                        590,
+                        198,
+                        605
+                    ]
+                },
+                {
+                    "text": "DOCUMENTS",
+                    "box": [
+                        199,
+                        593,
+                        287,
+                        603
+                    ]
+                },
+                {
+                    "text": "APPENDED",
+                    "box": [
+                        287,
+                        591,
+                        358,
+                        604
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "box": [
+                        360,
+                        590,
+                        380,
+                        603
+                    ]
+                },
+                {
+                    "text": "THIS",
+                    "box": [
+                        384,
+                        588,
+                        417,
+                        605
+                    ]
+                },
+                {
+                    "text": "BID",
+                    "box": [
+                        417,
+                        588,
+                        445,
+                        601
+                    ]
+                },
+                {
+                    "text": "FORM.",
+                    "box": [
+                        444,
+                        590,
+                        489,
+                        600
+                    ]
+                }
+            ],
+            "id": 20,
+            "gaze_during": 517,
+            "fix_id": 16,
+            "tb_id": 16,
+            "s_id": 16,
+            "v3_id": 16,
+            "v1_id": 16,
+            "bert_id": 15,
+            "box_id": 16,
+            "xycut_id": 14
+        },
+        {
+            "box": [
+                85,
+                626,
+                97,
+                643
+            ],
+            "text": "3.",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        85,
+                        626,
+                        97,
+                        643
+                    ],
+                    "text": "3."
+                }
+            ],
+            "linking": [],
+            "id": 4,
+            "gaze_during": 0,
+            "fix_id": 17,
+            "tb_id": 17,
+            "s_id": 17,
+            "v3_id": 17,
+            "v1_id": 17,
+            "bert_id": 19,
+            "box_id": 17,
+            "xycut_id": 7
+        },
+        {
+            "text": "IF YOU HAVE ANY QUESTIONS, PLEASE CONTACT THE FOLLOWING PERSON:",
+            "box": [
+                125,
+                620,
+                570,
+                653
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "IF",
+                    "box": [
+                        125,
+                        625,
+                        142,
+                        640
+                    ]
+                },
+                {
+                    "text": "YOU",
+                    "box": [
+                        143,
+                        625,
+                        175,
+                        638
+                    ]
+                },
+                {
+                    "text": "HAVE",
+                    "box": [
+                        176,
+                        625,
+                        214,
+                        637
+                    ]
+                },
+                {
+                    "text": "ANY",
+                    "box": [
+                        216,
+                        621,
+                        246,
+                        638
+                    ]
+                },
+                {
+                    "text": "QUESTIONS,",
+                    "box": [
+                        251,
+                        625,
+                        329,
+                        640
+                    ]
+                },
+                {
+                    "text": "PLEASE",
+                    "box": [
+                        332,
+                        623,
+                        385,
+                        636
+                    ]
+                },
+                {
+                    "text": "CONTACT",
+                    "box": [
+                        385,
+                        623,
+                        455,
+                        633
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "box": [
+                        453,
+                        621,
+                        485,
+                        633
+                    ]
+                },
+                {
+                    "text": "FOLLOWING",
+                    "box": [
+                        485,
+                        620,
+                        570,
+                        633
+                    ]
+                },
+                {
+                    "text": "PERSON:",
+                    "box": [
+                        126,
+                        640,
+                        186,
+                        653
+                    ]
+                }
+            ],
+            "id": 21,
+            "gaze_during": 167,
+            "fix_id": 18,
+            "tb_id": 18,
+            "s_id": 18,
+            "v3_id": 18,
+            "v1_id": 18,
+            "bert_id": 18,
+            "box_id": 18,
+            "xycut_id": 15
+        },
+        {
+            "text": "HAROLD WILLIAMS BROWN & WILLIAMSON TOBACCO CORPORATION LOUISVILLE, U.S.A",
+            "box": [
+                248,
+                653,
+                576,
+                714
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "HAROLD",
+                    "box": [
+                        249,
+                        653,
+                        307,
+                        670
+                    ]
+                },
+                {
+                    "text": "WILLIAMS",
+                    "box": [
+                        309,
+                        656,
+                        382,
+                        666
+                    ]
+                },
+                {
+                    "text": "BROWN",
+                    "box": [
+                        248,
+                        669,
+                        304,
+                        684
+                    ]
+                },
+                {
+                    "text": "&",
+                    "box": [
+                        304,
+                        671,
+                        317,
+                        684
+                    ]
+                },
+                {
+                    "text": "WILLIAMSON",
+                    "box": [
+                        319,
+                        669,
+                        407,
+                        682
+                    ]
+                },
+                {
+                    "text": "TOBACCO",
+                    "box": [
+                        409,
+                        668,
+                        475,
+                        681
+                    ]
+                },
+                {
+                    "text": "CORPORATION",
+                    "box": [
+                        475,
+                        668,
+                        576,
+                        680
+                    ]
+                },
+                {
+                    "text": "LOUISVILLE,",
+                    "box": [
+                        252,
+                        686,
+                        337,
+                        701
+                    ]
+                },
+                {
+                    "text": "U.S.A",
+                    "box": [
+                        252,
+                        706,
+                        289,
+                        714
+                    ]
+                }
+            ],
+            "id": 22,
+            "gaze_during": 477,
+            "fix_id": 19,
+            "tb_id": 19,
+            "s_id": 19,
+            "v3_id": 19,
+            "v1_id": 19,
+            "bert_id": 17,
+            "box_id": 19,
+            "xycut_id": 22
+        },
+        {
+            "text": "FAX NUMBERS:",
+            "box": [
+                251,
+                719,
+                359,
+                734
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "FAX",
+                    "box": [
+                        251,
+                        719,
+                        281,
+                        734
+                    ]
+                },
+                {
+                    "text": "NUMBERS:",
+                    "box": [
+                        284,
+                        719,
+                        359,
+                        732
+                    ]
+                }
+            ],
+            "id": 24,
+            "gaze_during": 0,
+            "fix_id": 20,
+            "tb_id": 20,
+            "s_id": 20,
+            "v3_id": 20,
+            "v1_id": 20,
+            "bert_id": 20,
+            "box_id": 20,
+            "xycut_id": 23
+        },
+        {
+            "text": "(502) 568-7313 or (502) 568-8319",
+            "box": [
+                364,
+                713,
+                555,
+                735
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "(502)",
+                    "box": [
+                        364,
+                        718,
+                        392,
+                        735
+                    ]
+                },
+                {
+                    "text": "568-7313",
+                    "box": [
+                        394,
+                        716,
+                        452,
+                        729
+                    ]
+                },
+                {
+                    "text": "or",
+                    "box": [
+                        453,
+                        719,
+                        466,
+                        729
+                    ]
+                },
+                {
+                    "text": "(502)",
+                    "box": [
+                        468,
+                        713,
+                        496,
+                        730
+                    ]
+                },
+                {
+                    "text": "568-8319",
+                    "box": [
+                        500,
+                        714,
+                        555,
+                        729
+                    ]
+                }
+            ],
+            "id": 23,
+            "gaze_during": 0,
+            "fix_id": 21,
+            "tb_id": 21,
+            "s_id": 21,
+            "v3_id": 21,
+            "v1_id": 21,
+            "bert_id": 22,
+            "box_id": 21,
+            "xycut_id": 28
+        },
+        {
+            "text": "OTHER INFORMATION:",
+            "box": [
+                88,
+                767,
+                253,
+                782
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "OTHER",
+                    "box": [
+                        88,
+                        769,
+                        139,
+                        782
+                    ]
+                },
+                {
+                    "text": "INFORMATION:",
+                    "box": [
+                        140,
+                        767,
+                        253,
+                        780
+                    ]
+                }
+            ],
+            "id": 25,
+            "gaze_during": 103,
+            "fix_id": 22,
+            "tb_id": 22,
+            "s_id": 22,
+            "v3_id": 22,
+            "v1_id": 22,
+            "bert_id": 21,
+            "box_id": 22,
+            "xycut_id": 9
+        },
+        {
+            "text": "DATE REQUESTED:",
+            "box": [
+                88,
+                801,
+                216,
+                814
+            ],
+            "linking": [
+                [
+                    26,
+                    7
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "DATE",
+                    "box": [
+                        88,
+                        802,
+                        128,
+                        814
+                    ]
+                },
+                {
+                    "text": "REQUESTED:",
+                    "box": [
+                        126,
+                        801,
+                        216,
+                        813
+                    ]
+                }
+            ],
+            "id": 26,
+            "gaze_during": 0,
+            "fix_id": 23,
+            "tb_id": 23,
+            "s_id": 23,
+            "v3_id": 23,
+            "v1_id": 23,
+            "bert_id": 23,
+            "box_id": 23,
+            "xycut_id": 10
+        },
+        {
+            "box": [
+                297,
+                796,
+                340,
+                813
+            ],
+            "text": "1-23-95",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        297,
+                        796,
+                        340,
+                        813
+                    ],
+                    "text": "1-23-95"
+                }
+            ],
+            "linking": [
+                [
+                    26,
+                    7
+                ]
+            ],
+            "id": 7,
+            "gaze_during": 0,
+            "fix_id": 24,
+            "tb_id": 24,
+            "s_id": 24,
+            "v3_id": 24,
+            "v1_id": 24,
+            "bert_id": 24,
+            "box_id": 24,
+            "xycut_id": 25
+        },
+        {
+            "text": "DEADLINE FOR BID RECEIPT:",
+            "box": [
+                86,
+                821,
+                279,
+                835
+            ],
+            "linking": [
+                [
+                    27,
+                    28
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "DEADLINE",
+                    "box": [
+                        86,
+                        824,
+                        161,
+                        834
+                    ]
+                },
+                {
+                    "text": "FOR",
+                    "box": [
+                        161,
+                        822,
+                        188,
+                        835
+                    ]
+                },
+                {
+                    "text": "BID",
+                    "box": [
+                        188,
+                        822,
+                        218,
+                        834
+                    ]
+                },
+                {
+                    "text": "RECEIPT:",
+                    "box": [
+                        218,
+                        821,
+                        279,
+                        833
+                    ]
+                }
+            ],
+            "id": 27,
+            "gaze_during": 360,
+            "fix_id": 25,
+            "tb_id": 25,
+            "s_id": 25,
+            "v3_id": 25,
+            "v1_id": 25,
+            "bert_id": 25,
+            "box_id": 25,
+            "xycut_id": 8
+        },
+        {
+            "text": "1-26-95 9:00 AM EST",
+            "box": [
+                297,
+                819,
+                433,
+                834
+            ],
+            "linking": [
+                [
+                    27,
+                    28
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "1-26-95",
+                    "box": [
+                        297,
+                        819,
+                        345,
+                        834
+                    ]
+                },
+                {
+                    "text": "9:00",
+                    "box": [
+                        355,
+                        821,
+                        382,
+                        834
+                    ]
+                },
+                {
+                    "text": "AM",
+                    "box": [
+                        384,
+                        821,
+                        409,
+                        833
+                    ]
+                },
+                {
+                    "text": "EST",
+                    "box": [
+                        405,
+                        819,
+                        433,
+                        832
+                    ]
+                }
+            ],
+            "id": 28,
+            "gaze_during": 237,
+            "fix_id": 26,
+            "tb_id": 26,
+            "s_id": 26,
+            "v3_id": 26,
+            "v1_id": 26,
+            "bert_id": 26,
+            "box_id": 26,
+            "xycut_id": 26
+        },
+        {
+            "box": [
+                90,
+                842,
+                130,
+                849
+            ],
+            "text": "",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        90,
+                        842,
+                        130,
+                        849
+                    ],
+                    "text": ""
+                }
+            ],
+            "linking": [],
+            "id": 6,
+            "gaze_during": 0,
+            "fix_id": 27,
+            "tb_id": 27,
+            "s_id": 27,
+            "v3_id": 29,
+            "v1_id": 28,
+            "bert_id": 29,
+            "box_id": 27,
+            "xycut_id": 11
+        },
+        {
+            "box": [
+                487,
+                872,
+                600,
+                890
+            ],
+            "text": "465658104",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        487,
+                        872,
+                        600,
+                        890
+                    ],
+                    "text": "465658104"
+                }
+            ],
+            "linking": [],
+            "id": 5,
+            "gaze_during": 187,
+            "fix_id": 28,
+            "tb_id": 28,
+            "s_id": 27,
+            "v3_id": 28,
+            "v1_id": 29,
+            "bert_id": 28,
+            "box_id": 28,
+            "xycut_id": 29
+        },
+        {
+            "text": "PRODUCED FROM B&W WEB SITE",
+            "box": [
+                2,
+                952,
+                235,
+                965
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "PRODUCED",
+                    "box": [
+                        2,
+                        953,
+                        73,
+                        965
+                    ]
+                },
+                {
+                    "text": "FROM",
+                    "box": [
+                        78,
+                        953,
+                        120,
+                        965
+                    ]
+                },
+                {
+                    "text": "B&W",
+                    "box": [
+                        121,
+                        952,
+                        156,
+                        965
+                    ]
+                },
+                {
+                    "text": "WEB",
+                    "box": [
+                        159,
+                        952,
+                        187,
+                        965
+                    ]
+                },
+                {
+                    "text": "SITE",
+                    "box": [
+                        193,
+                        952,
+                        235,
+                        965
+                    ]
+                }
+            ],
+            "id": 29,
+            "gaze_during": 277,
+            "fix_id": 29,
+            "tb_id": 29,
+            "s_id": 28,
+            "v3_id": 29,
+            "v1_id": 29,
+            "bert_id": 29,
+            "box_id": 29,
+            "xycut_id": 0
+        }
+    ]
+}

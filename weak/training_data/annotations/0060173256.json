@@ -1,0 +1,1647 @@
+{
+    "form": [
+        {
+            "text": "THE AMERICAN TOBACCO COMPANY",
+            "box": [
+                36,
+                21,
+                139,
+                92
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "THE",
+                    "box": [
+                        36,
+                        21,
+                        75,
+                        36
+                    ]
+                },
+                {
+                    "text": "AMERICAN",
+                    "box": [
+                        36,
+                        39,
+                        139,
+                        56
+                    ]
+                },
+                {
+                    "text": "TOBACCO",
+                    "box": [
+                        36,
+                        57,
+                        130,
+                        72
+                    ]
+                },
+                {
+                    "text": "COMPANY",
+                    "box": [
+                        36,
+                        75,
+                        131,
+                        92
+                    ]
+                }
+            ],
+            "id": 18,
+            "gaze_during": 827,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 0,
+            "box_id": 1,
+            "xycut_id": 0
+        },
+        {
+            "text": "APPROVED MARKETING PROJECT EXPENSE RECOMMENDATION",
+            "box": [
+                355,
+                36,
+                685,
+                74
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "APPROVED",
+                    "box": [
+                        355,
+                        38,
+                        461,
+                        55
+                    ]
+                },
+                {
+                    "text": "MARKETING",
+                    "box": [
+                        469,
+                        38,
+                        586,
+                        55
+                    ]
+                },
+                {
+                    "text": "PROJECT",
+                    "box": [
+                        594,
+                        36,
+                        685,
+                        54
+                    ]
+                },
+                {
+                    "text": "EXPENSE",
+                    "box": [
+                        376,
+                        56,
+                        465,
+                        73
+                    ]
+                },
+                {
+                    "text": "RECOMMENDATION",
+                    "box": [
+                        472,
+                        56,
+                        665,
+                        74
+                    ]
+                }
+            ],
+            "id": 19,
+            "gaze_during": 894,
+            "fix_id": 4,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 1,
+            "v1_id": 1,
+            "bert_id": 1,
+            "box_id": 5,
+            "xycut_id": 11
+        },
+        {
+            "text": "Project No",
+            "box": [
+                41,
+                134,
+                116,
+                149
+            ],
+            "linking": [
+                [
+                    35,
+                    20
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Project",
+                    "box": [
+                        41,
+                        134,
+                        90,
+                        149
+                    ]
+                },
+                {
+                    "text": "No",
+                    "box": [
+                        94,
+                        134,
+                        116,
+                        148
+                    ]
+                }
+            ],
+            "id": 35,
+            "gaze_during": 0,
+            "fix_id": 5,
+            "tb_id": 2,
+            "s_id": 2,
+            "v3_id": 2,
+            "v1_id": 2,
+            "bert_id": 2,
+            "box_id": 2,
+            "xycut_id": 1
+        },
+        {
+            "text": "S0002 Supp 2",
+            "box": [
+                137,
+                133,
+                240,
+                149
+            ],
+            "linking": [
+                [
+                    35,
+                    20
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "S0002",
+                    "box": [
+                        137,
+                        133,
+                        184,
+                        148
+                    ]
+                },
+                {
+                    "text": "Supp",
+                    "box": [
+                        187,
+                        134,
+                        226,
+                        149
+                    ]
+                },
+                {
+                    "text": "2",
+                    "box": [
+                        229,
+                        134,
+                        240,
+                        149
+                    ]
+                }
+            ],
+            "id": 20,
+            "gaze_during": 0,
+            "fix_id": 6,
+            "tb_id": 3,
+            "s_id": 3,
+            "v3_id": 3,
+            "v1_id": 4,
+            "bert_id": 4,
+            "box_id": 7,
+            "xycut_id": 2
+        },
+        {
+            "box": [
+                264,
+                133,
+                344,
+                150
+            ],
+            "text": "Description",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        264,
+                        133,
+                        344,
+                        150
+                    ],
+                    "text": "Description"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    1
+                ]
+            ],
+            "id": 0,
+            "gaze_during": 250,
+            "fix_id": 1,
+            "tb_id": 4,
+            "s_id": 4,
+            "v3_id": 4,
+            "v1_id": 3,
+            "bert_id": 3,
+            "box_id": 10,
+            "xycut_id": 12
+        },
+        {
+            "box": [
+                493,
+                133,
+                560,
+                150
+            ],
+            "text": "Displays",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        493,
+                        133,
+                        560,
+                        150
+                    ],
+                    "text": "Displays"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    1
+                ]
+            ],
+            "id": 1,
+            "gaze_during": 0,
+            "fix_id": 2,
+            "tb_id": 5,
+            "s_id": 5,
+            "v3_id": 5,
+            "v1_id": 5,
+            "bert_id": 9,
+            "box_id": 3,
+            "xycut_id": 25
+        },
+        {
+            "box": [
+                155,
+                186,
+                219,
+                201
+            ],
+            "text": "BRANDS",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        155,
+                        186,
+                        219,
+                        201
+                    ],
+                    "text": "BRANDS"
+                }
+            ],
+            "linking": [
+                [
+                    2,
+                    21
+                ],
+                [
+                    2,
+                    4
+                ]
+            ],
+            "id": 2,
+            "gaze_during": 0,
+            "fix_id": 3,
+            "tb_id": 6,
+            "s_id": 6,
+            "v3_id": 6,
+            "v1_id": 6,
+            "bert_id": 8,
+            "box_id": 4,
+            "xycut_id": 3
+        },
+        {
+            "text": "Current Budget",
+            "box": [
+                356,
+                186,
+                467,
+                202
+            ],
+            "linking": [
+                [
+                    22,
+                    23
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Current",
+                    "box": [
+                        356,
+                        187,
+                        410,
+                        202
+                    ]
+                },
+                {
+                    "text": "Budget",
+                    "box": [
+                        415,
+                        186,
+                        467,
+                        201
+                    ]
+                }
+            ],
+            "id": 22,
+            "gaze_during": 460,
+            "fix_id": 9,
+            "tb_id": 7,
+            "s_id": 7,
+            "v3_id": 7,
+            "v1_id": 7,
+            "bert_id": 7,
+            "box_id": 12,
+            "xycut_id": 13
+        },
+        {
+            "text": "$ 7,569,000.00",
+            "box": [
+                547,
+                184,
+                633,
+                203
+            ],
+            "linking": [
+                [
+                    22,
+                    23
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        547,
+                        184,
+                        556,
+                        203
+                    ]
+                },
+                {
+                    "text": "7,569,000.00",
+                    "box": [
+                        555,
+                        186,
+                        633,
+                        201
+                    ]
+                }
+            ],
+            "id": 23,
+            "gaze_during": 517,
+            "fix_id": 11,
+            "tb_id": 8,
+            "s_id": 8,
+            "v3_id": 8,
+            "v1_id": 10,
+            "bert_id": 6,
+            "box_id": 6,
+            "xycut_id": 26
+        },
+        {
+            "text": "Private Stock",
+            "box": [
+                149,
+                205,
+                235,
+                220
+            ],
+            "linking": [
+                [
+                    2,
+                    21
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Private",
+                    "box": [
+                        149,
+                        205,
+                        195,
+                        219
+                    ]
+                },
+                {
+                    "text": "Stock",
+                    "box": [
+                        197,
+                        205,
+                        235,
+                        220
+                    ]
+                }
+            ],
+            "id": 21,
+            "gaze_during": 227,
+            "fix_id": 7,
+            "tb_id": 9,
+            "s_id": 9,
+            "v3_id": 9,
+            "v1_id": 9,
+            "bert_id": 5,
+            "box_id": 9,
+            "xycut_id": 4
+        },
+        {
+            "box": [
+                166,
+                225,
+                218,
+                239
+            ],
+            "text": "Carlton",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        166,
+                        225,
+                        218,
+                        239
+                    ],
+                    "text": "Carlton"
+                }
+            ],
+            "linking": [
+                [
+                    2,
+                    4
+                ]
+            ],
+            "id": 4,
+            "gaze_during": 0,
+            "fix_id": 8,
+            "tb_id": 10,
+            "s_id": 10,
+            "v3_id": 10,
+            "v1_id": 8,
+            "bert_id": 10,
+            "box_id": 8,
+            "xycut_id": 5
+        },
+        {
+            "box": [
+                370,
+                225,
+                452,
+                239
+            ],
+            "text": "Adjustment",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        370,
+                        225,
+                        452,
+                        239
+                    ],
+                    "text": "Adjustment"
+                }
+            ],
+            "linking": [
+                [
+                    3,
+                    26
+                ]
+            ],
+            "id": 3,
+            "gaze_during": 240,
+            "fix_id": 10,
+            "tb_id": 11,
+            "s_id": 11,
+            "v3_id": 11,
+            "v1_id": 11,
+            "bert_id": 14,
+            "box_id": 17,
+            "xycut_id": 14
+        },
+        {
+            "text": "$ 0.00",
+            "box": [
+                598,
+                225,
+                635,
+                240
+            ],
+            "linking": [
+                [
+                    3,
+                    26
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        598,
+                        225,
+                        607,
+                        240
+                    ]
+                },
+                {
+                    "text": "0.00",
+                    "box": [
+                        607,
+                        225,
+                        635,
+                        238
+                    ]
+                }
+            ],
+            "id": 26,
+            "gaze_during": 0,
+            "fix_id": 12,
+            "tb_id": 12,
+            "s_id": 12,
+            "v3_id": 12,
+            "v1_id": 12,
+            "bert_id": 13,
+            "box_id": 0,
+            "xycut_id": 27
+        },
+        {
+            "text": "Revised Budget",
+            "box": [
+                356,
+                263,
+                468,
+                280
+            ],
+            "linking": [
+                [
+                    24,
+                    25
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Revised",
+                    "box": [
+                        356,
+                        264,
+                        413,
+                        278
+                    ]
+                },
+                {
+                    "text": "Budget",
+                    "box": [
+                        418,
+                        263,
+                        468,
+                        280
+                    ]
+                }
+            ],
+            "id": 24,
+            "gaze_during": 0,
+            "fix_id": 13,
+            "tb_id": 13,
+            "s_id": 13,
+            "v3_id": 13,
+            "v1_id": 13,
+            "bert_id": 12,
+            "box_id": 11,
+            "xycut_id": 15
+        },
+        {
+            "text": "$ 7,569,000.00",
+            "box": [
+                547,
+                263,
+                634,
+                279
+            ],
+            "linking": [
+                [
+                    24,
+                    25
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "$",
+                    "box": [
+                        547,
+                        263,
+                        555,
+                        279
+                    ]
+                },
+                {
+                    "text": "7,569,000.00",
+                    "box": [
+                        556,
+                        263,
+                        634,
+                        278
+                    ]
+                }
+            ],
+            "id": 25,
+            "gaze_during": 273,
+            "fix_id": 14,
+            "tb_id": 14,
+            "s_id": 14,
+            "v3_id": 14,
+            "v1_id": 14,
+            "bert_id": 11,
+            "box_id": 15,
+            "xycut_id": 28
+        },
+        {
+            "text": "Offer Description",
+            "box": [
+                87,
+                313,
+                206,
+                330
+            ],
+            "linking": [
+                [
+                    36,
+                    6
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Offer",
+                    "box": [
+                        87,
+                        314,
+                        123,
+                        329
+                    ]
+                },
+                {
+                    "text": "Description",
+                    "box": [
+                        126,
+                        313,
+                        206,
+                        330
+                    ]
+                }
+            ],
+            "id": 36,
+            "gaze_during": 273,
+            "fix_id": 15,
+            "tb_id": 15,
+            "s_id": 15,
+            "v3_id": 15,
+            "v1_id": 15,
+            "bert_id": 15,
+            "box_id": 14,
+            "xycut_id": 6
+        },
+        {
+            "text": "Charge Code",
+            "box": [
+                395,
+                313,
+                492,
+                331
+            ],
+            "linking": [
+                [
+                    37,
+                    27
+                ],
+                [
+                    37,
+                    28
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Charge",
+                    "box": [
+                        395,
+                        313,
+                        447,
+                        331
+                    ]
+                },
+                {
+                    "text": "Code",
+                    "box": [
+                        450,
+                        313,
+                        492,
+                        330
+                    ]
+                }
+            ],
+            "id": 37,
+            "gaze_during": 567,
+            "fix_id": 16,
+            "tb_id": 16,
+            "s_id": 16,
+            "v3_id": 16,
+            "v1_id": 16,
+            "bert_id": 16,
+            "box_id": 13,
+            "xycut_id": 16
+        },
+        {
+            "box": [
+                584,
+                314,
+                641,
+                328
+            ],
+            "text": "Amount",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        584,
+                        314,
+                        641,
+                        328
+                    ],
+                    "text": "Amount"
+                }
+            ],
+            "linking": [
+                [
+                    5,
+                    7
+                ],
+                [
+                    5,
+                    8
+                ]
+            ],
+            "id": 5,
+            "gaze_during": 0,
+            "fix_id": 18,
+            "tb_id": 17,
+            "s_id": 17,
+            "v3_id": 17,
+            "v1_id": 19,
+            "bert_id": 17,
+            "box_id": 16,
+            "xycut_id": 29
+        },
+        {
+            "box": [
+                156,
+                342,
+                208,
+                357
+            ],
+            "text": "Displays",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        156,
+                        342,
+                        208,
+                        357
+                    ],
+                    "text": "Displays"
+                }
+            ],
+            "linking": [
+                [
+                    36,
+                    6
+                ]
+            ],
+            "id": 6,
+            "gaze_during": 0,
+            "fix_id": 19,
+            "tb_id": 18,
+            "s_id": 18,
+            "v3_id": 18,
+            "v1_id": 18,
+            "bert_id": 19,
+            "box_id": 18,
+            "xycut_id": 7
+        },
+        {
+            "text": "CAR- MMT- DSP",
+            "box": [
+                349,
+                341,
+                452,
+                358
+            ],
+            "linking": [
+                [
+                    37,
+                    27
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "CAR-",
+                    "box": [
+                        349,
+                        341,
+                        384,
+                        358
+                    ]
+                },
+                {
+                    "text": "MMT-",
+                    "box": [
+                        385,
+                        341,
+                        424,
+                        356
+                    ]
+                },
+                {
+                    "text": "DSP",
+                    "box": [
+                        425,
+                        341,
+                        452,
+                        354
+                    ]
+                }
+            ],
+            "id": 27,
+            "gaze_during": 567,
+            "fix_id": 17,
+            "tb_id": 19,
+            "s_id": 19,
+            "v3_id": 19,
+            "v1_id": 17,
+            "bert_id": 18,
+            "box_id": 20,
+            "xycut_id": 17
+        },
+        {
+            "box": [
+                575,
+                341,
+                634,
+                358
+            ],
+            "text": "31,000.00",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        575,
+                        341,
+                        634,
+                        358
+                    ],
+                    "text": "31,000.00"
+                }
+            ],
+            "linking": [
+                [
+                    5,
+                    7
+                ]
+            ],
+            "id": 7,
+            "gaze_during": 353,
+            "fix_id": 20,
+            "tb_id": 20,
+            "s_id": 20,
+            "v3_id": 20,
+            "v1_id": 20,
+            "bert_id": 22,
+            "box_id": 23,
+            "xycut_id": 30
+        },
+        {
+            "text": "PRV- MMT- DSP",
+            "box": [
+                351,
+                366,
+                449,
+                382
+            ],
+            "linking": [
+                [
+                    37,
+                    28
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "PRV-",
+                    "box": [
+                        351,
+                        367,
+                        385,
+                        381
+                    ]
+                },
+                {
+                    "text": "MMT-",
+                    "box": [
+                        385,
+                        366,
+                        421,
+                        381
+                    ]
+                },
+                {
+                    "text": "DSP",
+                    "box": [
+                        422,
+                        367,
+                        449,
+                        382
+                    ]
+                }
+            ],
+            "id": 28,
+            "gaze_during": 0,
+            "fix_id": 21,
+            "tb_id": 21,
+            "s_id": 21,
+            "v3_id": 21,
+            "v1_id": 21,
+            "bert_id": 21,
+            "box_id": 19,
+            "xycut_id": 18
+        },
+        {
+            "box": [
+                573,
+                369,
+                637,
+                384
+            ],
+            "text": "(31,000.00)",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        573,
+                        369,
+                        637,
+                        384
+                    ],
+                    "text": "(31,000.00)"
+                }
+            ],
+            "linking": [
+                [
+                    5,
+                    8
+                ]
+            ],
+            "id": 8,
+            "gaze_during": 0,
+            "fix_id": 22,
+            "tb_id": 22,
+            "s_id": 22,
+            "v3_id": 22,
+            "v1_id": 22,
+            "bert_id": 20,
+            "box_id": 22,
+            "xycut_id": 31
+        },
+        {
+            "box": [
+                603,
+                737,
+                635,
+                751
+            ],
+            "text": "0.00",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        603,
+                        737,
+                        635,
+                        751
+                    ],
+                    "text": "0.00"
+                }
+            ],
+            "linking": [],
+            "id": 13,
+            "gaze_during": 0,
+            "fix_id": 23,
+            "tb_id": 23,
+            "s_id": 23,
+            "v3_id": 23,
+            "v1_id": 23,
+            "bert_id": 25,
+            "box_id": 21,
+            "xycut_id": 32
+        },
+        {
+            "box": [
+                332,
+                758,
+                421,
+                797
+            ],
+            "text": "",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        332,
+                        758,
+                        421,
+                        797
+                    ],
+                    "text": ""
+                }
+            ],
+            "linking": [
+                [
+                    29,
+                    10
+                ]
+            ],
+            "id": 10,
+            "gaze_during": 0,
+            "fix_id": 25,
+            "tb_id": 24,
+            "s_id": 24,
+            "v3_id": 37,
+            "v1_id": 25,
+            "bert_id": 23,
+            "box_id": 24,
+            "xycut_id": 20
+        },
+        {
+            "box": [
+                432,
+                774,
+                466,
+                795
+            ],
+            "text": "5/5",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        432,
+                        774,
+                        466,
+                        795
+                    ],
+                    "text": "5/5"
+                }
+            ],
+            "linking": [
+                [
+                    16,
+                    11
+                ]
+            ],
+            "id": 11,
+            "gaze_during": 0,
+            "fix_id": 26,
+            "tb_id": 25,
+            "s_id": 24,
+            "v1_id": 28,
+            "v3_id": 24,
+            "bert_id": 27,
+            "box_id": 25,
+            "xycut_id": 22
+        },
+        {
+            "box": [
+                570,
+                757,
+                680,
+                796
+            ],
+            "text": "",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        570,
+                        757,
+                        680,
+                        796
+                    ],
+                    "text": ""
+                }
+            ],
+            "linking": [
+                [
+                    30,
+                    12
+                ],
+                [
+                    15,
+                    12
+                ]
+            ],
+            "id": 12,
+            "gaze_during": 630,
+            "fix_id": 33,
+            "tb_id": 26,
+            "s_id": 28,
+            "v3_id": 37,
+            "v1_id": 27,
+            "bert_id": 28,
+            "box_id": 26,
+            "xycut_id": 34
+        },
+        {
+            "box": [
+                41,
+                782,
+                132,
+                797
+            ],
+            "text": "Distribution:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        41,
+                        782,
+                        132,
+                        797
+                    ],
+                    "text": "Distribution:"
+                }
+            ],
+            "linking": [],
+            "id": 9,
+            "gaze_during": 0,
+            "fix_id": 34,
+            "tb_id": 27,
+            "s_id": 25,
+            "v3_id": 26,
+            "v1_id": 30,
+            "bert_id": 30,
+            "box_id": 27,
+            "xycut_id": 8
+        },
+        {
+            "text": "Accounting File",
+            "box": [
+                53,
+                799,
+                124,
+                825
+            ],
+            "linking": [
+                [
+                    34,
+                    33
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Accounting",
+                    "box": [
+                        54,
+                        799,
+                        124,
+                        812
+                    ]
+                },
+                {
+                    "text": "File",
+                    "box": [
+                        53,
+                        810,
+                        78,
+                        825
+                    ]
+                }
+            ],
+            "id": 34,
+            "gaze_during": 597,
+            "fix_id": 24,
+            "tb_id": 28,
+            "s_id": 26,
+            "v3_id": 27,
+            "v1_id": 31,
+            "bert_id": 31,
+            "box_id": 28,
+            "xycut_id": 10
+        },
+        {
+            "text": "",
+            "box": [
+                138,
+                795,
+                192,
+                828
+            ],
+            "linking": [
+                [
+                    34,
+                    33
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "",
+                    "box": [
+                        138,
+                        796,
+                        166,
+                        811
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        140,
+                        811,
+                        164,
+                        828
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        165,
+                        795,
+                        192,
+                        823
+                    ]
+                }
+            ],
+            "id": 33,
+            "gaze_during": 73,
+            "fix_id": 35,
+            "tb_id": 29,
+            "s_id": 27,
+            "v3_id": 37,
+            "v1_id": 32,
+            "bert_id": 34,
+            "box_id": 29,
+            "xycut_id": 9
+        },
+        {
+            "text": "Prepared By:",
+            "box": [
+                253,
+                782,
+                331,
+                800
+            ],
+            "linking": [
+                [
+                    29,
+                    10
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Prepared",
+                    "box": [
+                        253,
+                        782,
+                        309,
+                        799
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "box": [
+                        310,
+                        782,
+                        331,
+                        800
+                    ]
+                }
+            ],
+            "id": 29,
+            "gaze_during": 0,
+            "fix_id": 36,
+            "tb_id": 30,
+            "s_id": 27,
+            "v3_id": 28,
+            "v1_id": 33,
+            "bert_id": 33,
+            "box_id": 30,
+            "xycut_id": 19
+        },
+        {
+            "box": [
+                425,
+                797,
+                449,
+                811
+            ],
+            "text": "Date",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        425,
+                        797,
+                        449,
+                        811
+                    ],
+                    "text": "Date"
+                }
+            ],
+            "linking": [
+                [
+                    16,
+                    11
+                ]
+            ],
+            "id": 16,
+            "gaze_during": 0,
+            "fix_id": 37,
+            "tb_id": 31,
+            "s_id": 28,
+            "v3_id": 29,
+            "v1_id": 34,
+            "bert_id": 32,
+            "box_id": 31,
+            "xycut_id": 21
+        },
+        {
+            "text": "Approved By:",
+            "box": [
+                476,
+                781,
+                561,
+                801
+            ],
+            "linking": [
+                [
+                    30,
+                    12
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Approved",
+                    "box": [
+                        476,
+                        782,
+                        537,
+                        800
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "box": [
+                        541,
+                        781,
+                        561,
+                        801
+                    ]
+                }
+            ],
+            "id": 30,
+            "gaze_during": 173,
+            "fix_id": 29,
+            "tb_id": 32,
+            "s_id": 29,
+            "v3_id": 30,
+            "v1_id": 35,
+            "bert_id": 35,
+            "box_id": 32,
+            "xycut_id": 33
+        },
+        {
+            "box": [
+                663,
+                797,
+                687,
+                810
+            ],
+            "text": "Date",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        663,
+                        797,
+                        687,
+                        810
+                    ],
+                    "text": "Date"
+                }
+            ],
+            "linking": [
+                [
+                    15,
+                    12
+                ]
+            ],
+            "id": 15,
+            "gaze_during": 0,
+            "fix_id": 30,
+            "tb_id": 33,
+            "s_id": 30,
+            "v1_id": 36,
+            "v3_id": 31,
+            "bert_id": 37,
+            "box_id": 33,
+            "xycut_id": 36
+        },
+        {
+            "text": "Prepared By:",
+            "box": [
+                253,
+                825,
+                331,
+                843
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Prepared",
+                    "box": [
+                        253,
+                        825,
+                        309,
+                        843
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "box": [
+                        311,
+                        825,
+                        331,
+                        842
+                    ]
+                }
+            ],
+            "id": 32,
+            "gaze_during": 753,
+            "fix_id": 27,
+            "tb_id": 34,
+            "s_id": 31,
+            "v3_id": 32,
+            "v1_id": 37,
+            "bert_id": 36,
+            "box_id": 34,
+            "xycut_id": 23
+        },
+        {
+            "box": [
+                425,
+                839,
+                450,
+                853
+            ],
+            "text": "Date",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        425,
+                        839,
+                        450,
+                        853
+                    ],
+                    "text": "Date"
+                }
+            ],
+            "linking": [],
+            "id": 17,
+            "gaze_during": 347,
+            "fix_id": 28,
+            "tb_id": 35,
+            "s_id": 32,
+            "v1_id": 37,
+            "v3_id": 37,
+            "bert_id": 37,
+            "box_id": 35,
+            "xycut_id": 24
+        },
+        {
+            "text": "Approved By:",
+            "box": [
+                478,
+                825,
+                560,
+                843
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Approved",
+                    "box": [
+                        478,
+                        825,
+                        538,
+                        843
+                    ]
+                },
+                {
+                    "text": "By:",
+                    "box": [
+                        542,
+                        825,
+                        560,
+                        843
+                    ]
+                }
+            ],
+            "id": 31,
+            "gaze_during": 157,
+            "fix_id": 31,
+            "tb_id": 36,
+            "s_id": 33,
+            "v3_id": 37,
+            "v1_id": 37,
+            "bert_id": 37,
+            "box_id": 36,
+            "xycut_id": 35
+        },
+        {
+            "box": [
+                663,
+                841,
+                687,
+                855
+            ],
+            "text": "Date",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        663,
+                        841,
+                        687,
+                        855
+                    ],
+                    "text": "Date"
+                }
+            ],
+            "linking": [],
+            "id": 14,
+            "gaze_during": 0,
+            "fix_id": 32,
+            "tb_id": 37,
+            "s_id": 34,
+            "v3_id": 37,
+            "v1_id": 37,
+            "bert_id": 37,
+            "box_id": 37,
+            "xycut_id": 37
+        }
+    ]
+}

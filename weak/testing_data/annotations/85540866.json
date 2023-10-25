@@ -1,0 +1,528 @@
+{
+    "form": [
+        {
+            "text": "MEDIA CONTACT SHEET",
+            "box": [
+                235,
+                82,
+                533,
+                114
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "MEDIA",
+                    "box": [
+                        235,
+                        82,
+                        316,
+                        110
+                    ]
+                },
+                {
+                    "text": "CONTACT",
+                    "box": [
+                        321,
+                        87,
+                        444,
+                        114
+                    ]
+                },
+                {
+                    "text": "SHEET",
+                    "box": [
+                        451,
+                        87,
+                        533,
+                        112
+                    ]
+                }
+            ],
+            "id": 5,
+            "gaze_during": 120,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 0,
+            "box_id": 5,
+            "xycut_id": 7
+        },
+        {
+            "text": "(Publication or station)",
+            "box": [
+                60,
+                151,
+                187,
+                167
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "(Publication",
+                    "box": [
+                        60,
+                        151,
+                        127,
+                        166
+                    ]
+                },
+                {
+                    "text": "or",
+                    "box": [
+                        130,
+                        155,
+                        144,
+                        166
+                    ]
+                },
+                {
+                    "text": "station)",
+                    "box": [
+                        145,
+                        154,
+                        187,
+                        167
+                    ]
+                }
+            ],
+            "id": 6,
+            "gaze_during": 0,
+            "fix_id": 2,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 1,
+            "v1_id": 1,
+            "bert_id": 1,
+            "box_id": 2,
+            "xycut_id": 0
+        },
+        {
+            "text": "(Location address)",
+            "box": [
+                415,
+                155,
+                518,
+                172
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "(Location",
+                    "box": [
+                        415,
+                        155,
+                        468,
+                        172
+                    ]
+                },
+                {
+                    "text": "address)",
+                    "box": [
+                        471,
+                        156,
+                        518,
+                        169
+                    ]
+                }
+            ],
+            "id": 11,
+            "gaze_during": 0,
+            "fix_id": 3,
+            "tb_id": 2,
+            "s_id": 2,
+            "v3_id": 2,
+            "v1_id": 2,
+            "bert_id": 3,
+            "box_id": 0,
+            "xycut_id": 8
+        },
+        {
+            "box": [
+                60,
+                189,
+                94,
+                204
+            ],
+            "text": "(Name)",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        60,
+                        189,
+                        94,
+                        204
+                    ],
+                    "text": "(Name)"
+                }
+            ],
+            "linking": [],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 4,
+            "tb_id": 3,
+            "s_id": 3,
+            "v3_id": 3,
+            "v1_id": 3,
+            "bert_id": 2,
+            "box_id": 3,
+            "xycut_id": 1
+        },
+        {
+            "box": [
+                412,
+                190,
+                461,
+                207
+            ],
+            "text": "(Position)",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        412,
+                        190,
+                        461,
+                        207
+                    ],
+                    "text": "(Position)"
+                }
+            ],
+            "linking": [],
+            "id": 2,
+            "gaze_during": 0,
+            "fix_id": 5,
+            "tb_id": 4,
+            "s_id": 4,
+            "v3_id": 4,
+            "v1_id": 4,
+            "bert_id": 4,
+            "box_id": 1,
+            "xycut_id": 9
+        },
+        {
+            "box": [
+                59,
+                225,
+                86,
+                236
+            ],
+            "text": "(Date)",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        59,
+                        225,
+                        86,
+                        236
+                    ],
+                    "text": "(Date)"
+                }
+            ],
+            "linking": [],
+            "id": 1,
+            "gaze_during": 0,
+            "fix_id": 6,
+            "tb_id": 5,
+            "s_id": 5,
+            "v3_id": 5,
+            "v1_id": 5,
+            "bert_id": 6,
+            "box_id": 6,
+            "xycut_id": 2
+        },
+        {
+            "text": "(Phone number)",
+            "box": [
+                413,
+                226,
+                497,
+                241
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "(Phone",
+                    "box": [
+                        413,
+                        226,
+                        452,
+                        241
+                    ]
+                },
+                {
+                    "text": "number)",
+                    "box": [
+                        455,
+                        226,
+                        497,
+                        241
+                    ]
+                }
+            ],
+            "id": 12,
+            "gaze_during": 0,
+            "fix_id": 7,
+            "tb_id": 6,
+            "s_id": 6,
+            "v3_id": 6,
+            "v1_id": 6,
+            "bert_id": 5,
+            "box_id": 4,
+            "xycut_id": 10
+        },
+        {
+            "text": "Reason for Contact",
+            "box": [
+                54,
+                261,
+                189,
+                278
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Reason",
+                    "box": [
+                        54,
+                        263,
+                        110,
+                        278
+                    ]
+                },
+                {
+                    "text": "for",
+                    "box": [
+                        115,
+                        261,
+                        132,
+                        275
+                    ]
+                },
+                {
+                    "text": "Contact",
+                    "box": [
+                        135,
+                        261,
+                        189,
+                        276
+                    ]
+                }
+            ],
+            "id": 7,
+            "gaze_during": 0,
+            "fix_id": 8,
+            "tb_id": 7,
+            "s_id": 7,
+            "v3_id": 7,
+            "v1_id": 8,
+            "bert_id": 7,
+            "box_id": 7,
+            "xycut_id": 3
+        },
+        {
+            "text": "Questions/ Responses",
+            "box": [
+                56,
+                422,
+                208,
+                440
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Questions/",
+                    "box": [
+                        56,
+                        422,
+                        127,
+                        439
+                    ]
+                },
+                {
+                    "text": "Responses",
+                    "box": [
+                        134,
+                        423,
+                        208,
+                        440
+                    ]
+                }
+            ],
+            "id": 8,
+            "gaze_during": 0,
+            "fix_id": 9,
+            "tb_id": 8,
+            "s_id": 8,
+            "v3_id": 8,
+            "v1_id": 7,
+            "bert_id": 8,
+            "box_id": 9,
+            "xycut_id": 4
+        },
+        {
+            "box": [
+                733,
+                714,
+                750,
+                803
+            ],
+            "text": "85540866",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        733,
+                        714,
+                        750,
+                        803
+                    ],
+                    "text": "85540866"
+                }
+            ],
+            "linking": [],
+            "id": 4,
+            "gaze_during": 0,
+            "fix_id": 10,
+            "tb_id": 9,
+            "s_id": 9,
+            "v3_id": 9,
+            "v1_id": 10,
+            "bert_id": 12,
+            "box_id": 8,
+            "xycut_id": 12
+        },
+        {
+            "text": "Additional Comments",
+            "box": [
+                54,
+                760,
+                208,
+                781
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Additional",
+                    "box": [
+                        54,
+                        760,
+                        127,
+                        780
+                    ]
+                },
+                {
+                    "text": "Comments",
+                    "box": [
+                        131,
+                        761,
+                        208,
+                        781
+                    ]
+                }
+            ],
+            "id": 9,
+            "gaze_during": 0,
+            "fix_id": 11,
+            "tb_id": 10,
+            "s_id": 10,
+            "v3_id": 10,
+            "v1_id": 9,
+            "bert_id": 11,
+            "box_id": 10,
+            "xycut_id": 5
+        },
+        {
+            "text": "Inquiry handled by:",
+            "box": [
+                54,
+                953,
+                194,
+                973
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Inquiry",
+                    "box": [
+                        54,
+                        953,
+                        107,
+                        973
+                    ]
+                },
+                {
+                    "text": "handled",
+                    "box": [
+                        110,
+                        954,
+                        166,
+                        972
+                    ]
+                },
+                {
+                    "text": "by:",
+                    "box": [
+                        170,
+                        953,
+                        194,
+                        971
+                    ]
+                }
+            ],
+            "id": 10,
+            "gaze_during": 0,
+            "fix_id": 12,
+            "tb_id": 11,
+            "s_id": 11,
+            "v3_id": 11,
+            "v1_id": 12,
+            "bert_id": 10,
+            "box_id": 11,
+            "xycut_id": 6
+        },
+        {
+            "box": [
+                218,
+                968,
+                254,
+                982
+            ],
+            "text": "(Name)",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        218,
+                        968,
+                        254,
+                        982
+                    ],
+                    "text": "(Name)"
+                }
+            ],
+            "linking": [],
+            "id": 3,
+            "gaze_during": 187,
+            "fix_id": 1,
+            "tb_id": 12,
+            "s_id": 12,
+            "v3_id": 12,
+            "v1_id": 11,
+            "bert_id": 9,
+            "box_id": 12,
+            "xycut_id": 11
+        }
+    ]
+}

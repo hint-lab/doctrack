@@ -1,0 +1,3995 @@
+{
+    "form": [
+        {
+            "text": "CIGARETTE REPORT FORM",
+            "box": [
+                300,
+                71,
+                482,
+                87
+            ],
+            "linking": [
+                [
+                    47,
+                    48
+                ],
+                [
+                    47,
+                    49
+                ],
+                [
+                    47,
+                    50
+                ],
+                [
+                    47,
+                    52
+                ],
+                [
+                    47,
+                    6
+                ],
+                [
+                    47,
+                    2
+                ],
+                [
+                    47,
+                    57
+                ],
+                [
+                    47,
+                    4
+                ],
+                [
+                    47,
+                    58
+                ],
+                [
+                    47,
+                    7
+                ],
+                [
+                    47,
+                    59
+                ],
+                [
+                    47,
+                    8
+                ],
+                [
+                    47,
+                    15
+                ],
+                [
+                    47,
+                    63
+                ],
+                [
+                    47,
+                    66
+                ],
+                [
+                    47,
+                    67
+                ],
+                [
+                    47,
+                    69
+                ]
+            ],
+            "label": "header",
+            "words": [
+                {
+                    "text": "CIGARETTE",
+                    "box": [
+                        300,
+                        73,
+                        377,
+                        86
+                    ]
+                },
+                {
+                    "text": "REPORT",
+                    "box": [
+                        387,
+                        73,
+                        439,
+                        87
+                    ]
+                },
+                {
+                    "text": "FORM",
+                    "box": [
+                        448,
+                        71,
+                        482,
+                        84
+                    ]
+                }
+            ],
+            "id": 47,
+            "gaze_during": 320,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 1,
+            "box_id": 7,
+            "xycut_id": 59
+        },
+        {
+            "box": [
+                113,
+                113,
+                135,
+                130
+            ],
+            "text": "(1)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        113,
+                        113,
+                        135,
+                        130
+                    ],
+                    "text": "(1)"
+                }
+            ],
+            "linking": [],
+            "id": 5,
+            "gaze_during": 0,
+            "fix_id": 1,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 1,
+            "v1_id": 1,
+            "bert_id": 0,
+            "box_id": 0,
+            "xycut_id": 0
+        },
+        {
+            "text": "YEAR COVERED:",
+            "box": [
+                145,
+                113,
+                257,
+                131
+            ],
+            "linking": [
+                [
+                    48,
+                    0
+                ],
+                [
+                    47,
+                    48
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "YEAR",
+                    "box": [
+                        145,
+                        113,
+                        183,
+                        130
+                    ]
+                },
+                {
+                    "text": "COVERED:",
+                    "box": [
+                        190,
+                        113,
+                        257,
+                        131
+                    ]
+                }
+            ],
+            "id": 48,
+            "gaze_during": 603,
+            "fix_id": 3,
+            "tb_id": 2,
+            "s_id": 2,
+            "v3_id": 2,
+            "v1_id": 2,
+            "bert_id": 2,
+            "box_id": 1,
+            "xycut_id": 26
+        },
+        {
+            "box": [
+                335,
+                113,
+                364,
+                128
+            ],
+            "text": "1987",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        335,
+                        113,
+                        364,
+                        128
+                    ],
+                    "text": "1987"
+                }
+            ],
+            "linking": [
+                [
+                    48,
+                    0
+                ]
+            ],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 5,
+            "tb_id": 3,
+            "s_id": 4,
+            "v3_id": 3,
+            "v1_id": 3,
+            "bert_id": 4,
+            "box_id": 15,
+            "xycut_id": 60
+        },
+        {
+            "box": [
+                112,
+                144,
+                134,
+                158
+            ],
+            "text": "(2)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        112,
+                        144,
+                        134,
+                        158
+                    ],
+                    "text": "(2)"
+                }
+            ],
+            "linking": [],
+            "id": 22,
+            "gaze_during": 0,
+            "fix_id": 6,
+            "tb_id": 4,
+            "s_id": 3,
+            "v3_id": 4,
+            "v1_id": 4,
+            "bert_id": 3,
+            "box_id": 3,
+            "xycut_id": 1
+        },
+        {
+            "text": "BRAND FAMILY NAME:",
+            "box": [
+                145,
+                144,
+                299,
+                158
+            ],
+            "linking": [
+                [
+                    49,
+                    1
+                ],
+                [
+                    47,
+                    49
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "BRAND",
+                    "box": [
+                        145,
+                        144,
+                        188,
+                        157
+                    ]
+                },
+                {
+                    "text": "FAMILY",
+                    "box": [
+                        198,
+                        144,
+                        250,
+                        158
+                    ]
+                },
+                {
+                    "text": "NAME:",
+                    "box": [
+                        258,
+                        144,
+                        299,
+                        158
+                    ]
+                }
+            ],
+            "id": 49,
+            "gaze_during": 740,
+            "fix_id": 7,
+            "tb_id": 5,
+            "s_id": 5,
+            "v3_id": 5,
+            "v1_id": 6,
+            "bert_id": 5,
+            "box_id": 8,
+            "xycut_id": 27
+        },
+        {
+            "box": [
+                335,
+                141,
+                378,
+                158
+            ],
+            "text": "MALIBU",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        335,
+                        141,
+                        378,
+                        158
+                    ],
+                    "text": "MALIBU"
+                }
+            ],
+            "linking": [
+                [
+                    49,
+                    1
+                ]
+            ],
+            "id": 1,
+            "gaze_during": 307,
+            "fix_id": 2,
+            "tb_id": 6,
+            "s_id": 6,
+            "v3_id": 6,
+            "v1_id": 5,
+            "bert_id": 6,
+            "box_id": 16,
+            "xycut_id": 61
+        },
+        {
+            "box": [
+                112,
+                170,
+                136,
+                185
+            ],
+            "text": "(3)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        112,
+                        170,
+                        136,
+                        185
+                    ],
+                    "text": "(3)"
+                }
+            ],
+            "linking": [],
+            "id": 23,
+            "gaze_during": 0,
+            "fix_id": 4,
+            "tb_id": 7,
+            "s_id": 7,
+            "v3_id": 7,
+            "v1_id": 7,
+            "bert_id": 8,
+            "box_id": 5,
+            "xycut_id": 2
+        },
+        {
+            "text": "VARIETY DESCRIPTION:",
+            "box": [
+                145,
+                172,
+                314,
+                186
+            ],
+            "linking": [
+                [
+                    50,
+                    51
+                ],
+                [
+                    47,
+                    50
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "VARIETY",
+                    "box": [
+                        145,
+                        172,
+                        208,
+                        185
+                    ]
+                },
+                {
+                    "text": "DESCRIPTION:",
+                    "box": [
+                        215,
+                        172,
+                        314,
+                        186
+                    ]
+                }
+            ],
+            "id": 50,
+            "gaze_during": 363,
+            "fix_id": 8,
+            "tb_id": 8,
+            "s_id": 8,
+            "v3_id": 8,
+            "v1_id": 8,
+            "bert_id": 7,
+            "box_id": 4,
+            "xycut_id": 28
+        },
+        {
+            "text": "King Size, Filter",
+            "box": [
+                334,
+                169,
+                456,
+                187
+            ],
+            "linking": [
+                [
+                    50,
+                    51
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "King",
+                    "box": [
+                        334,
+                        170,
+                        362,
+                        187
+                    ]
+                },
+                {
+                    "text": "Size,",
+                    "box": [
+                        370,
+                        169,
+                        404,
+                        187
+                    ]
+                },
+                {
+                    "text": "Filter",
+                    "box": [
+                        413,
+                        172,
+                        456,
+                        186
+                    ]
+                }
+            ],
+            "id": 51,
+            "gaze_during": 993,
+            "fix_id": 9,
+            "tb_id": 9,
+            "s_id": 9,
+            "v3_id": 9,
+            "v1_id": 9,
+            "bert_id": 9,
+            "box_id": 21,
+            "xycut_id": 62
+        },
+        {
+            "box": [
+                113,
+                200,
+                133,
+                217
+            ],
+            "text": "(4)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        113,
+                        200,
+                        133,
+                        217
+                    ],
+                    "text": "(4)"
+                }
+            ],
+            "linking": [],
+            "id": 24,
+            "gaze_during": 0,
+            "fix_id": 10,
+            "tb_id": 10,
+            "s_id": 10,
+            "v3_id": 10,
+            "v1_id": 10,
+            "bert_id": 10,
+            "box_id": 9,
+            "xycut_id": 3
+        },
+        {
+            "text": "PRODUCT LENGTH:",
+            "box": [
+                145,
+                200,
+                272,
+                217
+            ],
+            "linking": [
+                [
+                    52,
+                    53
+                ],
+                [
+                    47,
+                    52
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "PRODUCT",
+                    "box": [
+                        145,
+                        200,
+                        205,
+                        214
+                    ]
+                },
+                {
+                    "text": "LENGTH:",
+                    "box": [
+                        215,
+                        203,
+                        272,
+                        217
+                    ]
+                }
+            ],
+            "id": 52,
+            "gaze_during": 103,
+            "fix_id": 12,
+            "tb_id": 11,
+            "s_id": 11,
+            "v3_id": 11,
+            "v1_id": 12,
+            "bert_id": 11,
+            "box_id": 2,
+            "xycut_id": 29
+        },
+        {
+            "text": "King Size",
+            "box": [
+                332,
+                198,
+                399,
+                218
+            ],
+            "linking": [
+                [
+                    52,
+                    53
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "King",
+                    "box": [
+                        332,
+                        198,
+                        363,
+                        215
+                    ]
+                },
+                {
+                    "text": "Size",
+                    "box": [
+                        370,
+                        200,
+                        399,
+                        218
+                    ]
+                }
+            ],
+            "id": 53,
+            "gaze_during": 457,
+            "fix_id": 13,
+            "tb_id": 12,
+            "s_id": 12,
+            "v3_id": 12,
+            "v1_id": 11,
+            "bert_id": 12,
+            "box_id": 14,
+            "xycut_id": 63
+        },
+        {
+            "box": [
+                112,
+                229,
+                134,
+                244
+            ],
+            "text": "(5)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        112,
+                        229,
+                        134,
+                        244
+                    ],
+                    "text": "(5)"
+                }
+            ],
+            "linking": [],
+            "id": 25,
+            "gaze_during": 73,
+            "fix_id": 11,
+            "tb_id": 13,
+            "s_id": 13,
+            "v3_id": 13,
+            "v1_id": 13,
+            "bert_id": 13,
+            "box_id": 12,
+            "xycut_id": 4
+        },
+        {
+            "box": [
+                145,
+                228,
+                202,
+                243
+            ],
+            "text": "FILTER",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        145,
+                        228,
+                        202,
+                        243
+                    ],
+                    "text": "FILTER"
+                }
+            ],
+            "linking": [
+                [
+                    6,
+                    3
+                ],
+                [
+                    47,
+                    6
+                ]
+            ],
+            "id": 6,
+            "gaze_during": 616,
+            "fix_id": 16,
+            "tb_id": 14,
+            "s_id": 14,
+            "v3_id": 14,
+            "v1_id": 14,
+            "bert_id": 14,
+            "box_id": 10,
+            "xycut_id": 30
+        },
+        {
+            "box": [
+                235,
+                228,
+                246,
+                242
+            ],
+            "text": "",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        235,
+                        228,
+                        246,
+                        242
+                    ],
+                    "text": ""
+                }
+            ],
+            "linking": [
+                [
+                    6,
+                    3
+                ]
+            ],
+            "id": 3,
+            "gaze_during": 0,
+            "fix_id": 17,
+            "tb_id": 15,
+            "s_id": 13,
+            "v3_id": 84,
+            "v1_id": 17,
+            "bert_id": 18,
+            "box_id": 6,
+            "xycut_id": 57
+        },
+        {
+            "box": [
+                316,
+                230,
+                401,
+                243
+            ],
+            "text": "",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        316,
+                        230,
+                        401,
+                        243
+                    ],
+                    "text": ""
+                }
+            ],
+            "linking": [
+                [
+                    2,
+                    54
+                ],
+                [
+                    47,
+                    2
+                ]
+            ],
+            "id": 2,
+            "gaze_during": 463,
+            "fix_id": 18,
+            "tb_id": 16,
+            "s_id": 16,
+            "v3_id": 84,
+            "v1_id": 18,
+            "bert_id": 17,
+            "box_id": 13,
+            "xycut_id": 64
+        },
+        {
+            "text": "(check one)",
+            "box": [
+                527,
+                229,
+                619,
+                247
+            ],
+            "linking": [
+                [
+                    2,
+                    54
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "(check",
+                    "box": [
+                        527,
+                        229,
+                        574,
+                        246
+                    ]
+                },
+                {
+                    "text": "one)",
+                    "box": [
+                        581,
+                        229,
+                        619,
+                        247
+                    ]
+                }
+            ],
+            "id": 54,
+            "gaze_during": 370,
+            "fix_id": 14,
+            "tb_id": 17,
+            "s_id": 15,
+            "v1_id": 20,
+            "v3_id": 15,
+            "bert_id": 19,
+            "box_id": 18,
+            "xycut_id": 83
+        },
+        {
+            "box": [
+                113,
+                260,
+                135,
+                273
+            ],
+            "text": "(6)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        113,
+                        260,
+                        135,
+                        273
+                    ],
+                    "text": "(6)"
+                }
+            ],
+            "linking": [],
+            "id": 26,
+            "gaze_during": 0,
+            "fix_id": 15,
+            "tb_id": 18,
+            "s_id": 16,
+            "v1_id": 19,
+            "v3_id": 16,
+            "bert_id": 24,
+            "box_id": 17,
+            "xycut_id": 5
+        },
+        {
+            "text": "HARD PACK:",
+            "box": [
+                144,
+                258,
+                230,
+                273
+            ],
+            "linking": [
+                [
+                    47,
+                    58
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "HARD",
+                    "box": [
+                        144,
+                        260,
+                        180,
+                        273
+                    ]
+                },
+                {
+                    "text": "PACK:",
+                    "box": [
+                        189,
+                        258,
+                        230,
+                        273
+                    ]
+                }
+            ],
+            "id": 58,
+            "gaze_during": 870,
+            "fix_id": 22,
+            "tb_id": 19,
+            "s_id": 17,
+            "v3_id": 19,
+            "v1_id": 21,
+            "bert_id": 23,
+            "box_id": 20,
+            "xycut_id": 31
+        },
+        {
+            "text": "SOFT PACK:",
+            "box": [
+                316,
+                260,
+                400,
+                275
+            ],
+            "linking": [
+                [
+                    57,
+                    55
+                ],
+                [
+                    47,
+                    57
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "SOFT",
+                    "box": [
+                        316,
+                        260,
+                        350,
+                        275
+                    ]
+                },
+                {
+                    "text": "PACK:",
+                    "box": [
+                        359,
+                        260,
+                        400,
+                        274
+                    ]
+                }
+            ],
+            "id": 57,
+            "gaze_during": 340,
+            "fix_id": 19,
+            "tb_id": 20,
+            "s_id": 18,
+            "v3_id": 20,
+            "v1_id": 22,
+            "bert_id": 22,
+            "box_id": 11,
+            "xycut_id": 65
+        },
+        {
+            "text": "X (check one)",
+            "box": [
+                432,
+                254,
+                617,
+                275
+            ],
+            "linking": [
+                [
+                    57,
+                    55
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "X",
+                    "box": [
+                        432,
+                        254,
+                        443,
+                        271
+                    ]
+                },
+                {
+                    "text": "(check",
+                    "box": [
+                        527,
+                        260,
+                        576,
+                        275
+                    ]
+                },
+                {
+                    "text": "one)",
+                    "box": [
+                        582,
+                        258,
+                        617,
+                        273
+                    ]
+                }
+            ],
+            "id": 55,
+            "gaze_during": 777,
+            "fix_id": 20,
+            "tb_id": 21,
+            "s_id": 19,
+            "v3_id": 21,
+            "v1_id": 23,
+            "bert_id": 21,
+            "box_id": 23,
+            "xycut_id": 80
+        },
+        {
+            "box": [
+                112,
+                288,
+                134,
+                303
+            ],
+            "text": "(7)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        112,
+                        288,
+                        134,
+                        303
+                    ],
+                    "text": "(7)"
+                }
+            ],
+            "linking": [],
+            "id": 27,
+            "gaze_during": 0,
+            "fix_id": 21,
+            "tb_id": 22,
+            "s_id": 20,
+            "v3_id": 22,
+            "v1_id": 24,
+            "bert_id": 20,
+            "box_id": 24,
+            "xycut_id": 6
+        },
+        {
+            "box": [
+                144,
+                286,
+                212,
+                300
+            ],
+            "text": "MENTHOL:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        144,
+                        286,
+                        212,
+                        300
+                    ],
+                    "text": "MENTHOL:"
+                }
+            ],
+            "linking": [
+                [
+                    47,
+                    7
+                ]
+            ],
+            "id": 7,
+            "gaze_during": 420,
+            "fix_id": 23,
+            "tb_id": 23,
+            "s_id": 21,
+            "v3_id": 23,
+            "v1_id": 25,
+            "bert_id": 27,
+            "box_id": 25,
+            "xycut_id": 32
+        },
+        {
+            "box": [
+                314,
+                288,
+                410,
+                302
+            ],
+            "text": "NONMENTHOL:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        314,
+                        288,
+                        410,
+                        302
+                    ],
+                    "text": "NONMENTHOL:"
+                }
+            ],
+            "linking": [
+                [
+                    4,
+                    56
+                ],
+                [
+                    47,
+                    4
+                ]
+            ],
+            "id": 4,
+            "gaze_during": 323,
+            "fix_id": 24,
+            "tb_id": 24,
+            "s_id": 22,
+            "v3_id": 24,
+            "v1_id": 26,
+            "bert_id": 26,
+            "box_id": 19,
+            "xycut_id": 66
+        },
+        {
+            "text": "X (check one)",
+            "box": [
+                433,
+                284,
+                617,
+                305
+            ],
+            "linking": [
+                [
+                    4,
+                    56
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "X",
+                    "box": [
+                        433,
+                        284,
+                        443,
+                        299
+                    ]
+                },
+                {
+                    "text": "(check",
+                    "box": [
+                        525,
+                        286,
+                        572,
+                        303
+                    ]
+                },
+                {
+                    "text": "one)",
+                    "box": [
+                        582,
+                        288,
+                        617,
+                        305
+                    ]
+                }
+            ],
+            "id": 56,
+            "gaze_during": 0,
+            "fix_id": 25,
+            "tb_id": 25,
+            "s_id": 23,
+            "v3_id": 25,
+            "v1_id": 27,
+            "bert_id": 25,
+            "box_id": 22,
+            "xycut_id": 81
+        },
+        {
+            "box": [
+                112,
+                318,
+                133,
+                329
+            ],
+            "text": "(8)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        112,
+                        318,
+                        133,
+                        329
+                    ],
+                    "text": "(8)"
+                }
+            ],
+            "linking": [],
+            "id": 28,
+            "gaze_during": 0,
+            "fix_id": 26,
+            "tb_id": 26,
+            "s_id": 24,
+            "v3_id": 26,
+            "v1_id": 28,
+            "bert_id": 28,
+            "box_id": 26,
+            "xycut_id": 7
+        },
+        {
+            "text": "PACK SIZE SOLD:",
+            "box": [
+                144,
+                316,
+                272,
+                332
+            ],
+            "linking": [
+                [
+                    59,
+                    60
+                ],
+                [
+                    47,
+                    59
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "PACK",
+                    "box": [
+                        144,
+                        316,
+                        179,
+                        330
+                    ]
+                },
+                {
+                    "text": "SIZE",
+                    "box": [
+                        189,
+                        317,
+                        224,
+                        330
+                    ]
+                },
+                {
+                    "text": "SOLD:",
+                    "box": [
+                        230,
+                        318,
+                        272,
+                        332
+                    ]
+                }
+            ],
+            "id": 59,
+            "gaze_during": 503,
+            "fix_id": 29,
+            "tb_id": 27,
+            "s_id": 25,
+            "v3_id": 27,
+            "v1_id": 29,
+            "bert_id": 29,
+            "box_id": 27,
+            "xycut_id": 33
+        },
+        {
+            "text": "20' s",
+            "box": [
+                332,
+                311,
+                361,
+                328
+            ],
+            "linking": [
+                [
+                    59,
+                    60
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "20'",
+                    "box": [
+                        332,
+                        311,
+                        353,
+                        328
+                    ]
+                },
+                {
+                    "text": "s",
+                    "box": [
+                        355,
+                        314,
+                        361,
+                        327
+                    ]
+                }
+            ],
+            "id": 60,
+            "gaze_during": 0,
+            "fix_id": 30,
+            "tb_id": 28,
+            "s_id": 26,
+            "v3_id": 28,
+            "v1_id": 30,
+            "bert_id": 30,
+            "box_id": 28,
+            "xycut_id": 67
+        },
+        {
+            "box": [
+                112,
+                346,
+                134,
+                360
+            ],
+            "text": "(9)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        112,
+                        346,
+                        134,
+                        360
+                    ],
+                    "text": "(9)"
+                }
+            ],
+            "linking": [],
+            "id": 29,
+            "gaze_during": 0,
+            "fix_id": 31,
+            "tb_id": 29,
+            "s_id": 27,
+            "v3_id": 29,
+            "v1_id": 31,
+            "bert_id": 31,
+            "box_id": 29,
+            "xycut_id": 8
+        },
+        {
+            "box": [
+                145,
+                346,
+                194,
+                361
+            ],
+            "text": "\"TAR\":",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        145,
+                        346,
+                        194,
+                        361
+                    ],
+                    "text": "\"TAR\":"
+                }
+            ],
+            "linking": [
+                [
+                    8,
+                    61
+                ],
+                [
+                    47,
+                    8
+                ]
+            ],
+            "id": 8,
+            "gaze_during": 0,
+            "fix_id": 32,
+            "tb_id": 30,
+            "s_id": 28,
+            "v3_id": 30,
+            "v1_id": 32,
+            "bert_id": 32,
+            "box_id": 30,
+            "xycut_id": 34
+        },
+        {
+            "text": "16 mg",
+            "box": [
+                235,
+                341,
+                270,
+                357
+            ],
+            "linking": [
+                [
+                    8,
+                    61
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "16",
+                    "box": [
+                        235,
+                        341,
+                        249,
+                        356
+                    ]
+                },
+                {
+                    "text": "mg",
+                    "box": [
+                        256,
+                        344,
+                        270,
+                        357
+                    ]
+                }
+            ],
+            "id": 61,
+            "gaze_during": 0,
+            "fix_id": 33,
+            "tb_id": 31,
+            "s_id": 29,
+            "v3_id": 31,
+            "v1_id": 33,
+            "bert_id": 33,
+            "box_id": 32,
+            "xycut_id": 58
+        },
+        {
+            "box": [
+                399,
+                345,
+                477,
+                360
+            ],
+            "text": "NICOTINE:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        399,
+                        345,
+                        477,
+                        360
+                    ],
+                    "text": "NICOTINE:"
+                }
+            ],
+            "linking": [
+                [
+                    15,
+                    62
+                ],
+                [
+                    47,
+                    15
+                ]
+            ],
+            "id": 15,
+            "gaze_during": 0,
+            "fix_id": 35,
+            "tb_id": 32,
+            "s_id": 30,
+            "v3_id": 32,
+            "v1_id": 34,
+            "bert_id": 34,
+            "box_id": 33,
+            "xycut_id": 68
+        },
+        {
+            "text": "1. 3 mg (Appendix C)",
+            "box": [
+                500,
+                338,
+                637,
+                360
+            ],
+            "linking": [
+                [
+                    15,
+                    62
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "1.",
+                    "box": [
+                        500,
+                        339,
+                        510,
+                        353
+                    ]
+                },
+                {
+                    "text": "3",
+                    "box": [
+                        513,
+                        342,
+                        524,
+                        355
+                    ]
+                },
+                {
+                    "text": "mg",
+                    "box": [
+                        529,
+                        341,
+                        547,
+                        355
+                    ]
+                },
+                {
+                    "text": "(Appendix C)",
+                    "box": [
+                        550,
+                        338,
+                        637,
+                        360
+                    ]
+                }
+            ],
+            "id": 62,
+            "gaze_during": 167,
+            "fix_id": 27,
+            "tb_id": 33,
+            "s_id": 31,
+            "v3_id": 33,
+            "v1_id": 35,
+            "bert_id": 36,
+            "box_id": 34,
+            "xycut_id": 82
+        },
+        {
+            "box": [
+                112,
+                376,
+                141,
+                389
+            ],
+            "text": "(10)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        112,
+                        376,
+                        141,
+                        389
+                    ],
+                    "text": "(10)"
+                }
+            ],
+            "linking": [],
+            "id": 30,
+            "gaze_during": 0,
+            "fix_id": 28,
+            "tb_id": 34,
+            "s_id": 32,
+            "v3_id": 34,
+            "v1_id": 36,
+            "bert_id": 35,
+            "box_id": 35,
+            "xycut_id": 9
+        },
+        {
+            "text": "VARIETY UNIT SALES:",
+            "box": [
+                151,
+                373,
+                311,
+                391
+            ],
+            "linking": [
+                [
+                    63,
+                    64
+                ],
+                [
+                    47,
+                    63
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "VARIETY",
+                    "box": [
+                        151,
+                        373,
+                        214,
+                        391
+                    ]
+                },
+                {
+                    "text": "UNIT",
+                    "box": [
+                        222,
+                        374,
+                        258,
+                        391
+                    ]
+                },
+                {
+                    "text": "SALES:",
+                    "box": [
+                        265,
+                        376,
+                        311,
+                        390
+                    ]
+                }
+            ],
+            "id": 63,
+            "gaze_during": 390,
+            "fix_id": 34,
+            "tb_id": 35,
+            "s_id": 33,
+            "v3_id": 35,
+            "v1_id": 37,
+            "bert_id": 37,
+            "box_id": 36,
+            "xycut_id": 35
+        },
+        {
+            "text": "1, 800",
+            "box": [
+                376,
+                376,
+                410,
+                391
+            ],
+            "linking": [
+                [
+                    63,
+                    64
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "1,",
+                    "box": [
+                        376,
+                        376,
+                        389,
+                        391
+                    ]
+                },
+                {
+                    "text": "800",
+                    "box": [
+                        388,
+                        376,
+                        410,
+                        390
+                    ]
+                }
+            ],
+            "id": 64,
+            "gaze_during": 0,
+            "fix_id": 36,
+            "tb_id": 36,
+            "s_id": 34,
+            "v3_id": 36,
+            "v1_id": 38,
+            "bert_id": 38,
+            "box_id": 31,
+            "xycut_id": 69
+        },
+        {
+            "box": [
+                112,
+                405,
+                140,
+                422
+            ],
+            "text": "(11)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        112,
+                        405,
+                        140,
+                        422
+                    ],
+                    "text": "(11)"
+                }
+            ],
+            "linking": [],
+            "id": 31,
+            "gaze_during": 0,
+            "fix_id": 37,
+            "tb_id": 37,
+            "s_id": 35,
+            "v3_id": 37,
+            "v1_id": 40,
+            "bert_id": 39,
+            "box_id": 37,
+            "xycut_id": 10
+        },
+        {
+            "text": "VARIETY DOLLAR SALES:",
+            "box": [
+                151,
+                404,
+                329,
+                421
+            ],
+            "linking": [
+                [
+                    66,
+                    65
+                ],
+                [
+                    47,
+                    66
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "VARIETY",
+                    "box": [
+                        151,
+                        405,
+                        214,
+                        419
+                    ]
+                },
+                {
+                    "text": "DOLLAR",
+                    "box": [
+                        222,
+                        406,
+                        274,
+                        419
+                    ]
+                },
+                {
+                    "text": "SALES:",
+                    "box": [
+                        279,
+                        404,
+                        329,
+                        421
+                    ]
+                }
+            ],
+            "id": 66,
+            "gaze_during": 477,
+            "fix_id": 38,
+            "tb_id": 38,
+            "s_id": 36,
+            "v3_id": 38,
+            "v1_id": 39,
+            "bert_id": 40,
+            "box_id": 38,
+            "xycut_id": 36
+        },
+        {
+            "text": "59, 791",
+            "box": [
+                369,
+                404,
+                411,
+                418
+            ],
+            "linking": [
+                [
+                    66,
+                    65
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "59,",
+                    "box": [
+                        369,
+                        404,
+                        387,
+                        418
+                    ]
+                },
+                {
+                    "text": "791",
+                    "box": [
+                        391,
+                        404,
+                        411,
+                        418
+                    ]
+                }
+            ],
+            "id": 65,
+            "gaze_during": 63,
+            "fix_id": 39,
+            "tb_id": 39,
+            "s_id": 37,
+            "v3_id": 39,
+            "v1_id": 41,
+            "bert_id": 42,
+            "box_id": 40,
+            "xycut_id": 70
+        },
+        {
+            "box": [
+                112,
+                433,
+                141,
+                450
+            ],
+            "text": "(12)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        112,
+                        433,
+                        141,
+                        450
+                    ],
+                    "text": "(12)"
+                }
+            ],
+            "linking": [],
+            "id": 32,
+            "gaze_during": 0,
+            "fix_id": 40,
+            "tb_id": 40,
+            "s_id": 38,
+            "v3_id": 40,
+            "v1_id": 42,
+            "bert_id": 41,
+            "box_id": 41,
+            "xycut_id": 11
+        },
+        {
+            "text": "FIRST SALES DATE:",
+            "box": [
+                152,
+                434,
+                294,
+                449
+            ],
+            "linking": [
+                [
+                    67,
+                    68
+                ],
+                [
+                    47,
+                    67
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "FIRST",
+                    "box": [
+                        152,
+                        434,
+                        198,
+                        448
+                    ]
+                },
+                {
+                    "text": "SALES",
+                    "box": [
+                        205,
+                        436,
+                        247,
+                        447
+                    ]
+                },
+                {
+                    "text": "DATE:",
+                    "box": [
+                        256,
+                        434,
+                        294,
+                        449
+                    ]
+                }
+            ],
+            "id": 67,
+            "gaze_during": 0,
+            "fix_id": 41,
+            "tb_id": 41,
+            "s_id": 39,
+            "v3_id": 41,
+            "v1_id": 44,
+            "bert_id": 45,
+            "box_id": 42,
+            "xycut_id": 37
+        },
+        {
+            "text": "10/ 26/ 87",
+            "box": [
+                303,
+                433,
+                360,
+                450
+            ],
+            "linking": [
+                [
+                    67,
+                    68
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "10/",
+                    "box": [
+                        303,
+                        433,
+                        325,
+                        448
+                    ]
+                },
+                {
+                    "text": "26/",
+                    "box": [
+                        325,
+                        433,
+                        346,
+                        448
+                    ]
+                },
+                {
+                    "text": "87",
+                    "box": [
+                        346,
+                        433,
+                        360,
+                        450
+                    ]
+                }
+            ],
+            "id": 68,
+            "gaze_during": 213,
+            "fix_id": 44,
+            "tb_id": 42,
+            "s_id": 40,
+            "v3_id": 42,
+            "v1_id": 43,
+            "bert_id": 44,
+            "box_id": 44,
+            "xycut_id": 71
+        },
+        {
+            "text": "LAST SALES DATE:",
+            "box": [
+                401,
+                432,
+                538,
+                449
+            ],
+            "linking": [
+                [
+                    47,
+                    69
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "LAST",
+                    "box": [
+                        401,
+                        432,
+                        435,
+                        447
+                    ]
+                },
+                {
+                    "text": "SALES",
+                    "box": [
+                        446,
+                        434,
+                        489,
+                        447
+                    ]
+                },
+                {
+                    "text": "DATE:",
+                    "box": [
+                        493,
+                        434,
+                        538,
+                        449
+                    ]
+                }
+            ],
+            "id": 69,
+            "gaze_during": 623,
+            "fix_id": 45,
+            "tb_id": 43,
+            "s_id": 41,
+            "v3_id": 43,
+            "v1_id": 46,
+            "bert_id": 43,
+            "box_id": 39,
+            "xycut_id": 72
+        },
+        {
+            "text": "REPORTABLE EXPENDITURES (In Thousands)",
+            "box": [
+                286,
+                475,
+                599,
+                493
+            ],
+            "linking": [
+                [
+                    70,
+                    71
+                ],
+                [
+                    70,
+                    72
+                ],
+                [
+                    70,
+                    73
+                ],
+                [
+                    70,
+                    74
+                ],
+                [
+                    70,
+                    75
+                ],
+                [
+                    70,
+                    76
+                ],
+                [
+                    70,
+                    77
+                ],
+                [
+                    70,
+                    78
+                ],
+                [
+                    70,
+                    79
+                ],
+                [
+                    70,
+                    80
+                ],
+                [
+                    70,
+                    81
+                ],
+                [
+                    70,
+                    82
+                ],
+                [
+                    70,
+                    83
+                ],
+                [
+                    70,
+                    84
+                ]
+            ],
+            "label": "header",
+            "words": [
+                {
+                    "text": "REPORTABLE",
+                    "box": [
+                        286,
+                        478,
+                        375,
+                        493
+                    ]
+                },
+                {
+                    "text": "EXPENDITURES",
+                    "box": [
+                        383,
+                        478,
+                        488,
+                        491
+                    ]
+                },
+                {
+                    "text": "(In",
+                    "box": [
+                        503,
+                        476,
+                        524,
+                        489
+                    ]
+                },
+                {
+                    "text": "Thousands)",
+                    "box": [
+                        528,
+                        475,
+                        599,
+                        490
+                    ]
+                }
+            ],
+            "id": 70,
+            "gaze_during": 127,
+            "fix_id": 42,
+            "tb_id": 44,
+            "s_id": 42,
+            "v3_id": 44,
+            "v1_id": 45,
+            "bert_id": 46,
+            "box_id": 43,
+            "xycut_id": 73
+        },
+        {
+            "box": [
+                110,
+                506,
+                139,
+                523
+            ],
+            "text": "(13)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        110,
+                        506,
+                        139,
+                        523
+                    ],
+                    "text": "(13)"
+                }
+            ],
+            "linking": [],
+            "id": 33,
+            "gaze_during": 0,
+            "fix_id": 43,
+            "tb_id": 45,
+            "s_id": 43,
+            "v3_id": 45,
+            "v1_id": 47,
+            "bert_id": 47,
+            "box_id": 45,
+            "xycut_id": 12
+        },
+        {
+            "text": "CAT- A - EXPENSES:",
+            "box": [
+                151,
+                506,
+                279,
+                521
+            ],
+            "linking": [
+                [
+                    71,
+                    16
+                ],
+                [
+                    70,
+                    71
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT-",
+                    "box": [
+                        151,
+                        506,
+                        185,
+                        521
+                    ]
+                },
+                {
+                    "text": "A",
+                    "box": [
+                        186,
+                        507,
+                        194,
+                        520
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        194,
+                        508,
+                        202,
+                        516
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        205,
+                        508,
+                        279,
+                        521
+                    ]
+                }
+            ],
+            "id": 71,
+            "gaze_during": 430,
+            "fix_id": 46,
+            "tb_id": 46,
+            "s_id": 44,
+            "v3_id": 46,
+            "v1_id": 48,
+            "bert_id": 48,
+            "box_id": 46,
+            "xycut_id": 38
+        },
+        {
+            "box": [
+                395,
+                503,
+                413,
+                518
+            ],
+            "text": "34",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        395,
+                        503,
+                        413,
+                        518
+                    ],
+                    "text": "34"
+                }
+            ],
+            "linking": [
+                [
+                    71,
+                    16
+                ]
+            ],
+            "id": 16,
+            "gaze_during": 499,
+            "fix_id": 47,
+            "tb_id": 47,
+            "s_id": 45,
+            "v3_id": 47,
+            "v1_id": 49,
+            "bert_id": 50,
+            "box_id": 47,
+            "xycut_id": 74
+        },
+        {
+            "box": [
+                112,
+                535,
+                141,
+                552
+            ],
+            "text": "(14)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        112,
+                        535,
+                        141,
+                        552
+                    ],
+                    "text": "(14)"
+                }
+            ],
+            "linking": [],
+            "id": 34,
+            "gaze_during": 0,
+            "fix_id": 48,
+            "tb_id": 48,
+            "s_id": 46,
+            "v3_id": 48,
+            "v1_id": 50,
+            "bert_id": 49,
+            "box_id": 48,
+            "xycut_id": 13
+        },
+        {
+            "text": "CAT - - EXPENSES:",
+            "box": [
+                151,
+                535,
+                278,
+                551
+            ],
+            "linking": [
+                [
+                    72,
+                    17
+                ],
+                [
+                    70,
+                    72
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT",
+                    "box": [
+                        151,
+                        535,
+                        176,
+                        549
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        179,
+                        538,
+                        186,
+                        546
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        187,
+                        538,
+                        195,
+                        551
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        196,
+                        538,
+                        204,
+                        546
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        205,
+                        536,
+                        278,
+                        550
+                    ]
+                }
+            ],
+            "id": 72,
+            "gaze_during": 0,
+            "fix_id": 50,
+            "tb_id": 49,
+            "s_id": 47,
+            "v3_id": 49,
+            "v1_id": 52,
+            "bert_id": 51,
+            "box_id": 50,
+            "xycut_id": 39
+        },
+        {
+            "box": [
+                401,
+                532,
+                411,
+                545
+            ],
+            "text": "0",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        401,
+                        532,
+                        411,
+                        545
+                    ],
+                    "text": "0"
+                }
+            ],
+            "linking": [
+                [
+                    72,
+                    17
+                ]
+            ],
+            "id": 17,
+            "gaze_during": 0,
+            "fix_id": 52,
+            "tb_id": 50,
+            "s_id": 48,
+            "v3_id": 50,
+            "v1_id": 51,
+            "bert_id": 52,
+            "box_id": 49,
+            "xycut_id": 75
+        },
+        {
+            "box": [
+                110,
+                563,
+                138,
+                580
+            ],
+            "text": "(15)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        110,
+                        563,
+                        138,
+                        580
+                    ],
+                    "text": "(15)"
+                }
+            ],
+            "linking": [],
+            "id": 35,
+            "gaze_during": 0,
+            "fix_id": 54,
+            "tb_id": 51,
+            "s_id": 49,
+            "v3_id": 51,
+            "v1_id": 53,
+            "bert_id": 53,
+            "box_id": 51,
+            "xycut_id": 14
+        },
+        {
+            "text": "CAT - C - EXPENSES:",
+            "box": [
+                151,
+                564,
+                278,
+                579
+            ],
+            "linking": [
+                [
+                    73,
+                    18
+                ],
+                [
+                    70,
+                    73
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT",
+                    "box": [
+                        151,
+                        564,
+                        178,
+                        577
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        179,
+                        567,
+                        185,
+                        574
+                    ]
+                },
+                {
+                    "text": "C",
+                    "box": [
+                        186,
+                        564,
+                        196,
+                        577
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        196,
+                        567,
+                        203,
+                        574
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        204,
+                        566,
+                        278,
+                        579
+                    ]
+                }
+            ],
+            "id": 73,
+            "gaze_during": 330,
+            "fix_id": 49,
+            "tb_id": 52,
+            "s_id": 50,
+            "v3_id": 52,
+            "v1_id": 54,
+            "bert_id": 54,
+            "box_id": 52,
+            "xycut_id": 40
+        },
+        {
+            "box": [
+                394,
+                561,
+                411,
+                575
+            ],
+            "text": "38",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        394,
+                        561,
+                        411,
+                        575
+                    ],
+                    "text": "38"
+                }
+            ],
+            "linking": [
+                [
+                    73,
+                    18
+                ]
+            ],
+            "id": 18,
+            "gaze_during": 0,
+            "fix_id": 51,
+            "tb_id": 53,
+            "s_id": 51,
+            "v3_id": 53,
+            "v1_id": 55,
+            "bert_id": 56,
+            "box_id": 53,
+            "xycut_id": 76
+        },
+        {
+            "box": [
+                109,
+                595,
+                140,
+                610
+            ],
+            "text": "(16)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        109,
+                        595,
+                        140,
+                        610
+                    ],
+                    "text": "(16)"
+                }
+            ],
+            "linking": [],
+            "id": 36,
+            "gaze_during": 0,
+            "fix_id": 53,
+            "tb_id": 54,
+            "s_id": 52,
+            "v3_id": 54,
+            "v1_id": 56,
+            "bert_id": 55,
+            "box_id": 54,
+            "xycut_id": 15
+        },
+        {
+            "text": "CAT - D - EXPENSES:",
+            "box": [
+                151,
+                594,
+                278,
+                609
+            ],
+            "linking": [
+                [
+                    70,
+                    74
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT",
+                    "box": [
+                        151,
+                        594,
+                        178,
+                        608
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        177,
+                        598,
+                        184,
+                        605
+                    ]
+                },
+                {
+                    "text": "D",
+                    "box": [
+                        186,
+                        595,
+                        196,
+                        608
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        196,
+                        596,
+                        204,
+                        604
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        205,
+                        594,
+                        278,
+                        609
+                    ]
+                }
+            ],
+            "id": 74,
+            "gaze_during": 0,
+            "fix_id": 55,
+            "tb_id": 55,
+            "s_id": 53,
+            "v3_id": 55,
+            "v1_id": 58,
+            "bert_id": 57,
+            "box_id": 55,
+            "xycut_id": 41
+        },
+        {
+            "box": [
+                109,
+                623,
+                138,
+                638
+            ],
+            "text": "(17)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        109,
+                        623,
+                        138,
+                        638
+                    ],
+                    "text": "(17)"
+                }
+            ],
+            "linking": [],
+            "id": 37,
+            "gaze_during": 0,
+            "fix_id": 57,
+            "tb_id": 56,
+            "s_id": 54,
+            "v3_id": 56,
+            "v1_id": 57,
+            "bert_id": 58,
+            "box_id": 56,
+            "xycut_id": 16
+        },
+        {
+            "text": "CAT E - EXPENSES:",
+            "box": [
+                149,
+                624,
+                278,
+                638
+            ],
+            "linking": [
+                [
+                    70,
+                    75
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT",
+                    "box": [
+                        149,
+                        624,
+                        174,
+                        637
+                    ]
+                },
+                {
+                    "text": "E",
+                    "box": [
+                        186,
+                        624,
+                        194,
+                        637
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        196,
+                        626,
+                        202,
+                        634
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        204,
+                        624,
+                        278,
+                        638
+                    ]
+                }
+            ],
+            "id": 75,
+            "gaze_during": 650,
+            "fix_id": 56,
+            "tb_id": 57,
+            "s_id": 55,
+            "v3_id": 57,
+            "v1_id": 59,
+            "bert_id": 59,
+            "box_id": 58,
+            "xycut_id": 42
+        },
+        {
+            "box": [
+                176,
+                627,
+                186,
+                633
+            ],
+            "text": "-",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        176,
+                        627,
+                        186,
+                        633
+                    ],
+                    "text": "-"
+                }
+            ],
+            "linking": [],
+            "id": 9,
+            "gaze_during": 0,
+            "fix_id": 58,
+            "tb_id": 58,
+            "s_id": 56,
+            "v3_id": 58,
+            "v1_id": 60,
+            "bert_id": 60,
+            "box_id": 58,
+            "xycut_id": 43
+        },
+        {
+            "box": [
+                109,
+                652,
+                140,
+                667
+            ],
+            "text": "(18)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        109,
+                        652,
+                        140,
+                        667
+                    ],
+                    "text": "(18)"
+                }
+            ],
+            "linking": [],
+            "id": 38,
+            "gaze_during": 0,
+            "fix_id": 59,
+            "tb_id": 59,
+            "s_id": 57,
+            "v3_id": 59,
+            "v1_id": 61,
+            "bert_id": 61,
+            "box_id": 59,
+            "xycut_id": 17
+        },
+        {
+            "text": "CAT - F - EXPENSES:",
+            "box": [
+                149,
+                652,
+                278,
+                667
+            ],
+            "linking": [
+                [
+                    70,
+                    76
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT",
+                    "box": [
+                        149,
+                        652,
+                        177,
+                        665
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        176,
+                        656,
+                        186,
+                        662
+                    ]
+                },
+                {
+                    "text": "F",
+                    "box": [
+                        186,
+                        654,
+                        194,
+                        667
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        194,
+                        656,
+                        202,
+                        662
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        203,
+                        654,
+                        278,
+                        667
+                    ]
+                }
+            ],
+            "id": 76,
+            "gaze_during": 0,
+            "fix_id": 61,
+            "tb_id": 60,
+            "s_id": 58,
+            "v3_id": 60,
+            "v1_id": 62,
+            "bert_id": 63,
+            "box_id": 60,
+            "xycut_id": 44
+        },
+        {
+            "box": [
+                109,
+                682,
+                138,
+                699
+            ],
+            "text": "(19)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        109,
+                        682,
+                        138,
+                        699
+                    ],
+                    "text": "(19)"
+                }
+            ],
+            "linking": [],
+            "id": 39,
+            "gaze_during": 0,
+            "fix_id": 63,
+            "tb_id": 61,
+            "s_id": 59,
+            "v3_id": 61,
+            "v1_id": 63,
+            "bert_id": 62,
+            "box_id": 61,
+            "xycut_id": 18
+        },
+        {
+            "text": "CAT - G EXPENSES:",
+            "box": [
+                149,
+                682,
+                277,
+                696
+            ],
+            "linking": [
+                [
+                    77,
+                    19
+                ],
+                [
+                    70,
+                    77
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT",
+                    "box": [
+                        149,
+                        682,
+                        176,
+                        695
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        176,
+                        686,
+                        186,
+                        693
+                    ]
+                },
+                {
+                    "text": "G",
+                    "box": [
+                        184,
+                        683,
+                        194,
+                        696
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        203,
+                        682,
+                        277,
+                        696
+                    ]
+                }
+            ],
+            "id": 77,
+            "gaze_during": 557,
+            "fix_id": 60,
+            "tb_id": 62,
+            "s_id": 60,
+            "v3_id": 62,
+            "v1_id": 64,
+            "bert_id": 64,
+            "box_id": 63,
+            "xycut_id": 45
+        },
+        {
+            "box": [
+                194,
+                684,
+                201,
+                692
+            ],
+            "text": "-",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        194,
+                        684,
+                        201,
+                        692
+                    ],
+                    "text": "-"
+                }
+            ],
+            "linking": [],
+            "id": 10,
+            "gaze_during": 0,
+            "fix_id": 62,
+            "tb_id": 63,
+            "s_id": 61,
+            "v3_id": 63,
+            "v1_id": 65,
+            "bert_id": 65,
+            "box_id": 63,
+            "xycut_id": 55
+        },
+        {
+            "box": [
+                401,
+                680,
+                409,
+                695
+            ],
+            "text": "1",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        401,
+                        680,
+                        409,
+                        695
+                    ],
+                    "text": "1"
+                }
+            ],
+            "linking": [
+                [
+                    77,
+                    19
+                ]
+            ],
+            "id": 19,
+            "gaze_during": 0,
+            "fix_id": 64,
+            "tb_id": 64,
+            "s_id": 62,
+            "v3_id": 64,
+            "v1_id": 66,
+            "bert_id": 66,
+            "box_id": 64,
+            "xycut_id": 77
+        },
+        {
+            "box": [
+                109,
+                712,
+                138,
+                726
+            ],
+            "text": "(20)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        109,
+                        712,
+                        138,
+                        726
+                    ],
+                    "text": "(20)"
+                }
+            ],
+            "linking": [],
+            "id": 40,
+            "gaze_during": 0,
+            "fix_id": 66,
+            "tb_id": 65,
+            "s_id": 63,
+            "v3_id": 65,
+            "v1_id": 67,
+            "bert_id": 68,
+            "box_id": 65,
+            "xycut_id": 19
+        },
+        {
+            "text": "CAT H - EXPENSES:",
+            "box": [
+                151,
+                711,
+                275,
+                727
+            ],
+            "linking": [
+                [
+                    70,
+                    78
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT",
+                    "box": [
+                        151,
+                        714,
+                        175,
+                        727
+                    ]
+                },
+                {
+                    "text": "H",
+                    "box": [
+                        184,
+                        711,
+                        192,
+                        725
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        194,
+                        715,
+                        201,
+                        722
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        204,
+                        711,
+                        275,
+                        726
+                    ]
+                }
+            ],
+            "id": 78,
+            "gaze_during": 1413,
+            "fix_id": 72,
+            "tb_id": 66,
+            "s_id": 64,
+            "v3_id": 66,
+            "v1_id": 68,
+            "bert_id": 67,
+            "box_id": 67,
+            "xycut_id": 46
+        },
+        {
+            "box": [
+                176,
+                715,
+                183,
+                721
+            ],
+            "text": "-",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        176,
+                        715,
+                        183,
+                        721
+                    ],
+                    "text": "-"
+                }
+            ],
+            "linking": [],
+            "id": 11,
+            "gaze_during": 283,
+            "fix_id": 65,
+            "tb_id": 67,
+            "s_id": 65,
+            "v3_id": 67,
+            "v1_id": 70,
+            "bert_id": 69,
+            "box_id": 67,
+            "xycut_id": 47
+        },
+        {
+            "box": [
+                109,
+                740,
+                138,
+                754
+            ],
+            "text": "(21)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        109,
+                        740,
+                        138,
+                        754
+                    ],
+                    "text": "(21)"
+                }
+            ],
+            "linking": [],
+            "id": 41,
+            "gaze_during": 0,
+            "fix_id": 67,
+            "tb_id": 68,
+            "s_id": 66,
+            "v3_id": 68,
+            "v1_id": 69,
+            "bert_id": 71,
+            "box_id": 68,
+            "xycut_id": 20
+        },
+        {
+            "text": "CAT I - EXPENSES:",
+            "box": [
+                148,
+                740,
+                275,
+                755
+            ],
+            "linking": [
+                [
+                    70,
+                    79
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT",
+                    "box": [
+                        148,
+                        742,
+                        175,
+                        755
+                    ]
+                },
+                {
+                    "text": "I",
+                    "box": [
+                        186,
+                        740,
+                        192,
+                        754
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        194,
+                        744,
+                        201,
+                        750
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        201,
+                        740,
+                        275,
+                        755
+                    ]
+                }
+            ],
+            "id": 79,
+            "gaze_during": 726,
+            "fix_id": 68,
+            "tb_id": 69,
+            "s_id": 68,
+            "v3_id": 69,
+            "v1_id": 71,
+            "bert_id": 70,
+            "box_id": 70,
+            "xycut_id": 48
+        },
+        {
+            "box": [
+                176,
+                743,
+                184,
+                749
+            ],
+            "text": "-",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        176,
+                        743,
+                        184,
+                        749
+                    ],
+                    "text": "-"
+                }
+            ],
+            "linking": [],
+            "id": 12,
+            "gaze_during": 0,
+            "fix_id": 69,
+            "tb_id": 70,
+            "s_id": 67,
+            "v3_id": 70,
+            "v1_id": 72,
+            "bert_id": 72,
+            "box_id": 70,
+            "xycut_id": 49
+        },
+        {
+            "box": [
+                109,
+                770,
+                138,
+                785
+            ],
+            "text": "(22)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        109,
+                        770,
+                        138,
+                        785
+                    ],
+                    "text": "(22)"
+                }
+            ],
+            "linking": [],
+            "id": 42,
+            "gaze_during": 0,
+            "fix_id": 70,
+            "tb_id": 71,
+            "s_id": 69,
+            "v3_id": 71,
+            "v1_id": 73,
+            "bert_id": 74,
+            "box_id": 71,
+            "xycut_id": 21
+        },
+        {
+            "text": "CAT - J - EXPENSES:",
+            "box": [
+                149,
+                770,
+                276,
+                785
+            ],
+            "linking": [
+                [
+                    80,
+                    20
+                ],
+                [
+                    70,
+                    80
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT",
+                    "box": [
+                        149,
+                        770,
+                        176,
+                        785
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        176,
+                        775,
+                        183,
+                        781
+                    ]
+                },
+                {
+                    "text": "J",
+                    "box": [
+                        184,
+                        770,
+                        191,
+                        783
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        193,
+                        772,
+                        201,
+                        778
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        203,
+                        771,
+                        276,
+                        784
+                    ]
+                }
+            ],
+            "id": 80,
+            "gaze_during": 440,
+            "fix_id": 71,
+            "tb_id": 72,
+            "s_id": 70,
+            "v3_id": 72,
+            "v1_id": 74,
+            "bert_id": 73,
+            "box_id": 72,
+            "xycut_id": 50
+        },
+        {
+            "box": [
+                394,
+                764,
+                409,
+                782
+            ],
+            "text": "20",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        394,
+                        764,
+                        409,
+                        782
+                    ],
+                    "text": "20"
+                }
+            ],
+            "linking": [
+                [
+                    80,
+                    20
+                ]
+            ],
+            "id": 20,
+            "gaze_during": 0,
+            "fix_id": 73,
+            "tb_id": 73,
+            "s_id": 71,
+            "v3_id": 73,
+            "v1_id": 76,
+            "bert_id": 75,
+            "box_id": 73,
+            "xycut_id": 78
+        },
+        {
+            "box": [
+                109,
+                799,
+                137,
+                816
+            ],
+            "text": "(23)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        109,
+                        799,
+                        137,
+                        816
+                    ],
+                    "text": "(23)"
+                }
+            ],
+            "linking": [],
+            "id": 43,
+            "gaze_during": 0,
+            "fix_id": 74,
+            "tb_id": 74,
+            "s_id": 72,
+            "v3_id": 74,
+            "v1_id": 75,
+            "bert_id": 77,
+            "box_id": 74,
+            "xycut_id": 22
+        },
+        {
+            "text": "CAT - K - EXPENSES:",
+            "box": [
+                149,
+                799,
+                275,
+                813
+            ],
+            "linking": [
+                [
+                    70,
+                    81
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT",
+                    "box": [
+                        149,
+                        799,
+                        174,
+                        812
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        175,
+                        802,
+                        185,
+                        810
+                    ]
+                },
+                {
+                    "text": "K",
+                    "box": [
+                        184,
+                        800,
+                        192,
+                        813
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        194,
+                        802,
+                        200,
+                        809
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        201,
+                        800,
+                        275,
+                        813
+                    ]
+                }
+            ],
+            "id": 81,
+            "gaze_during": 0,
+            "fix_id": 75,
+            "tb_id": 75,
+            "s_id": 73,
+            "v3_id": 75,
+            "v1_id": 78,
+            "bert_id": 76,
+            "box_id": 75,
+            "xycut_id": 51
+        },
+        {
+            "box": [
+                108,
+                828,
+                139,
+                846
+            ],
+            "text": "(24)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        108,
+                        828,
+                        139,
+                        846
+                    ],
+                    "text": "(24)"
+                }
+            ],
+            "linking": [],
+            "id": 44,
+            "gaze_during": 0,
+            "fix_id": 76,
+            "tb_id": 76,
+            "s_id": 74,
+            "v3_id": 76,
+            "v1_id": 77,
+            "bert_id": 78,
+            "box_id": 76,
+            "xycut_id": 23
+        },
+        {
+            "text": "CAT - L - EXPENSES:",
+            "box": [
+                149,
+                827,
+                277,
+                844
+            ],
+            "linking": [
+                [
+                    70,
+                    82
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT",
+                    "box": [
+                        149,
+                        828,
+                        176,
+                        842
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        175,
+                        831,
+                        183,
+                        837
+                    ]
+                },
+                {
+                    "text": "L",
+                    "box": [
+                        184,
+                        828,
+                        194,
+                        841
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        194,
+                        832,
+                        202,
+                        838
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        203,
+                        827,
+                        277,
+                        844
+                    ]
+                }
+            ],
+            "id": 82,
+            "gaze_during": 543,
+            "fix_id": 77,
+            "tb_id": 77,
+            "s_id": 75,
+            "v3_id": 77,
+            "v1_id": 80,
+            "bert_id": 79,
+            "box_id": 77,
+            "xycut_id": 52
+        },
+        {
+            "box": [
+                109,
+                856,
+                138,
+                873
+            ],
+            "text": "(25)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        109,
+                        856,
+                        138,
+                        873
+                    ],
+                    "text": "(25)"
+                }
+            ],
+            "linking": [],
+            "id": 45,
+            "gaze_during": 0,
+            "fix_id": 78,
+            "tb_id": 78,
+            "s_id": 76,
+            "v3_id": 78,
+            "v1_id": 79,
+            "bert_id": 80,
+            "box_id": 78,
+            "xycut_id": 24
+        },
+        {
+            "text": "CAT - M EXPENSES:",
+            "box": [
+                148,
+                858,
+                276,
+                872
+            ],
+            "linking": [
+                [
+                    83,
+                    21
+                ],
+                [
+                    70,
+                    83
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "CAT",
+                    "box": [
+                        148,
+                        858,
+                        175,
+                        872
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        175,
+                        860,
+                        183,
+                        867
+                    ]
+                },
+                {
+                    "text": "M",
+                    "box": [
+                        184,
+                        859,
+                        194,
+                        872
+                    ]
+                },
+                {
+                    "text": "EXPENSES:",
+                    "box": [
+                        201,
+                        858,
+                        276,
+                        872
+                    ]
+                }
+            ],
+            "id": 83,
+            "gaze_during": 220,
+            "fix_id": 79,
+            "tb_id": 79,
+            "s_id": 78,
+            "v3_id": 79,
+            "v1_id": 81,
+            "bert_id": 81,
+            "box_id": 80,
+            "xycut_id": 53
+        },
+        {
+            "box": [
+                194,
+                859,
+                200,
+                866
+            ],
+            "text": "-",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        194,
+                        859,
+                        200,
+                        866
+                    ],
+                    "text": "-"
+                }
+            ],
+            "linking": [],
+            "id": 13,
+            "gaze_during": 0,
+            "fix_id": 80,
+            "tb_id": 80,
+            "s_id": 77,
+            "v3_id": 80,
+            "v1_id": 83,
+            "bert_id": 82,
+            "box_id": 80,
+            "xycut_id": 56
+        },
+        {
+            "box": [
+                399,
+                858,
+                407,
+                873
+            ],
+            "text": "1",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        399,
+                        858,
+                        407,
+                        873
+                    ],
+                    "text": "1"
+                }
+            ],
+            "linking": [
+                [
+                    83,
+                    21
+                ]
+            ],
+            "id": 21,
+            "gaze_during": 0,
+            "fix_id": 82,
+            "tb_id": 81,
+            "s_id": 79,
+            "v3_id": 81,
+            "v1_id": 82,
+            "bert_id": 84,
+            "box_id": 81,
+            "xycut_id": 79
+        },
+        {
+            "box": [
+                109,
+                891,
+                138,
+                908
+            ],
+            "text": "(26)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        109,
+                        891,
+                        138,
+                        908
+                    ],
+                    "text": "(26)"
+                }
+            ],
+            "linking": [],
+            "id": 46,
+            "gaze_during": 0,
+            "fix_id": 84,
+            "tb_id": 82,
+            "s_id": 80,
+            "v3_id": 82,
+            "v1_id": 84,
+            "bert_id": 83,
+            "box_id": 82,
+            "xycut_id": 25
+        },
+        {
+            "text": "TOTAL REPORTABLE EXPENDITURES FOR VARIETYI:",
+            "box": [
+                149,
+                888,
+                507,
+                904
+            ],
+            "linking": [
+                [
+                    84,
+                    14
+                ],
+                [
+                    70,
+                    84
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "TOTAL",
+                    "box": [
+                        149,
+                        890,
+                        192,
+                        904
+                    ]
+                },
+                {
+                    "text": "REPORTABLE",
+                    "box": [
+                        204,
+                        890,
+                        286,
+                        904
+                    ]
+                },
+                {
+                    "text": "EXPENDITURES",
+                    "box": [
+                        293,
+                        890,
+                        399,
+                        904
+                    ]
+                },
+                {
+                    "text": "FOR",
+                    "box": [
+                        406,
+                        890,
+                        433,
+                        901
+                    ]
+                },
+                {
+                    "text": "VARIETYI:",
+                    "box": [
+                        441,
+                        888,
+                        507,
+                        902
+                    ]
+                }
+            ],
+            "id": 84,
+            "gaze_during": 233,
+            "fix_id": 81,
+            "tb_id": 83,
+            "s_id": 81,
+            "v3_id": 84,
+            "v1_id": 84,
+            "bert_id": 84,
+            "box_id": 83,
+            "xycut_id": 54
+        },
+        {
+            "box": [
+                536,
+                885,
+                553,
+                898
+            ],
+            "text": "94",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        536,
+                        885,
+                        553,
+                        898
+                    ],
+                    "text": "94"
+                }
+            ],
+            "linking": [
+                [
+                    84,
+                    14
+                ]
+            ],
+            "id": 14,
+            "gaze_during": 0,
+            "fix_id": 83,
+            "tb_id": 84,
+            "s_id": 82,
+            "v3_id": 84,
+            "v1_id": 84,
+            "bert_id": 84,
+            "box_id": 84,
+            "xycut_id": 84
+        }
+    ]
+}

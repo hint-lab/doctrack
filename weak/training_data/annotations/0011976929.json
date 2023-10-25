@@ -1,0 +1,1384 @@
+{
+    "form": [
+        {
+            "text": "SPECIAL EVENTS",
+            "box": [
+                284,
+                96,
+                408,
+                113
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "SPECIAL",
+                    "box": [
+                        284,
+                        98,
+                        347,
+                        113
+                    ]
+                },
+                {
+                    "text": "EVENTS",
+                    "box": [
+                        356,
+                        96,
+                        408,
+                        110
+                    ]
+                }
+            ],
+            "id": 8,
+            "gaze_during": 343,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 1,
+            "box_id": 0,
+            "xycut_id": 0
+        },
+        {
+            "box": [
+                54,
+                184,
+                106,
+                205
+            ],
+            "text": "State:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        54,
+                        184,
+                        106,
+                        205
+                    ],
+                    "text": "State:"
+                }
+            ],
+            "linking": [
+                [
+                    6,
+                    7
+                ]
+            ],
+            "id": 6,
+            "gaze_during": 233,
+            "fix_id": 1,
+            "tb_id": 1,
+            "s_id": 1,
+            "v3_id": 1,
+            "v1_id": 1,
+            "bert_id": 0,
+            "box_id": 1,
+            "xycut_id": 1
+        },
+        {
+            "box": [
+                147,
+                183,
+                217,
+                200
+            ],
+            "text": "Illinois",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        147,
+                        183,
+                        217,
+                        200
+                    ],
+                    "text": "Illinois"
+                }
+            ],
+            "linking": [
+                [
+                    6,
+                    7
+                ]
+            ],
+            "id": 7,
+            "gaze_during": 0,
+            "fix_id": 2,
+            "tb_id": 2,
+            "s_id": 2,
+            "v3_id": 2,
+            "v1_id": 3,
+            "bert_id": 2,
+            "box_id": 2,
+            "xycut_id": 2
+        },
+        {
+            "text": "City/ Town:",
+            "box": [
+                358,
+                182,
+                440,
+                199
+            ],
+            "linking": [
+                [
+                    9,
+                    5
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "City/",
+                    "box": [
+                        358,
+                        182,
+                        400,
+                        199
+                    ]
+                },
+                {
+                    "text": "Town:",
+                    "box": [
+                        401,
+                        183,
+                        440,
+                        198
+                    ]
+                }
+            ],
+            "id": 9,
+            "gaze_during": 0,
+            "fix_id": 3,
+            "tb_id": 3,
+            "s_id": 3,
+            "v3_id": 3,
+            "v1_id": 2,
+            "bert_id": 3,
+            "box_id": 3,
+            "xycut_id": 18
+        },
+        {
+            "box": [
+                489,
+                176,
+                543,
+                198
+            ],
+            "text": "Dundee",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        489,
+                        176,
+                        543,
+                        198
+                    ],
+                    "text": "Dundee"
+                }
+            ],
+            "linking": [
+                [
+                    9,
+                    5
+                ]
+            ],
+            "id": 5,
+            "gaze_during": 140,
+            "fix_id": 4,
+            "tb_id": 4,
+            "s_id": 4,
+            "v3_id": 4,
+            "v1_id": 4,
+            "bert_id": 4,
+            "box_id": 6,
+            "xycut_id": 20
+        },
+        {
+            "text": "Type of Event:",
+            "box": [
+                57,
+                243,
+                177,
+                263
+            ],
+            "linking": [
+                [
+                    10,
+                    11
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Type",
+                    "box": [
+                        57,
+                        243,
+                        93,
+                        263
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        99,
+                        244,
+                        120,
+                        259
+                    ]
+                },
+                {
+                    "text": "Event:",
+                    "box": [
+                        127,
+                        243,
+                        177,
+                        260
+                    ]
+                }
+            ],
+            "id": 10,
+            "gaze_during": 0,
+            "fix_id": 5,
+            "tb_id": 5,
+            "s_id": 5,
+            "v3_id": 5,
+            "v1_id": 5,
+            "bert_id": 5,
+            "box_id": 5,
+            "xycut_id": 3
+        },
+        {
+            "text": "Beauty Contest",
+            "box": [
+                300,
+                237,
+                417,
+                256
+            ],
+            "linking": [
+                [
+                    10,
+                    11
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Beauty",
+                    "box": [
+                        300,
+                        239,
+                        349,
+                        256
+                    ]
+                },
+                {
+                    "text": "Contest",
+                    "box": [
+                        356,
+                        237,
+                        417,
+                        252
+                    ]
+                }
+            ],
+            "id": 11,
+            "gaze_during": 0,
+            "fix_id": 6,
+            "tb_id": 6,
+            "s_id": 6,
+            "v3_id": 6,
+            "v1_id": 6,
+            "bert_id": 6,
+            "box_id": 4,
+            "xycut_id": 4
+        },
+        {
+            "text": "Estimated Attendance",
+            "box": [
+                59,
+                384,
+                244,
+                402
+            ],
+            "linking": [
+                [
+                    12,
+                    4
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Estimated",
+                    "box": [
+                        59,
+                        385,
+                        143,
+                        402
+                    ]
+                },
+                {
+                    "text": "Attendance",
+                    "box": [
+                        148,
+                        384,
+                        244,
+                        399
+                    ]
+                }
+            ],
+            "id": 12,
+            "gaze_during": 373,
+            "fix_id": 9,
+            "tb_id": 7,
+            "s_id": 7,
+            "v3_id": 7,
+            "v1_id": 7,
+            "bert_id": 7,
+            "box_id": 7,
+            "xycut_id": 5
+        },
+        {
+            "box": [
+                327,
+                383,
+                356,
+                398
+            ],
+            "text": "700",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        327,
+                        383,
+                        356,
+                        398
+                    ],
+                    "text": "700"
+                }
+            ],
+            "linking": [
+                [
+                    12,
+                    4
+                ]
+            ],
+            "id": 4,
+            "gaze_during": 0,
+            "fix_id": 10,
+            "tb_id": 8,
+            "s_id": 8,
+            "v3_id": 8,
+            "v1_id": 8,
+            "bert_id": 8,
+            "box_id": 8,
+            "xycut_id": 6
+        },
+        {
+            "box": [
+                420,
+                380,
+                474,
+                398
+            ],
+            "text": "Dates:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        420,
+                        380,
+                        474,
+                        398
+                    ],
+                    "text": "Dates:"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    13
+                ]
+            ],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 11,
+            "tb_id": 9,
+            "s_id": 9,
+            "v3_id": 9,
+            "v1_id": 9,
+            "bert_id": 9,
+            "box_id": 10,
+            "xycut_id": 19
+        },
+        {
+            "text": "March 3rd, 4th & 5th,",
+            "box": [
+                489,
+                376,
+                669,
+                393
+            ],
+            "linking": [
+                [
+                    0,
+                    13
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "March",
+                    "box": [
+                        489,
+                        376,
+                        538,
+                        393
+                    ]
+                },
+                {
+                    "text": "3rd,",
+                    "box": [
+                        542,
+                        377,
+                        576,
+                        392
+                    ]
+                },
+                {
+                    "text": "4th",
+                    "box": [
+                        582,
+                        376,
+                        613,
+                        393
+                    ]
+                },
+                {
+                    "text": "&",
+                    "box": [
+                        617,
+                        376,
+                        628,
+                        393
+                    ]
+                },
+                {
+                    "text": "5th,",
+                    "box": [
+                        633,
+                        376,
+                        669,
+                        391
+                    ]
+                }
+            ],
+            "id": 13,
+            "gaze_during": 117,
+            "fix_id": 7,
+            "tb_id": 10,
+            "s_id": 10,
+            "v3_id": 10,
+            "v1_id": 10,
+            "bert_id": 11,
+            "box_id": 9,
+            "xycut_id": 21
+        },
+        {
+            "text": "Name of Event:",
+            "box": [
+                60,
+                441,
+                183,
+                460
+            ],
+            "linking": [
+                [
+                    14,
+                    15
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Name",
+                    "box": [
+                        60,
+                        443,
+                        101,
+                        460
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        106,
+                        443,
+                        124,
+                        456
+                    ]
+                },
+                {
+                    "text": "Event:",
+                    "box": [
+                        131,
+                        441,
+                        183,
+                        456
+                    ]
+                }
+            ],
+            "id": 14,
+            "gaze_during": 0,
+            "fix_id": 8,
+            "tb_id": 11,
+            "s_id": 11,
+            "v3_id": 11,
+            "v1_id": 11,
+            "bert_id": 10,
+            "box_id": 11,
+            "xycut_id": 7
+        },
+        {
+            "text": "Mrs. Illinois Beauty Pageant",
+            "box": [
+                297,
+                433,
+                535,
+                452
+            ],
+            "linking": [
+                [
+                    14,
+                    15
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Mrs.",
+                    "box": [
+                        297,
+                        433,
+                        335,
+                        451
+                    ]
+                },
+                {
+                    "text": "Illinois",
+                    "box": [
+                        342,
+                        434,
+                        412,
+                        448
+                    ]
+                },
+                {
+                    "text": "Beauty",
+                    "box": [
+                        418,
+                        434,
+                        468,
+                        451
+                    ]
+                },
+                {
+                    "text": "Pageant",
+                    "box": [
+                        478,
+                        434,
+                        535,
+                        452
+                    ]
+                }
+            ],
+            "id": 15,
+            "gaze_during": 200,
+            "fix_id": 12,
+            "tb_id": 12,
+            "s_id": 12,
+            "v3_id": 12,
+            "v1_id": 12,
+            "bert_id": 12,
+            "box_id": 12,
+            "xycut_id": 8
+        },
+        {
+            "text": "Contact (Name/ Telephone):",
+            "box": [
+                64,
+                525,
+                281,
+                544
+            ],
+            "linking": [
+                [
+                    16,
+                    17
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Contact",
+                    "box": [
+                        64,
+                        529,
+                        125,
+                        544
+                    ]
+                },
+                {
+                    "text": "(Name/",
+                    "box": [
+                        135,
+                        528,
+                        187,
+                        542
+                    ]
+                },
+                {
+                    "text": "Telephone):",
+                    "box": [
+                        186,
+                        525,
+                        281,
+                        542
+                    ]
+                }
+            ],
+            "id": 16,
+            "gaze_during": 0,
+            "fix_id": 13,
+            "tb_id": 13,
+            "s_id": 13,
+            "v3_id": 13,
+            "v1_id": 13,
+            "bert_id": 14,
+            "box_id": 13,
+            "xycut_id": 9
+        },
+        {
+            "text": "Ms. Joy Weathers (Sales) 312/ 426 - 8000",
+            "box": [
+                300,
+                521,
+                613,
+                539
+            ],
+            "linking": [
+                [
+                    16,
+                    17
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Ms.",
+                    "box": [
+                        300,
+                        525,
+                        325,
+                        539
+                    ]
+                },
+                {
+                    "text": "Joy",
+                    "box": [
+                        334,
+                        524,
+                        361,
+                        539
+                    ]
+                },
+                {
+                    "text": "Weathers",
+                    "box": [
+                        367,
+                        524,
+                        440,
+                        537
+                    ]
+                },
+                {
+                    "text": "(Sales)",
+                    "box": [
+                        446,
+                        521,
+                        503,
+                        539
+                    ]
+                },
+                {
+                    "text": "312/",
+                    "box": [
+                        511,
+                        522,
+                        543,
+                        537
+                    ]
+                },
+                {
+                    "text": "426",
+                    "box": [
+                        543,
+                        522,
+                        568,
+                        537
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        566,
+                        522,
+                        580,
+                        537
+                    ]
+                },
+                {
+                    "text": "8000",
+                    "box": [
+                        578,
+                        522,
+                        613,
+                        536
+                    ]
+                }
+            ],
+            "id": 17,
+            "gaze_during": 227,
+            "fix_id": 14,
+            "tb_id": 14,
+            "s_id": 14,
+            "v3_id": 14,
+            "v1_id": 14,
+            "bert_id": 13,
+            "box_id": 14,
+            "xycut_id": 10
+        },
+        {
+            "text": "Audience Concentration",
+            "box": [
+                64,
+                584,
+                261,
+                599
+            ],
+            "linking": [
+                [
+                    18,
+                    19
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Audience",
+                    "box": [
+                        64,
+                        585,
+                        137,
+                        599
+                    ]
+                },
+                {
+                    "text": "Concentration",
+                    "box": [
+                        141,
+                        584,
+                        261,
+                        599
+                    ]
+                }
+            ],
+            "id": 18,
+            "gaze_during": 197,
+            "fix_id": 15,
+            "tb_id": 15,
+            "s_id": 15,
+            "v3_id": 15,
+            "v1_id": 15,
+            "bert_id": 15,
+            "box_id": 15,
+            "xycut_id": 11
+        },
+        {
+            "text": "90 % White - 10 % Black Age category 21 yrs. to 45 yrs.",
+            "box": [
+                300,
+                577,
+                560,
+                625
+            ],
+            "linking": [
+                [
+                    18,
+                    19
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "90",
+                    "box": [
+                        300,
+                        578,
+                        320,
+                        595
+                    ]
+                },
+                {
+                    "text": "%",
+                    "box": [
+                        320,
+                        581,
+                        330,
+                        596
+                    ]
+                },
+                {
+                    "text": "White",
+                    "box": [
+                        332,
+                        580,
+                        377,
+                        594
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        383,
+                        580,
+                        397,
+                        591
+                    ]
+                },
+                {
+                    "text": "10",
+                    "box": [
+                        402,
+                        578,
+                        420,
+                        595
+                    ]
+                },
+                {
+                    "text": "%",
+                    "box": [
+                        418,
+                        577,
+                        428,
+                        594
+                    ]
+                },
+                {
+                    "text": "Black",
+                    "box": [
+                        434,
+                        580,
+                        479,
+                        594
+                    ]
+                },
+                {
+                    "text": "Age",
+                    "box": [
+                        303,
+                        609,
+                        331,
+                        624
+                    ]
+                },
+                {
+                    "text": "category",
+                    "box": [
+                        337,
+                        605,
+                        405,
+                        625
+                    ]
+                },
+                {
+                    "text": "21",
+                    "box": [
+                        409,
+                        606,
+                        430,
+                        620
+                    ]
+                },
+                {
+                    "text": "yrs.",
+                    "box": [
+                        436,
+                        605,
+                        470,
+                        622
+                    ]
+                },
+                {
+                    "text": "to",
+                    "box": [
+                        479,
+                        608,
+                        500,
+                        623
+                    ]
+                },
+                {
+                    "text": "45",
+                    "box": [
+                        504,
+                        605,
+                        522,
+                        620
+                    ]
+                },
+                {
+                    "text": "yrs.",
+                    "box": [
+                        528,
+                        608,
+                        560,
+                        622
+                    ]
+                }
+            ],
+            "id": 19,
+            "gaze_during": 706,
+            "fix_id": 16,
+            "tb_id": 16,
+            "s_id": 16,
+            "v3_id": 16,
+            "v1_id": 16,
+            "bert_id": 17,
+            "box_id": 16,
+            "xycut_id": 12
+        },
+        {
+            "text": "Recommended Brand(s) and Promotional Activity:",
+            "box": [
+                67,
+                691,
+                465,
+                712
+            ],
+            "linking": [
+                [
+                    20,
+                    21
+                ],
+                [
+                    20,
+                    22
+                ],
+                [
+                    20,
+                    23
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Recommended",
+                    "box": [
+                        67,
+                        696,
+                        166,
+                        711
+                    ]
+                },
+                {
+                    "text": "Brand(s)",
+                    "box": [
+                        173,
+                        694,
+                        246,
+                        712
+                    ]
+                },
+                {
+                    "text": "and",
+                    "box": [
+                        253,
+                        694,
+                        280,
+                        708
+                    ]
+                },
+                {
+                    "text": "Promotional",
+                    "box": [
+                        285,
+                        693,
+                        377,
+                        707
+                    ]
+                },
+                {
+                    "text": "Activity:",
+                    "box": [
+                        387,
+                        691,
+                        465,
+                        706
+                    ]
+                }
+            ],
+            "id": 20,
+            "gaze_during": 0,
+            "fix_id": 17,
+            "tb_id": 17,
+            "s_id": 17,
+            "v3_id": 17,
+            "v1_id": 17,
+            "bert_id": 16,
+            "box_id": 17,
+            "xycut_id": 13
+        },
+        {
+            "text": "BARCLAY sampling",
+            "box": [
+                503,
+                690,
+                641,
+                708
+            ],
+            "linking": [
+                [
+                    20,
+                    21
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "BARCLAY",
+                    "box": [
+                        503,
+                        690,
+                        564,
+                        707
+                    ]
+                },
+                {
+                    "text": "sampling",
+                    "box": [
+                        573,
+                        691,
+                        641,
+                        708
+                    ]
+                }
+            ],
+            "id": 21,
+            "gaze_during": 0,
+            "fix_id": 18,
+            "tb_id": 18,
+            "s_id": 18,
+            "v3_id": 18,
+            "v1_id": 18,
+            "bert_id": 18,
+            "box_id": 18,
+            "xycut_id": 22
+        },
+        {
+            "text": "2 - 12M cases mixed.",
+            "box": [
+                165,
+                721,
+                342,
+                740
+            ],
+            "linking": [
+                [
+                    20,
+                    22
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "2",
+                    "box": [
+                        165,
+                        723,
+                        180,
+                        740
+                    ]
+                },
+                {
+                    "text": "-",
+                    "box": [
+                        184,
+                        725,
+                        198,
+                        738
+                    ]
+                },
+                {
+                    "text": "12M",
+                    "box": [
+                        203,
+                        725,
+                        232,
+                        736
+                    ]
+                },
+                {
+                    "text": "cases",
+                    "box": [
+                        235,
+                        725,
+                        282,
+                        738
+                    ]
+                },
+                {
+                    "text": "mixed.",
+                    "box": [
+                        285,
+                        721,
+                        342,
+                        739
+                    ]
+                }
+            ],
+            "id": 22,
+            "gaze_during": 240,
+            "fix_id": 19,
+            "tb_id": 19,
+            "s_id": 19,
+            "v3_id": 19,
+            "v1_id": 19,
+            "bert_id": 19,
+            "box_id": 19,
+            "xycut_id": 14
+        },
+        {
+            "text": "To be placed on tables by B & W Reps.",
+            "box": [
+                169,
+                747,
+                478,
+                768
+            ],
+            "linking": [
+                [
+                    20,
+                    23
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "To",
+                    "box": [
+                        169,
+                        751,
+                        191,
+                        766
+                    ]
+                },
+                {
+                    "text": "be",
+                    "box": [
+                        193,
+                        751,
+                        213,
+                        768
+                    ]
+                },
+                {
+                    "text": "placed",
+                    "box": [
+                        221,
+                        750,
+                        274,
+                        767
+                    ]
+                },
+                {
+                    "text": "on",
+                    "box": [
+                        281,
+                        751,
+                        299,
+                        765
+                    ]
+                },
+                {
+                    "text": "tables",
+                    "box": [
+                        306,
+                        747,
+                        356,
+                        764
+                    ]
+                },
+                {
+                    "text": "by",
+                    "box": [
+                        362,
+                        750,
+                        383,
+                        765
+                    ]
+                },
+                {
+                    "text": "B",
+                    "box": [
+                        387,
+                        749,
+                        395,
+                        764
+                    ]
+                },
+                {
+                    "text": "&",
+                    "box": [
+                        402,
+                        747,
+                        416,
+                        764
+                    ]
+                },
+                {
+                    "text": "W",
+                    "box": [
+                        416,
+                        749,
+                        431,
+                        763
+                    ]
+                },
+                {
+                    "text": "Reps.",
+                    "box": [
+                        436,
+                        750,
+                        478,
+                        768
+                    ]
+                }
+            ],
+            "id": 23,
+            "gaze_during": 646,
+            "fix_id": 20,
+            "tb_id": 20,
+            "s_id": 20,
+            "v3_id": 20,
+            "v1_id": 20,
+            "bert_id": 20,
+            "box_id": 20,
+            "xycut_id": 15
+        },
+        {
+            "box": [
+                543,
+                841,
+                653,
+                862
+            ],
+            "text": "466603840",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        543,
+                        841,
+                        653,
+                        862
+                    ],
+                    "text": "466603840"
+                }
+            ],
+            "linking": [],
+            "id": 1,
+            "gaze_during": 0,
+            "fix_id": 21,
+            "tb_id": 21,
+            "s_id": 21,
+            "v3_id": 21,
+            "v1_id": 21,
+            "bert_id": 23,
+            "box_id": 21,
+            "xycut_id": 23
+        },
+        {
+            "box": [
+                75,
+                869,
+                103,
+                887
+            ],
+            "text": "/lr",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        75,
+                        869,
+                        103,
+                        887
+                    ],
+                    "text": "/lr"
+                }
+            ],
+            "linking": [],
+            "id": 3,
+            "gaze_during": 0,
+            "fix_id": 22,
+            "tb_id": 22,
+            "s_id": 22,
+            "v3_id": 22,
+            "v1_id": 23,
+            "bert_id": 22,
+            "box_id": 22,
+            "xycut_id": 16
+        },
+        {
+            "box": [
+                102,
+                869,
+                149,
+                886
+            ],
+            "text": "/934g",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        102,
+                        869,
+                        149,
+                        886
+                    ],
+                    "text": "/934g"
+                }
+            ],
+            "linking": [],
+            "id": 2,
+            "gaze_during": 0,
+            "fix_id": 23,
+            "tb_id": 23,
+            "s_id": 23,
+            "v3_id": 23,
+            "v1_id": 22,
+            "bert_id": 21,
+            "box_id": 23,
+            "xycut_id": 17
+        }
+    ]
+}

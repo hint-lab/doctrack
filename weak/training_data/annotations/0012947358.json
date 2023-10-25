@@ -1,0 +1,4858 @@
+{
+    "form": [
+        {
+            "text": "C T SYSTEM The Corporation Trust Company C T Corporation System and Associated Companies",
+            "box": [
+                28,
+                32,
+                237,
+                106
+            ],
+            "linking": [],
+            "label": "header",
+            "words": [
+                {
+                    "text": "C",
+                    "box": [
+                        82,
+                        34,
+                        95,
+                        49
+                    ]
+                },
+                {
+                    "text": "T",
+                    "box": [
+                        98,
+                        32,
+                        112,
+                        47
+                    ]
+                },
+                {
+                    "text": "SYSTEM",
+                    "box": [
+                        116,
+                        34,
+                        182,
+                        51
+                    ]
+                },
+                {
+                    "text": "The",
+                    "box": [
+                        28,
+                        54,
+                        49,
+                        68
+                    ]
+                },
+                {
+                    "text": "Corporation",
+                    "box": [
+                        52,
+                        54,
+                        134,
+                        69
+                    ]
+                },
+                {
+                    "text": "Trust",
+                    "box": [
+                        137,
+                        53,
+                        173,
+                        67
+                    ]
+                },
+                {
+                    "text": "Company",
+                    "box": [
+                        176,
+                        54,
+                        237,
+                        69
+                    ]
+                },
+                {
+                    "text": "C",
+                    "box": [
+                        52,
+                        73,
+                        63,
+                        87
+                    ]
+                },
+                {
+                    "text": "T",
+                    "box": [
+                        66,
+                        73,
+                        77,
+                        86
+                    ]
+                },
+                {
+                    "text": "Corporation",
+                    "box": [
+                        80,
+                        73,
+                        160,
+                        90
+                    ]
+                },
+                {
+                    "text": "System",
+                    "box": [
+                        165,
+                        73,
+                        214,
+                        87
+                    ]
+                },
+                {
+                    "text": "and",
+                    "box": [
+                        73,
+                        94,
+                        90,
+                        104
+                    ]
+                },
+                {
+                    "text": "Associated",
+                    "box": [
+                        92,
+                        94,
+                        141,
+                        105
+                    ]
+                },
+                {
+                    "text": "Companies",
+                    "box": [
+                        142,
+                        92,
+                        195,
+                        106
+                    ]
+                }
+            ],
+            "id": 42,
+            "gaze_during": 543,
+            "fix_id": 0,
+            "tb_id": 0,
+            "s_id": 0,
+            "v3_id": 0,
+            "v1_id": 0,
+            "bert_id": 0,
+            "box_id": 10,
+            "xycut_id": 0
+        },
+        {
+            "box": [
+                422,
+                43,
+                440,
+                56
+            ],
+            "text": "TO:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        422,
+                        43,
+                        440,
+                        56
+                    ],
+                    "text": "TO:"
+                }
+            ],
+            "linking": [
+                [
+                    1,
+                    43
+                ]
+            ],
+            "id": 1,
+            "gaze_during": 0,
+            "fix_id": 1,
+            "tb_id": 1,
+            "s_id": 6,
+            "v3_id": 1,
+            "v1_id": 2,
+            "bert_id": 1,
+            "box_id": 15,
+            "xycut_id": 46
+        },
+        {
+            "text": "The Corporation Trust Company",
+            "box": [
+                440,
+                38,
+                672,
+                54
+            ],
+            "linking": [
+                [
+                    1,
+                    43
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "The",
+                    "box": [
+                        440,
+                        41,
+                        467,
+                        54
+                    ]
+                },
+                {
+                    "text": "Corporation",
+                    "box": [
+                        471,
+                        39,
+                        559,
+                        53
+                    ]
+                },
+                {
+                    "text": "Trust",
+                    "box": [
+                        561,
+                        38,
+                        603,
+                        52
+                    ]
+                },
+                {
+                    "text": "Company",
+                    "box": [
+                        606,
+                        39,
+                        672,
+                        53
+                    ]
+                }
+            ],
+            "id": 43,
+            "gaze_during": 467,
+            "fix_id": 4,
+            "tb_id": 2,
+            "s_id": 5,
+            "v3_id": 2,
+            "v1_id": 1,
+            "bert_id": 2,
+            "box_id": 9,
+            "xycut_id": 47
+        },
+        {
+            "text": "New York, New York",
+            "box": [
+                457,
+                64,
+                612,
+                80
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "New",
+                    "box": [
+                        457,
+                        66,
+                        489,
+                        80
+                    ]
+                },
+                {
+                    "text": "York,",
+                    "box": [
+                        494,
+                        66,
+                        532,
+                        80
+                    ]
+                },
+                {
+                    "text": "New",
+                    "box": [
+                        541,
+                        64,
+                        572,
+                        79
+                    ]
+                },
+                {
+                    "text": "York",
+                    "box": [
+                        577,
+                        66,
+                        612,
+                        77
+                    ]
+                }
+            ],
+            "id": 44,
+            "gaze_during": 363,
+            "fix_id": 6,
+            "tb_id": 3,
+            "s_id": 4,
+            "v3_id": 3,
+            "v1_id": 3,
+            "bert_id": 4,
+            "box_id": 8,
+            "xycut_id": 48
+        },
+        {
+            "box": [
+                535,
+                54,
+                546,
+                64
+            ],
+            "text": "(C",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        535,
+                        54,
+                        546,
+                        64
+                    ],
+                    "text": "(C"
+                }
+            ],
+            "linking": [],
+            "id": 25,
+            "gaze_during": 0,
+            "fix_id": 8,
+            "tb_id": 4,
+            "s_id": 3,
+            "v3_id": 4,
+            "v1_id": 4,
+            "bert_id": 3,
+            "box_id": 28,
+            "xycut_id": 66
+        },
+        {
+            "box": [
+                546,
+                54,
+                554,
+                62
+            ],
+            "text": "T.",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        546,
+                        54,
+                        554,
+                        62
+                    ],
+                    "text": "T."
+                }
+            ],
+            "linking": [],
+            "id": 26,
+            "gaze_during": 0,
+            "fix_id": 11,
+            "tb_id": 5,
+            "s_id": 2,
+            "v3_id": 5,
+            "v1_id": 6,
+            "bert_id": 6,
+            "box_id": 4,
+            "xycut_id": 69
+        },
+        {
+            "box": [
+                554,
+                54,
+                583,
+                62
+            ],
+            "text": "Office)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        554,
+                        54,
+                        583,
+                        62
+                    ],
+                    "text": "Office)"
+                }
+            ],
+            "linking": [],
+            "id": 27,
+            "gaze_during": 207,
+            "fix_id": 5,
+            "tb_id": 6,
+            "s_id": 1,
+            "v3_id": 6,
+            "v1_id": 5,
+            "bert_id": 5,
+            "box_id": 3,
+            "xycut_id": 71
+        },
+        {
+            "box": [
+                405,
+                99,
+                440,
+                112
+            ],
+            "text": "FROM:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        405,
+                        99,
+                        440,
+                        112
+                    ],
+                    "text": "FROM:"
+                }
+            ],
+            "linking": [
+                [
+                    2,
+                    45
+                ]
+            ],
+            "id": 2,
+            "gaze_during": 0,
+            "fix_id": 7,
+            "tb_id": 7,
+            "s_id": 9,
+            "v3_id": 7,
+            "v1_id": 7,
+            "bert_id": 7,
+            "box_id": 34,
+            "xycut_id": 49
+        },
+        {
+            "text": "C T Corporation System",
+            "box": [
+                458,
+                92,
+                634,
+                107
+            ],
+            "linking": [
+                [
+                    2,
+                    45
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "C",
+                    "box": [
+                        458,
+                        95,
+                        472,
+                        106
+                    ]
+                },
+                {
+                    "text": "T",
+                    "box": [
+                        475,
+                        94,
+                        486,
+                        107
+                    ]
+                },
+                {
+                    "text": "Corporation",
+                    "box": [
+                        489,
+                        94,
+                        577,
+                        107
+                    ]
+                },
+                {
+                    "text": "System",
+                    "box": [
+                        582,
+                        92,
+                        634,
+                        105
+                    ]
+                }
+            ],
+            "id": 45,
+            "gaze_during": 280,
+            "fix_id": 9,
+            "tb_id": 8,
+            "s_id": 8,
+            "v3_id": 8,
+            "v1_id": 8,
+            "bert_id": 8,
+            "box_id": 16,
+            "xycut_id": 50
+        },
+        {
+            "box": [
+                471,
+                82,
+                493,
+                92
+            ],
+            "text": "(City)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        471,
+                        82,
+                        493,
+                        92
+                    ],
+                    "text": "(City)"
+                }
+            ],
+            "linking": [],
+            "id": 21,
+            "gaze_during": 0,
+            "fix_id": 12,
+            "tb_id": 9,
+            "s_id": 7,
+            "v3_id": 9,
+            "v1_id": 9,
+            "bert_id": 10,
+            "box_id": 13,
+            "xycut_id": 51
+        },
+        {
+            "box": [
+                589,
+                81,
+                617,
+                92
+            ],
+            "text": "(State)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        589,
+                        81,
+                        617,
+                        92
+                    ],
+                    "text": "(State)"
+                }
+            ],
+            "linking": [],
+            "id": 24,
+            "gaze_during": 0,
+            "fix_id": 14,
+            "tb_id": 10,
+            "s_id": 10,
+            "v3_id": 10,
+            "v1_id": 10,
+            "bert_id": 9,
+            "box_id": 23,
+            "xycut_id": 77
+        },
+        {
+            "text": "Walliam Degenhardt Tax Director The American Tobacco Company 245 Park Avenue New York New York 1001",
+            "box": [
+                81,
+                126,
+                330,
+                186
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Walliam",
+                    "box": [
+                        81,
+                        128,
+                        134,
+                        141
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        137,
+                        128,
+                        152,
+                        139
+                    ]
+                },
+                {
+                    "text": "Degenhardt",
+                    "box": [
+                        162,
+                        127,
+                        240,
+                        140
+                    ]
+                },
+                {
+                    "text": "Tax",
+                    "box": [
+                        244,
+                        126,
+                        268,
+                        140
+                    ]
+                },
+                {
+                    "text": "Director",
+                    "box": [
+                        274,
+                        127,
+                        330,
+                        141
+                    ]
+                },
+                {
+                    "text": "The",
+                    "box": [
+                        82,
+                        144,
+                        104,
+                        155
+                    ]
+                },
+                {
+                    "text": "American",
+                    "box": [
+                        112,
+                        144,
+                        169,
+                        155
+                    ]
+                },
+                {
+                    "text": "Tobacco",
+                    "box": [
+                        175,
+                        142,
+                        227,
+                        156
+                    ]
+                },
+                {
+                    "text": "Company",
+                    "box": [
+                        230,
+                        142,
+                        283,
+                        156
+                    ]
+                },
+                {
+                    "text": "245",
+                    "box": [
+                        81,
+                        158,
+                        106,
+                        171
+                    ]
+                },
+                {
+                    "text": "Park",
+                    "box": [
+                        112,
+                        158,
+                        141,
+                        169
+                    ]
+                },
+                {
+                    "text": "Avenue",
+                    "box": [
+                        147,
+                        158,
+                        190,
+                        169
+                    ]
+                },
+                {
+                    "text": "New",
+                    "box": [
+                        82,
+                        173,
+                        106,
+                        186
+                    ]
+                },
+                {
+                    "text": "York",
+                    "box": [
+                        112,
+                        172,
+                        147,
+                        183
+                    ]
+                },
+                {
+                    "text": "New",
+                    "box": [
+                        154,
+                        172,
+                        178,
+                        185
+                    ]
+                },
+                {
+                    "text": "York",
+                    "box": [
+                        184,
+                        170,
+                        213,
+                        184
+                    ]
+                },
+                {
+                    "text": "1001",
+                    "box": [
+                        218,
+                        169,
+                        259,
+                        184
+                    ]
+                }
+            ],
+            "id": 51,
+            "gaze_during": 363,
+            "fix_id": 2,
+            "tb_id": 11,
+            "s_id": 11,
+            "v3_id": 11,
+            "v1_id": 11,
+            "bert_id": 11,
+            "box_id": 11,
+            "xycut_id": 2
+        },
+        {
+            "box": [
+                420,
+                128,
+                437,
+                139
+            ],
+            "text": "Per",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        420,
+                        128,
+                        437,
+                        139
+                    ],
+                    "text": "Per"
+                }
+            ],
+            "linking": [
+                [
+                    3,
+                    46
+                ],
+                [
+                    3,
+                    47
+                ]
+            ],
+            "id": 3,
+            "gaze_during": 0,
+            "fix_id": 3,
+            "tb_id": 12,
+            "s_id": 14,
+            "v3_id": 12,
+            "v1_id": 12,
+            "bert_id": 12,
+            "box_id": 18,
+            "xycut_id": 52
+        },
+        {
+            "text": "Phyllis G. Jennings",
+            "box": [
+                458,
+                122,
+                600,
+                137
+            ],
+            "linking": [
+                [
+                    3,
+                    46
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Phyllis",
+                    "box": [
+                        458,
+                        122,
+                        511,
+                        137
+                    ]
+                },
+                {
+                    "text": "G.",
+                    "box": [
+                        515,
+                        123,
+                        533,
+                        137
+                    ]
+                },
+                {
+                    "text": "Jennings",
+                    "box": [
+                        539,
+                        122,
+                        600,
+                        137
+                    ]
+                }
+            ],
+            "id": 46,
+            "gaze_during": 723,
+            "fix_id": 15,
+            "tb_id": 13,
+            "s_id": 13,
+            "v3_id": 13,
+            "v1_id": 14,
+            "bert_id": 14,
+            "box_id": 21,
+            "xycut_id": 53
+        },
+        {
+            "box": [
+                515,
+                109,
+                561,
+                119
+            ],
+            "text": "(Originating",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        515,
+                        109,
+                        561,
+                        119
+                    ],
+                    "text": "(Originating"
+                }
+            ],
+            "linking": [],
+            "id": 22,
+            "gaze_during": 280,
+            "fix_id": 10,
+            "tb_id": 14,
+            "s_id": 12,
+            "v3_id": 14,
+            "v1_id": 13,
+            "bert_id": 13,
+            "box_id": 20,
+            "xycut_id": 65
+        },
+        {
+            "box": [
+                564,
+                109,
+                589,
+                119
+            ],
+            "text": "Agent)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        564,
+                        109,
+                        589,
+                        119
+                    ],
+                    "text": "Agent)"
+                }
+            ],
+            "linking": [],
+            "id": 23,
+            "gaze_during": 0,
+            "fix_id": 13,
+            "tb_id": 15,
+            "s_id": 15,
+            "v3_id": 15,
+            "v1_id": 17,
+            "bert_id": 17,
+            "box_id": 5,
+            "xycut_id": 72
+        },
+        {
+            "box": [
+                47,
+                130,
+                67,
+                144
+            ],
+            "text": "",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        47,
+                        130,
+                        67,
+                        144
+                    ],
+                    "text": ""
+                }
+            ],
+            "linking": [],
+            "id": 15,
+            "gaze_during": 0,
+            "fix_id": 16,
+            "tb_id": 16,
+            "s_id": 13,
+            "v3_id": 81,
+            "v1_id": 15,
+            "bert_id": 15,
+            "box_id": 22,
+            "xycut_id": 1
+        },
+        {
+            "text": "Jacksonville, Florida",
+            "box": [
+                461,
+                148,
+                615,
+                164
+            ],
+            "linking": [
+                [
+                    3,
+                    47
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Jacksonville,",
+                    "box": [
+                        461,
+                        149,
+                        553,
+                        164
+                    ]
+                },
+                {
+                    "text": "Florida",
+                    "box": [
+                        561,
+                        148,
+                        615,
+                        163
+                    ]
+                }
+            ],
+            "id": 47,
+            "gaze_during": 650,
+            "fix_id": 17,
+            "tb_id": 17,
+            "s_id": 16,
+            "v3_id": 17,
+            "v1_id": 18,
+            "bert_id": 19,
+            "box_id": 0,
+            "xycut_id": 54
+        },
+        {
+            "box": [
+                408,
+                183,
+                437,
+                198
+            ],
+            "text": "DATE:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        408,
+                        183,
+                        437,
+                        198
+                    ],
+                    "text": "DATE:"
+                }
+            ],
+            "linking": [
+                [
+                    4,
+                    48
+                ]
+            ],
+            "id": 4,
+            "gaze_during": 0,
+            "fix_id": 18,
+            "tb_id": 18,
+            "s_id": 17,
+            "v3_id": 18,
+            "v1_id": 19,
+            "bert_id": 18,
+            "box_id": 19,
+            "xycut_id": 56
+        },
+        {
+            "text": "1- -27 -69",
+            "box": [
+                454,
+                180,
+                514,
+                195
+            ],
+            "linking": [
+                [
+                    4,
+                    48
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "1-",
+                    "box": [
+                        454,
+                        182,
+                        465,
+                        195
+                    ]
+                },
+                {
+                    "text": "-27",
+                    "box": [
+                        462,
+                        180,
+                        487,
+                        194
+                    ]
+                },
+                {
+                    "text": "-69",
+                    "box": [
+                        487,
+                        180,
+                        514,
+                        194
+                    ]
+                }
+            ],
+            "id": 48,
+            "gaze_during": 0,
+            "fix_id": 19,
+            "tb_id": 19,
+            "s_id": 18,
+            "v3_id": 19,
+            "v1_id": 20,
+            "bert_id": 20,
+            "box_id": 2,
+            "xycut_id": 57
+        },
+        {
+            "box": [
+                475,
+                166,
+                496,
+                177
+            ],
+            "text": "(city)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        475,
+                        166,
+                        496,
+                        177
+                    ],
+                    "text": "(city)"
+                }
+            ],
+            "linking": [],
+            "id": 19,
+            "gaze_during": 0,
+            "fix_id": 20,
+            "tb_id": 20,
+            "s_id": 19,
+            "v3_id": 20,
+            "v1_id": 21,
+            "bert_id": 22,
+            "box_id": 12,
+            "xycut_id": 55
+        },
+        {
+            "box": [
+                542,
+                177,
+                566,
+                190
+            ],
+            "text": "VIA:",
+            "label": "header",
+            "words": [
+                {
+                    "box": [
+                        542,
+                        177,
+                        566,
+                        190
+                    ],
+                    "text": "VIA:"
+                }
+            ],
+            "linking": [
+                [
+                    5,
+                    49
+                ],
+                [
+                    5,
+                    50
+                ]
+            ],
+            "id": 5,
+            "gaze_during": 0,
+            "fix_id": 22,
+            "tb_id": 21,
+            "s_id": 20,
+            "v3_id": 21,
+            "v1_id": 22,
+            "bert_id": 21,
+            "box_id": 31,
+            "xycut_id": 68
+        },
+        {
+            "text": "() Certified Mail",
+            "box": [
+                568,
+                176,
+                659,
+                189
+            ],
+            "linking": [
+                [
+                    5,
+                    49
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "()",
+                    "box": [
+                        568,
+                        176,
+                        585,
+                        189
+                    ]
+                },
+                {
+                    "text": "Certified",
+                    "box": [
+                        588,
+                        177,
+                        630,
+                        188
+                    ]
+                },
+                {
+                    "text": "Mail",
+                    "box": [
+                        634,
+                        176,
+                        659,
+                        187
+                    ]
+                }
+            ],
+            "id": 49,
+            "gaze_during": 0,
+            "fix_id": 24,
+            "tb_id": 22,
+            "s_id": 21,
+            "v3_id": 22,
+            "v1_id": 23,
+            "bert_id": 23,
+            "box_id": 7,
+            "xycut_id": 73
+        },
+        {
+            "box": [
+                596,
+                165,
+                624,
+                176
+            ],
+            "text": "(State)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        596,
+                        165,
+                        624,
+                        176
+                    ],
+                    "text": "(State)"
+                }
+            ],
+            "linking": [],
+            "id": 20,
+            "gaze_during": 0,
+            "fix_id": 26,
+            "tb_id": 23,
+            "s_id": 22,
+            "v3_id": 23,
+            "v1_id": 24,
+            "bert_id": 25,
+            "box_id": 14,
+            "xycut_id": 79
+        },
+        {
+            "text": "Recipienti",
+            "box": [
+                148,
+                186,
+                232,
+                199
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "",
+                    "box": [
+                        148,
+                        187,
+                        191,
+                        198
+                    ]
+                },
+                {
+                    "text": "Recipienti",
+                    "box": [
+                        194,
+                        186,
+                        232,
+                        199
+                    ]
+                }
+            ],
+            "id": 52,
+            "gaze_during": 0,
+            "fix_id": 28,
+            "tb_id": 24,
+            "s_id": 23,
+            "v3_id": 24,
+            "v1_id": 25,
+            "bert_id": 24,
+            "box_id": 17,
+            "xycut_id": 3
+        },
+        {
+            "box": [
+                568,
+                190,
+                585,
+                203
+            ],
+            "text": "(X)",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        568,
+                        190,
+                        585,
+                        203
+                    ],
+                    "text": "(X)"
+                }
+            ],
+            "linking": [
+                [
+                    50,
+                    18
+                ]
+            ],
+            "id": 18,
+            "gaze_during": 0,
+            "fix_id": 29,
+            "tb_id": 25,
+            "s_id": 24,
+            "v3_id": 25,
+            "v1_id": 29,
+            "bert_id": 26,
+            "box_id": 1,
+            "xycut_id": 74
+        },
+        {
+            "text": "Certified Air Mail",
+            "box": [
+                587,
+                189,
+                674,
+                203
+            ],
+            "linking": [
+                [
+                    50,
+                    18
+                ],
+                [
+                    5,
+                    50
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Certified",
+                    "box": [
+                        587,
+                        190,
+                        630,
+                        203
+                    ]
+                },
+                {
+                    "text": "Air",
+                    "box": [
+                        634,
+                        189,
+                        649,
+                        200
+                    ]
+                },
+                {
+                    "text": "Mail",
+                    "box": [
+                        652,
+                        190,
+                        674,
+                        200
+                    ]
+                }
+            ],
+            "id": 50,
+            "gaze_during": 0,
+            "fix_id": 31,
+            "tb_id": 26,
+            "s_id": 25,
+            "v3_id": 26,
+            "v1_id": 27,
+            "bert_id": 27,
+            "box_id": 6,
+            "xycut_id": 76
+        },
+        {
+            "box": [
+                53,
+                228,
+                74,
+                243
+            ],
+            "text": "VIA:",
+            "label": "header",
+            "words": [
+                {
+                    "box": [
+                        53,
+                        228,
+                        74,
+                        243
+                    ],
+                    "text": "VIA:"
+                }
+            ],
+            "linking": [
+                [
+                    0,
+                    53
+                ],
+                [
+                    0,
+                    54
+                ],
+                [
+                    0,
+                    55
+                ]
+            ],
+            "id": 0,
+            "gaze_during": 0,
+            "fix_id": 34,
+            "tb_id": 27,
+            "s_id": 26,
+            "v3_id": 27,
+            "v1_id": 26,
+            "bert_id": 30,
+            "box_id": 24,
+            "xycut_id": 4
+        },
+        {
+            "box": [
+                434,
+                209,
+                560,
+                332
+            ],
+            "text": "",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        434,
+                        209,
+                        560,
+                        332
+                    ],
+                    "text": ""
+                }
+            ],
+            "linking": [],
+            "id": 30,
+            "gaze_during": 750,
+            "fix_id": 30,
+            "tb_id": 28,
+            "s_id": 35,
+            "v3_id": 81,
+            "v1_id": 30,
+            "bert_id": 29,
+            "box_id": 27,
+            "xycut_id": 58
+        },
+        {
+            "box": [
+                78,
+                230,
+                98,
+                243
+            ],
+            "text": "(X)",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        78,
+                        230,
+                        98,
+                        243
+                    ],
+                    "text": "(X)"
+                }
+            ],
+            "linking": [
+                [
+                    53,
+                    16
+                ]
+            ],
+            "id": 16,
+            "gaze_during": 0,
+            "fix_id": 32,
+            "tb_id": 29,
+            "s_id": 27,
+            "v3_id": 28,
+            "v1_id": 31,
+            "bert_id": 31,
+            "box_id": 25,
+            "xycut_id": 5
+        },
+        {
+            "text": "() Certified Air Mail",
+            "box": [
+                80,
+                246,
+                191,
+                260
+            ],
+            "linking": [
+                [
+                    0,
+                    55
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "()",
+                    "box": [
+                        80,
+                        247,
+                        98,
+                        260
+                    ]
+                },
+                {
+                    "text": "Certified",
+                    "box": [
+                        101,
+                        246,
+                        144,
+                        259
+                    ]
+                },
+                {
+                    "text": "Air",
+                    "box": [
+                        147,
+                        246,
+                        164,
+                        259
+                    ]
+                },
+                {
+                    "text": "Mail",
+                    "box": [
+                        166,
+                        246,
+                        191,
+                        257
+                    ]
+                }
+            ],
+            "id": 55,
+            "gaze_during": 0,
+            "fix_id": 35,
+            "tb_id": 30,
+            "s_id": 28,
+            "v1_id": 32,
+            "v3_id": 29,
+            "bert_id": 32,
+            "box_id": 29,
+            "xycut_id": 8
+        },
+        {
+            "text": "Certified Mail",
+            "box": [
+                99,
+                229,
+                171,
+                243
+            ],
+            "linking": [
+                [
+                    0,
+                    53
+                ],
+                [
+                    53,
+                    16
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Certified",
+                    "box": [
+                        99,
+                        229,
+                        141,
+                        243
+                    ]
+                },
+                {
+                    "text": "Mail",
+                    "box": [
+                        144,
+                        230,
+                        171,
+                        241
+                    ]
+                }
+            ],
+            "id": 53,
+            "gaze_during": 0,
+            "fix_id": 38,
+            "tb_id": 31,
+            "s_id": 29,
+            "v3_id": 31,
+            "v1_id": 34,
+            "bert_id": 33,
+            "box_id": 30,
+            "xycut_id": 6
+        },
+        {
+            "text": "() Messenger",
+            "box": [
+                175,
+                229,
+                247,
+                243
+            ],
+            "linking": [
+                [
+                    0,
+                    54
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "()",
+                    "box": [
+                        175,
+                        229,
+                        193,
+                        243
+                    ]
+                },
+                {
+                    "text": "Messenger",
+                    "box": [
+                        194,
+                        229,
+                        247,
+                        240
+                    ]
+                }
+            ],
+            "id": 54,
+            "gaze_during": 0,
+            "fix_id": 40,
+            "tb_id": 32,
+            "s_id": 30,
+            "v3_id": 32,
+            "v1_id": 33,
+            "bert_id": 34,
+            "box_id": 26,
+            "xycut_id": 7
+        },
+        {
+            "box": [
+                53,
+                270,
+                70,
+                281
+            ],
+            "text": "RE:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        53,
+                        270,
+                        70,
+                        281
+                    ],
+                    "text": "RE:"
+                }
+            ],
+            "linking": [
+                [
+                    6,
+                    56
+                ]
+            ],
+            "id": 6,
+            "gaze_during": 0,
+            "fix_id": 41,
+            "tb_id": 33,
+            "s_id": 31,
+            "v3_id": 33,
+            "v1_id": 35,
+            "bert_id": 35,
+            "box_id": 32,
+            "xycut_id": 9
+        },
+        {
+            "text": "PROCESS SERVED",
+            "box": [
+                75,
+                267,
+                242,
+                285
+            ],
+            "linking": [
+                [
+                    6,
+                    56
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "PROCESS",
+                    "box": [
+                        75,
+                        267,
+                        159,
+                        285
+                    ]
+                },
+                {
+                    "text": "SERVED",
+                    "box": [
+                        169,
+                        270,
+                        242,
+                        285
+                    ]
+                }
+            ],
+            "id": 56,
+            "gaze_during": 313,
+            "fix_id": 21,
+            "tb_id": 34,
+            "s_id": 32,
+            "v3_id": 34,
+            "v1_id": 36,
+            "bert_id": 36,
+            "box_id": 36,
+            "xycut_id": 10
+        },
+        {
+            "box": [
+                250,
+                267,
+                271,
+                282
+            ],
+            "text": "IN",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        250,
+                        267,
+                        271,
+                        282
+                    ],
+                    "text": "IN"
+                }
+            ],
+            "linking": [
+                [
+                    8,
+                    17
+                ]
+            ],
+            "id": 8,
+            "gaze_during": 0,
+            "fix_id": 23,
+            "tb_id": 35,
+            "s_id": 33,
+            "v3_id": 35,
+            "v1_id": 38,
+            "bert_id": 38,
+            "box_id": 33,
+            "xycut_id": 11
+        },
+        {
+            "box": [
+                310,
+                265,
+                381,
+                280
+            ],
+            "text": "FLORIDA",
+            "label": "answer",
+            "words": [
+                {
+                    "box": [
+                        310,
+                        265,
+                        381,
+                        280
+                    ],
+                    "text": "FLORIDA"
+                }
+            ],
+            "linking": [
+                [
+                    8,
+                    17
+                ]
+            ],
+            "id": 17,
+            "gaze_during": 0,
+            "fix_id": 25,
+            "tb_id": 36,
+            "s_id": 34,
+            "v3_id": 36,
+            "v1_id": 37,
+            "bert_id": 37,
+            "box_id": 35,
+            "xycut_id": 12
+        },
+        {
+            "box": [
+                47,
+                309,
+                69,
+                322
+            ],
+            "text": "FOR",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        47,
+                        309,
+                        69,
+                        322
+                    ],
+                    "text": "FOR"
+                }
+            ],
+            "linking": [
+                [
+                    7,
+                    58
+                ]
+            ],
+            "id": 7,
+            "gaze_during": 0,
+            "fix_id": 27,
+            "tb_id": 37,
+            "s_id": 35,
+            "v3_id": 37,
+            "v1_id": 39,
+            "bert_id": 40,
+            "box_id": 37,
+            "xycut_id": 13
+        },
+        {
+            "text": "THE AMERICAN TOBACCO COMPANY",
+            "box": [
+                88,
+                307,
+                371,
+                322
+            ],
+            "linking": [
+                [
+                    7,
+                    58
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "THE",
+                    "box": [
+                        88,
+                        309,
+                        122,
+                        322
+                    ]
+                },
+                {
+                    "text": "AMERICAN",
+                    "box": [
+                        126,
+                        309,
+                        208,
+                        322
+                    ]
+                },
+                {
+                    "text": "TOBACCO",
+                    "box": [
+                        211,
+                        307,
+                        286,
+                        321
+                    ]
+                },
+                {
+                    "text": "COMPANY",
+                    "box": [
+                        291,
+                        307,
+                        371,
+                        321
+                    ]
+                }
+            ],
+            "id": 58,
+            "gaze_during": 387,
+            "fix_id": 33,
+            "tb_id": 38,
+            "s_id": 36,
+            "v3_id": 38,
+            "v1_id": 40,
+            "bert_id": 39,
+            "box_id": 38,
+            "xycut_id": 14
+        },
+        {
+            "text": "N. J.",
+            "box": [
+                589,
+                300,
+                631,
+                315
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "N.",
+                    "box": [
+                        589,
+                        302,
+                        607,
+                        315
+                    ]
+                },
+                {
+                    "text": "J.",
+                    "box": [
+                        613,
+                        300,
+                        631,
+                        315
+                    ]
+                }
+            ],
+            "id": 57,
+            "gaze_during": 0,
+            "fix_id": 36,
+            "tb_id": 39,
+            "s_id": 37,
+            "v3_id": 39,
+            "v1_id": 41,
+            "bert_id": 41,
+            "box_id": 43,
+            "xycut_id": 78
+        },
+        {
+            "text": "Enclosed are copies of legal proces served upon the statutory agent of the above company as follows:",
+            "box": [
+                77,
+                335,
+                598,
+                354
+            ],
+            "linking": [],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Enclosed",
+                    "box": [
+                        77,
+                        341,
+                        119,
+                        354
+                    ]
+                },
+                {
+                    "text": "are",
+                    "box": [
+                        123,
+                        342,
+                        140,
+                        352
+                    ]
+                },
+                {
+                    "text": "copies",
+                    "box": [
+                        142,
+                        342,
+                        173,
+                        353
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        177,
+                        341,
+                        188,
+                        352
+                    ]
+                },
+                {
+                    "text": "legal",
+                    "box": [
+                        191,
+                        339,
+                        218,
+                        353
+                    ]
+                },
+                {
+                    "text": "proces",
+                    "box": [
+                        219,
+                        341,
+                        255,
+                        352
+                    ]
+                },
+                {
+                    "text": "served",
+                    "box": [
+                        258,
+                        341,
+                        296,
+                        351
+                    ]
+                },
+                {
+                    "text": "upon",
+                    "box": [
+                        297,
+                        341,
+                        324,
+                        352
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        327,
+                        339,
+                        345,
+                        350
+                    ]
+                },
+                {
+                    "text": "statutory",
+                    "box": [
+                        348,
+                        338,
+                        393,
+                        351
+                    ]
+                },
+                {
+                    "text": "agent",
+                    "box": [
+                        395,
+                        338,
+                        424,
+                        349
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        426,
+                        338,
+                        439,
+                        349
+                    ]
+                },
+                {
+                    "text": "the",
+                    "box": [
+                        441,
+                        337,
+                        455,
+                        350
+                    ]
+                },
+                {
+                    "text": "above",
+                    "box": [
+                        459,
+                        337,
+                        491,
+                        350
+                    ]
+                },
+                {
+                    "text": "company",
+                    "box": [
+                        494,
+                        338,
+                        539,
+                        348
+                    ]
+                },
+                {
+                    "text": "as",
+                    "box": [
+                        543,
+                        337,
+                        556,
+                        345
+                    ]
+                },
+                {
+                    "text": "follows:",
+                    "box": [
+                        557,
+                        335,
+                        598,
+                        346
+                    ]
+                }
+            ],
+            "id": 60,
+            "gaze_during": 660,
+            "fix_id": 45,
+            "tb_id": 40,
+            "s_id": 38,
+            "v3_id": 40,
+            "v1_id": 42,
+            "bert_id": 43,
+            "box_id": 39,
+            "xycut_id": 16
+        },
+        {
+            "text": "Name of Company",
+            "box": [
+                261,
+                323,
+                341,
+                331
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "Name",
+                    "box": [
+                        261,
+                        323,
+                        286,
+                        331
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        289,
+                        323,
+                        297,
+                        331
+                    ]
+                },
+                {
+                    "text": "Company",
+                    "box": [
+                        300,
+                        323,
+                        341,
+                        331
+                    ]
+                }
+            ],
+            "id": 59,
+            "gaze_during": 240,
+            "fix_id": 37,
+            "tb_id": 41,
+            "s_id": 40,
+            "v3_id": 41,
+            "v1_id": 43,
+            "bert_id": 42,
+            "box_id": 41,
+            "xycut_id": 15
+        },
+        {
+            "box": [
+                608,
+                317,
+                635,
+                327
+            ],
+            "text": "(Name",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        608,
+                        317,
+                        635,
+                        327
+                    ],
+                    "text": "(Name"
+                }
+            ],
+            "linking": [],
+            "id": 28,
+            "gaze_during": 0,
+            "fix_id": 39,
+            "tb_id": 42,
+            "s_id": 39,
+            "v3_id": 42,
+            "v1_id": 44,
+            "bert_id": 44,
+            "box_id": 42,
+            "xycut_id": 80
+        },
+        {
+            "box": [
+                635,
+                316,
+                659,
+                329
+            ],
+            "text": "State)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        635,
+                        316,
+                        659,
+                        329
+                    ],
+                    "text": "State)"
+                }
+            ],
+            "linking": [],
+            "id": 29,
+            "gaze_during": 180,
+            "fix_id": 42,
+            "tb_id": 43,
+            "s_id": 41,
+            "v3_id": 43,
+            "v1_id": 45,
+            "bert_id": 45,
+            "box_id": 40,
+            "xycut_id": 82
+        },
+        {
+            "box": [
+                57,
+                370,
+                67,
+                383
+            ],
+            "text": "1.",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        57,
+                        370,
+                        67,
+                        383
+                    ],
+                    "text": "1."
+                }
+            ],
+            "linking": [],
+            "id": 41,
+            "gaze_during": 0,
+            "fix_id": 43,
+            "tb_id": 44,
+            "s_id": 42,
+            "v3_id": 44,
+            "v1_id": 46,
+            "bert_id": 47,
+            "box_id": 44,
+            "xycut_id": 17
+        },
+        {
+            "text": "Title of Action:",
+            "box": [
+                70,
+                369,
+                143,
+                382
+            ],
+            "linking": [
+                [
+                    61,
+                    62
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Title",
+                    "box": [
+                        70,
+                        369,
+                        91,
+                        382
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        94,
+                        370,
+                        105,
+                        381
+                    ]
+                },
+                {
+                    "text": "Action:",
+                    "box": [
+                        109,
+                        369,
+                        143,
+                        382
+                    ]
+                }
+            ],
+            "id": 61,
+            "gaze_during": 300,
+            "fix_id": 44,
+            "tb_id": 45,
+            "s_id": 43,
+            "v3_id": 45,
+            "v1_id": 47,
+            "bert_id": 46,
+            "box_id": 45,
+            "xycut_id": 18
+        },
+        {
+            "text": "Reuben Sunstein, Plaintiff, v. The American Tobacco Company, a New Jorsey corporation, Defendant.",
+            "box": [
+                147,
+                356,
+                658,
+                397
+            ],
+            "linking": [
+                [
+                    61,
+                    62
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Reuben",
+                    "box": [
+                        147,
+                        367,
+                        200,
+                        381
+                    ]
+                },
+                {
+                    "text": "Sunstein,",
+                    "box": [
+                        204,
+                        366,
+                        268,
+                        379
+                    ]
+                },
+                {
+                    "text": "Plaintiff,",
+                    "box": [
+                        274,
+                        365,
+                        340,
+                        378
+                    ]
+                },
+                {
+                    "text": "v.",
+                    "box": [
+                        348,
+                        367,
+                        363,
+                        377
+                    ]
+                },
+                {
+                    "text": "The",
+                    "box": [
+                        369,
+                        362,
+                        397,
+                        377
+                    ]
+                },
+                {
+                    "text": "American",
+                    "box": [
+                        401,
+                        362,
+                        471,
+                        375
+                    ]
+                },
+                {
+                    "text": "Tobacco",
+                    "box": [
+                        475,
+                        360,
+                        532,
+                        371
+                    ]
+                },
+                {
+                    "text": "Company,",
+                    "box": [
+                        539,
+                        360,
+                        606,
+                        374
+                    ]
+                },
+                {
+                    "text": "a",
+                    "box": [
+                        613,
+                        360,
+                        626,
+                        371
+                    ]
+                },
+                {
+                    "text": "New",
+                    "box": [
+                        627,
+                        356,
+                        658,
+                        373
+                    ]
+                },
+                {
+                    "text": "Jorsey",
+                    "box": [
+                        148,
+                        384,
+                        197,
+                        397
+                    ]
+                },
+                {
+                    "text": "corporation,",
+                    "box": [
+                        201,
+                        383,
+                        288,
+                        397
+                    ]
+                },
+                {
+                    "text": "Defendant.",
+                    "box": [
+                        297,
+                        381,
+                        371,
+                        394
+                    ]
+                }
+            ],
+            "id": 62,
+            "gaze_during": 706,
+            "fix_id": 46,
+            "tb_id": 46,
+            "s_id": 44,
+            "v3_id": 46,
+            "v1_id": 50,
+            "bert_id": 48,
+            "box_id": 46,
+            "xycut_id": 19
+        },
+        {
+            "box": [
+                57,
+                413,
+                68,
+                424
+            ],
+            "text": "2.",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        57,
+                        413,
+                        68,
+                        424
+                    ],
+                    "text": "2."
+                }
+            ],
+            "linking": [],
+            "id": 40,
+            "gaze_during": 0,
+            "fix_id": 47,
+            "tb_id": 47,
+            "s_id": 45,
+            "v3_id": 47,
+            "v1_id": 49,
+            "bert_id": 50,
+            "box_id": 47,
+            "xycut_id": 20
+        },
+        {
+            "box": [
+                70,
+                412,
+                131,
+                425
+            ],
+            "text": "Document(s)",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        70,
+                        412,
+                        131,
+                        425
+                    ],
+                    "text": "Document(s)"
+                }
+            ],
+            "linking": [],
+            "id": 9,
+            "gaze_during": 0,
+            "fix_id": 49,
+            "tb_id": 48,
+            "s_id": 46,
+            "v3_id": 48,
+            "v1_id": 48,
+            "bert_id": 49,
+            "box_id": 49,
+            "xycut_id": 21
+        },
+        {
+            "box": [
+                134,
+                412,
+                172,
+                425
+            ],
+            "text": "Served:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        134,
+                        412,
+                        172,
+                        425
+                    ],
+                    "text": "Served:"
+                }
+            ],
+            "linking": [
+                [
+                    10,
+                    63
+                ]
+            ],
+            "id": 10,
+            "gaze_during": 0,
+            "fix_id": 51,
+            "tb_id": 49,
+            "s_id": 47,
+            "v3_id": 49,
+            "v1_id": 51,
+            "bert_id": 53,
+            "box_id": 48,
+            "xycut_id": 22
+        },
+        {
+            "text": "Summons and Complaint",
+            "box": [
+                186,
+                408,
+                362,
+                425
+            ],
+            "linking": [
+                [
+                    10,
+                    63
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Summons",
+                    "box": [
+                        186,
+                        411,
+                        253,
+                        425
+                    ]
+                },
+                {
+                    "text": "and",
+                    "box": [
+                        256,
+                        409,
+                        283,
+                        422
+                    ]
+                },
+                {
+                    "text": "Complaint",
+                    "box": [
+                        288,
+                        408,
+                        362,
+                        422
+                    ]
+                }
+            ],
+            "id": 63,
+            "gaze_during": 260,
+            "fix_id": 48,
+            "tb_id": 50,
+            "s_id": 48,
+            "v3_id": 50,
+            "v1_id": 52,
+            "bert_id": 52,
+            "box_id": 50,
+            "xycut_id": 23
+        },
+        {
+            "box": [
+                57,
+                441,
+                67,
+                454
+            ],
+            "text": "3.",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        57,
+                        441,
+                        67,
+                        454
+                    ],
+                    "text": "3."
+                }
+            ],
+            "linking": [],
+            "id": 39,
+            "gaze_during": 0,
+            "fix_id": 50,
+            "tb_id": 51,
+            "s_id": 49,
+            "v3_id": 51,
+            "v1_id": 53,
+            "bert_id": 51,
+            "box_id": 52,
+            "xycut_id": 25
+        },
+        {
+            "box": [
+                71,
+                440,
+                102,
+                451
+            ],
+            "text": "Court:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        71,
+                        440,
+                        102,
+                        451
+                    ],
+                    "text": "Court:"
+                }
+            ],
+            "linking": [
+                [
+                    11,
+                    64
+                ]
+            ],
+            "id": 11,
+            "gaze_during": 0,
+            "fix_id": 52,
+            "tb_id": 52,
+            "s_id": 50,
+            "v3_id": 52,
+            "v1_id": 54,
+            "bert_id": 56,
+            "box_id": 53,
+            "xycut_id": 28
+        },
+        {
+            "text": "Circuit Court, Dade County, Florida. No. 69 -1351",
+            "box": [
+                117,
+                430,
+                486,
+                453
+            ],
+            "linking": [
+                [
+                    11,
+                    64
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Circuit",
+                    "box": [
+                        117,
+                        439,
+                        171,
+                        453
+                    ]
+                },
+                {
+                    "text": "Court,",
+                    "box": [
+                        173,
+                        437,
+                        219,
+                        451
+                    ]
+                },
+                {
+                    "text": "Dade",
+                    "box": [
+                        226,
+                        436,
+                        264,
+                        450
+                    ]
+                },
+                {
+                    "text": "County,",
+                    "box": [
+                        268,
+                        434,
+                        320,
+                        452
+                    ]
+                },
+                {
+                    "text": "Florida.",
+                    "box": [
+                        327,
+                        432,
+                        387,
+                        447
+                    ]
+                },
+                {
+                    "text": "No.",
+                    "box": [
+                        398,
+                        433,
+                        425,
+                        444
+                    ]
+                },
+                {
+                    "text": "69",
+                    "box": [
+                        432,
+                        430,
+                        446,
+                        445
+                    ]
+                },
+                {
+                    "text": "-1351",
+                    "box": [
+                        448,
+                        432,
+                        486,
+                        446
+                    ]
+                }
+            ],
+            "id": 64,
+            "gaze_during": 999,
+            "fix_id": 54,
+            "tb_id": 53,
+            "s_id": 51,
+            "v3_id": 53,
+            "v1_id": 55,
+            "bert_id": 55,
+            "box_id": 51,
+            "xycut_id": 31
+        },
+        {
+            "box": [
+                54,
+                466,
+                68,
+                477
+            ],
+            "text": "4.",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        54,
+                        466,
+                        68,
+                        477
+                    ],
+                    "text": "4."
+                }
+            ],
+            "linking": [],
+            "id": 38,
+            "gaze_during": 0,
+            "fix_id": 55,
+            "tb_id": 54,
+            "s_id": 52,
+            "v3_id": 54,
+            "v1_id": 56,
+            "bert_id": 54,
+            "box_id": 54,
+            "xycut_id": 24
+        },
+        {
+            "text": "Strike\" cigarettes manufactured by defendant, wherein plaintiff alleges breach of was- anties, seeks damages in excess of $5, 000 and demands trial by jury.",
+            "box": [
+                63,
+                469,
+                683,
+                510
+            ],
+            "linking": [
+                [
+                    65,
+                    67
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Strike\"",
+                    "box": [
+                        63,
+                        480,
+                        115,
+                        494
+                    ]
+                },
+                {
+                    "text": "cigarettes",
+                    "box": [
+                        119,
+                        482,
+                        190,
+                        493
+                    ]
+                },
+                {
+                    "text": "manufactured",
+                    "box": [
+                        194,
+                        478,
+                        292,
+                        491
+                    ]
+                },
+                {
+                    "text": "by",
+                    "box": [
+                        296,
+                        476,
+                        313,
+                        490
+                    ]
+                },
+                {
+                    "text": "defendant,",
+                    "box": [
+                        318,
+                        476,
+                        389,
+                        487
+                    ]
+                },
+                {
+                    "text": "wherein",
+                    "box": [
+                        397,
+                        473,
+                        456,
+                        484
+                    ]
+                },
+                {
+                    "text": "plaintiff",
+                    "box": [
+                        458,
+                        472,
+                        517,
+                        486
+                    ]
+                },
+                {
+                    "text": "alleges",
+                    "box": [
+                        520,
+                        472,
+                        569,
+                        486
+                    ]
+                },
+                {
+                    "text": "breach",
+                    "box": [
+                        573,
+                        471,
+                        625,
+                        484
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        628,
+                        469,
+                        642,
+                        483
+                    ]
+                },
+                {
+                    "text": "was-",
+                    "box": [
+                        644,
+                        469,
+                        683,
+                        483
+                    ]
+                },
+                {
+                    "text": "anties,",
+                    "box": [
+                        64,
+                        497,
+                        111,
+                        510
+                    ]
+                },
+                {
+                    "text": "seeks",
+                    "box": [
+                        119,
+                        497,
+                        161,
+                        508
+                    ]
+                },
+                {
+                    "text": "damages",
+                    "box": [
+                        165,
+                        496,
+                        226,
+                        509
+                    ]
+                },
+                {
+                    "text": "in",
+                    "box": [
+                        232,
+                        494,
+                        245,
+                        507
+                    ]
+                },
+                {
+                    "text": "excess",
+                    "box": [
+                        250,
+                        493,
+                        297,
+                        506
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        302,
+                        492,
+                        317,
+                        505
+                    ]
+                },
+                {
+                    "text": "$5,",
+                    "box": [
+                        321,
+                        490,
+                        341,
+                        505
+                    ]
+                },
+                {
+                    "text": "000",
+                    "box": [
+                        345,
+                        492,
+                        369,
+                        503
+                    ]
+                },
+                {
+                    "text": "and",
+                    "box": [
+                        374,
+                        490,
+                        399,
+                        501
+                    ]
+                },
+                {
+                    "text": "demands",
+                    "box": [
+                        402,
+                        490,
+                        463,
+                        500
+                    ]
+                },
+                {
+                    "text": "trial",
+                    "box": [
+                        469,
+                        489,
+                        501,
+                        503
+                    ]
+                },
+                {
+                    "text": "by",
+                    "box": [
+                        506,
+                        487,
+                        523,
+                        502
+                    ]
+                },
+                {
+                    "text": "jury.",
+                    "box": [
+                        525,
+                        487,
+                        563,
+                        501
+                    ]
+                }
+            ],
+            "id": 67,
+            "gaze_during": 2761,
+            "fix_id": 59,
+            "tb_id": 55,
+            "s_id": 53,
+            "v3_id": 55,
+            "v1_id": 57,
+            "bert_id": 60,
+            "box_id": 57,
+            "xycut_id": 27
+        },
+        {
+            "text": "Nature of Action:",
+            "box": [
+                71,
+                465,
+                158,
+                479
+            ],
+            "linking": [
+                [
+                    65,
+                    67
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Nature",
+                    "box": [
+                        71,
+                        468,
+                        105,
+                        478
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        109,
+                        468,
+                        122,
+                        479
+                    ]
+                },
+                {
+                    "text": "Action:",
+                    "box": [
+                        124,
+                        465,
+                        158,
+                        478
+                    ]
+                }
+            ],
+            "id": 65,
+            "gaze_during": 547,
+            "fix_id": 53,
+            "tb_id": 56,
+            "s_id": 54,
+            "v3_id": 56,
+            "v1_id": 58,
+            "bert_id": 59,
+            "box_id": 57,
+            "xycut_id": 29
+        },
+        {
+            "text": "For personal injuries resulting after smoking \"Pall Mall\" and \"Lucky",
+            "box": [
+                168,
+                454,
+                667,
+                476
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "For",
+                    "box": [
+                        168,
+                        462,
+                        196,
+                        476
+                    ]
+                },
+                {
+                    "text": "personal",
+                    "box": [
+                        200,
+                        461,
+                        261,
+                        476
+                    ]
+                },
+                {
+                    "text": "injuries",
+                    "box": [
+                        264,
+                        461,
+                        321,
+                        474
+                    ]
+                },
+                {
+                    "text": "resulting",
+                    "box": [
+                        325,
+                        461,
+                        389,
+                        474
+                    ]
+                },
+                {
+                    "text": "after",
+                    "box": [
+                        395,
+                        459,
+                        427,
+                        472
+                    ]
+                },
+                {
+                    "text": "smoking",
+                    "box": [
+                        434,
+                        455,
+                        493,
+                        470
+                    ]
+                },
+                {
+                    "text": "\"Pall",
+                    "box": [
+                        497,
+                        457,
+                        536,
+                        470
+                    ]
+                },
+                {
+                    "text": "Mall\"",
+                    "box": [
+                        539,
+                        454,
+                        581,
+                        469
+                    ]
+                },
+                {
+                    "text": "and",
+                    "box": [
+                        585,
+                        455,
+                        609,
+                        468
+                    ]
+                },
+                {
+                    "text": "\"Lucky",
+                    "box": [
+                        615,
+                        454,
+                        667,
+                        467
+                    ]
+                }
+            ],
+            "id": 66,
+            "gaze_during": 450,
+            "fix_id": 56,
+            "tb_id": 57,
+            "s_id": 55,
+            "v3_id": 57,
+            "v1_id": 59,
+            "bert_id": 58,
+            "box_id": 55,
+            "xycut_id": 32
+        },
+        {
+            "box": [
+                59,
+                521,
+                70,
+                535
+            ],
+            "text": "5.",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        59,
+                        521,
+                        70,
+                        535
+                    ],
+                    "text": "5."
+                }
+            ],
+            "linking": [],
+            "id": 37,
+            "gaze_during": 0,
+            "fix_id": 57,
+            "tb_id": 58,
+            "s_id": 56,
+            "v3_id": 58,
+            "v1_id": 60,
+            "bert_id": 57,
+            "box_id": 58,
+            "xycut_id": 26
+        },
+        {
+            "text": "On Whom Process was Served:",
+            "box": [
+                71,
+                520,
+                228,
+                535
+            ],
+            "linking": [
+                [
+                    68,
+                    69
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "On",
+                    "box": [
+                        71,
+                        524,
+                        88,
+                        534
+                    ]
+                },
+                {
+                    "text": "Whom",
+                    "box": [
+                        91,
+                        521,
+                        122,
+                        535
+                    ]
+                },
+                {
+                    "text": "Process",
+                    "box": [
+                        124,
+                        521,
+                        162,
+                        534
+                    ]
+                },
+                {
+                    "text": "was",
+                    "box": [
+                        165,
+                        522,
+                        186,
+                        533
+                    ]
+                },
+                {
+                    "text": "Served:",
+                    "box": [
+                        189,
+                        520,
+                        228,
+                        535
+                    ]
+                }
+            ],
+            "id": 68,
+            "gaze_during": 0,
+            "fix_id": 58,
+            "tb_id": 59,
+            "s_id": 57,
+            "v3_id": 59,
+            "v1_id": 61,
+            "bert_id": 62,
+            "box_id": 59,
+            "xycut_id": 30
+        },
+        {
+            "text": "Phyllis G. Jonnings, Asst. Socy,. The Corporation Company, Jacksonville, Florida",
+            "box": [
+                244,
+                510,
+                689,
+                549
+            ],
+            "linking": [
+                [
+                    68,
+                    69
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Phyllis",
+                    "box": [
+                        244,
+                        520,
+                        296,
+                        533
+                    ]
+                },
+                {
+                    "text": "G.",
+                    "box": [
+                        300,
+                        518,
+                        317,
+                        531
+                    ]
+                },
+                {
+                    "text": "Jonnings,",
+                    "box": [
+                        325,
+                        517,
+                        392,
+                        532
+                    ]
+                },
+                {
+                    "text": "Asst.",
+                    "box": [
+                        398,
+                        517,
+                        434,
+                        531
+                    ]
+                },
+                {
+                    "text": "Socy,.",
+                    "box": [
+                        443,
+                        517,
+                        488,
+                        532
+                    ]
+                },
+                {
+                    "text": "The",
+                    "box": [
+                        497,
+                        513,
+                        522,
+                        528
+                    ]
+                },
+                {
+                    "text": "Corporation",
+                    "box": [
+                        529,
+                        514,
+                        613,
+                        529
+                    ]
+                },
+                {
+                    "text": "Company,",
+                    "box": [
+                        619,
+                        510,
+                        689,
+                        528
+                    ]
+                },
+                {
+                    "text": "Jacksonville,",
+                    "box": [
+                        244,
+                        535,
+                        338,
+                        549
+                    ]
+                },
+                {
+                    "text": "Florida",
+                    "box": [
+                        344,
+                        534,
+                        403,
+                        545
+                    ]
+                }
+            ],
+            "id": 69,
+            "gaze_during": 1020,
+            "fix_id": 62,
+            "tb_id": 60,
+            "s_id": 58,
+            "v3_id": 60,
+            "v1_id": 62,
+            "bert_id": 61,
+            "box_id": 60,
+            "xycut_id": 33
+        },
+        {
+            "box": [
+                56,
+                578,
+                69,
+                589
+            ],
+            "text": "6.",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        56,
+                        578,
+                        69,
+                        589
+                    ],
+                    "text": "6."
+                }
+            ],
+            "linking": [],
+            "id": 36,
+            "gaze_during": 0,
+            "fix_id": 64,
+            "tb_id": 61,
+            "s_id": 59,
+            "v3_id": 61,
+            "v1_id": 63,
+            "bert_id": 63,
+            "box_id": 61,
+            "xycut_id": 34
+        },
+        {
+            "text": "Date and Hour of Service",
+            "box": [
+                70,
+                575,
+                204,
+                590
+            ],
+            "linking": [
+                [
+                    70,
+                    74
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Date",
+                    "box": [
+                        70,
+                        577,
+                        95,
+                        588
+                    ]
+                },
+                {
+                    "text": "and",
+                    "box": [
+                        98,
+                        575,
+                        119,
+                        586
+                    ]
+                },
+                {
+                    "text": "Hour",
+                    "box": [
+                        122,
+                        575,
+                        147,
+                        588
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        149,
+                        575,
+                        160,
+                        588
+                    ]
+                },
+                {
+                    "text": "Service",
+                    "box": [
+                        163,
+                        575,
+                        204,
+                        590
+                    ]
+                }
+            ],
+            "id": 70,
+            "gaze_during": 0,
+            "fix_id": 66,
+            "tb_id": 62,
+            "s_id": 60,
+            "v3_id": 62,
+            "v1_id": 64,
+            "bert_id": 64,
+            "box_id": 62,
+            "xycut_id": 35
+        },
+        {
+            "text": "January 27, 1969 9: 00 a. m.",
+            "box": [
+                246,
+                568,
+                478,
+                589
+            ],
+            "linking": [
+                [
+                    70,
+                    74
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "January",
+                    "box": [
+                        246,
+                        574,
+                        302,
+                        589
+                    ]
+                },
+                {
+                    "text": "27,",
+                    "box": [
+                        307,
+                        571,
+                        328,
+                        586
+                    ]
+                },
+                {
+                    "text": "1969",
+                    "box": [
+                        335,
+                        571,
+                        369,
+                        584
+                    ]
+                },
+                {
+                    "text": "9:",
+                    "box": [
+                        406,
+                        570,
+                        420,
+                        583
+                    ]
+                },
+                {
+                    "text": "00",
+                    "box": [
+                        422,
+                        570,
+                        437,
+                        583
+                    ]
+                },
+                {
+                    "text": "a.",
+                    "box": [
+                        441,
+                        568,
+                        455,
+                        582
+                    ]
+                },
+                {
+                    "text": "m.",
+                    "box": [
+                        457,
+                        570,
+                        478,
+                        584
+                    ]
+                }
+            ],
+            "id": 74,
+            "gaze_during": 643,
+            "fix_id": 60,
+            "tb_id": 63,
+            "s_id": 61,
+            "v3_id": 63,
+            "v1_id": 66,
+            "bert_id": 65,
+            "box_id": 63,
+            "xycut_id": 36
+        },
+        {
+            "box": [
+                59,
+                603,
+                69,
+                614
+            ],
+            "text": "7.",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        59,
+                        603,
+                        69,
+                        614
+                    ],
+                    "text": "7."
+                }
+            ],
+            "linking": [],
+            "id": 35,
+            "gaze_during": 0,
+            "fix_id": 63,
+            "tb_id": 64,
+            "s_id": 62,
+            "v3_id": 64,
+            "v1_id": 65,
+            "bert_id": 66,
+            "box_id": 65,
+            "xycut_id": 37
+        },
+        {
+            "text": "Appearance or Answer Dues",
+            "box": [
+                74,
+                602,
+                215,
+                615
+            ],
+            "linking": [
+                [
+                    71,
+                    75
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Appearance",
+                    "box": [
+                        74,
+                        603,
+                        133,
+                        614
+                    ]
+                },
+                {
+                    "text": "or",
+                    "box": [
+                        135,
+                        603,
+                        146,
+                        613
+                    ]
+                },
+                {
+                    "text": "Answer",
+                    "box": [
+                        149,
+                        602,
+                        187,
+                        615
+                    ]
+                },
+                {
+                    "text": "Dues",
+                    "box": [
+                        190,
+                        602,
+                        215,
+                        615
+                    ]
+                }
+            ],
+            "id": 71,
+            "gaze_during": 0,
+            "fix_id": 65,
+            "tb_id": 65,
+            "s_id": 63,
+            "v3_id": 65,
+            "v1_id": 67,
+            "bert_id": 67,
+            "box_id": 66,
+            "xycut_id": 38
+        },
+        {
+            "text": "Within 20 days after service, exclusive of day of service.",
+            "box": [
+                247,
+                592,
+                658,
+                613
+            ],
+            "linking": [
+                [
+                    71,
+                    75
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Within",
+                    "box": [
+                        247,
+                        598,
+                        292,
+                        613
+                    ]
+                },
+                {
+                    "text": "20",
+                    "box": [
+                        297,
+                        598,
+                        314,
+                        611
+                    ]
+                },
+                {
+                    "text": "days",
+                    "box": [
+                        318,
+                        598,
+                        349,
+                        613
+                    ]
+                },
+                {
+                    "text": "after",
+                    "box": [
+                        353,
+                        598,
+                        389,
+                        611
+                    ]
+                },
+                {
+                    "text": "service,",
+                    "box": [
+                        395,
+                        596,
+                        454,
+                        609
+                    ]
+                },
+                {
+                    "text": "exclusive",
+                    "box": [
+                        461,
+                        595,
+                        528,
+                        608
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        532,
+                        594,
+                        546,
+                        607
+                    ]
+                },
+                {
+                    "text": "day",
+                    "box": [
+                        552,
+                        595,
+                        574,
+                        608
+                    ]
+                },
+                {
+                    "text": "of",
+                    "box": [
+                        581,
+                        594,
+                        595,
+                        605
+                    ]
+                },
+                {
+                    "text": "service.",
+                    "box": [
+                        601,
+                        592,
+                        658,
+                        605
+                    ]
+                }
+            ],
+            "id": 75,
+            "gaze_during": 377,
+            "fix_id": 61,
+            "tb_id": 66,
+            "s_id": 64,
+            "v3_id": 66,
+            "v1_id": 69,
+            "bert_id": 69,
+            "box_id": 64,
+            "xycut_id": 39
+        },
+        {
+            "text": "Max A. Goldfarb 414 Biscayne Building Miami, Florida",
+            "box": [
+                244,
+                624,
+                405,
+                671
+            ],
+            "linking": [
+                [
+                    72,
+                    73
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "Max",
+                    "box": [
+                        244,
+                        626,
+                        275,
+                        639
+                    ]
+                },
+                {
+                    "text": "A.",
+                    "box": [
+                        278,
+                        624,
+                        298,
+                        638
+                    ]
+                },
+                {
+                    "text": "Goldfarb",
+                    "box": [
+                        304,
+                        624,
+                        367,
+                        635
+                    ]
+                },
+                {
+                    "text": "414",
+                    "box": [
+                        247,
+                        641,
+                        271,
+                        654
+                    ]
+                },
+                {
+                    "text": "Biscayne",
+                    "box": [
+                        277,
+                        641,
+                        340,
+                        655
+                    ]
+                },
+                {
+                    "text": "Building",
+                    "box": [
+                        346,
+                        640,
+                        405,
+                        654
+                    ]
+                },
+                {
+                    "text": "Miami,",
+                    "box": [
+                        246,
+                        656,
+                        299,
+                        671
+                    ]
+                },
+                {
+                    "text": "Florida",
+                    "box": [
+                        304,
+                        656,
+                        360,
+                        670
+                    ]
+                }
+            ],
+            "id": 73,
+            "gaze_during": 1209,
+            "fix_id": 67,
+            "tb_id": 67,
+            "s_id": 65,
+            "v3_id": 67,
+            "v1_id": 70,
+            "bert_id": 70,
+            "box_id": 67,
+            "xycut_id": 42
+        },
+        {
+            "box": [
+                553,
+                606,
+                687,
+                743
+            ],
+            "text": "",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        553,
+                        606,
+                        687,
+                        743
+                    ],
+                    "text": ""
+                }
+            ],
+            "linking": [],
+            "id": 31,
+            "gaze_during": 927,
+            "fix_id": 68,
+            "tb_id": 68,
+            "s_id": 70,
+            "v3_id": 81,
+            "v1_id": 71,
+            "bert_id": 71,
+            "box_id": 68,
+            "xycut_id": 70
+        },
+        {
+            "box": [
+                59,
+                631,
+                70,
+                644
+            ],
+            "text": "8.",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        59,
+                        631,
+                        70,
+                        644
+                    ],
+                    "text": "8."
+                }
+            ],
+            "linking": [],
+            "id": 34,
+            "gaze_during": 0,
+            "fix_id": 69,
+            "tb_id": 69,
+            "s_id": 66,
+            "v3_id": 69,
+            "v1_id": 72,
+            "bert_id": 72,
+            "box_id": 69,
+            "xycut_id": 40
+        },
+        {
+            "text": "Plaintiff's Attorney(s):",
+            "box": [
+                71,
+                628,
+                181,
+                643
+            ],
+            "linking": [
+                [
+                    72,
+                    73
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "Plaintiff's",
+                    "box": [
+                        71,
+                        628,
+                        118,
+                        641
+                    ]
+                },
+                {
+                    "text": "Attorney(s):",
+                    "box": [
+                        122,
+                        630,
+                        181,
+                        643
+                    ]
+                }
+            ],
+            "id": 72,
+            "gaze_during": 0,
+            "fix_id": 70,
+            "tb_id": 70,
+            "s_id": 67,
+            "v3_id": 70,
+            "v1_id": 73,
+            "bert_id": 73,
+            "box_id": 70,
+            "xycut_id": 41
+        },
+        {
+            "box": [
+                60,
+                684,
+                71,
+                697
+            ],
+            "text": "9.",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        60,
+                        684,
+                        71,
+                        697
+                    ],
+                    "text": "9."
+                }
+            ],
+            "linking": [],
+            "id": 33,
+            "gaze_during": 0,
+            "fix_id": 71,
+            "tb_id": 71,
+            "s_id": 68,
+            "v3_id": 71,
+            "v1_id": 74,
+            "bert_id": 74,
+            "box_id": 71,
+            "xycut_id": 43
+        },
+        {
+            "box": [
+                73,
+                684,
+                118,
+                697
+            ],
+            "text": "Remarks",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        73,
+                        684,
+                        118,
+                        697
+                    ],
+                    "text": "Remarks"
+                }
+            ],
+            "linking": [],
+            "id": 12,
+            "gaze_during": 0,
+            "fix_id": 73,
+            "tb_id": 72,
+            "s_id": 69,
+            "v3_id": 72,
+            "v1_id": 75,
+            "bert_id": 75,
+            "box_id": 72,
+            "xycut_id": 44
+        },
+        {
+            "text": "RECEIVED AND FORWARDED ON",
+            "box": [
+                418,
+                751,
+                588,
+                767
+            ],
+            "linking": [
+                [
+                    76,
+                    77
+                ]
+            ],
+            "label": "question",
+            "words": [
+                {
+                    "text": "RECEIVED",
+                    "box": [
+                        418,
+                        753,
+                        471,
+                        766
+                    ]
+                },
+                {
+                    "text": "AND",
+                    "box": [
+                        473,
+                        753,
+                        498,
+                        767
+                    ]
+                },
+                {
+                    "text": "FORWARDED",
+                    "box": [
+                        501,
+                        751,
+                        565,
+                        765
+                    ]
+                },
+                {
+                    "text": "ON",
+                    "box": [
+                        568,
+                        753,
+                        588,
+                        766
+                    ]
+                }
+            ],
+            "id": 76,
+            "gaze_during": 0,
+            "fix_id": 74,
+            "tb_id": 73,
+            "s_id": 70,
+            "v3_id": 73,
+            "v1_id": 78,
+            "bert_id": 76,
+            "box_id": 73,
+            "xycut_id": 59
+        },
+        {
+            "text": "1 29/29/ 69 (Date)",
+            "box": [
+                610,
+                746,
+                690,
+                764
+            ],
+            "linking": [
+                [
+                    76,
+                    77
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "1",
+                    "box": [
+                        610,
+                        747,
+                        618,
+                        761
+                    ]
+                },
+                {
+                    "text": "29/29/",
+                    "box": [
+                        617,
+                        746,
+                        642,
+                        764
+                    ]
+                },
+                {
+                    "text": "69",
+                    "box": [
+                        640,
+                        746,
+                        664,
+                        764
+                    ]
+                },
+                {
+                    "text": "(Date)",
+                    "box": [
+                        665,
+                        751,
+                        690,
+                        762
+                    ]
+                }
+            ],
+            "id": 77,
+            "gaze_during": 300,
+            "fix_id": 72,
+            "tb_id": 74,
+            "s_id": 71,
+            "v3_id": 74,
+            "v1_id": 77,
+            "bert_id": 77,
+            "box_id": 74,
+            "xycut_id": 81
+        },
+        {
+            "text": "KINDLY ACKNOWLEDGE RECEIPT BY SIGNING AND RETURNING TO US THE ENCLOSED CARBON COPY OF THIS TRANSMITTAL FORM,",
+            "box": [
+                25,
+                782,
+                377,
+                812
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "KINDLY",
+                    "box": [
+                        25,
+                        788,
+                        64,
+                        798
+                    ]
+                },
+                {
+                    "text": "ACKNOWLEDGE",
+                    "box": [
+                        66,
+                        786,
+                        151,
+                        796
+                    ]
+                },
+                {
+                    "text": "RECEIPT",
+                    "box": [
+                        155,
+                        785,
+                        194,
+                        798
+                    ]
+                },
+                {
+                    "text": "BY",
+                    "box": [
+                        200,
+                        786,
+                        211,
+                        797
+                    ]
+                },
+                {
+                    "text": "SIGNING",
+                    "box": [
+                        216,
+                        784,
+                        262,
+                        797
+                    ]
+                },
+                {
+                    "text": "AND",
+                    "box": [
+                        270,
+                        785,
+                        292,
+                        796
+                    ]
+                },
+                {
+                    "text": "RETURNING",
+                    "box": [
+                        295,
+                        784,
+                        356,
+                        797
+                    ]
+                },
+                {
+                    "text": "TO",
+                    "box": [
+                        359,
+                        782,
+                        377,
+                        796
+                    ]
+                },
+                {
+                    "text": "US",
+                    "box": [
+                        27,
+                        802,
+                        42,
+                        812
+                    ]
+                },
+                {
+                    "text": "THE",
+                    "box": [
+                        45,
+                        799,
+                        63,
+                        812
+                    ]
+                },
+                {
+                    "text": "ENCLOSED",
+                    "box": [
+                        68,
+                        799,
+                        125,
+                        810
+                    ]
+                },
+                {
+                    "text": "CARBON",
+                    "box": [
+                        128,
+                        797,
+                        173,
+                        810
+                    ]
+                },
+                {
+                    "text": "COPY",
+                    "box": [
+                        176,
+                        797,
+                        210,
+                        808
+                    ]
+                },
+                {
+                    "text": "OF",
+                    "box": [
+                        215,
+                        799,
+                        232,
+                        809
+                    ]
+                },
+                {
+                    "text": "THIS",
+                    "box": [
+                        235,
+                        797,
+                        256,
+                        810
+                    ]
+                },
+                {
+                    "text": "TRANSMITTAL",
+                    "box": [
+                        260,
+                        797,
+                        328,
+                        810
+                    ]
+                },
+                {
+                    "text": "FORM,",
+                    "box": [
+                        332,
+                        797,
+                        364,
+                        808
+                    ]
+                }
+            ],
+            "id": 82,
+            "gaze_during": 204,
+            "fix_id": 75,
+            "tb_id": 75,
+            "s_id": 72,
+            "v3_id": 75,
+            "v1_id": 76,
+            "bert_id": 78,
+            "box_id": 75,
+            "xycut_id": 45
+        },
+        {
+            "box": [
+                426,
+                781,
+                443,
+                795
+            ],
+            "text": "BY:",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        426,
+                        781,
+                        443,
+                        795
+                    ],
+                    "text": "BY:"
+                }
+            ],
+            "linking": [
+                [
+                    13,
+                    78
+                ]
+            ],
+            "id": 13,
+            "gaze_during": 0,
+            "fix_id": 76,
+            "tb_id": 76,
+            "s_id": 74,
+            "v3_id": 76,
+            "v1_id": 79,
+            "bert_id": 81,
+            "box_id": 76,
+            "xycut_id": 60
+        },
+        {
+            "text": "THE CORPORATION TRUST COMPANY",
+            "box": [
+                448,
+                778,
+                659,
+                794
+            ],
+            "linking": [
+                [
+                    13,
+                    78
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "THE",
+                    "box": [
+                        448,
+                        781,
+                        472,
+                        794
+                    ]
+                },
+                {
+                    "text": "CORPORATION",
+                    "box": [
+                        478,
+                        779,
+                        558,
+                        793
+                    ]
+                },
+                {
+                    "text": "TRUST",
+                    "box": [
+                        560,
+                        778,
+                        599,
+                        791
+                    ]
+                },
+                {
+                    "text": "COMPANY",
+                    "box": [
+                        605,
+                        778,
+                        659,
+                        789
+                    ]
+                }
+            ],
+            "id": 78,
+            "gaze_during": 626,
+            "fix_id": 77,
+            "tb_id": 77,
+            "s_id": 73,
+            "v3_id": 77,
+            "v1_id": 80,
+            "bert_id": 80,
+            "box_id": 77,
+            "xycut_id": 62
+        },
+        {
+            "box": [
+                427,
+                811,
+                444,
+                824
+            ],
+            "text": "Per",
+            "label": "question",
+            "words": [
+                {
+                    "box": [
+                        427,
+                        811,
+                        444,
+                        824
+                    ],
+                    "text": "Per"
+                }
+            ],
+            "linking": [
+                [
+                    14,
+                    79
+                ]
+            ],
+            "id": 14,
+            "gaze_during": 0,
+            "fix_id": 78,
+            "tb_id": 78,
+            "s_id": 75,
+            "v3_id": 78,
+            "v1_id": 81,
+            "bert_id": 79,
+            "box_id": 78,
+            "xycut_id": 61
+        },
+        {
+            "text": "V. Colvellm Asst. Secy. 277 Park Avenue",
+            "box": [
+                448,
+                795,
+                614,
+                851
+            ],
+            "linking": [
+                [
+                    14,
+                    79
+                ]
+            ],
+            "label": "answer",
+            "words": [
+                {
+                    "text": "",
+                    "box": [
+                        458,
+                        795,
+                        612,
+                        824
+                    ]
+                },
+                {
+                    "text": "V.",
+                    "box": [
+                        450,
+                        823,
+                        464,
+                        836
+                    ]
+                },
+                {
+                    "text": "Colvellm",
+                    "box": [
+                        469,
+                        823,
+                        532,
+                        834
+                    ]
+                },
+                {
+                    "text": "Asst.",
+                    "box": [
+                        532,
+                        823,
+                        571,
+                        833
+                    ]
+                },
+                {
+                    "text": "Secy.",
+                    "box": [
+                        575,
+                        823,
+                        614,
+                        834
+                    ]
+                },
+                {
+                    "text": "277",
+                    "box": [
+                        448,
+                        838,
+                        473,
+                        851
+                    ]
+                },
+                {
+                    "text": "Park",
+                    "box": [
+                        479,
+                        838,
+                        508,
+                        851
+                    ]
+                },
+                {
+                    "text": "Avenue",
+                    "box": [
+                        514,
+                        837,
+                        557,
+                        850
+                    ]
+                }
+            ],
+            "id": 79,
+            "gaze_during": 886,
+            "fix_id": 79,
+            "tb_id": 79,
+            "s_id": 76,
+            "v3_id": 81,
+            "v1_id": 81,
+            "bert_id": 81,
+            "box_id": 79,
+            "xycut_id": 63
+        },
+        {
+            "text": "New York, New York 10017",
+            "box": [
+                450,
+                856,
+                622,
+                872
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "New",
+                    "box": [
+                        450,
+                        859,
+                        474,
+                        872
+                    ]
+                },
+                {
+                    "text": "York,",
+                    "box": [
+                        478,
+                        856,
+                        516,
+                        871
+                    ]
+                },
+                {
+                    "text": "New",
+                    "box": [
+                        520,
+                        858,
+                        544,
+                        871
+                    ]
+                },
+                {
+                    "text": "York",
+                    "box": [
+                        549,
+                        858,
+                        578,
+                        872
+                    ]
+                },
+                {
+                    "text": "10017",
+                    "box": [
+                        584,
+                        856,
+                        622,
+                        871
+                    ]
+                }
+            ],
+            "id": 80,
+            "gaze_during": 460,
+            "fix_id": 80,
+            "tb_id": 80,
+            "s_id": 77,
+            "v3_id": 81,
+            "v1_id": 81,
+            "bert_id": 81,
+            "box_id": 80,
+            "xycut_id": 64
+        },
+        {
+            "box": [
+                535,
+                848,
+                571,
+                859
+            ],
+            "text": "(Address)",
+            "label": "other",
+            "words": [
+                {
+                    "box": [
+                        535,
+                        848,
+                        571,
+                        859
+                    ],
+                    "text": "(Address)"
+                }
+            ],
+            "linking": [],
+            "id": 32,
+            "gaze_during": 0,
+            "fix_id": 81,
+            "tb_id": 81,
+            "s_id": 78,
+            "v3_id": 81,
+            "v1_id": 81,
+            "bert_id": 81,
+            "box_id": 81,
+            "xycut_id": 67
+        },
+        {
+            "text": "",
+            "box": [
+                574,
+                880,
+                683,
+                893
+            ],
+            "linking": [],
+            "label": "other",
+            "words": [
+                {
+                    "text": "",
+                    "box": [
+                        574,
+                        880,
+                        581,
+                        891
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        584,
+                        883,
+                        599,
+                        891
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        613,
+                        883,
+                        633,
+                        893
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        641,
+                        881,
+                        662,
+                        891
+                    ]
+                },
+                {
+                    "text": "",
+                    "box": [
+                        663,
+                        880,
+                        683,
+                        891
+                    ]
+                }
+            ],
+            "id": 81,
+            "gaze_during": 193,
+            "fix_id": 82,
+            "tb_id": 82,
+            "s_id": 82,
+            "v3_id": 81,
+            "v1_id": 81,
+            "bert_id": 81,
+            "box_id": 82,
+            "xycut_id": 75
+        }
+    ]
+}

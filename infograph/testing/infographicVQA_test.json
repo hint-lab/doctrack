@@ -1,0 +1,1176 @@
+{
+    "dataset_name": "infographicVQA",
+    "dataset_version": "1.0",
+    "dataset_split": "val",
+    "data": [
+        {
+            "questionId": 77367,
+            "question": "Which region would have a population that is second least affected by COVID -19?",
+            "image_local_name": "10388.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21382.jpeg",
+            "ocr_output_file": "10388.json",
+            "answers": [
+                "europe & central asia"
+            ],
+            "data_split": "val"
+        },
+	{
+            "questionId": 77810,
+            "question": "What percent of businesses may have to close permanently?",
+            "image_local_name": "10431.jpeg",
+            "image_url": "https://quocirca.com/wp-content/uploads/2020/04/Quocirca-COVID-19-Infograhic.png",
+            "ocr_output_file": "10431.json",
+            "answers": [
+                "4%"
+            ],
+            "data_split": "val"
+        },
+        {
+            "questionId": 80992,
+            "question": "What was the prevalence of the Asthma in adult population, 13%, 8%, or 15%?",
+            "image_local_name": "70117.jpeg",
+            "image_url": "https://1.bp.blogspot.com/-Mgrd2iA3vOo/XqgfShd_vhI/AAAAAAAAFEI/i0aOjBV4yQIriEL6H_Vqp0Sa8EwPm_HRwCEwYBhgL/s1600/study-reveals-hypertension-and-obesity-are-the-most-common-comorbidity-amongst-covid-19-patients-infographic.jpeg",
+            "ocr_output_file": "70117.json",
+            "answers": [
+                "8%"
+            ],
+            "data_split": "val"
+        },
+        {
+            "questionId": 80993,
+            "question": "Which has disease has a higher percentage of prevalence, Cardiovascular disease or COPD?",
+            "image_local_name": "70117.jpeg",
+            "image_url": "https://1.bp.blogspot.com/-Mgrd2iA3vOo/XqgfShd_vhI/AAAAAAAAFEI/i0aOjBV4yQIriEL6H_Vqp0Sa8EwPm_HRwCEwYBhgL/s1600/study-reveals-hypertension-and-obesity-are-the-most-common-comorbidity-amongst-covid-19-patients-infographic.jpeg",
+            "ocr_output_file": "70117.json",
+            "answers": [
+                "copd"
+            ],
+            "data_split": "val"
+        },
+        {
+            "questionId": 69529,
+            "question": "What is the budget 2019-20 predicted for2022-23 in $ billions?",
+            "image_local_name": "10131.jpeg",
+            "image_url": "https://images.theconversation.com/files/267053/original/file-20190402-177171-1guki5h.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+            "ocr_output_file": "10131.json",
+            "answers": [
+                "$9.2"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69530,
+            "question": "Which year did underlying cash balance for MYEFO  hit the lowest?",
+            "image_local_name": "10131.jpeg",
+            "image_url": "https://images.theconversation.com/files/267053/original/file-20190402-177171-1guki5h.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+            "ocr_output_file": "10131.json",
+            "answers": [
+                "2018-19"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69531,
+            "question": "What is the maximum value of MYEFO for the year 2021-22 in billion $?",
+            "image_local_name": "10131.jpeg",
+            "image_url": "https://images.theconversation.com/files/267053/original/file-20190402-177171-1guki5h.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip",
+            "ocr_output_file": "10131.json",
+            "answers": [
+                "$19"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69546,
+            "question": "What was the highest annual mean temperature in Australia in degree celcius?",
+            "image_local_name": "10122.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/20404.jpeg",
+            "ocr_output_file": "10122.json",
+            "answers": [
+                "+1.52"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69547,
+            "question": "What was the highest annual mean temperature in the world in degree celcius?",
+            "image_local_name": "10122.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/20404.jpeg",
+            "ocr_output_file": "10122.json",
+            "answers": [
+                "+0.61"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69548,
+            "question": "When did the temperature anomaly in Australia take place?",
+            "image_local_name": "10122.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/20404.jpeg",
+            "ocr_output_file": "10122.json",
+            "answers": [
+                "2019"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69567,
+            "question": "Who has died more due to Covid-19?",
+            "image_local_name": "10178.jpeg",
+            "image_url": "https://specials-images.forbesimg.com/imageserve/5f228c50dd2a6b5ff489f744/960x0.jpg?fit=scale",
+            "ocr_output_file": "10178.json",
+            "answers": [
+                "Black or African American"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69577,
+            "question": "By what percent is Riverstone-Marsden Park growing?",
+            "image_local_name": "10296.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/18097.jpeg",
+            "ocr_output_file": "10296.json",
+            "answers": [
+                "23.2%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69578,
+            "question": "How many cities have growth above 50%",
+            "image_local_name": "10296.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/18097.jpeg",
+            "ocr_output_file": "10296.json",
+            "answers": [
+                "2"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69579,
+            "question": "Which is the farthest growing city compared to others?",
+            "image_local_name": "10296.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/18097.jpeg",
+            "ocr_output_file": "10296.json",
+            "answers": [
+                "Palmerston South"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69580,
+            "question": "After Mickleham-Yuroke, which is the next fastest growing city?",
+            "image_local_name": "10296.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/18097.jpeg",
+            "ocr_output_file": "10296.json",
+            "answers": [
+                "Pimpama"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69581,
+            "question": "What does orange line signify?",
+            "image_local_name": "10355.jpeg",
+            "image_url": "https://images.theconversation.com/files/267055/original/file-20190402-177181-c05h16.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
+            "ocr_output_file": "10355.json",
+            "answers": [
+                "Budget 2019-20"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69582,
+            "question": "What colour is the line corresponding to MYEFO 2018-19- orange, blue or red?",
+            "image_local_name": "10355.jpeg",
+            "image_url": "https://images.theconversation.com/files/267055/original/file-20190402-177181-c05h16.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
+            "ocr_output_file": "10355.json",
+            "answers": [
+                "blue"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69583,
+            "question": "When will underlying cash balance for Budget 2019-20 be highest?",
+            "image_local_name": "10355.jpeg",
+            "image_url": "https://images.theconversation.com/files/267055/original/file-20190402-177181-c05h16.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip",
+            "ocr_output_file": "10355.json",
+            "answers": [
+                "2029-30"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69597,
+            "question": "After which date did COVID-19 cases cross 75,000",
+            "image_local_name": "10605.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21237.jpeg",
+            "ocr_output_file": "10605.json",
+            "answers": [
+                "25"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69598,
+            "question": "After which date did COVID-19 cases cross 25000",
+            "image_local_name": "10605.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21237.jpeg",
+            "ocr_output_file": "10605.json",
+            "answers": [
+                "22"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69599,
+            "question": "how many days did it take for COVID-19 cases to reach 25000",
+            "image_local_name": "10605.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21237.jpeg",
+            "ocr_output_file": "10605.json",
+            "answers": [
+                "21"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69600,
+            "question": "what has been the total cases till March 28",
+            "image_local_name": "10605.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21237.jpeg",
+            "ocr_output_file": "10605.json",
+            "answers": [
+                "122,653"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69767,
+            "question": "Which country has the highest share of  total Covid-19 deaths linked to care homes as of April 17th, 2020?",
+            "image_local_name": "10176.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21439.jpeg",
+            "ocr_output_file": "10176.json",
+            "answers": [
+                "Norway"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69768,
+            "question": "Which country has the least share of total Covid-19 deaths linked to care homes as of April 17th, 2020?",
+            "image_local_name": "10176.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21439.jpeg",
+            "ocr_output_file": "10176.json",
+            "answers": [
+                "Australia"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69769,
+            "question": "What is the estimated share of total Covid-19 deaths linked to care homes in Canada as of April 17th, 2020?",
+            "image_local_name": "10176.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21439.jpeg",
+            "ocr_output_file": "10176.json",
+            "answers": [
+                "57%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69770,
+            "question": "Which country has the second highest share of total Covid-19 deaths linked to care homes as of April 17th, 2020?",
+            "image_local_name": "10176.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21439.jpeg",
+            "ocr_output_file": "10176.json",
+            "answers": [
+                "Canada"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69771,
+            "question": "What is the estimated share of total Covid-19 deaths linked to care homes in Singapore as of April 17th, 2020?",
+            "image_local_name": "10176.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21439.jpeg",
+            "ocr_output_file": "10176.json",
+            "answers": [
+                "20%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69792,
+            "question": "How many company names mentioned in the graph?",
+            "image_local_name": "10367.jpeg",
+            "image_url": "https://ichef.bbci.co.uk/news/660/cpsprodpb/718B/production/_111976092_optimised-1-stockimpact_24042020-nc.png",
+            "ocr_output_file": "10367.json",
+            "answers": [
+                "3"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69793,
+            "question": "How many months performance shown in the graph?",
+            "image_local_name": "10367.jpeg",
+            "image_url": "https://ichef.bbci.co.uk/news/660/cpsprodpb/718B/production/_111976092_optimised-1-stockimpact_24042020-nc.png",
+            "ocr_output_file": "10367.json",
+            "answers": [
+                "5"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69801,
+            "question": "Which Colour of graph represets 'Nikkei' - red, blue, yellow or white?",
+            "image_local_name": "10367.jpeg",
+            "image_url": "https://ichef.bbci.co.uk/news/660/cpsprodpb/718B/production/_111976092_optimised-1-stockimpact_24042020-nc.png",
+            "ocr_output_file": "10367.json",
+            "answers": [
+                "blue"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69849,
+            "question": "On which date was Covid -19 first reported in Australia?",
+            "image_local_name": "10525.jpeg",
+            "image_url": "https://capital.com/files/articles/%5Binfographic%5D%20Australian%20stock%20exchange-1.png",
+            "ocr_output_file": "10525.json",
+            "answers": [
+                "Mar 01"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69850,
+            "question": "Which country has the highest density of Nurses per 1,000 inhabitants?",
+            "image_local_name": "10433.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/21163.jpeg",
+            "ocr_output_file": "10433.json",
+            "answers": [
+                "Germany"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69851,
+            "question": "Which two countries share the second highest density of Nurses per 1,000 inhabitants?",
+            "image_local_name": "10433.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/21163.jpeg",
+            "ocr_output_file": "10433.json",
+            "answers": [
+                "Australia, United States"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69852,
+            "question": "Which country share the second highest density of Nurses per 1,000 inhabitants along with United States?",
+            "image_local_name": "10433.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/21163.jpeg",
+            "ocr_output_file": "10433.json",
+            "answers": [
+                "Australia"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69853,
+            "question": "Which country has the third highest density of Nurses per 1,000 inhabitants?",
+            "image_local_name": "10433.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/21163.jpeg",
+            "ocr_output_file": "10433.json",
+            "answers": [
+                "France"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69854,
+            "question": "Which country has the fourth highest density of Nurses per 1,000 inhabitants?",
+            "image_local_name": "10433.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/21163.jpeg",
+            "ocr_output_file": "10433.json",
+            "answers": [
+                "United Kingdom"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69855,
+            "question": "Which country has the fifth highest density of Nurses per 1,000 inhabitants?",
+            "image_local_name": "10433.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/21163.jpeg",
+            "ocr_output_file": "10433.json",
+            "answers": [
+                "South Korea"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69917,
+            "question": "Which country has the highest number of confirmed Covid-19 cases as of April 28, 2020?",
+            "image_local_name": "10162.jpeg",
+            "image_url": "https://d.newsweek.com/en/full/1585283/statista.jpg?w=790&f=19c61382647f3140da1807555e9fd040",
+            "ocr_output_file": "10162.json",
+            "answers": [
+                "United States"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69918,
+            "question": "Which country has the second highest number of confirmed Covid-19 cases as of April 28, 2020?",
+            "image_local_name": "10162.jpeg",
+            "image_url": "https://d.newsweek.com/en/full/1585283/statista.jpg?w=790&f=19c61382647f3140da1807555e9fd040",
+            "ocr_output_file": "10162.json",
+            "answers": [
+                "Spain"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69919,
+            "question": "What is the total number of confirmed Covid-19 cases  in Germany as of April 28, 2020?",
+            "image_local_name": "10162.jpeg",
+            "image_url": "https://d.newsweek.com/en/full/1585283/statista.jpg?w=790&f=19c61382647f3140da1807555e9fd040",
+            "ocr_output_file": "10162.json",
+            "answers": [
+                "158,758"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69920,
+            "question": "What is the total number of confirmed Covid-19 cases in Iran as of April 28, 2020?",
+            "image_local_name": "10162.jpeg",
+            "image_url": "https://d.newsweek.com/en/full/1585283/statista.jpg?w=790&f=19c61382647f3140da1807555e9fd040",
+            "ocr_output_file": "10162.json",
+            "answers": [
+                "91,472"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69921,
+            "question": "Which country has the second least number of confirmed Covid-19 cases as of April 28, 2020?",
+            "image_local_name": "10162.jpeg",
+            "image_url": "https://d.newsweek.com/en/full/1585283/statista.jpg?w=790&f=19c61382647f3140da1807555e9fd040",
+            "ocr_output_file": "10162.json",
+            "answers": [
+                "Russia"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69922,
+            "question": "Which country has the least number of confirmed Covid-19 cases as of April 28, 2020?",
+            "image_local_name": "10162.jpeg",
+            "image_url": "https://d.newsweek.com/en/full/1585283/statista.jpg?w=790&f=19c61382647f3140da1807555e9fd040",
+            "ocr_output_file": "10162.json",
+            "answers": [
+                "China"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69923,
+            "question": "What is the total number of confirmed Covid-19 cases in Spain as of April 28, 2020?",
+            "image_local_name": "10162.jpeg",
+            "image_url": "https://d.newsweek.com/en/full/1585283/statista.jpg?w=790&f=19c61382647f3140da1807555e9fd040",
+            "ocr_output_file": "10162.json",
+            "answers": [
+                "229,422"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69924,
+            "question": "Which country has the third highest number of confirmed Covid-19 cases as of April 28, 2020?",
+            "image_local_name": "10162.jpeg",
+            "image_url": "https://d.newsweek.com/en/full/1585283/statista.jpg?w=790&f=19c61382647f3140da1807555e9fd040",
+            "ocr_output_file": "10162.json",
+            "answers": [
+                "Italy"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69925,
+            "question": "What percent of people are worried about spreading the disease?",
+            "image_local_name": "10564.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21193.jpeg",
+            "ocr_output_file": "10564.json",
+            "answers": [
+                "59.3%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 69926,
+            "question": "What was the least worried matter?",
+            "image_local_name": "10564.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21193.jpeg",
+            "ocr_output_file": "10564.json",
+            "answers": [
+                "Having to go to work while sick"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 77501,
+            "question": "What is the estimated secondary COVID-19 infections per case if self isolation is done within home for symptomatic cases?",
+            "image_local_name": "10243.jpeg",
+            "image_url": "https://www.eurekalert.org/multimedia/pub/web/234868_web.jpg",
+            "ocr_output_file": "10243.json",
+            "answers": [
+                "1.8"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 77503,
+            "question": "What is the estimated percentage reduction in the transmission of COVID-19 if self-isolation is done outside the home?",
+            "image_local_name": "10243.jpeg",
+            "image_url": "https://www.eurekalert.org/multimedia/pub/web/234868_web.jpg",
+            "ocr_output_file": "10243.json",
+            "answers": [
+                "35%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 77504,
+            "question": "What is the estimated secondary COVID-19 infections per case if self isolation along with household quarantine is done for symptomatic cases?",
+            "image_local_name": "10243.jpeg",
+            "image_url": "https://www.eurekalert.org/multimedia/pub/web/234868_web.jpg",
+            "ocr_output_file": "10243.json",
+            "answers": [
+                "1.6"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 77509,
+            "question": "What is the estimated percentage reduction in the transmission of COVID-19 if self isolation along with household quarantine is done?",
+            "image_local_name": "10243.jpeg",
+            "image_url": "https://www.eurekalert.org/multimedia/pub/web/234868_web.jpg",
+            "ocr_output_file": "10243.json",
+            "answers": [
+                "37%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 77512,
+            "question": "What is the estimated secondary COVID-19 infections per case if self-isolation is done outside the home?",
+            "image_local_name": "10243.jpeg",
+            "image_url": "https://www.eurekalert.org/multimedia/pub/web/234868_web.jpg",
+            "ocr_output_file": "10243.json",
+            "answers": [
+                "1.7"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78725,
+            "question": "What is the total confirmed cases?",
+            "image_local_name": "11463.jpeg",
+            "image_url": "https://sanjuanislander.com/images/charts/health/2020-june_coronavirus_infections.jpg",
+            "ocr_output_file": "11463.json",
+            "answers": [
+                "105,000"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78726,
+            "question": "Which color is used to represent the united states-blue, red, white?",
+            "image_local_name": "11463.jpeg",
+            "image_url": "https://sanjuanislander.com/images/charts/health/2020-june_coronavirus_infections.jpg",
+            "ocr_output_file": "11463.json",
+            "answers": [
+                "red"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78792,
+            "question": "Which is highest- cases in China, Confirmed recoveries or cases outside china?",
+            "image_local_name": "11413.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21086.jpeg",
+            "ocr_output_file": "11413.json",
+            "answers": [
+                "Cases outside China"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78793,
+            "question": "What is the difference between cases in China and Confirmed recoveries?",
+            "image_local_name": "11413.jpeg",
+            "image_url": "http://cdn.statcdn.com/Infographic/images/normal/21086.jpeg",
+            "ocr_output_file": "11413.json",
+            "answers": [
+                "3,700"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78801,
+            "question": "Which line is used to represent Daily Amount-bold or dotted?",
+            "image_local_name": "11336.jpeg",
+            "image_url": "https://wp.stanforddaily.com/wp-content/uploads/2020/05/benji_1-3-1200x804.png",
+            "ocr_output_file": "11336.json",
+            "answers": [
+                "dotted"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78808,
+            "question": "Which color is used to represent Stanford-yellow, red, or blue?",
+            "image_local_name": "11336.jpeg",
+            "image_url": "https://wp.stanforddaily.com/wp-content/uploads/2020/05/benji_1-3-1200x804.png",
+            "ocr_output_file": "11336.json",
+            "answers": [
+                "red"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78909,
+            "question": "What is the percent distribution of COVID-19 cases in people aged under 40 years due to community transmission as of April 7, 2020 in Canada?",
+            "image_local_name": "11382.jpeg",
+            "image_url": "https://www150.statcan.gc.ca/n1/pub/89-28-0001/2018001/article/00018/fig/fig02-eng.png",
+            "ocr_output_file": "11382.json",
+            "answers": [
+                "30"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78910,
+            "question": "In which age group people of Canada, the percent distribution of COVID-19 cases due to travel-related exposures is less than 5% as of April 7, 2020?",
+            "image_local_name": "11382.jpeg",
+            "image_url": "https://www150.statcan.gc.ca/n1/pub/89-28-0001/2018001/article/00018/fig/fig02-eng.png",
+            "ocr_output_file": "11382.json",
+            "answers": [
+                "80 or older"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78912,
+            "question": "What is the percent distribution of COVID-19 cases in people aged between 70-79 years due to travel-related exposure as of April 7, 2020 in Canada?",
+            "image_local_name": "11382.jpeg",
+            "image_url": "https://www150.statcan.gc.ca/n1/pub/89-28-0001/2018001/article/00018/fig/fig02-eng.png",
+            "ocr_output_file": "11382.json",
+            "answers": [
+                "10"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78914,
+            "question": "In which age group people of Canada, the percent distribution of COVID-19 cases by community transmission is greater than 35% as of April 7, 2020?",
+            "image_local_name": "11382.jpeg",
+            "image_url": "https://www150.statcan.gc.ca/n1/pub/89-28-0001/2018001/article/00018/fig/fig02-eng.png",
+            "ocr_output_file": "11382.json",
+            "answers": [
+                "40 to 59"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78915,
+            "question": "What is the number of COVID-19 tests performed in Georgia as on 05/04/2020?",
+            "image_local_name": "11418.jpeg",
+            "image_url": "https://agenda.ge/files/medicine/covid-tests-infographic-750.jpg",
+            "ocr_output_file": "11418.json",
+            "answers": [
+                "3069"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78916,
+            "question": "What is the number of suspected COVID-19 cases reported in Georgia as on 16/03/2020?",
+            "image_local_name": "11418.jpeg",
+            "image_url": "https://agenda.ge/files/medicine/covid-tests-infographic-750.jpg",
+            "ocr_output_file": "11418.json",
+            "answers": [
+                "34"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78918,
+            "question": "What is the number of COVID-19 tests performed in Georgia as on 04/04/2020?",
+            "image_local_name": "11418.jpeg",
+            "image_url": "https://agenda.ge/files/medicine/covid-tests-infographic-750.jpg",
+            "ocr_output_file": "11418.json",
+            "answers": [
+                "2909"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78920,
+            "question": "What is the number of suspected COVID-19 cases reported in Georgia as on 10/03/2020?",
+            "image_local_name": "11418.jpeg",
+            "image_url": "https://agenda.ge/files/medicine/covid-tests-infographic-750.jpg",
+            "ocr_output_file": "11418.json",
+            "answers": [
+                "22"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 78921,
+            "question": "What is the number of suspected COVID-19 cases reported in Georgia as on 22/03/2020?",
+            "image_local_name": "11418.jpeg",
+            "image_url": "https://agenda.ge/files/medicine/covid-tests-infographic-750.jpg",
+            "ocr_output_file": "11418.json",
+            "answers": [
+                "54"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79081,
+            "question": "What is the number of active COVID-19 cases reported in Ocean City as of April 8, 2020?",
+            "image_local_name": "11498.jpeg",
+            "image_url": "https://bloximages.chicago2.vip.townnews.com/capemaycountyherald.com/content/tncms/assets/v3/editorial/4/45/44559a86-7a8e-11ea-a920-b3daecc59db1/5e8f668bd2eb9.image.jpg",
+            "ocr_output_file": "11498.json",
+            "answers": [
+                "7"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79083,
+            "question": "How many  Covid-19 cases in the Wildwood were off quarantine as of April 8, 2020?",
+            "image_local_name": "11498.jpeg",
+            "image_url": "https://bloximages.chicago2.vip.townnews.com/capemaycountyherald.com/content/tncms/assets/v3/editorial/4/45/44559a86-7a8e-11ea-a920-b3daecc59db1/5e8f668bd2eb9.image.jpg",
+            "ocr_output_file": "11498.json",
+            "answers": [
+                "1"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79085,
+            "question": "What is the number of active COVID-19 cases reported in Cape May City as of April 8, 2020?",
+            "image_local_name": "11498.jpeg",
+            "image_url": "https://bloximages.chicago2.vip.townnews.com/capemaycountyherald.com/content/tncms/assets/v3/editorial/4/45/44559a86-7a8e-11ea-a920-b3daecc59db1/5e8f668bd2eb9.image.jpg",
+            "ocr_output_file": "11498.json",
+            "answers": [
+                "1"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79087,
+            "question": "How many Covid-19 cases in the Middle Township were off quarantine as of April 8, 2020?",
+            "image_local_name": "11498.jpeg",
+            "image_url": "https://bloximages.chicago2.vip.townnews.com/capemaycountyherald.com/content/tncms/assets/v3/editorial/4/45/44559a86-7a8e-11ea-a920-b3daecc59db1/5e8f668bd2eb9.image.jpg",
+            "ocr_output_file": "11498.json",
+            "answers": [
+                "3"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79096,
+            "question": "What is the number of active COVID-19 cases reported in the Lower Township as of April 8, 2020?",
+            "image_local_name": "11498.jpeg",
+            "image_url": "https://bloximages.chicago2.vip.townnews.com/capemaycountyherald.com/content/tncms/assets/v3/editorial/4/45/44559a86-7a8e-11ea-a920-b3daecc59db1/5e8f668bd2eb9.image.jpg",
+            "ocr_output_file": "11498.json",
+            "answers": [
+                "37"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79232,
+            "question": "What is the total daily increase and cumulative total on 27th May, taken together?",
+            "image_local_name": "11482.jpeg",
+            "image_url": "http://evanstonroundtable.com/Images/Images/30019.jpg",
+            "ocr_output_file": "11482.json",
+            "answers": [
+                "698"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79233,
+            "question": "What is the total daily increase on the 24th and 25th of May?",
+            "image_local_name": "11482.jpeg",
+            "image_url": "http://evanstonroundtable.com/Images/Images/30019.jpg",
+            "ocr_output_file": "11482.json",
+            "answers": [
+                "24"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79234,
+            "question": "What is the total daily increase on the 26th and 27th of May?",
+            "image_local_name": "11482.jpeg",
+            "image_url": "http://evanstonroundtable.com/Images/Images/30019.jpg",
+            "ocr_output_file": "11482.json",
+            "answers": [
+                "22"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79292,
+            "question": "Which causes of death has  seen a stable number from Jan to December",
+            "image_local_name": "11506.jpeg",
+            "image_url": "https://i.insider.com/5ebed839f0f4197f292099c3?width=1100&format=jpeg&auto=webp",
+            "ocr_output_file": "11506.json",
+            "answers": [
+                "Cancer, Heart Disease"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79293,
+            "question": "Which disease has seen a sharp spike in January",
+            "image_local_name": "11506.jpeg",
+            "image_url": "https://i.insider.com/5ebed839f0f4197f292099c3?width=1100&format=jpeg&auto=webp",
+            "ocr_output_file": "11506.json",
+            "answers": [
+                "Flu/pneumonia"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79294,
+            "question": "In which month were the deaths due to COVID the highest",
+            "image_local_name": "11506.jpeg",
+            "image_url": "https://i.insider.com/5ebed839f0f4197f292099c3?width=1100&format=jpeg&auto=webp",
+            "ocr_output_file": "11506.json",
+            "answers": [
+                "Mar, Apr"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79295,
+            "question": "In which month did the death due to flu/pneumonia cross 20 per million",
+            "image_local_name": "11506.jpeg",
+            "image_url": "https://i.insider.com/5ebed839f0f4197f292099c3?width=1100&format=jpeg&auto=webp",
+            "ocr_output_file": "11506.json",
+            "answers": [
+                "Jan"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79296,
+            "question": "What colour represents the COVID-19 deaths, red or green",
+            "image_local_name": "11506.jpeg",
+            "image_url": "https://i.insider.com/5ebed839f0f4197f292099c3?width=1100&format=jpeg&auto=webp",
+            "ocr_output_file": "11506.json",
+            "answers": [
+                "red"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79297,
+            "question": "What colour represents the heart disease deaths, blue or green",
+            "image_local_name": "11506.jpeg",
+            "image_url": "https://i.insider.com/5ebed839f0f4197f292099c3?width=1100&format=jpeg&auto=webp",
+            "ocr_output_file": "11506.json",
+            "answers": [
+                "blue"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79604,
+            "question": "What percentage of Americans disagree that 2020 is the lowest point in history?",
+            "image_local_name": "10664.jpeg",
+            "image_url": "https://prnewswiremedia.files.wordpress.com/2020/06/amerpsych.jpg",
+            "ocr_output_file": "10664.json",
+            "answers": [
+                "28%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79619,
+            "question": "What percentage of Americans disagree that 2017 is the lowest point in history?",
+            "image_local_name": "10664.jpeg",
+            "image_url": "https://prnewswiremedia.files.wordpress.com/2020/06/amerpsych.jpg",
+            "ocr_output_file": "10664.json",
+            "answers": [
+                "41%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79622,
+            "question": "What percentage of Americans disagree that 2019 and 2018 are the lowest point in history?",
+            "image_local_name": "10664.jpeg",
+            "image_url": "https://prnewswiremedia.files.wordpress.com/2020/06/amerpsych.jpg",
+            "ocr_output_file": "10664.json",
+            "answers": [
+                "44%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79910,
+            "question": "Which city has second highest antibody estimate?",
+            "image_local_name": "10937.jpeg",
+            "image_url": "https://i1.wp.com/technewslit.com/sciencebusiness/wp-content/uploads/2020/05/HerdImmunity_Statista.jpg?ssl=1",
+            "ocr_output_file": "10937.json",
+            "answers": [
+                "London"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79911,
+            "question": "Which cities have antibody estimate below 10%?",
+            "image_local_name": "10937.jpeg",
+            "image_url": "https://i1.wp.com/technewslit.com/sciencebusiness/wp-content/uploads/2020/05/HerdImmunity_Statista.jpg?ssl=1",
+            "ocr_output_file": "10937.json",
+            "answers": [
+                "Boston, Stockholm, Barcelona"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79912,
+            "question": "What is the estimated herd immunity requirement?",
+            "image_local_name": "10937.jpeg",
+            "image_url": "https://i1.wp.com/technewslit.com/sciencebusiness/wp-content/uploads/2020/05/HerdImmunity_Statista.jpg?ssl=1",
+            "ocr_output_file": "10937.json",
+            "answers": [
+                "60%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79913,
+            "question": "Which city is leading in antibody estimate percentage?",
+            "image_local_name": "10937.jpeg",
+            "image_url": "https://i1.wp.com/technewslit.com/sciencebusiness/wp-content/uploads/2020/05/HerdImmunity_Statista.jpg?ssl=1",
+            "ocr_output_file": "10937.json",
+            "answers": [
+                "New York City"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 79914,
+            "question": "What percent more of antibody estimate should Wuhan reach to attain herd immunity requirement?",
+            "image_local_name": "10937.jpeg",
+            "image_url": "https://i1.wp.com/technewslit.com/sciencebusiness/wp-content/uploads/2020/05/HerdImmunity_Statista.jpg?ssl=1",
+            "ocr_output_file": "10937.json",
+            "answers": [
+                "50%",
+                "50.0%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80271,
+            "question": "What is the year-over-year change in the sales of commuter & fitness bikes in the U.S. in March 2020?",
+            "image_local_name": "11178.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/21794.jpeg",
+            "ocr_output_file": "11178.json",
+            "answers": [
+                "66%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80272,
+            "question": "Which bicycle type has showed growth rate of more than 100%  compared to the previous year in the U.S. in March 2020?",
+            "image_local_name": "11178.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/21794.jpeg",
+            "ocr_output_file": "11178.json",
+            "answers": [
+                "Leisure bikes"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80273,
+            "question": "Which bicycle type has showed growth rate of less than 60% compared to the previous year in the U.S. in March 2020?",
+            "image_local_name": "11178.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/21794.jpeg",
+            "ocr_output_file": "11178.json",
+            "answers": [
+                "Children's bike*",
+                "Children's bike"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80275,
+            "question": "What is the year-over-year change in the sales of electric bikes in the U.S. in March 2020?",
+            "image_local_name": "11178.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/21794.jpeg",
+            "ocr_output_file": "11178.json",
+            "answers": [
+                "85%"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80419,
+            "question": "In which two countries where the the impact on imports the highest?",
+            "image_local_name": "11406.jpeg",
+            "image_url": "https://blogs.imf.org/wp-content/uploads/2020/08/eng-tourism-cotw-aug-17-chart-1-944x1024.png",
+            "ocr_output_file": "11406.json",
+            "answers": [
+                "HKG, SGP"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80429,
+            "question": "Which colour is used to represent impact on exports- blue, red or yellow?",
+            "image_local_name": "11406.jpeg",
+            "image_url": "https://blogs.imf.org/wp-content/uploads/2020/08/eng-tourism-cotw-aug-17-chart-1-944x1024.png",
+            "ocr_output_file": "11406.json",
+            "answers": [
+                "Blue"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80431,
+            "question": "Which country has the highest positive impact on current account?",
+            "image_local_name": "11406.jpeg",
+            "image_url": "https://blogs.imf.org/wp-content/uploads/2020/08/eng-tourism-cotw-aug-17-chart-1-944x1024.png",
+            "ocr_output_file": "11406.json",
+            "answers": [
+                "NOR"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80850,
+            "question": "How many products are given in the bar chart?",
+            "image_local_name": "11315.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/20894.jpeg",
+            "ocr_output_file": "11315.json",
+            "answers": [
+                "6"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80852,
+            "question": "shipment of which product is most impacted by COVID-19?",
+            "image_local_name": "11315.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/20894.jpeg",
+            "ocr_output_file": "11315.json",
+            "answers": [
+                "smart-watches",
+                "smart watches"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80854,
+            "question": "shipment of which product is least impacted by COVID-19?",
+            "image_local_name": "11315.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/20894.jpeg",
+            "ocr_output_file": "11315.json",
+            "answers": [
+                "TVs"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80855,
+            "question": "Shipment of which product is impacted more - smart phones or smart speakers?",
+            "image_local_name": "11315.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/20894.jpeg",
+            "ocr_output_file": "11315.json",
+            "answers": [
+                "smart speakers"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80861,
+            "question": "Shipment of which product is more impacted by Covid-19 - smart phones or smart watches?",
+            "image_local_name": "11315.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/20894.jpeg",
+            "ocr_output_file": "11315.json",
+            "answers": [
+                "smart watches"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80864,
+            "question": "Shipment of which product is less impacted by Covid-19 - TVs or video game consoles?",
+            "image_local_name": "11315.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/20894.jpeg",
+            "ocr_output_file": "11315.json",
+            "answers": [
+                "TVs"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80865,
+            "question": "Shipment of which product is less impacted by Covid-19 - notebooks or smartphones?",
+            "image_local_name": "11315.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/20894.jpeg",
+            "ocr_output_file": "11315.json",
+            "answers": [
+                "smartphones"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80867,
+            "question": "Shipment of which product is more impacted by Covid-19 - TVs, smartwatches or smartphones?",
+            "image_local_name": "11315.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/20894.jpeg",
+            "ocr_output_file": "11315.json",
+            "answers": [
+                "smartwatches"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80868,
+            "question": "Shipment of which product is impacted nearly equal as notebooks?",
+            "image_local_name": "11315.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/20894.jpeg",
+            "ocr_output_file": "11315.json",
+            "answers": [
+                "smart speakers"
+            ],
+            "data_split": "train"
+        },
+        {
+            "questionId": 80870,
+            "question": "percentage decrease of Shipment of which product is below 10%?",
+            "image_local_name": "11315.jpeg",
+            "image_url": "https://cdn.statcdn.com/Infographic/images/teaser/20894.jpeg",
+            "ocr_output_file": "11315.json",
+            "answers": [
+                "TVs"
+            ],
+            "data_split": "train"
+        }
+    ]
+}

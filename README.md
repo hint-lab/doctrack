@@ -1,22 +1,28 @@
-# doctrack
+# DocTrack Dataset
+![EMNLP 2023](https://img.shields.io/badge/EMNLP-2023-red.svg?style=plastic)
+![python 3.8](https://img.shields.io/badge/python-3.8-royalblue.svg?style=plastic)
+![license Apache-2.0](https://img.shields.io/badge/license-Apache%202.0-inactive.svg?style=plastic)
 
-This dataset was modified and collected by the Natural Language Understanding and Human-Computer Interaction Laboratory of Shanghai University on FUNSD and InforgraphicVQA for research on visual rich document understanding.
 
-Note: The DocTrack dataset should only be used for non-commercial research purposes. For any person/institution/company not working in the field of document analysis and visual information extraction, please contact us for a commercial licence.
+This dataset was created by the Natural Language Understanding and Human-Computer Interaction Laboratory of Shanghai University with the purpose of research on human-like visually-rich document understanding.
 
-# Descriptions
-DocTrack contains 539 images from FUNSD and part of InfographicVQA, in addition to real shipping order information collected by ourselves. We explored the impact on visual rich document understanding by collecting the order in which humans read them, the order in which the machine model sorts them, and the default ocr order, and we wrote the collected order in the word of each json file, where id is used to represent the different orders.
+Note: The DocTrack dataset should only be used for non-commercial research purposes. For any person/institution/company working on this direction, please contact us for a commercial license.
 
-The file directory structure is as follows:
+# Description
+DocTrack contains 539 images along with their eye-tracking order annotations. The original images are collected from the FUNSD, SEABILL and Inforgraphic VQA datasets. For more details, please refer to our paper accepted by EMNLP2023(findings) [DocTrack: A Visually-Rich Document Dataset Really Aligned with Human Eye Movement for Machine Reading](https://arxiv.org/pdf/2310.14802.pdf).
 
-###########                       
-├── funsd                     
-│   ├── training_data			                                   
-│   ├── testing_data                    
-├── SeaBill            
-│   ├── training_data                
-│   ├── testing_data  
-├── Infograhic            
-│   ├── training        
-│   └── val              
-##########
+
+    
+
+## Citation
+
+```
+@misc{wang2023dc,
+    title={DocTrack: A Visually-Rich Document Dataset Really Aligned with Human Eye Movement for Machine Reading},
+    author={Hao Wang, Qingxuan Wang, Yue Li, Changqing Wang, Chenhui Chu and Rui Wang},
+    year={2023},
+    eprint={2310.14802},
+    archivePrefix={arXiv},
+    primaryClass={cs.HC}
+}
+```
